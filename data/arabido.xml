@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<experiment>
+	<name>Arabido first blood</name>
+
+
+	<labeledPath>
+		<!-- /home/mba/homemaiage/Documents/alvisre/alvisre-project/data/SeeDev/AlvisRE-Arabidopsis/SeeDev-binary-merged/minitrain/ -->
+		/home/mba/homemaiage/Documents/alvisre/alvisre-project/data/debug-arabido/train/
+		
+	</labeledPath>
+	<unlabeledPath>
+		<!-- /home/mba/homemaiage/Documents/alvisre/alvisre-project/data/SeeDev/AlvisRE-Arabidopsis/SeeDev-binary-merged/minitest/ -->
+		/home/mba/homemaiage/Documents/alvisre/alvisre-project/data/debug-arabido/test/
+	</unlabeledPath>
+		<!-- outputPath>/home/mba/homemaiage/Documents/alvisre/alvisre-project/data/debug-arabido/predictions/</outputPath-->
+	<!--  @mba the folder is used to test -->
+	<outputPath>/home/mba/homemaiage/Documents/alvisre/alvisre-project/data/mba-test-output/</outputPath>
+	<outputFormat>Challenge</outputFormat>
+	<outputFormatChallenge>seedev</outputFormatChallenge>
+	<type>AlvisNLP</type> <!-- BI, io.input.*-->
+	<verbose>4</verbose>
+	<perClass>true</perClass>
+	<action>Predict</action> <!-- CrossValidation, TrainAndTest -->
+	<evaluation>Weka</evaluation>
+	<runs>2</runs>
+	<folds>10</folds>
+	<!-- <threads>8</threads> -->
+	<C>0.1 ,1 ,10, 100</C>
+	<wordTags>POS, canonical_form</wordTags>
+
+	<!-- @mba this schema is used for test  -->
+	<schemaJSON>/home/mba/homemaiage/Documents/alvisre/alvisre-project/data/arabido/schema_arabido.json</schemaJSON>
+	<!-- <schemaJSON>/home/maiage/dvalsamou/workspace/re-kernels/data/schema_arabido.json 
+		</schemaJSON> -->
+	<!-- schemaSignaturesDir>/home/mba/homemaiage/Documents/alvisre/alvisre-project/data/SeeDev/Signatures/
+	</schemaSignaturesDir -->
+	<classCosts>
+		<entry>
+			<class>Binds_To, Interacts_With</class>
+			<cost>0.5</cost>
+		</entry>
+	</classCosts>
+	<!-- <nonDirectional>Comparison, Interacts_With</nonDirectional> -->
+	<selectedRelationTypes>
+		Binds_To
+		<!-- ,Is_Member_Of_Family, Binds_To, Is_Functionally_Equivalent_To -->
+	</selectedRelationTypes>
+	<!-- <Representation>EntireSentence</Representation> --> <!--EntireSentence, SurfacePath, DependencyPath -->
+	<SimilarityFunction>
+		<functionName>GlobalAlignment</functionName> <!-- if Dummy  <Classifier>Dummy</Classifier> replace <Classifier>LibSVM</Classifier> --> 
+		<!-- <word2vecWeight>0.85</word2vecWeight> -->
+		<!-- <word2vecVectorFile>/bibdev/travail/word2vec/corpus/medline2014.vectors.bin</word2vecVectorFile> -->
+	</SimilarityFunction>
+	<Weka>
+		<Algorithm>Advanced</Algorithm>
+		<Classifier>LibSVM</Classifier>
+		<Options>-K 0 -C 0.1 </Options>
+	</Weka>
+</experiment>
+
