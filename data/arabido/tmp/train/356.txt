@@ -1,0 +1,1778 @@
+
+  
+    
+      
+        Keywords:
+        
+          
+            AGL15 (At5g13790);
+            MADS domain;
+            SIN3/HDAC complex;
+            transcriptional repression;
+            embryogenesis
+          
+        
+      
+      
+        
+          Summary
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          AGAMOUS-like 15 (AGL15) encodes a MADS-domain transcription factor that is preferentially expressed in the plant embryo. A number of direct downstream targets of AGL15 have been identified, and although some of these target genes are induced in response to AGL15, others are repressed. Additionally, direct target genes have been analyzed that exhibit strong association with AGL15 in vivo, yet in vitro AGL15 binds only weakly. These data suggest that AGL15 may form complexes with other proteins, thus modulating the specificity and function of AGL15 in planta. Here we report that AGL15 interacts with members of the SWI-independent 3/histone deacetylase (SIN3/HDAC) complex, and that AGL15 target genes are also responsive to an AGL15 interacting protein that is also a member of this complex, SIN3-associated polypeptide of 18 kDa (SAP18). AGL15 can repress transcription in vivo, and a region essential to this repressive function contains a motif that is conserved among putative orthologs of AGL15. This motif mediates the association of AGL15 with SAP18, thus providing a possible mechanism for the role of AGL15 in regulating gene expression via recruitment of an HDAC complex.
+        
+      
+      
+        
+          Introduction
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          MADS-domain proteins comprise a large family of regulatory factors that have been identified in all eukaryotic kingdoms, and are involved in a diverse array of biological functions (for reviews, see Becker and Theissen, 2003; Messenguy and Dubois, 2003; Kaufmann et al., 2005). Plants uniquely possess a subclass of MADS factors referred to as MIKC, members of which contain a second weakly conserved coiled-coil motif (the K domain). Compared with other kingdoms plants have greatly expanded the number of MADS-domain proteins, with the Arabidopsis genome encoding 107 members, 39 members of which are in the MIKC subfamily (for a review, see Parenicováet al., 2003).
+        
+        
+          AGAMOUS-like 15 (AGL15; At5g13790) is a member of the MIKC subfamily, which consist of four domains: the MADS (M), I, K, and C domains (for a review, see Kaufmann et al., 2005). The MADS domain itself is comprised of 55–60 highly conserved amino acids, and it is this domain that associates with the DNA (for a review, see Riechmann and Meyerowitz, 1997). The intervening (I) domain is less conserved, but forms part of the minimal DNA-binding domain (Riechmann et al., 1996). MADS-domain proteins bind as either homo- or heterodimers to an A/T-rich cis element named the CArG motif (C-A/T-rich-G, with a canonical sequence of CC[A/T]6GG; for a review, see Riechmann and Meyerowitz, 1997), and AGL15 has been shown to preferentially bind a CArG sequence with a longer A/T-rich core (C[A/T]8G) in vitro (Tang and Perry, 2003). The K domain is implicated in mediating protein–protein interactions (Riechmann et al., 1996). The carboxyl-terminal (C) domain is the most divergent, and in some cases functions as a transactivation domain (Cho et al., 1999; Honma and Goto, 2001; Lim et al., 2000; Moon et al., 1999; Ng and Yanofsky, 2001; Pelaz et al., 2001) or is involved in the formation of ternary complexes (Egea-Cortines et al., 1999).
+        
+        
+          The literature contains a plethora of data demonstrating interactions between plant MADS-domain proteins (Causier et al., 2003; Cseke et al., 2007; Egea-Cortines et al., 1999; Fan et al., 1997; Favaro et al., 2002, 2003; de Folter et al., 2005; Honma and Goto, 2001; Immink et al., 2002; Jang et al., 2002; Lim et al., 2000; Mizukami et al., 1996; Moon et al., 1999; Shchennikova et al., 2004; Yang and Jack, 2004; Yang et al., 2003a,b), indicating the vast potential for modular-based regulation. There is also a rapidly growing body of knowledge where plant MADS are reported to interact with other factors, such as putative transcription factors (Causier et al., 2003; Masiero et al., 2002), or co-repressors (Sridhar et al., 2006), RNA-binding proteins (Pelaz et al., 2001), post-translational modifying factors (Fujita et al., 2003Gamboa et al., 2001; Yalovsky et al., 2000) and others (Cseke et al., 2007; Honma and Goto, 2001). MADS-domain transcription factors may function as both transcriptional activators and repressors, depending on these interactions. For instance, ectopic expression of SEPALLATA3 (SEP3) has been reported to induce AG expression outside of the floral context (Castillejo et al., 2005). However AP1 and SEP3 are also able to interact with the transcription co-repressors LEUNIG (LUG) and SEUSS (SEU) (Sridhar et al., 2006), which prevent ectopic AG transcription (Franks et al., 2002; Liu and Meyerowitz, 1995). Neither LUG nor SEU are predicted to encode a recognizable DNA-binding motif, but SEU has been shown to associate in vivo with an AG cis-regulatory region containing a putative CArG motif, perhaps through binding to DNA-bound SEP3 (Sridhar et al., 2006).
+        
+        
+          AGL15 preferentially accumulates in a wide variety of tissues that develop in an embryonic mode (Heck et al., 1995; Perry et al., 1996, 1999; Rounsley et al., 1995), and constitutive expression promotes somatic embryogenesis (Harding et al., 2003). AGL15 is expressed at lower levels after completion of germination in restricted sets of cells (Fernandez et al., 2000). Research in our lab has identified a number of downstream targets of AGL15 (Tang and Perry, 2003; Wang et al., 2002; Wang et al., 2004; Zhu and Perry, 2005; unpublished data), and although some of these target genes are induced in response to AGL15, others are repressed. A number of direct target genes have been analyzed that exhibit strong association with AGL15 in vivo; yet in vitro, AGL15 binds only weakly. Taken together these data suggest that AGL15 may form heterodimers, or ternary complexes with other proteins, thus modulating the specificity and function of AGL15 in planta. AGL15 possesses the ability to directly interact with other MADS-domain proteins (de Folter et al., 2005; this study), some of which have overlapping expression patterns (de Folter et al., 2005; Lehti-Shiu et al., 2005). Although AGL15 has been reported as a protein co-purifying in the same complex as SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE1 (SERK1; Karlova et al., 2006), no direct interaction between AGL15 and a non-MADS domain protein has yet been reported.
+        
+        
+          Here we report that AGL15 interacts with members of the SIN3 histone deacetylase (HDAC) complex, and that a conserved LxLxL motif present in the C-terminal domain of AGL15, which has been shown to be involved in transcriptional repression in other proteins (Ohta et al., 2001; Tiwari et al., 2004), is required for its association with one member of this complex, named SIN3-associated polypeptide of 18 kDa (SAP18), in yeast two-hybrid studies. We also show that AGL15 functions as a transcriptional repressor in vivo, and that the region where the LxLxL motif resides is essential to the repressive function. The interaction of AGL15 with members of the SIN3/HDAC1 complex suggests a mechanism that could explain its function as a transcriptional repressor in planta.
+        
+      
+      
+        
+          Results
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          AGL15 forms homodimers
+          
+            Based on a variety of studies, MADS-domain proteins are inferred to bind DNA as dimers (for a review, see Riechmann and Meyerowitz, 1997; Messenguy and Dubois, 2003). AGL15 that included the MADS domain, produced in and purified from Escherichia coli, was able to bind to DNA in a sequence-specific manner, indicating that AGL15 can interact with itself to form DNA-binding homodimers (Tang and Perry, 2003). Therefore AGL15 homodimerization was used as a positive control in the yeast two-hybrid assays. Full-length AGL15 has since been reported to interact with itself and other MADS-domain proteins in yeast two-hybrid studies (de Folter et al., 2005). We have also found this, and have performed a series of yeast two-hybrid assays involving truncated forms of AGL15 to determine that the latter half of the K domain of AGL15 (amino acids 118–152) was involved in mediating a protein–protein interaction in yeast (Figure 1).
+          
+          
+            
+              Figure 1.  Yeast two-hybrid assays demonstrate homodimerization of AGL15 and SAP18, direct interactions between AGL15, SAP18 and HDA19, and between SAP18 and HDA6. AA, amino acid; AD, GAL4 activation domain; DBD, GAL4 DNA binding domain. AH109 cells were co-transformed with a bait and prey construct, selected on SD–L/–W plates, restreaked on SD–L/–W/–H/–A, X-α-gal, and scored as follows: +++, strong interaction; ++, weaker interaction; +, weakest interaction; – no interaction observed; nd, not determined. The form of AGL15 cloned into the prey construct for the data shown here contained the KC domains. All constructs above the dotted line represent different forms of AGL15; non-AGL15 bait constructs are below the dotted line. Bar = 10 amino acid residues.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+        
+        
+          AGL15, but not other MADS-domain proteins, associates with members of the AtSIN3 HDAC complex
+          
+            We recovered SAP18 as an AGL15-interacting protein from a yeast two-hybrid screen of a cDNA library derived from an Arabidopsis embryonic culture tissue (ECT) (Harding et al., 2003). The recovered clone contained full-length SAP18 (At2g45640) cDNA, in frame with the GAL4 activation domain (AD), and was unable to activate reporter genes (HIS3, ADE2 and MEL1) in the presence of either the GAL4-DNA binding domain (DBD) alone or the GAL4-DBD fused to lamin C (Figure 1, and data not shown). Use of truncated forms of AGL15 as bait revealed that the latter half of the K domain, together with the C-domain (amino acids 118–268), was required for the interaction between AGL15 and SAP18 (Figure 1). Although the C-domain alone was not sufficient to mediate an interaction between AGL15 and SAP18, it was necessary (Figure 1). Full-length SAP18, when used as the bait, was able to interact with full-length AGL15 (data not shown), or a form of AGL15 consisting of the KC domains (Figure 1) as prey. Like AGL15, SAP18 was also able to form homodimers in the yeast system (Figure 1). SAP18 directly interacted with putative members of the SIN3 HDAC complex, HDA19 (At4g38130; Figure 1; Song and Galbraith, 2006) and HDA6 (At5g63110; Figure 1). AGL15 was also able to directly interact with the conserved HDAC domain of HDA19 via the C-domain alone (Figure 1). SAP18 did not interact with any of the other MADS-domain proteins tested, including FLC, SVP, AGL18 and SOC1 (data not shown). The MADS domain was not included in these constructs because we observed that full-length AGL15 slowed the growth of yeast cells somewhat when used as bait, compared with the GAL4-IKC.
+          
+        
+        
+          The C-terminal domain of AGL15 contains two conserved motifs, one of which is a putative LxLxL repression motif, and resides within a region required for the repressive function of AGL15 in planta
+          
+            Although all plant MADS-domain proteins share a highly conserved DNA-binding MADS domain, the C-terminal domains are highly divergent. Thus conserved regions, especially within the C-terminal domain of AGL15, may shed light on its potential function. Putative AGL15 orthologs were obtained from EST databases, and their translated amino acid sequences were aligned using ClustalW software (Chenna et al., 2003). Two putative domains are apparent within the C-terminal domain of AGL15: LENETLRRQxxELR and S[D/N]T[T/S]LxLGLP (Figure 2). The latter is strikingly similar to the EAR motif ([L/F]D L N [L/F](X) P) and the AUX/IAA LxLxL repression domains (Ohta et al., 2001; Tiwari et al., 2004) reported in plant proteins. Thus, we decided to perform transient expression assays to see if AGL15 could also function as a transcriptional repressor in vivo.
+          
+          
+            
+              Figure 2.  Multiple alignments of putative AGL15 orthologs reveal conserved motifs in the C-terminal domain. A.f., Aquilegia formosa x Aquilegia pubescens; A.t., Arabidopsis thaliana; B.n., Brassica napus; C.m., Cucumis melo; C.t., Cyamopsis tetragonoloba; G.h., Gossypium hirsutum; G.m., Glycine max; L.e., Lycopersicon esculentum; P.h., Petunia x hybrida; V.v., Vitis vinifera.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+          
+            In the transient expression system, two reporter constructs (Figure 3a) were co-infiltrated with different effector constructs (Figure 3b). One reporter (35S:LUC) served as an internal control. The other reporter also had the 35S regulatory regions, but the 35S enhancer (from −832 to −52bp) was separated from the 35S minimal promoter by eight tandem repeats of a high-affinity AGL15 binding site (Tang and Perry, 2003). A GUS/LUC ratio was calculated and the no effector control was used to normalize all other results. As expected, AGL15 with a C-terminal fusion to VP16, a strong transcriptional activation domain (Dalrymple et al., 1985), showed significant activation of the GUS reporter, indicating that the fusion protein could bind and activate expression of GUS (Figure 3c). Likewise, a form of AGL15 where the C-terminal domain was replaced with that of APETALA1 (AP1), previously shown to function as a transactivation domain (Cho et al., 1999; Honma and Goto, 2001; Ng and Yanofsky, 2001; Pelaz et al., 2001), also had a significantly higher GUS/LUC ratio than the no-effector control (data not shown). Figure 3(c) represents one of several independent experiments, and although absolute numbers varied, a trend is apparent and consistent. Full-length AGL15 and deletion C that contained the LxLxL motif repressed expression of the GUS reporter, whereas deletion A and deletion B, where the LxLxL motif was deleted, did not. Deletion A and B, which both contained the first half of the C domain and the conserved LENETLNRRQxxE motif, appeared to be behaving as transcriptional activators in some experiments (Figure 3c). However, in other experiments the GUS/LUC ratio was not significantly different from the no-effector control. A form of AGL15 lacking the entire C domain (i.e. MIK domains) was never different from the no-effector control (Figure 3c), and only forms of AGL15 with the region of the C domain containing the LxLxL motif showed reduced GUS activity indicating repression of GUS expression.
+          
+          
+            
+              Figure 3.  AGL15 acts as a transcriptional repressor in planta, and this repressive activity requires the region of the C-domain containing the LxLxL motif. (a) Two reporter constructs: please see the text for a description. (b) Effector constructs: forms of AGL15 under the control of the 35S promoter. (c) The effect various forms of AGL15 have on the transcription of a reporter gene. The y-axis represents the ratio of GUS to luciferase activity, normalized to the no-effector control, and the x-axis shows the various effectors. The bars indicate the standard error of three data points. Different shades of grey indicate significant and consistent differences in the GUS/LUC ratio resulting from different effectors. Although deletion A and B are acting as activators in the experiment shown, this was not completely consistent between experiments, and they are therefore shaded the same grey as the ‘No effector’ control. The experiment comparing full-length MIKC to a form lacking the C-terminal domain was analyzed on a different day, and is normalized to the no-effector control performed on that day. The experiments shown are representative of three or four biological replicates.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+        
+        
+          The LxLxL motif is required for the interaction of AGL15 with SAP18, but not with other partners
+          
+            Because the LxLxL motif has been reported to function as a repression domain in other proteins (Ohta et al., 2001; Tiwari et al., 2001), including AGL15 (Figure 3), and because the HDAC/SIN3 complex generally functions to repress gene expression (for a review, see de Ruijter et al., 2003), we asked whether the LxLxL motif was necessary to mediate the interaction between AGL15 and SAP18. We found that mutating the LxLxL motif by replacing the leucine residues with alanine abolished the yeast two-hybrid interactions between AGL15 and SAP18, but not between AGL15 and other interacting proteins (Figure 4). The SEP3–AGL15 interaction was dependent on the latter half of the K domain and the C domain, which includes the LxLxL motif (data not shown), but mutation of the leucine residues in the aforementioned motif had no effect on the SEP3–AGL15 interaction (Figure 4).
+          
+          
+            
+              Figure 4.  AGL15 requires the LxLxL motif to interact with SAP18 in yeast. 1, DBD-AGL15 (KC)*** + AD-SEP3 (MIKC); 2, DBD-AGL15 (KC) + AD-SEP3 (MIKC); 3, DBD-AGL15 (KC)*** + AD-SAP18; 4, DBD-AGL15 (KC) + AD-SAP18; 5, DBD-AGL15 (KC)*** + AD-AGL15 (IKC); 6, DBD-AGL15 (KC) + AD-AGL15 (IKC); ***mutated LxLxL to AxAxA. AH109 cells were co-transformed with bait and prey, selected for on SD–L/–W plates, and re-streaked on SD–L/–W/–H/–A, X-α-gal (see text for details). The pink growth indicates dying cells resulting from heavily streaking colonies. Mutating the LxLxL motif to AxAxA abolished the interaction of AGL15 with SAP18 (compare sector 3 with sector 4). Interactions between AGL15 and SEP3 (compare sectors 1 and 2) and with itself (compare sectors 5 and 6) were not compromised by this mutation.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+          
+            Because a direct interaction between AGL15 and HDA19 could also mediate repression of gene expression, we tested whether the LxLxL motif was necessary for these proteins to interact. However, growth on selective media still occurred when AGL15 containing the mutated form of the LxLxL was used as bait, indicating that the LxLxL motif is not necessary for interaction of AGL15 with HDA19 (data not shown).
+          
+        
+        
+          AGL15 decreases transcript accumulation of LEA76, CBF2 and AGL18, indicating repression of expression
+          
+            We first identified LEA76 (At1g52690) and CBF2 (At4g25470) as putative downstream targets of AGL15 from a preliminary microarray experiment using the Affymetrix ATH1 array and comparing mRNA transcript quantities from Ws and agl15-2 seeds (CBF2, 2.99-fold change comparing agl15-2 with Ws, P = 0.02; LEA76, 1.5-fold change, P = 0.0286; C. Zhu and S. Perry, unpublished data). Subsequent semiquantitative and quantitative reverse transcription polymerase chain reaction (RT-PCR) experiments, performed using independently harvested seed samples, confirmed the microarray data (data not shown). LEA76 mRNA was greatly reduced in seeds and 5–6-day siliques (data not shown) and seedlings (Figure 5) constitutively expressing AGL15. LEA76 transcript was present at increased levels in agl15-2 seedlings compared with Ws (Figure 5b), and present at decreased levels in the AGL15 constitutively expressing seedling compared with Ws (Figure 5a,b). What is more, LEA76 was upregulated in seedlings overexpressing a form of AGL15 fused to a strong transcriptional activation domain (AGL15-VP16; Figure 5a).
+          
+          
+            
+              Figure 5.  RT-PCR on 6-day-old seedlings shows transcriptional changes in downstream target genes LEA76, AGL18 and CBF2 in response to SAP18 and AGL15. (a) AGL15 and SAP18 transcript accumulated in the relevant overexpressing lines. LEA76 transcript abundance was repressed by ectopic expression of AGL15 and/or SAP18 and induced by AGL15-VP16. AGL18 was repressed by ectopic expression of AGL15 but not by SAP18, and was induced by AGL15-VP16. CBF2 was repressed by ectopic expression of AGL15 and/or SAP18 and induced by AGL15-VP16. Cycle numbers are shown in parentheses. (b) LEA76 transcript levels were increased in agl15-2 seedlings and decreased in AGL15 overexpressing lines relative to Ws. There was no apparent increase in AGL18 or CBF2 transcript in agl15-2 seedlings, but AGL18 and CBF2 transcripts were decreased in AGL15 overexpressing plants. Results shown are representative of at least three biological replicates.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+          
+            In contrast to accumulation of LEA76 transcript in response to decreased levels of AGL15 in seedlings, no obvious difference in CBF2 transcript in agl15-2 and Ws seedlings was observed, which could result from genetic redundancy with other MADS-box genes expressed in the seedling but not present in the seed. However, CBF2 was repressed, although not as drastically as in seeds, in seedlings constitutively expressing AGL15 relative to wild-type plants, and induced in seedlings accumulating the AGL15-VP16 fusion protein (Figure 5a,b).
+          
+          
+            AGL15 has previously been shown to directly bind and repress AGL15 expression (Zhu and Perry, 2005). AGL18 is the closest relative of AGL15 and is expressed in an overlapping pattern (Adamczyk et al., 2007). Although no change in AGL18 transcript was observed in plants homozygous for null alleles of AGL15 in seeds, siliques (data not shown) or seedlings, constitutively expressing AGL15 via the 35S promoter resulted in a reduction in AGL18 transcript accumulation (Figure 5a,b). Accumulation of AGL18 transcript was greatly increased in seedlings constitutively expressing AGL15-VP16 (Figure 5a).
+          
+        
+        
+          AGL15 binds to the promoter regions of LEA76, CBF2 and AGL18 in planta
+          
+            Changes in the transcript levels of AGL15 downstream target genes could be an indirect consequence of AGL15 accumulation. Association of AGL15 with the chromatin of the regulatory regions of target genes would suggest a more direct regulation mechanism. Chromatin immunoprecipitation (ChIP) and enrichment test experiments were performed to test whether LEA76, CBF2 and AGL18 regulatory regions may be bound in vivo by AGL15, and therefore may represent direct targets of AGL15. In ChIP, in vivo formed AGL15-DNA fragment complexes are immunoprecipitated using AGL15-specific antiserum. Association of AGL15 with suspected target DNA fragments was tested using an enrichment test, where oligonucleotide primers that amplify select DNA fragments that are believed to be bound by AGL15, and oligonucleotide primers that amplify a control DNA fragment not expected to be bound by AGL15 (e.g.TUB3 or EF1α), are used in multiplex PCR. In the input (total) DNA, target PCR product and control PCR product should be present at approximately equal levels (assuming equal efficiency of PCR). After selection of DNA by ChIP, target fragments should be enriched over controls and the PCR products should reflect this.
+          
+          
+            As shown in Figure 6, AGL15 was directly associated with the promoter regions of LEA76 (Figure 6a) and CBF2 in ECT (Figure 6b) that contained putative binding sites for AGL15. Because the 5′ region of CBF2 contained many CArG motifs, we tested the entire intergenic region between CBF2 and At4g25480 and found that although the region approximately 600–200-bp upstream of the start codon showed the highest level of enrichment, flanking regions were also enriched. AGL15 has previously been shown to directly bind its own promoter and repress expression (Zhu and Perry, 2005). Here we show that AGL15 also associated with the AGL18 promoter in ECT (Figure 6c), and that the AGL18 regulatory region was as enriched as that of AGL15.
+          
+          
+            
+              Figure 6.  AGL15 directly binds to downstream target genes. Oligonucleotide primer pairs to amplify regulatory regions of suspected direct targets of AGL15, and to amplify control regions not expected to be bound by AGL15 (TUB3 and EF1α), were used in multiplex PCR on total DNA diluted 25-, 125- and 625-fold, and on DNA recovered by immune precipitation (I) or pre-immune precipitation (PI) in chromatin immunoprecipitation (ChIP) from embryonic culture tissue (ECT). (a) AGL15 binds the LEA promoter. (b) AGL15 binds the CBF2 promoter and intergenic region. (c) AGL15 binds the AGL18 promoter as strongly as the AGL15 promoter.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+        
+        
+          SAP18 represses LEA76 and CBF2, but has no effect on transcript accumulation of AGL15 or AGL18
+          
+            Although SAP18 is not believed to bind DNA directly (for a review, see Silverstein and Ekwall, 2005), overexpression of SAP18 alone, in a wild-type background, was sufficient to reduce LEA76 and CBF2 transcript levels in seedlings (Figure 5a). Conversely, accumulation of SAP18 alone did not appear be involved in the decreased AGL15 or AGL18 transcript abundance (Figure 5a).
+          
+        
+        
+          SAP18 does not bind to an AGL15 binding site in vitro, but does cause a retardation of CArG-bound AGL15 but not of CArG-bound SEP3
+          
+            Because SAP18 has been shown to interact with DNA-bound ERF3 in vitro, but not with the ERF3 binding site (Song and Galbraith, 2006), we tested whether SAP18 was able to associate with DNA-bound AGL15. We found that SAP18 was indeed able to retard the migration of DNA-bound AGL15 through a polyacrylamide gel (Figure 7, compare lane 2 with lane 3, and with lane 7 in which the DNA-binding MADS domain of AGL18 is not present). SAP18 was neither able to directly interact with a strong AGL15 binding site (Figure 7, lane 4), nor cause a shift in the retardation of CArG-bound SEP3 (Figure 7, compare lane 5 with lane 6).
+          
+          
+            
+              Figure 7.  SAP18 does not bind to an AGL15 binding site in vitro, but does cause a retardation of CArG-bound AGL15. Electrophoretic mobility shift assay to assess the interaction of AGL15, SEP3 and SAP18 with a radiolabeled probe containing a binding site for MADS-domain proteins. Lane 1 contains the radiolabeled probe alone, whereas lane 2 also contains AGL15 (6 μg). Lane 3 contains 3 μg each of AGL15 and SAP18, whereas lane 4 contains 6 μg of SAP18. Lanes 5–7 represent a separate experiment testing binding of the 32P-CArG probe by the MADS-domain protein SEP3 (3 μg, lane 5), compared with SEP3 and SAP18 together (3 μg of each protein, lane 6). Lane 7 contains AGL15 lacking the MADS domain (5 μg, IKC) with SAP18 (3 μg).
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+        
+      
+      
+        
+          Discussion
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          AGL15 associates with members of the AtSIN3 HDAC complex
+          
+            SAP18, a member of the core SIN3/HDAC complex, was recovered as an AGL15-interacting protein. The SIN/HDAC complex generally consists of eight proteins: SIN3, HDAC1, HDAC2, RbAp46, RbAp48, SAP30, SAP18 and SDS3. However, yeast has only one HDAC, and lacks the SAP proteins (reviewed by Silverstein and Ekwall, 2005). Arabidopsis has two HDAC1 orthologs, HDA19 (At4g38130) and HDA6 (At5g63110), and the Arabidopsis ortholog of SAP18 has recently been shown to interact directly with HDA19 (Song and Galbraith, 2006). We show here that SAP18 is also able to interact with HDA6, and that AGL15 can directly interact with HDA19 (Figure 1). Although the C-domain alone is not sufficient to mediate an interaction between AGL15 and SAP18, it is necessary (Figure 1).
+          
+        
+        
+          The terminal domain of AGL15 contains two conserved motifs, one of which is a putative repression motif
+          
+            Comparison of amino acid sequences of class-II ERF repressors revealed the conservation of the sequence motif L /FDLN L /F(x)P, designated as the ERF-associated amphiphilic repression (EAR) motif, and mutational analysis demonstrated that this motif is essential for repression (Ohta et al., 2001). A similar motif was also identified in a number of zinc-finger proteins from a variety of species (Ohta et al., 2001), and in some Aux/IAA proteins (Tiwari et al., 2004) that function as repressors. Here we demonstrate that the repressive capacity of AGL15 was dependent on the presence of the C-terminal domain containing the LxLxL motif (Figure 3c), and that the LxLxL motif was required for the interaction of AGL15 with SAP18 (Figure 4). AtSAP18 has also been shown to interact with ERF3 and ERF4 (Song and Galbraith, 2006), which contain the motifs FQFDLNFPP and LDLDLNLPP, respectively.
+          
+          
+            SAP18 did not interact with any of the other MADS-domain proteins we tested, which is unsurprising given that the interaction occurs at least in part via the divergent C-terminal domain and not only via the highly conserved MADS or moderately conserved I and K domains. However, SAP18 did not interact, at least in yeast, with the closest relative of AGL15, AGL18, which also contains a similar LxLxL motif (DTSLQLGLSS) and exhibits functional redundancy in planta with AGL15 (Adamczyk et al., 2007). However, no AGL18-interacting partners have been demonstrated using the yeast system in our lab, or have been reported in the literature, even though such experiments have been performed (de Folter et al., 2005; Verelst et al., 2007). The literature contains a number of examples where a full-length MADS-domain protein, when fused to the GAL4-DBD, is unable to interact with partners with which truncated forms do interact (Fujita et al., 2003; Yang and Jack, 2004; Yang et al., 2003a,b). However, a truncated form of AGL18 lacking the MADS domain also failed to interact with any of the AGL15-interacting proteins (K. Hill, unpublished data). There are examples where an interaction shown to occur between full-length MADS in planta does not occur in the yeast system (Immink et al., 2002), and could reflect a conformation effect brought about by the GAL4-DBD fusion masking some interactions. SAP18 also did not interact with a form of SVP that lacks the MADS domain but has an LxLxL motif within the C-terminal domain (data not shown). This may reflect the involvement of the K domain in mediation of the AGL15–SAP18 interaction that is only weakly conserved in primary structure between MADS MIKC proteins. The last member of the Arabidopsis MADS family with a similar LxLxL motif, AGL24, was not tested in the yeast system for interaction with SAP18 because it is not expressed in embryonic tissue (Lehti-Shiu et al., 2005). Because SAP18 is more widely expressed, it is possible that it does interact with AGL24 in other developmental contexts.
+          
+        
+        
+          The interaction of AGL15 with members of the SIN3/HDAC1 complex suggests a mechanism that could explain its function as a transcriptional repressor in planta
+          
+            Histone deacetylase (HDAC) enzymes remove acetyl groups from histones, and hypoacetylation results in a decrease in the space between the nucleosome and the DNA that is wrapped around it. Tighter wrapping of the DNA diminishes accessibility for transcription factors, leading to transcriptional repression (for a review, see de Ruijter et al., 2003). SIN3-associated proteins (SAP18 and SAP30) have been hypothesized to stabilize the SIN3–HDAC interaction (discussed by Silverstein and Ekwall, 2005). SAP18, like other core members of the SIN3/HDAC1 complex, is not believed to directly associate with the chromatin (reviewed by Silverstein and Ekwall, 2005), but does interact with sequence-specific DNA binding proteins (e.g., Espinas et al., 2000; Song and Galbraith, 2006; Zhu and Hanes, 2000; this study), implicating it as a bridge protein connecting the core SIN3/HDAC1 complex targeted genes.
+          
+          
+            When directed to regulatory regions of genes, SAP18 or other components of the HDAC complex lead to repression of gene expression (Song and Galbraith, 2006; Song et al., 2005; Wu et al., 2000; Yang et al., 1996; Zhang et al., 1997; Zhu et al., 2001). We demonstrated that SAP18 is able to associate with DNA-bound AGL15 in vitro, but is not able to directly interact with a strong AGL15 binding site (Figure 7). Likewise, SAP18 also interacts with DNA-bound ERF3 in vitro, but not with the ERF3 binding site (Song and Galbraith, 2006).
+          
+        
+        
+          AGL15 induces expression of some direct downstream target genes, and represses the expression others
+          
+            Downstream target genes of AGL15 have previously been identified of which expression is induced in response to AGL15 binding a CArG motif within the promoter region (Wang et al., 2002, 2004). In the transient expression assay, when the effector lacked any portion of the C-terminal domain, the GUS/LUC reporter ratio was no different than the no-effector control, but forms of AGL15 that included part of the C-terminal domain often, but not always, showed activation of the GUS reporter gene. These effectors (deletions A and B) included a conserved region (LENETLNRRQxxELR). but not the LxLxL motif. The LENETLNRRQxxELR motif (Figure 2) contains a number of glutamine, asparagine and acidic residues, and may under certain configurations function as an activation domain (Titz et al., 2006). Alternately, activation of direct AGL15 downstream targets (Wang et al., 2002, 2004; S. Perry, unpublished data) may be mediated via its association with transcriptional activators. Yeast two-hybrid studies have demonstrated that AGL15 can interact with AP1 (de Folter et al., 2005) and SEP3 (Figure 4), both of which have reported transactivation functions (Cho et al., 1999; Honma and Goto, 2001; Ng and Yanofsky, 2001; Pelaz et al., 2001). It is interesting to note that the conserved LENETLNRRQxxE motif resides within a region of AGL15 that is necessary and sufficient to allow interaction with SEP3 in yeast (data not shown).
+          
+          
+            There are numerous examples in the literature of protein interactions determining whether a protein acts as a transcriptional activator or repressor. Known transcriptional activators have been shown to exert a repressive function through recruitment of SIN3/HDAC1 (Cheng and Bishop, 2002; Yang et al., 1996; Zhu et al., 2001). Co-activators that interact with SIN3/HDAC1 members, giving the complex an activator function, have also been reported. In the literature HDACs are generally associated with the repression of gene expression; however, in plants HDA19 has been shown to interact with bnKCP, and exerts a modest transactivation of reporter genes (Gao et al., 2003). HDA19 has also been shown to interact with BnSCL1, an ortholog of the Arabidopsis SCARECROW-like protein 15 (SCL15), and likewise exerts transcriptional activation of reporter genes (Gao et al., 2004).
+          
+        
+        
+          AGL15 binds directly to and represses LEA76, CBF2 and AGL18 in planta
+          
+            It is becoming increasingly apparent that autoregulatory loops are a common phenomenon in the regulation of MADS-box genes in plants (Gómez-Mena et al., 2005; Honma and Goto, 2000; Zhu and Perry, 2005). We previously reported that AGL15 represses AGL15 transcription (Zhu and Perry, 2005). AGL15 can also directly associate with regulatory regions of AGL18 and repress accumulation of AGL18 transcript (Figure 5a,b). No noticeable increase in AGL18 transcription has been observed in plants homozygous for null alleles of AGL15 (Figure 5b) or vice versa (unpublished data), but given that AGL15 is able to repress its own transcription (Zhu and Perry, 2005), and the close similarity and redundancy between AGL15 and AGL18 (Adamczyk et al., 2007), it is possible that any increase in expression is masked by a subsequent autorepression or higher levels of redundancy involving other MADS-domain proteins.
+          
+          
+            AGL15 binds the promoter of LEA76 and represses its transcription. There is an increase in LEA76 transcript accumulation in agl15 plants, and, conversely, a decrease in response to increased AGL15 levels in all tissues tested. In contrast to what was observed in seeds, no noticeable difference in CBF2 transcript between agl15-2 and Ws seedlings was observed, which could be result from genetic redundancy with other MADS expressed in the seedling but not present in the seed. There are numerous examples of genetic redundancy and complex regulatory interactions among plant MADS-box genes (for a review, see Gutierrez-Cortines and Davies, 2000). However, CBF2 is repressed, although not as drastically as in seeds, in seedlings constitutively expressing AGL15 relative to wild-type plants, and is induced in seedlings accumulating the AGL15-VP16 fusion protein (Figure 5a). In support of this observation, we have performed crosses between plants carrying a GUS reporter gene under the control of the CBF2 promoter (Fowler et al., 2005, generously donated by Prof. Michael Thomashow, Michigan State University), and an AGL15 overexpresser line or an AGL15-VP16 overexpresser line. The latter showed stronger GUS staining throughout the entire seedling, whereas the former appeared to have less GUS activity relative to the uncrossed pCBF2:GUS control (K. Hill, unpublished data).
+          
+          
+            LEA76, CBF2 (Figure 5a) and other putative AGL15 downstream target genes (K. Hill, H. Wang and S.E. Perry, unpublished data), are not as highly induced by ectopic expression of AGL15-VP16 as expected, especially when compared with levels of AGL18 transcript accumulation brought about by AGL15-VP16 (Figure 5a). It has been demonstrated that AGL15 and AGL18 perform at least partially redundant functions (Adamczyk et al., 2007, S. Perry, unpublished data), and given that AGL15-VP16 induces accumulation of AGL18 transcript (Figure 5a), AGL18 might be subsequently repressing CBF2 and LEA76, and thus masking to some degree AGL15-VP16-mediated transcription, although an increase in response to AGL15-VP16 is still apparent.
+          
+          
+            Ectopic expression of SAP18 alone repressed LEA and CBF2 (Figure 5a), possibly through interaction with AGL15 that is expressed in non-transgenic seedlings or through interaction with other DNA-binding proteins. However, AGL15 and AGL18 levels were unaffected by ectopic expression of SAP18 alone, possibly indicating a more specific interaction at these loci. We have demonstrated that AGL15 binds to LEA76 (At1g52690) (Figure 6a), and that LEA76 is repressed by AGL15 and/or SAP18 in a variety of tissues, including seedlings (Figure 5). Published results support a role for SIN3/HDAC1-mediated repression in regulation of LEA76: trichostatin A, a specific inhibitor of HDAC, causes an increase in LEA76 transcript during seed germination (Tai et al., 2005).
+          
+        
+        
+          Possible biological role of the AGL15–SAP18 interaction
+          
+            AGL15 accumulates in the nuclei of cells in the embryo beginning very early in development (by the eight-cell stage for Arabidopsis) and remains at relatively high levels into maturation, decreasing during desiccation (Perry et al., 1996). AGL15 is expressed after germination in Arabidopsis, in the vegetative shoot apical meristem, but not at the transition to reproductive development, although it is once again expressed at the bases of cauline leaves and floral organs (Fernandez et al., 2000). The level of expression in these tissues is generally at least 10-fold lower than that found in the embryo (Fernandez et al., 2000; Heck et al., 1995). One possible role for AGL15 is in regulating developmental transitions during the plant life cycle. The expression data supports this hypothesis. Ectopic overexpression of AGL15 via the 35S promoter causes delays at many points in the life cycle, including late flowering, a longer period for seeds to mature, and delayed senescence and abscission (Fernandez et al., 2000). Additionally, 35S:AGL15 transgenic lines show increased capability for cultured zygotic embryos, and for apical meristem tissue in a liquid culture system, to form somatic embryos (Harding et al., 2003). One possible explanation is that these tissues are delayed in exiting embryonic programs. Recently, a double mutant agl15 agl18 was documented to flower early under short-day conditions (Adamczyk et al., 2007). Epigenetic control is one means by which developmental transitions are regulated (for a review, see Berger and Gaudin, 2003Henderson and Dean, 2004; Boss et al., 2004). Therefore, interaction of AGL15 with chromatin-modifying proteins is very intriguing.
+          
+          
+            Phenotypes reported as being associated with HDA19 overexpression include decreased acetylation of histones, short siliques, abnormal cotyledons and leaves, late flowering and decreased fertility (Zhou et al., 2005). Some of these phenotypes, notably late flowering, have also been documented in plants that constitutively express AGL15 (Fernandez et al., 2000). However, both antisense HDA19 transgenic and athd-t1 homozygous lines have also been reported to cause a delay in flowering, in some cases observable only when plants are grown under long-day conditions (Tian and Chen, 2001; Tian et al., 2003; Wu et al., 2000). In agreement with the latter observation, treatment of Arabidopsis plants with the HDAC inhibitor trichostatin A also induces a late flowering effect (Wu et al., 2000). Also consistent with these results is the observation that a loss-of-function allele of fld, a component of an HDAC complex, results in hyperacetylation of histones associated with FLC, increased transcript abundance of FLC and a late flowering phenotype (He et al., 2003). However, loss-of-function of the histone acetyltransferase AtHAC1 also results in increased transcript abundance of FLC and a delay in flowering, perhaps caused by the regulation of components upstream of FLC (Deng et al., 2007).
+          
+          
+            Despite the fact that SAP18 is a single-copy gene, highly conserved even between plants and animals, plants homozygous for null alleles of sap18 are viable and do not exhibit any obvious phenotype until the plant is stressed (Song and Galbraith, 2006). Similarly Drosophila homozygous for null sap18 alleles are able to complete their life cycle (Singh et al., 2005). AGL15 is able to interact directly with at least one other member of the SIN3/HDAC1 complex (HDA19), suggesting that SAP18 is not essential in recruiting a functional HDAC1 complex to AGL15 bound promoters. SAP18 is broadly expressed, but transcript levels increase in response to NaCl, drought and cold stress (Song and Galbraith, 2006). Therefore regulation of targets involved in the stress response, such at CBF2, are intriguing. A number of sequence-specific DNA binding proteins are likely to serve as platforms, targeting the SIN3/HDAC1 complex to these various target genes. We propose that AGL15 functions as one of these platforms, thus recruiting SAP18 and ultimately other components of the SIN3/HDAC complex to a subset of target genes.
+          
+        
+      
+      
+        
+          Experimental procedures
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          Yeast two-hybrid assays
+          
+            The ClontechTM Matchmaker Library Construction and Screening Kit (Clontech, http://www.clontech.com) was used to generate and screen a cDNA expression library derived from Arabidopsis ECT (Harding et al., 2003). A truncated form of AGL15 lacking the MADS domain was cloned into pGBKT7 to produce the GAL4 DBD-AGL15 fusion protein expression construct, DBD-AGL15 (IKC), which was used as the bait. Transformed AH109 yeast colonies, able to activate the reporter genes (HIS3, ADE2 and MEL1), were selected on SD media (2% dextrose, 0.67% nitrogen base, 1% agar) lacking leucine (–L), tryptophan (–W), histidine (–H) and alanine (–A) and supplemented with 0.2 mg ml−1 X-α-gal (SD–L/–W/–H/–A, 0.2 mg ml−1 X-α-gal). The prey plasmids were recovered (Rose, 1987) and sequenced. Two independent clones encoding SAP18 and four independent clones encoding AGL15 were recovered from the 8.9 × 104 colonies screened.
+          
+          
+            For directed tests AH109 cells were co-transformed with specific bait and prey constructs, and plated onto SD–L/–W media. After several days, colonies were restreaked onto SD plates selective for protein–protein interactions (SD–L/–W/–H/–A, 0.2 mg ml−1 X-α-gal). HDA6, HDA19 and MADS-domain proteins other than AGL15 were identified as interacting proteins via directed tests.
+          
+        
+        
+          Yeast two-hybrid constructs
+          
+            pGBKT7 (bait) constructs:
+            
+              pGBKT7-Lam (Clontech) encodes a fusion of the GAL4 DBD with human lamin C. DBD-AGL15 constructs were generated containing various truncations of AGL15 cloned in frame with the GAL4-DBD. For DBD-AGL15 (KC***), the leucines in the LxLxL motif were changed to alanines using the QuikChange II Site Directed Mutagenesis Kit (Stratagene, http://www.stratagene.com). Other bait constructs and information about generation can be found in Table S1.
+            
+          
+          
+            pGADT7 (prey) constructs:
+            
+              AD-AGL15 constructs were generated containing truncations of AGL15 cloned in frame with the GAL4-AD. Other prey constructs and information on generation can be found in Table S2.
+            
+            
+              All constructs were verified by sequencing. Protein accumulation in yeast cells was determined via western blotting, using AGL15 antibody (Heck et al., 1995), c-myc monoclonal antibody or HA polyclonal antibody (Clontech).
+            
+          
+        
+        
+          Multiple alignment of putative orthologs
+          
+            Putative orthologs of AGL15 were obtained by blasting the predicted amino acid sequence of AGL15, without the MADS domain, against the NCBI database (http://www.ncbi.nlm.nih.gov/BLAST). The following entries were translated in amino acid sequences and reblasted against the Arabidopsis database to verify that they were most similar to Arabidopsis AGL15, and were then aligned using ClustalW software (http://www.ebi.ac.uk/clustalw; Chenna et al., 2003). Soybean (accession AY370659), Brassica (accession U22681), Tomato (accession BT014220), Petunia (accession AY370526), Cotton (accession AY631395), Muskmelon (accession DV635005), Aquilegia (accession DR941287), wine grape (accession EC993423) and cluster bean (accession EG989688).
+          
+        
+        
+          Plant growth conditions
+          
+            Seeds of Arabidopsis thaliana ecotype Wassilewskija (Ws) or Columbia (Col) were sterilized by three or four brief washes with 70% ethanol containing 0.1% Triton X-100, followed by two rinses with 95% ethanol, and then allowed to dry in a sterile laminar flow hood before sprinkling on germination media [GM, consisting of MS salts, vitamins, 1% (w/v) sucrose, 0.05% (w/v) 2-(N-morpholine)-ethanesulphonic acid (MES) and 0.7% (w/v) agar, pH 5.8], and grown as described in Zhu and Perry (2005).
+          
+        
+        
+          Generation of transgenic plants
+          
+            The plant expression vector pBIMC-35S:cmyc-SAP18 was generated from pDBD-SAP18 by PCR with oligonucleotides (5′–GCTCTAGAATGGAGGAGCAGAAGCTG-3′ and 5′–CGAGCTCCCTCAAGACCCGTTTAG-3′) that amplify the c-myc tag and cDNA already cloned into the multiple cloning site of pGBKT7, and adding restriction enzyme cleavage sites XbaI and XhoI (underlined). The c-myc-SAP18 cDNA was cloned into the binary expression vector, pBIMC (a gift from Dr D. Falcone, University of Massachusetts) downstream of the 35S CaMV promoter.
+          
+          
+            pBIMC-35S:gAGL15 (MIKC)-VP16 encodes a form of AGL15 containing the first three introns and an additional C-terminal viral VP16 (amino acids 413–490) transcription activation domain (Dalrymple et al., 1985) cloned into pBIMC downstream of the 35S CaMV promoter.
+          
+          
+            The constructs were sequenced and transformed into the Agrobacterium tumefaciens strain GV3101, and were used to transform Ws flower buds (Clough and Bent, 1998). Transgenic lines were selected on GM plates containing 50 μg ml−1 kanamycin. SAP18 transcript levels of putative c-myc-SAP18 overexpressing lines were analyzed by RT-PCR, and protein accumulation was verified by western analysis using an anti-c-myc monoclonal antibody (Sigma-Aldrich; http://www.sigmaaldrich.com).
+          
+          
+            Plants constitutively expressing c-myc-SAP18 were cross-pollinated to a previously described 35S:AGL15 line (Fernandez et al., 2000) to produce plants overexpressing both transgenes.
+          
+        
+        
+          Chromatin immunoprecipitation
+          
+            Plant tissue (5–10 g) was fixed in MC buffer (10 mM potassium phosphate pH 7, 50 mM NaCl 0.1 m sucrose) (Wang et al., 2002) containing 1% formaldehyde and incubated on ice under vacuum. Crosslinking was stopped by the addition of cold glycine to 0.125 m and incubation for 10–30 min, before being washed in MC buffer and flash frozen. Nuclei were isolated from fixed tissue (Bowler et al., 2004), and chromatin immunoprecipitation was performed (Wang et al., 2004) using a polyclonal antibody raised against AGL15 (Heck et al., 1995) or pre-immune serum as a control.
+          
+          
+            Multiplex PCR tests were performed on a series of dilutions of total (input) DNA, and DNA recovered from immunoprecipitation using anti-AGL15 serum or pre-immune serum using KlenTaq1 (Ab Peptides, http://www.abpeps.com). Oligonucleotides used in the multiplex PCR tests are listed in Table S3. PCR products were analyzed by agarose gel electrophoresis and gel images were captured using a ChemiImager (Alpha Innotech Corporation, http://www.alphainnotech.com).
+          
+        
+        
+          RT-PCR
+          
+            Either TRIZOL reagent (Invitrogen, http://www.invitrogen.com) or the RNeasy® plant mini kit (Qiagen, http://www.qiagen.com) was used to isolate total RNA from ∼50 mg of whole 6–8-day-old seedlings. Reverse transcription was performed using the A-MLV Reverse Transcriptase System (Promega, http://www.promega.com) according to the manufacturer’s instructions. A 1–2-μl aliquot of each first-strand cDNA reaction was amplified by specific primer pairs in a reaction containing 1x PCR buffer, deoxynucleotide triphosphate (dNTP) at 200 μm each, 0.2 μm of each primer and 1.0 Unit of KlenTaq1. Oligonucleotides used for RT-PCR are listed in Table S4.
+          
+        
+        
+          Transient expression assays
+          
+            Constructs are described in the Results and Figure 3(a,b). All deletions are derivatives of p35S:gAGL15 (Fernandez et al., 2000) containing an engineered stop codon as indicated. Agrobacteria were transformed with effector constructs (Figure 3b): the 35S:CArGx8:GUS and 35S:LUC constructs (Figure 3a). Overnight, agrobacteria cultures were resuspended to an OD600 of 0.5 in 10% sucrose containing 200 μm 3′,5′–dimethoxy-4′-hydroxyactophenone and mixed 20 : 10 : 1, respectively. This mixture was used to infiltrate the abaxial side of young petunia leaves. After 3–5 days three samples were taken from each leaf, crushed in liquid nitrogen, suspended in 300 μl cell culture lysis reagent (CCLR) (Promega) and then used in subsequent 4-methylumbelliferyl-β-D-glucuronide (MUG) and luciferase assays. GUS activity was measured by MUG (1 mm MUG in 1XCCLR) assay (Yang et al., 2000) using a DynaQuant 200 fluorometer (Hoefer Scientific Instruments, http://www.hoeferinc.com), and at least three time points. LUCIFERASE activity was measured using the Luciferase Assay System following the manufacturer’s protocols (Promega). GUS to LUC ratios were normalized relative to the no-effector control and standard errors were calculated.
+          
+        
+        
+          EMSA
+          
+            The protein coding regions of full-length AGL15, SAP18, SEP3 and AGL15 lacking the MADS domain were cloned into an expression vector, pET-15b (Novagen, http://splash.emdbiosciences.com) into the NcoI and BamHI sites. The E. coli strain BL21(DE3) (Novagen) was used to express the proteins, and inclusion bodies were harvested and solublized as described in Heck et al. (1995). The inclusion bodies were subsequently dialyzed to remove urea. AGL15 binding site (CTATATATAG) probes were generated and labeled by PCR with CArG-containing oligonucleotides (5′–AGATCTGGTTACTATATATAGTAAGG-3′ and 5′–GGATCCCCTTACTATATATAGTAACC-3′) and [α-32P]dCTP (Amersham, http://www.amersham.com). Equal quantities of probe (cpm 104–105) were incubated for 15 min at 25°C with 3–8 μg protein in 1X binding buffer (Heck et al., 1995) with 0.1 mg ml−1 poly(dI-dC), 0.5 mg ml−1 BSA, 5% glycerol, and resolved on a 5% polyacrylamide gel (0.5 × TBE, 5% glycerol). The gel was dried and exposed to a PhosphorImager screen (Molecular Dynamics, http://www.gelifesciences.com).
+          
+        
+      
+      
+        
+          Acknowledgements
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          We thank Dr Arthur Hunt and our anonymous reviewers for their critical reading of and helpful comments on the manuscript. We also thank Dr Michael Thomashow (MSU-DOE, East Lansing, MI, USA) for providing the CBF:GUS transgenic seed and Dr Donna Fernandez (University of Wisconsin-Madison, Madison, WI, USA) for providing seed for the gain- and loss-of-function AGL15 plants. We are grateful to Ms Katherine Mitchell and Ms Yumei Zheng for technical assistance and materials. This project was supported by the National Research Initiative of the USDA CSREES, grant 2005-35301-15699, by the NSF grant IBN-9984274, and by the University of Kentucky. This paper (no. 07-06-066) is published with the approval of the Director of the Kentucky Agricultural Experiment Station.
+        
+      
+      
+        
+          References
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          
+              Adamczyk, B.J., Lehti-Shiu, M.D. and Fernandez, D.E. (2007) The MADS-domain factors AGL15 and AGL18 act redundantly as repressors of the floral transition in Arabidopsis. Plant J.  50, 1007–1019. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(1102K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Becker, A. and Theissen, G. (2003) The major clades of MADS-box genes and their role in the development and evolution of flowering plants. Mol. Phylogenet. Evol.  29, 464–489. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Berger, F. and Gaudin, V. (2003) Chromatin dynamics and Arabidopsis development. Chromosome Res.  11, 277–304. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Boss, P.K., Bastow, R.M., Mylne, J.S. and Dean, C. (2004) Multiple pathways in the decision to flower: Enabling, promoting, and resetting. Plant Cell, 16, S18–S31. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Bowler, C., Benvenuto, G., Laflamme, P., Molino, D., Probst, A.V., Tariq, M. and Paszkowski, J. (2004) Chromatin techniques for plant cells. Plant J.  39, 776–789. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(260K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Castillejo, C., Romera-Branchat, M. and Pelaz, S. (2005) A new role of the Arabidopsis SEPALLATA3 gene revealed by its constitutive expression. Plant J.  43, 586–596. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(709K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Causier, B., Cook, H. and Davies, B. (2003) An Antirrhinum ternary complex factor specifically interacts with C-function and SEPALLATA-like MADS-box factors. Plant Mol. Biol.  52, 1051–1062. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Chenna, R., Sugawara, H., Koike, T., Lopez, R., Gibson, T.J., Higgins, D.G. and Thompson, J.D. (2003) Multiple sequence alignment with the Clustal series of programs. Nucleic Acids Res.  31, 3497–3500. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Cheng, S.Y. and Bishop, J.M. (2002) Suppressor of Fused represses Gli-mediated transcription by recruiting the SAP18-mSin3 corepressor complex. Proc. Natl Acad. Sci. USA, 99, 5442–5447. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science®,
+              
+                ADS
+              
+            
+            
+          
+          
+              Cho, S., Jang, S., Chae, S., Chung, K., Moon, Y., An, G. and Jang, S. (1999) Analysis of the C-terminal region of Arabidopsis thaliana APETALA1 as a transcription activation domain. Plant Mol. Biol.  40, 419–429. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Clough, S.J. and Bent, A.F. (1998) Floral dip: a simplified method for Agrobacterium-mediated transformation of Arabidopsis thaliana. Plant J.  16, 735–743. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(218K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Cseke, L.J., Ravinder, N., Pandey, A.K. and Podila, G.K. (2007) Identification of PTM5 protein interaction partners, a MADS-box gene involved in aspen tree vegetative development. Gene, 39, 209–222. 
+            
+              CrossRef,
+              
+                Web of Science® Times Cited: 6
+              
+            
+            
+          
+          
+              Dalrymple, M.A., McGeoch, D.J., Davison, A.J. and Preston, C.M. (1985) DNA sequence of the herpes simplex virus type 1 gene whose product is responsible for transcriptional activation of immediate early promoters. Nucleic Acids Res.  13, 7865–7879. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              De Folter, S., Immink, R.G., Kieffer, M.                 et al.              (2005) Comprehensive interaction map of the Arabidopsis MADS box transcription factors. Plant Cell, 17, 1424–1433. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Deng, W., Liu, C.Y., Pei, Y.X., Deng, X., Niu, L.F. and Cao, X.F. (2007) Involvement of the histone acetyltransferase AtHAC1 in the regulation of flowering time via repression of FLOWERING LOCUS C in Arabidopsis. Plant Physiol.  143, 1660–1668. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              De Ruijter, A.J.M., Van Gennip, A.H., Caron, H.N., Kemp, D. and Kuilenburg, A.B. (2003) Histone deacetylases (HDACs): characterization of the classical HDAC family. Biochem. J.  370, 737–749. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Egea-Cortines, M., Saedler, H. and Sommer, H. (1999) Ternary complex formation between the MADS-box proteins SQUAMOSA, DEFICIENS, and GLOBOSA is involved in the control of floral architecture in Antirrhinum majus. EMBO J.  18, 5370–5379. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Espinas, M.L., Canudas, S., Fanti, L., Pimpinelli, S., Casanova, J. and Azorin, F. (2000) The GAGA factor of Drosophila interacts with SAP18, a Sin3-associated polypeptide. EMBO Rep.  1, 253–259. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Fan, H.Y., Hu, Y., Tudor, M. and Ma, H. (1997) Specific interactions between the K domains of AG and AGLs, members of the MADS family of DNA binding proteins. Plant J.  12, 999–1010. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  PDF(2523K)
+                
+              
+            
+            
+          
+          
+              Favaro, R., Immink, R.G.H., Ferioli, V., Bernasconi, B., Byzova, M., Angenent, G.C., Kater, M. and Colombo, L. (2002) Ovule-specific MADS-box proteins have conserved protein–protein interactions in monocot and dicot plants. Mol Genet. Genomics, 268, 152–159. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Favaro, R., Pinyopich, A., Battaglia, R., Kooiker, M., Borghi, L., Ditta, G., Yanofsky, M.F., Kater, M.M. and Colombo, L. (2003) MADS-box protein complexes control carpel and ovule development in Arabidopsis. Plant Cell, 15, 2603–2611. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Fernandez, D.E., Heck, G.R., Perry, S.E., Patterson, S.E., Bleecker, A.B. and Fang, S.-C. (2000) The embryo MADS domain factor AGL15 acts postembryonically: Inhibition of perianth senescence and abscission via constitutive expression. Plant Cell, 12, 183–197. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Fowler, S.G., Cook, D. and Thomashow, M.F. (2005) Low temperature induction of Arabidopsis CBF1, 2, and 3 is gated by the circadian clock. Plant Physiol.  137, 961–968. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Franks, R.G., Wang, C., Levin, J.Z. and Liu, Z. (2002) SEUSS, a member of a novel family of plant regulatory proteins, represses floral homeotic gene expression with LEUNIG. Development, 129, 253–263. 
+            
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Fujita, H., Takemura, M., Tani, E., Nemoto, K., Yokota, A. and Kohchi, T. (2003) An Arabidopsis MADS-box protein, AGL24, is specifically bound to and phosphorylated by meristematic receptor-like kinase (MRLK). Plant Cell Physiol.  44, 735–742. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Gamboa, A., Paez-Valencia, J., Acevedo, G.F., Vazquez-Moreno, L. and Alvarez-Buylla, R.E. (2001) Floral transcription factor AGAMOUS interacts in vitro with a leucine-rich repeat and an acid phosphatase protein complex. Biochem. Biophys. Res. Commun.  288, 1018–1026. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Gao, M.-J., Parkin, I.A.P., Lydiate, D.J. and Hannoufa, A. (2004) An auxin-responsive SCARECROW-like transcriptional activator interacts with histone deacetylase. Plant Mol. Biol.  55, 417–431. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Gao, M.-J., Schafer, U.A., Parkin, I.A.P., Hegedus, D.D., Lydiate, D.J. and Hannoufa, A. (2003) A novel protein from Brassica napus has a putative KID domain and responds to low temperature. Plant J.  33, 1073–1086. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(405K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Gómez-Mena, C., De Folter, S., Costa, M.M.R., Angenent, G.C. and Sablowski, R. (2005) Transcriptional program controlled by the floral homeotic gene AGAMOUS during early organogenesis. Development, 132, 429–438. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Gutierrez-Cortines, M.E. and Davies, B. (2000) Beyond the ABCs: ternary complex formation in the control of floral organ identity. Trends Plant Sci.  5, 471–476. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Harding, E.W., Tang, W., Nichols, K.W., Fernandez, D.E. and Perry, S.E. (2003) Expression and maintenance of embryogenic potential is enhanced through constitutive expression of AGAMOUS-Like 15. Plant Physiol.  133, 653–663. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              He, Y., Michaels, S.D. and Amasino, R.M.. (2003) Regulation of flowering time by histone acetylation in Arabidopsis. Science, 302, 1751–1754. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science®,
+              
+                ADS
+              
+            
+            
+          
+          
+              Heck, G.R., Perry, S.E., Nichols, K.W. and Fernandez, D.E. (1995) AGL15, a MADS domain protein expressed in developing embryos. Plant Cell, 7, 1271–1282. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Henderson, I.R. and Dean, C. (2004) Control of Arabidopsis flowering: the chill before the bloom. Development, 131, 3829–3838. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Honma, T. and Goto, K. (2000) The Arabidopsis floral homeotic gene PISTILLATA is regulated by discrete cis-elements responsive to induction and maintenance signals. Development, 127, 2021–2030. 
+            
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Honma, T. and Goto, K. (2001) Complexes of MADS-box proteins are sufficient to convert leaves into floral organs. Nature, 409, 525–529. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science®,
+              
+                ADS
+              
+            
+            
+          
+          
+              Immink, R.G.H., Gadella ., T.W.J., Jr, Ferrario, S., Busscher, M. and Angenent, G.C. (2002) Analysis of MADS box protein–protein interactions in living plant cells. Proc. Natl Acad. Sci. USA, 99, 2416–2421. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science®,
+              
+                ADS
+              
+            
+            
+          
+          
+              Jang, S., An, K., Lee, S. and An, G. (2002) Characterization of tobacco MADS-box genes involved in floral initiation. Plant Cell Physiol.  43, 230–238. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Karlova, R., Boeren, S., Russinova, E., Aker, J., Vervoort, J. and De Vries, S. (2006) The Arabidopsis SOMATIC EMBRYOGENESIS RECEPTOR-LIKE KINASE1 protein complex includes BRASSINOSTEROID-INSENSITIVE1. Plant Cell, 18, 626–638. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Kaufmann, K., Melzer, R. and Theissen, G. (2005) MIKC-type MADS-domain proteins: structural modularity, protein interactions and network evolution in land plants. Gene, 347, 183–198. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Lehti-Shiu, M.D., Adamczyk, B.J. and Fernandez, D.E. (2005) Expression of MADS-box genes during the embryonic phase in Arabidopsis. Plant Mol. Biol.  58, 89–107. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Liu, Z. and Meyerowitz, E.M. (1995) LEUNIG regulates AGAMOUS expression in Arabidopsis flowers. Development, 121, 975–991. 
+            
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Lim, J., Moon, Y.H., An, G. and Jang, S.K. (2000) Two rice MADS domain proteins interact with OsMADS1. Plant Mol. Biol.  44, 513–527. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Masiero, S., Imbriano, C., Ravasio, F., Favaro, R., Pelucchi, N., Gorla, M.S., Mantovani, R., Colombo, L. and Kater, M.M. (2002) Ternary complex formation between MADS-box transcription factors and the histone fold protein NF-YB. J. Biol.Chem.  277, 26429–26435. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Messenguy, F. and Dubois, E. (2003) Role of MADS box proteins and their cofactors in combinatorial control of gene expression and cell development. Gene, 316, 1–21. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Mizukami, Y., Huang, H., Tudor, M., Hu, Y. and Ma, H. (1996) Functional domains of the floral regulator AGAMOUS: Characterization of the DNA binding domain and analysis of dominant negative mutations. Plant Cell, 8, 831–845. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Moon, Y.H., Kang, H.G., Jung, J.Y., Jeon, J.S., Sung, S.K. and An, G. (1999) Determination of the motif responsible for interaction between the rice APETALA1/AGAMOUS-LIKE9 family proteins using a yeast two-hybrid system. Plant Physiol.  120, 1193–1204. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Ng, M. and Yanofsky, M.F. (2001) Activation of the Arabidopsis B class homeotic genes by APETALA1. Plant Cell, 13, 739–753. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Ohta, M., Matsui, K., Hiratsu, K., Shinshi, H. and Ohme-Takagi, M. (2001) Repression domains of Class II ERF transcriptional repressors share an essential motif for active repression. Plant Cell, 13, 1959–1968. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Parenicová, L., De Folter, S., Kieffer, M.                 et al.              (2003) Molecular and phylogenetic analyses of the complete MADS-box transcription factor family in Arabidopsis: New openings to the MADS world. Plant Cell, 15, 1538–1551. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Pelaz, S., Gustafson-Brown, C., Kohalmi, S.E., Crosby, W.L. and Yanofsky, M.F. (2001) APETALA1 and SEPALLATA3 interact to promote flower development. Plant J.  26, 385–394. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  PDF(373K)
+                
+              
+            
+            
+          
+          
+              Perry, S.E., Nichols, K.W. and Fernandez, D.E. (1996) The MADS domain protein AGL15 localizes to the nucleus during early stages of seed development. Plant Cell, 8, 1977–1989. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Perry, S.E., Lehti, M.D. and Fernandez, D.E. (1999) The MADS-domain protein AGAMOUS-Like 15 accumulates in embryonic tissues with diverse origins. Plant Physiol.  120, 121–130. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Riechmann, J.L., Krizek, B.A. and Meyerowitz, E.M. (1996) Dimerization specificity of Arabidopsis MADS domain homeotic proteins APETALA1, APETALA3, PISTILLATA, and AGAMOUS. Proc. Natl Acad. Sci. USA, 93, 4793–4798. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science®,
+              
+                ADS
+              
+            
+            
+          
+          
+              Riechmann, J. and Meyerowitz, E. (1997) MADS domain proteins in plant development. Biol. Chem.  378, 1079–1101. 
+            
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Rose, M.D. (1987) Gene isolation by complementation in yeast. Methods Enzymol.  152, 481–504. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Rounsley, S.D., Ditta, G.S. and Yanofsky, M.F. (1995) Diverse roles for MADS box genes in Arabidopsis development. Plant Cell, 7, 1259–1269. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Shchennikova, A.V., Shulga, O.A., Immink, R., Skryabin, K.G. and Angenent, G.C. (2004) Identification and characterization of four chrysanthemum MADS-box genes, belonging to the APETALA1/FRUITFULL and SEPALLATA3 subfamilies. Plant Physiol.  134, 1632–1641. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Silverstein, R.A. and Ekwall, K. (2005) Sin3: a flexible regulator of global gene expression and genome stability. Curr. Genet.  47, 1–17. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Singh, N., Zhu, W. and Hanes, S.D. (2005) Sap18 is required for the maternal gene bicoid to direct anterior patterning in Drosophila melanogaster. Dev. Biol.  278, 242–254. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Song, C.P. and Galbraith, D.W. (2006) AtSAP18, an orthologue of human SAP18, is involved in the regulation of salt stress and mediates transcriptional repression in Arabidopsis. Plant Mol. Biol.  60, 241–257. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Song, C.P., Agarwal, M., Ohta, M., Guo, Y., Halfter, U., Wang, P. and Zhu, J.K. (2005) Role of an Arabidopsis AP2/EREBP-type transcriptional repressor in abscisic acid and drought stress responses. Plant Cell, 17, 2384–2396. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Sridhar, V.V., Surendrarao, A. and Liu, Z. (2006) APETALA1 and SEPALLATA3 interact with SEUSS to mediate transcription repression during flower development. Development, 133, 3159–3166. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 53
+              
+            
+            
+          
+          
+              Tai, H.H., Tai, G.C. and Beardmore, T. (2005) Dynamic histone acetylation of late embryonic genes during seed germination. Plant Mol. Biol.  59, 909–925. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Tang, W. and Perry, S.E. (2003) Binding site selection for the plant MADS domain protein AGL15: an in vitro and in vivo study. J. Biol. Chem.  278, 28154–28159. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Tian, L., Wang, J., Fong, M.P., Chen, M., Cao, H., Gelvin, S.B. and Chen, Z.J. (2003) Genetic control of developmental changes induced by disruption of Arabidopsis histone deacetylase 1 (AtHD1) expression. Genetics, 165, 399–409. 
+            
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Tian, L. and Chen, Z.J. (2001) Blocking histone deacetylation in Arabidopsis induces pleiotropic effects on plant gene regulation and development. Proc. Natl Acad. Sci. USA, 98, 200–205. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Titz, B., Thomas, S., Rajagopala, S.V., Chiba, T., Ito, T. and Uetz, P. (2006) Transcriptional activators in yeast. Nucleic Acids Res.  34, 955–967. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Tiwari, S.B., Hagen, G. and Guilfoyle, T.J. (2004) Aux/IAA proteins contain a potent transcriptional repression domain. Plant Cell, 16, 533–543. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Verelst, W., Saedler, H. and Münster, T. (2007) MIKC* MADS-protein complexes bind motifs enriched in the proximal region of late pollen-specific Arabidopsis promoters. Plant Physiol.  143, 447–460. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Wang, H., Caruso, L.V., Downie, A.B. and Perry, S.E. (2004) The embryo MADS-domain protein AGAMOUS-Like 15 directly regulates expression of a gene encoding an enzyme involved in gibberellin metabolism. Plant Cell, 16, 1206–1219. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Wang, H., Tang, W., Zhu, C. and Perry, S.E. (2002) A chromatin immunoprecipitation (ChIP) approach to isolate genes regulated by AGL15, a MADS domain protein that preferentially accumulates in embryos. Plant J.  32, 831–843. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(286K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Wu, K., Malik, K., Tian, L., Brown, B. and Miki, B. (2000) Functional analysis of a RPD3 histone deacetylase homologue in Arabidopsis thaliana. Plant Mol. Biol.  44, 167–176. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Yalovsky, S., Rodriguez-Concepcion, M., Bracha, K., Toledo-Ortiz, G. and Gruissem, W. (2000) Prenylation of the floral transcription factor APETALA1 modulates its function. Plant Cell, 12, 1257–1266. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Yang, Y.Z.Li, R. and Qi, M. (2000) In vivo analysis of plant promoters and transcription factors by agroinfiltration of tobacco leaves. Plant J.  22, 543–551. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(362K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Yang, Y., Fanning, L. and Jack, T. (2003a) The K domain mediates heterodimerization of the Arabidopsis floral organ identity proteins, APETALA3 and PISTILLATA. Plant J.  33, 47–59. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(348K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Yang, Y., Xiang, H. and Jack, T. (2003b) pistillata-5, an Arabidopsis B class mutant with strong defects in petal but not in stamen development. Plant J.  33, 177–188. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(352K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Yang, Y. and Jack, T. (2004) Defining subdomains of the K domain important for protein-protein interactions of plant MADS proteins. Plant Mol. Biol.  55, 45–59. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Yang, W.M., Inouye, C., Zeng, Y., Bearss, D. and Seto, E. (1996) Transcriptional repression by YY1 is mediated by interaction with a mammalian homolog of the yeast global regulator RPD3. Proc. Natl Acad. Sci. USA, 93, 12845–12850. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science®,
+              
+                ADS
+              
+            
+            
+          
+          
+              Zhang, Y., Iratni, R., Erdjument-Bromage, H., Tempst, P. and Reinberg, D. (1997) Histone deacetylases and SAP18, a novel polypeptide, are components of a human Sin3 complex. Cell, 89, 357–364. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Zhou, C., Zhang, L., Duan, B., Brian, M. and Wu, K. (2005) HISTONE DEACETYLASE19 is involved in jasmonic acid and ethylene signaling of pathogen response in Arabidopsis. Plant Cell, 17, 1196–1204. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Zhu, W., Foehr, M., Jaynes, J.B. and Hanes, S.D. (2001) Drosophila SAP18, a member of the Sin3/Rpd3 histone deacetylase complex, interacts with Bicoid and inhibits its activity. Dev. Genes Evol.  211, 109–117. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Zhu, W. and Hanes, S.D. (2000) Identification of Drosophila bicoid-interacting proteins using a custom two-hybrid selection. Gene, 245, 329–339. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science®
+              
+            
+            
+          
+          
+              Zhu, C. and Perry, S.E. (2005) Control of expression and autoregulation of AGL15, a member of the MADS-box family. Plant J.  41, 583–594. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(348K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+        
+      
+      
+        
+          Supporting Information
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          Table  S1. pGBKT7 (bait) constructs. Cloning details for generation of the bait constructs for yeast two-hybrid assays are provided.
+        
+        
+          Table  S2. pGADT7 (prey) constructs. Cloning details for generation of the prey constructs for yeast two-hybrid assays are provided.
+        
+        
+          Table  S3. Oligonucleotides used for multiplex PCR to test for binding by AGL15. Oligonucleotide sequences to amplify DNA fragments corresponding to putative direct targets of AGL15, as well as control DNA fragments that are not expected to be bound by AGL15, are provided.
+        
+        
+          Table  S4. Oligonucleotides used for RT-PCR. Oligonucleotide sequences to assess transcript accumulation of suspected direct targets of AGL15, as well as control transcripts not expected to be regulated by AGL15, are provided.
+        
+        
+          Please note: Blackwell Publishing are not responsible for the content or functionality of any supplementary materials supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+        
+        
+          
+            
+              Filename
+              Format
+              Size
+              Description
+            
+          
+          
+            
+              
+                TPJ_3336_sm_TPJ3336_sm_legends.doc
+              
+              
+              20K
+              Supporting info item
+            
+            
+              
+                TPJ_3336_sm_TPJ3336_sm_tables1-4.doc
+              
+              
+              66K
+              Supporting info item
+            
+          
+        
+        Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting materials supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+      
+      
+ .overlined {
+   text-decoration: overline;
+ }
+ .struck {
+   text-decoration:line-through;
+ }
+ .underlined {
+   text-decoration:underline;
+ }
+ .doubleUnderlined {
+   text-decoration:underline;border-bottom:1px solid #000;
+ } 
+
+    
+  

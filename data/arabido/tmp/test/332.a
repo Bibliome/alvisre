@@ -1,0 +1,2903 @@
+T1	Sentence 317 1147	Wang and                                             Donald R. McCarty                   Plant Molecular and Cellular Biology Program, Horticultural Sciences Department, University of Florida, Gainesville, Florida                            32611                                                                  ↵*Corresponding author; e-mail masaharu{at}ufl.edu; fax 352–392–5653.                                                                                                   Next Section                   Abstract                                      Plant embryo development is regulated by a network of transcription factors that include LEAFY COTYLEDON 1 (LEC1), LEC1-LIKE (L1L), and B3 domain factors, LEAFY COTYLEDON 2 (LEC2), FUSCA3 (FUS3), and ABSCISIC ACID INSENSITIVE 3 (ABI3) of Arabidopsis (Arabidopsis thaliana).
+T2	Sentence 1148 1316	Interactions of these genes result in temporal progression of overlapping B3 gene expression culminating in maturation                      and desiccation of the seed.
+T3	Sentence 1317 1453	Three VP1/ABI3-LIKE (VAL) genes encode B3 proteins that include plant homeodomain-like and CW domains associated with chromatin factors.
+T4	Sentence 1454 1646	Whereas val monogenic mutants have phenotypes similar to wild type, val1 val2 double-mutant seedlings form no leaves and develop embryo-like proliferations in root and apical meristem regions.
+T5	Sentence 1647 1781	In a val1 background, val2 and val3 condition a dominant variegated leaf phenotype revealing a VAL function in vegetative development.
+T6	Sentence 1782 1927	Reminiscent of the pickle (pkl) mutant, inhibition of gibberellin biosynthesis during germination induces embryonic phenotypes in val1 seedlings.
+T7	Sentence 1928 2155	Consistent with the embryonic seedling phenotype, LEC1, L1L, ABI3, and FUS3 are up-regulated in val1 val2 seedlings in association with a global shift in gene expression to a profile resembling late-torpedo-stage embryogenesis.
+T8	Sentence 2177 2253	Hence, VAL factors function as global repressors of the LEC1/B3 gene system.
+T9	Sentence 2254 2481	The consensus binding site of the ABI3/FUS3/LEC2 B3 DNA-binding domain (Sph/RY) is strongly enriched in the                      promoters and first introns of VAL-repressed genes, including the early acting LEC1 and L1L genes.
+T10	Sentence 2482 2674	We suggest that VAL targets Sph/RY-containing genes in the network for chromatin-mediated repression in conjunction with the PKL-related CHD3                      chromatin-remodeling factors.
+T11	Sentence 2744 3218	Embryo development in plants is regulated by a network of transcription factors that include the LEAFY COTYLEDON 1 (LEC1) and LEC1-LIKE (L1L) genes belonging to the HAP3 family CCAAT-binding factors and a subgroup of the plant-specific B3 domain protein family composed                   of the LEC2, FUSCA3 (FUS3), and ABSCISIC ACID (ABA)-INSENSITIVE 3 (ABI3) genes (Giraudat et al., 1992; Lotan et al., 1998; Luerssen et al., 1998; Stone et al., 2001; Kwong et al., 2003).
+T12	Sentence 3250 3635	A series of studies have detailed the complex sequential and regional expression patterns and mutual interactions among these                   regulators, which underlie the process of embryo formation (Parcy et al., 1997; Nambara et al., 2000; Raz et al., 2001; Brocard-Gifford et al., 2003; Baumbusch et al., 2004; Kagaya et al., 2005; Santos Mendoza et al., 2005; To et al., 2006).
+T13	Sentence 3636 3886	LEC1 and L1L act early in embryogenesis and initiate a complex progression of B3 transcription factor expression associated with the transition                   from embryo morphogenesis to embryo maturation and acquisition of desiccation tolerance.
+T14	Sentence 3887 4198	RNA interference of L1L function has been shown to cause embryo arrest during morphogenesis (Kwong et al., 2003), whereas lec1 embryos complete morphogenesis and are capable of further development into plants if rescued prior to desiccation of the                   seed (Meinke, 1992, 1994; West et al., 1994).
+T15	Sentence 4199 4336	Ectopic expression of LEC1 or L1L is sufficient to induce embryo formation in vegetative organs (Lotan et al., 1998; Kwong et al., 2003).
+T16	Sentence 4337 4495	The lec1, fus3, and lec2 mutations cause partial transformation of cotyledons to leaf-like organs (Meinke, 1992, 1994; Keith et al., 1994; West et al., 1994).
+T17	Sentence 4496 4591	The fus3 mutant embryos, if rescued, are also viable (Keith et al., 1994; Meinke et al., 1994).
+T18	Sentence 4592 4799	Overexpression of LEC2 or FUS3 causes ectopic expression of embryonic traits in vegetative tissues, albeit not as strongly as induced by LEC1 or L1L misexpression (Stone et al., 2001; Tsuchiya et al., 2004).
+T19	Sentence 4800 5001	Finally, ABI3 is required for maturation-related and ABA-regulated gene expression and establishment of embryo dormancy during mid-to-late                   embryo development (Koornneef et al., 1984).
+T20	Sentence 5002 5156	Null abi3 mutant embryos are morphologically almost normal and viable if rescued prior to desiccation (Giraudat et al., 1992; Nambara et al., 1992, 1994).
+T21	Sentence 5157 5373	Plants that ectopically express ABI3 or the maize (Zea mays) ortholog VP1 develop normally, but have dramatically altered ABA-dependent gene expression in vegetative tissues (Parcy et al., 1994; Suzuki et al., 2001).
+T22	Sentence 5405 5616	A major function of the LEC2, FUS3, and ABI3 B3 transcription factors is activation of genes involved in accumulation of storage protein and lipid reserves in the embryo                   during seed maturation.
+T23	Sentence 5617 5962	Activation of downstream genes is mediated by specific binding of the B3 domain (Suzuki et al., 1997; Kroj et al., 2003; Carranco et al., 2004; Monke et al., 2004; Braybrook et al., 2006) to the Sph/RY cis-element (Hattori et al., 1992; Kao et al., 1996; Ezcurra et al., 1999; Reidt et al., 2000; Chandrasekharan et al., 2003; Nag et al., 2005).
+T24	Sentence 5963 6182	In addition, ABI3 mediates ABA-regulated gene expression in the seed through interaction with specific basic Leu-zipper transcription factors                   that bind ABA response elements (Finkelstein et al., 2002).
+T25	Sentence 6183 6316	FUS3 and LEC2 are implicated in repression of GA biosynthesis during seed development (Curaba et al., 2004; Gazzarrini et al., 2004).
+T26	Sentence 6317 6546	The B3 factors themselves are regulated in part through mutual interactions, as well as unidentified region-specific signals                   within the embryo (Kagaya et al., 2005; Santos Mendoza et al., 2005; To et al., 2006).
+T27	Sentence 6578 6673	The LEC1/B3 network is repressed prior to germination and resumption of vegetative development.
+T28	Word 317 321	Wang|NN|
+T29	Word 322 325	and|CC|
+T30	Word 370 387	Donald R. McCarty|NN|
+T31	Word 406 411	Plant|JJ|
+T32	Word 412 421	Molecular|JJ|
+T33	Word 422 425	and|CC|
+T34	Word 426 434	Cellular|JJ|
+T35	Word 435 442	Biology|NN|
+T36	Word 443 450	Program|NN|
+T37	Word 450 451	,|,|
+T38	Word 452 485	Horticultural Sciences Department|NN|
+T39	Word 485 486	,|,|
+T40	Word 487 508	University of Florida|NNP|
+T41	Word 508 509	,|,|
+T42	Word 510 521	Gainesville|NNP|
+T43	Word 521 522	,|,|
+T44	Word 523 530	Florida|NNP|
+T45	Word 558 563	32611|CD|
+T46	Word 629 644	↵*Corresponding|JJ|
+T47	Word 645 651	author|NN|
+T48	Word 651 652	;|:|
+T49	Word 653 659	e-mail|NN|
+T50	Word 660 675	masaharu{at}ufl|NN|
+T51	Word 675 676	.|.|
+T52	Word 676 679	edu|NN|
+T53	Word 679 680	;|:|
+T54	Word 681 684	fax|NN|
+T55	Word 685 697	352–392–5653|CD|
+T56	Word 697 698	.|.|
+T57	Word 796 801	 Next|JJ|
+T58	Word 802 809	Section|NN|
+T59	Word 828 836	Abstract|NN|
+T60	Word 874 879	Plant|JJ|
+T61	Word 880 886	embryo|NN|
+T62	Word 887 898	development|NN|
+T63	Word 899 901	is|VBZ|
+T64	Word 902 911	regulated|VBN|
+T65	Word 912 914	by|IN|
+T66	Word 915 916	a|DT|
+T67	Word 917 924	network|NN|
+T68	Word 925 927	of|IN|
+T69	Word 928 941	transcription|NN|
+T70	Word 942 949	factors|NNS|
+T71	Word 950 954	that|WDT|
+T72	Word 955 962	include|VBP|
+T73	Word 963 968	LEAFY|NN|
+T74	Word 969 978	COTYLEDON|NN|
+T75	Word 979 980	1|CD|
+T76	Word 981 982	(|LRB|
+T77	Word 982 986	LEC1|NN|
+T78	Word 986 987	)|RRB|
+T79	Word 987 988	,|,|
+T80	Word 989 993	LEC1|NN|
+T81	Word 993 994	-|CD|
+T82	Word 994 998	LIKE|NN|
+T83	Word 999 1000	(|LRB|
+T84	Word 1000 1003	L1L|NN|
+T85	Word 1003 1004	)|RRB|
+T86	Word 1004 1005	,|,|
+T87	Word 1006 1009	and|CC|
+T88	Word 1010 1012	B3|NN|
+T89	Word 1013 1019	domain|NN|
+T90	Word 1020 1027	factors|NNS|
+T91	Word 1027 1028	,|,|
+T92	Word 1029 1034	LEAFY|NN|
+T93	Word 1035 1044	COTYLEDON|NN|
+T94	Word 1045 1046	2|CD|
+T95	Word 1047 1048	(|LRB|
+T96	Word 1048 1052	LEC2|NN|
+T97	Word 1052 1053	)|RRB|
+T98	Word 1053 1054	,|,|
+T99	Word 1055 1061	FUSCA3|NN|
+T100	Word 1062 1063	(|LRB|
+T101	Word 1063 1067	FUS3|NN|
+T102	Word 1067 1068	)|RRB|
+T103	Word 1068 1069	,|,|
+T104	Word 1070 1073	and|CC|
+T105	Word 1074 1082	ABSCISIC|NN|
+T106	Word 1083 1087	ACID|NN|
+T107	Word 1088 1099	INSENSITIVE|NN|
+T108	Word 1100 1101	3|CD|
+T109	Word 1102 1103	(|LRB|
+T110	Word 1103 1107	ABI3|NN|
+T111	Word 1107 1108	)|RRB|
+T112	Word 1109 1111	of|IN|
+T113	Word 1112 1123	Arabidopsis|NP|
+T114	Word 1124 1125	(|LRB|
+T115	Word 1125 1145	Arabidopsis thaliana|NP|
+T116	Word 1145 1146	)|RRB|
+T117	Word 1146 1147	.|.|
+T118	Word 1148 1160	Interactions|NNS|
+T119	Word 1161 1163	of|IN|
+T120	Word 1164 1169	these|DT|
+T121	Word 1170 1175	genes|NNS|
+T122	Word 1176 1182	result|VBP|
+T123	Word 1183 1185	in|IN|
+T124	Word 1186 1194	temporal|JJ|
+T125	Word 1195 1206	progression|NN|
+T126	Word 1207 1209	of|IN|
+T127	Word 1210 1221	overlapping|VBG|
+T128	Word 1222 1224	B3|NN|
+T129	Word 1225 1229	gene|NN|
+T130	Word 1230 1240	expression|NN|
+T131	Word 1241 1252	culminating|VBG|
+T132	Word 1253 1255	in|IN|
+T133	Word 1256 1266	maturation|NN|
+T134	Word 1288 1291	and|CC|
+T135	Word 1292 1303	desiccation|NN|
+T136	Word 1304 1306	of|IN|
+T137	Word 1307 1310	the|DT|
+T138	Word 1311 1315	seed|NN|
+T139	Word 1315 1316	.|.|
+T140	Word 1317 1322	Three|CD|
+T141	Word 1323 1326	VP1|NN|
+T142	Word 1326 1327	/|NN|
+T143	Word 1327 1331	ABI3|NN|
+T144	Word 1331 1332	-|CD|
+T145	Word 1332 1336	LIKE|NN|
+T146	Word 1337 1338	(|LRB|
+T147	Word 1338 1341	VAL|NN|
+T148	Word 1341 1342	)|RRB|
+T149	Word 1343 1348	genes|NNS|
+T150	Word 1349 1355	encode|VBP|
+T151	Word 1356 1358	B3|NN|
+T152	Word 1359 1367	proteins|NNS|
+T153	Word 1368 1372	that|WDT|
+T154	Word 1373 1380	include|VBP|
+T155	Word 1381 1386	plant|NN|
+T156	Word 1387 1398	homeodomain|NN|
+T157	Word 1398 1399	-|CD|
+T158	Word 1399 1403	like|IN|
+T159	Word 1404 1407	and|CC|
+T160	Word 1408 1410	CW|NN|
+T161	Word 1411 1418	domains|NNS|
+T162	Word 1419 1429	associated|VBN|
+T163	Word 1430 1434	with|IN|
+T164	Word 1435 1444	chromatin|NN|
+T165	Word 1445 1452	factors|NNS|
+T166	Word 1452 1453	.|.|
+T167	Word 1454 1461	Whereas|IN|
+T168	Word 1462 1465	val|JJ|
+T169	Word 1466 1475	monogenic|JJ|
+T170	Word 1476 1483	mutants|NNS|
+T171	Word 1484 1488	have|VBP|
+T172	Word 1489 1499	phenotypes|NNS|
+T173	Word 1500 1507	similar|JJ|
+T174	Word 1508 1510	to|TO|
+T175	Word 1511 1515	wild|JJ|
+T176	Word 1516 1520	type|NN|
+T177	Word 1520 1521	,|,|
+T178	Word 1522 1526	val1|NN|
+T179	Word 1527 1531	val2|NN|
+T180	Word 1532 1538	double|JJ|
+T181	Word 1538 1539	-|JJ|
+T182	Word 1539 1545	mutant|JJ|
+T183	Word 1546 1555	seedlings|NNS|
+T184	Word 1556 1560	form|VBP|
+T185	Word 1561 1563	no|DT|
+T186	Word 1564 1570	leaves|NNS|
+T187	Word 1571 1574	and|CC|
+T188	Word 1575 1582	develop|VBP|
+T189	Word 1583 1589	embryo|NN|
+T190	Word 1589 1590	-|CD|
+T191	Word 1590 1594	like|IN|
+T192	Word 1595 1609	proliferations|NNS|
+T193	Word 1610 1612	in|IN|
+T194	Word 1613 1617	root|NN|
+T195	Word 1618 1621	and|CC|
+T196	Word 1622 1628	apical|JJ|
+T197	Word 1629 1637	meristem|NN|
+T198	Word 1638 1645	regions|NNS|
+T199	Word 1645 1646	.|.|
+T200	Word 1647 1649	In|IN|
+T201	Word 1650 1651	a|DT|
+T202	Word 1652 1656	val1|NN|
+T203	Word 1657 1667	background|NN|
+T204	Word 1667 1668	,|,|
+T205	Word 1669 1673	val2|NN|
+T206	Word 1674 1677	and|CC|
+T207	Word 1678 1682	val3|NN|
+T208	Word 1683 1692	condition|NN|
+T209	Word 1693 1694	a|DT|
+T210	Word 1695 1703	dominant|JJ|
+T211	Word 1704 1714	variegated|JJ|
+T212	Word 1715 1719	leaf|NN|
+T213	Word 1720 1729	phenotype|NN|
+T214	Word 1730 1739	revealing|VBG|
+T215	Word 1740 1741	a|DT|
+T216	Word 1742 1745	VAL|NN|
+T217	Word 1746 1754	function|NN|
+T218	Word 1755 1757	in|IN|
+T219	Word 1758 1768	vegetative|JJ|
+T220	Word 1769 1780	development|NN|
+T221	Word 1780 1781	.|.|
+T222	Word 1782 1793	Reminiscent|NN|
+T223	Word 1794 1796	of|IN|
+T224	Word 1797 1800	the|DT|
+T225	Word 1801 1807	pickle|NN|
+T226	Word 1808 1809	(|LRB|
+T227	Word 1809 1812	pkl|NN|
+T228	Word 1812 1813	)|RRB|
+T229	Word 1814 1820	mutant|NN|
+T230	Word 1820 1821	,|,|
+T231	Word 1822 1832	inhibition|NN|
+T232	Word 1833 1835	of|IN|
+T233	Word 1836 1847	gibberellin|NN|
+T234	Word 1848 1860	biosynthesis|NN|
+T235	Word 1861 1867	during|IN|
+T236	Word 1868 1879	germination|NN|
+T237	Word 1880 1887	induces|VBZ|
+T238	Word 1888 1897	embryonic|JJ|
+T239	Word 1898 1908	phenotypes|NNS|
+T240	Word 1909 1911	in|IN|
+T241	Word 1912 1916	val1|NN|
+T242	Word 1917 1926	seedlings|NNS|
+T243	Word 1926 1927	.|.|
+T244	Word 1928 1938	Consistent|JJ|
+T245	Word 1939 1943	with|IN|
+T246	Word 1944 1947	the|DT|
+T247	Word 1948 1957	embryonic|JJ|
+T248	Word 1958 1966	seedling|NN|
+T249	Word 1967 1976	phenotype|NN|
+T250	Word 1976 1977	,|,|
+T251	Word 1978 1982	LEC1|NN|
+T252	Word 1982 1983	,|,|
+T253	Word 1984 1987	L1L|NN|
+T254	Word 1987 1988	,|,|
+T255	Word 1989 1993	ABI3|NN|
+T256	Word 1993 1994	,|,|
+T257	Word 1995 1998	and|CC|
+T258	Word 1999 2003	FUS3|NN|
+T259	Word 2004 2007	are|VBP|
+T260	Word 2008 2020	up-regulated|VBN|
+T261	Word 2021 2023	in|IN|
+T262	Word 2024 2028	val1|NN|
+T263	Word 2029 2033	val2|NN|
+T264	Word 2034 2043	seedlings|NNS|
+T265	Word 2044 2046	in|IN|
+T266	Word 2047 2058	association|NN|
+T267	Word 2059 2063	with|IN|
+T268	Word 2064 2065	a|DT|
+T269	Word 2066 2072	global|JJ|
+T270	Word 2073 2078	shift|NN|
+T271	Word 2079 2081	in|IN|
+T272	Word 2082 2086	gene|NN|
+T273	Word 2087 2097	expression|NN|
+T274	Word 2098 2100	to|TO|
+T275	Word 2101 2102	a|DT|
+T276	Word 2103 2110	profile|NN|
+T277	Word 2111 2121	resembling|VBG|
+T278	Word 2122 2126	late|JJ|
+T279	Word 2126 2127	-|JJ|
+T280	Word 2127 2134	torpedo|NN|
+T281	Word 2134 2135	-|JJ|
+T282	Word 2135 2140	stage|NN|
+T283	Word 2141 2154	embryogenesis|NN|
+T284	Word 2154 2155	.|.|
+T285	Word 2177 2182	Hence|RB|
+T286	Word 2182 2183	,|,|
+T287	Word 2184 2187	VAL|NN|
+T288	Word 2188 2195	factors|NNS|
+T289	Word 2196 2204	function|VBP|
+T290	Word 2205 2207	as|IN|
+T291	Word 2208 2214	global|JJ|
+T292	Word 2215 2225	repressors|NNS|
+T293	Word 2226 2228	of|IN|
+T294	Word 2229 2232	the|DT|
+T295	Word 2233 2237	LEC1|NN|
+T296	Word 2237 2238	/|NN|
+T297	Word 2238 2240	B3|NN|
+T298	Word 2241 2245	gene|NN|
+T299	Word 2246 2252	system|NN|
+T300	Word 2252 2253	.|.|
+T301	Word 2254 2257	The|DT|
+T302	Word 2258 2267	consensus|NN|
+T303	Word 2268 2275	binding|NN|
+T304	Word 2276 2280	site|NN|
+T305	Word 2281 2283	of|IN|
+T306	Word 2284 2287	the|DT|
+T307	Word 2288 2292	ABI3|NN|
+T308	Word 2292 2293	/|NN|
+T309	Word 2293 2297	FUS3|NN|
+T310	Word 2297 2298	/|NN|
+T311	Word 2298 2302	LEC2|NN|
+T312	Word 2303 2305	B3|NN|
+T313	Word 2306 2309	DNA|NN|
+T314	Word 2309 2310	-|NN|
+T315	Word 2310 2317	binding|NN|
+T316	Word 2318 2324	domain|NN|
+T317	Word 2325 2326	(|LRB|
+T318	Word 2326 2329	Sph|NN|
+T319	Word 2329 2330	/|NN|
+T320	Word 2330 2332	RY|NN|
+T321	Word 2332 2333	)|RRB|
+T322	Word 2334 2336	is|VBZ|
+T323	Word 2337 2345	strongly|RB|
+T324	Word 2346 2354	enriched|VBN|
+T325	Word 2355 2357	in|IN|
+T326	Word 2358 2361	the|DT|
+T327	Word 2383 2392	promoters|NNS|
+T328	Word 2393 2396	and|CC|
+T329	Word 2397 2402	first|JJ|
+T330	Word 2403 2410	introns|NNS|
+T331	Word 2411 2413	of|IN|
+T332	Word 2414 2417	VAL|NN|
+T333	Word 2417 2418	-|CD|
+T334	Word 2418 2427	repressed|VBD|
+T335	Word 2428 2433	genes|NNS|
+T336	Word 2433 2434	,|,|
+T337	Word 2435 2444	including|VBG|
+T338	Word 2445 2448	the|DT|
+T339	Word 2449 2454	early|JJ|
+T340	Word 2455 2461	acting|NN|
+T341	Word 2462 2466	LEC1|NN|
+T342	Word 2467 2470	and|CC|
+T343	Word 2471 2474	L1L|NN|
+T344	Word 2475 2480	genes|NNS|
+T345	Word 2480 2481	.|.|
+T346	Word 2482 2484	We|PRP|
+T347	Word 2485 2492	suggest|VBP|
+T348	Word 2493 2497	that|IN|
+T349	Word 2498 2501	VAL|NN|
+T350	Word 2502 2509	targets|VBZ|
+T351	Word 2510 2513	Sph|NN|
+T352	Word 2513 2514	/|NN|
+T353	Word 2514 2516	RY|NN|
+T354	Word 2516 2517	-|CD|
+T355	Word 2517 2527	containing|VBG|
+T356	Word 2528 2533	genes|NNS|
+T357	Word 2534 2536	in|IN|
+T358	Word 2537 2540	the|DT|
+T359	Word 2541 2548	network|NN|
+T360	Word 2549 2552	for|IN|
+T361	Word 2553 2562	chromatin|NN|
+T362	Word 2562 2563	-|NN|
+T363	Word 2563 2571	mediated|VBD|
+T364	Word 2572 2582	repression|NN|
+T365	Word 2583 2585	in|IN|
+T366	Word 2586 2597	conjunction|NN|
+T367	Word 2598 2602	with|IN|
+T368	Word 2603 2606	the|DT|
+T369	Word 2607 2610	PKL|NN|
+T370	Word 2610 2611	-|CD|
+T371	Word 2611 2618	related|JJ|
+T372	Word 2619 2623	CHD3|NN|
+T373	Word 2645 2654	chromatin|NN|
+T374	Word 2654 2655	-|CD|
+T375	Word 2655 2665	remodeling|NN|
+T376	Word 2666 2673	factors|NNS|
+T377	Word 2673 2674	.|.|
+T378	Word 2744 2750	Embryo|NN|
+T379	Word 2751 2762	development|NN|
+T380	Word 2763 2765	in|IN|
+T381	Word 2766 2772	plants|NN|
+T382	Word 2773 2775	is|VBZ|
+T383	Word 2776 2785	regulated|VBN|
+T384	Word 2786 2788	by|IN|
+T385	Word 2789 2790	a|DT|
+T386	Word 2791 2798	network|NN|
+T387	Word 2799 2801	of|IN|
+T388	Word 2802 2815	transcription|NN|
+T389	Word 2816 2823	factors|NNS|
+T390	Word 2824 2828	that|WDT|
+T391	Word 2829 2836	include|VBP|
+T392	Word 2837 2840	the|DT|
+T393	Word 2841 2846	LEAFY|NN|
+T394	Word 2847 2856	COTYLEDON|NN|
+T395	Word 2857 2858	1|CD|
+T396	Word 2859 2860	(|LRB|
+T397	Word 2860 2864	LEC1|NN|
+T398	Word 2864 2865	)|RRB|
+T399	Word 2866 2869	and|CC|
+T400	Word 2870 2874	LEC1|NN|
+T401	Word 2874 2875	-|CD|
+T402	Word 2875 2879	LIKE|NN|
+T403	Word 2880 2881	(|LRB|
+T404	Word 2881 2884	L1L|NN|
+T405	Word 2884 2885	)|RRB|
+T406	Word 2886 2891	genes|NNS|
+T407	Word 2892 2901	belonging|VBG|
+T408	Word 2902 2904	to|TO|
+T409	Word 2905 2908	the|DT|
+T410	Word 2909 2913	HAP3|NN|
+T411	Word 2914 2920	family|NN|
+T412	Word 2921 2926	CCAAT|NN|
+T413	Word 2926 2927	-|NN|
+T414	Word 2927 2934	binding|NN|
+T415	Word 2935 2942	factors|NNS|
+T416	Word 2943 2946	and|CC|
+T417	Word 2947 2948	a|DT|
+T418	Word 2949 2957	subgroup|NN|
+T419	Word 2958 2960	of|IN|
+T420	Word 2961 2964	the|DT|
+T421	Word 2965 2970	plant|NN|
+T422	Word 2970 2971	-|CD|
+T423	Word 2971 2979	specific|JJ|
+T424	Word 2980 2982	B3|NN|
+T425	Word 2983 2989	domain|NN|
+T426	Word 2990 2997	protein|NN|
+T427	Word 2998 3004	family|NN|
+T428	Word 3005 3013	composed|VBN|
+T429	Word 3032 3034	of|IN|
+T430	Word 3035 3038	the|DT|
+T431	Word 3039 3043	LEC2|NN|
+T432	Word 3043 3044	,|,|
+T433	Word 3045 3051	FUSCA3|NN|
+T434	Word 3052 3053	(|LRB|
+T435	Word 3053 3057	FUS3|NN|
+T436	Word 3057 3058	)|RRB|
+T437	Word 3058 3059	,|,|
+T438	Word 3060 3063	and|CC|
+T439	Word 3064 3072	ABSCISIC|NN|
+T440	Word 3073 3077	ACID|NN|
+T441	Word 3078 3079	(|LRB|
+T442	Word 3079 3082	ABA|NN|
+T443	Word 3082 3083	)|RRB|
+T444	Word 3083 3084	-|CD|
+T445	Word 3084 3095	INSENSITIVE|NN|
+T446	Word 3096 3097	3|CD|
+T447	Word 3098 3099	(|LRB|
+T448	Word 3099 3103	ABI3|NN|
+T449	Word 3103 3104	)|RRB|
+T450	Word 3105 3110	genes|NNS|
+T451	Word 3111 3112	(|LRB|
+T452	Word 3112 3120	Giraudat|NN|
+T453	Word 3121 3127	et al.|FW|
+T454	Word 3127 3128	,|,|
+T455	Word 3129 3133	1992|CD|
+T456	Word 3133 3134	;|:|
+T457	Word 3135 3140	Lotan|NNP|
+T458	Word 3141 3147	et al.|FW|
+T459	Word 3147 3148	,|,|
+T460	Word 3149 3153	1998|CD|
+T461	Word 3153 3154	;|:|
+T462	Word 3155 3163	Luerssen|NNP|
+T463	Word 3164 3170	et al.|FW|
+T464	Word 3170 3171	,|,|
+T465	Word 3172 3176	1998|CD|
+T466	Word 3176 3177	;|:|
+T467	Word 3178 3183	Stone|NN|
+T468	Word 3184 3190	et al.|FW|
+T469	Word 3190 3191	,|,|
+T470	Word 3192 3196	2001|CD|
+T471	Word 3196 3197	;|:|
+T472	Word 3198 3203	Kwong|NN|
+T473	Word 3204 3210	et al.|FW|
+T474	Word 3210 3211	,|,|
+T475	Word 3212 3216	2003|CD|
+T476	Word 3216 3217	)|RRB|
+T477	Word 3217 3218	.|.|
+T478	Word 3250 3251	A|DT|
+T479	Word 3252 3258	series|NN|
+T480	Word 3259 3261	of|IN|
+T481	Word 3262 3269	studies|NNS|
+T482	Word 3270 3274	have|VBP|
+T483	Word 3275 3283	detailed|VBN|
+T484	Word 3284 3287	the|DT|
+T485	Word 3288 3295	complex|NN|
+T486	Word 3296 3306	sequential|JJ|
+T487	Word 3307 3310	and|CC|
+T488	Word 3311 3319	regional|JJ|
+T489	Word 3320 3330	expression|NN|
+T490	Word 3331 3339	patterns|NNS|
+T491	Word 3340 3343	and|CC|
+T492	Word 3344 3350	mutual|JJ|
+T493	Word 3351 3363	interactions|NNS|
+T494	Word 3364 3369	among|IN|
+T495	Word 3370 3375	these|DT|
+T496	Word 3394 3404	regulators|NNS|
+T497	Word 3404 3405	,|,|
+T498	Word 3406 3411	which|WDT|
+T499	Word 3412 3420	underlie|VBP|
+T500	Word 3421 3424	the|DT|
+T501	Word 3425 3432	process|NN|
+T502	Word 3433 3435	of|IN|
+T503	Word 3436 3442	embryo|NN|
+T504	Word 3443 3452	formation|NN|
+T505	Word 3453 3454	(|LRB|
+T506	Word 3454 3459	Parcy|NNP|
+T507	Word 3460 3466	et al.|FW|
+T508	Word 3466 3467	,|,|
+T509	Word 3468 3472	1997|CD|
+T510	Word 3472 3473	;|:|
+T511	Word 3474 3481	Nambara|NN|
+T512	Word 3482 3488	et al.|FW|
+T513	Word 3488 3489	,|,|
+T514	Word 3490 3494	2000|CD|
+T515	Word 3494 3495	;|:|
+T516	Word 3496 3499	Raz|NN|
+T517	Word 3500 3506	et al.|FW|
+T518	Word 3506 3507	,|,|
+T519	Word 3508 3512	2001|CD|
+T520	Word 3512 3513	;|:|
+T521	Word 3514 3521	Brocard|NNP|
+T522	Word 3521 3522	-|CD|
+T523	Word 3522 3529	Gifford|NNP|
+T524	Word 3530 3536	et al.|FW|
+T525	Word 3536 3537	,|,|
+T526	Word 3538 3542	2003|CD|
+T527	Word 3542 3543	;|:|
+T528	Word 3544 3553	Baumbusch|NN|
+T529	Word 3554 3560	et al.|FW|
+T530	Word 3560 3561	,|,|
+T531	Word 3562 3566	2004|CD|
+T532	Word 3566 3567	;|:|
+T533	Word 3568 3574	Kagaya|NN|
+T534	Word 3575 3581	et al.|FW|
+T535	Word 3581 3582	,|,|
+T536	Word 3583 3587	2005|CD|
+T537	Word 3587 3588	;|:|
+T538	Word 3589 3603	Santos Mendoza|NN|
+T539	Word 3604 3610	et al.|FW|
+T540	Word 3610 3611	,|,|
+T541	Word 3612 3616	2005|CD|
+T542	Word 3616 3617	;|:|
+T543	Word 3618 3620	To|TO|
+T544	Word 3621 3627	et al.|FW|
+T545	Word 3627 3628	,|,|
+T546	Word 3629 3633	2006|CD|
+T547	Word 3633 3634	)|RRB|
+T548	Word 3634 3635	.|.|
+T549	Word 3636 3640	LEC1|NN|
+T550	Word 3641 3644	and|CC|
+T551	Word 3645 3648	L1L|NN|
+T552	Word 3649 3652	act|VBP|
+T553	Word 3653 3658	early|JJ|
+T554	Word 3659 3661	in|IN|
+T555	Word 3662 3675	embryogenesis|NN|
+T556	Word 3676 3679	and|CC|
+T557	Word 3680 3688	initiate|VBP|
+T558	Word 3689 3690	a|DT|
+T559	Word 3691 3698	complex|JJ|
+T560	Word 3699 3710	progression|NN|
+T561	Word 3711 3713	of|IN|
+T562	Word 3714 3716	B3|NN|
+T563	Word 3717 3730	transcription|NN|
+T564	Word 3731 3737	factor|NN|
+T565	Word 3738 3748	expression|NN|
+T566	Word 3749 3759	associated|VBN|
+T567	Word 3760 3764	with|IN|
+T568	Word 3765 3768	the|DT|
+T569	Word 3769 3779	transition|NN|
+T570	Word 3798 3802	from|IN|
+T571	Word 3803 3809	embryo|NN|
+T572	Word 3810 3823	morphogenesis|NN|
+T573	Word 3824 3826	to|TO|
+T574	Word 3827 3833	embryo|NN|
+T575	Word 3834 3844	maturation|NN|
+T576	Word 3845 3848	and|CC|
+T577	Word 3849 3860	acquisition|NN|
+T578	Word 3861 3863	of|IN|
+T579	Word 3864 3875	desiccation|NN|
+T580	Word 3876 3885	tolerance|NN|
+T581	Word 3885 3886	.|.|
+T582	Word 3887 3890	RNA|NN|
+T583	Word 3891 3903	interference|NN|
+T584	Word 3904 3906	of|IN|
+T585	Word 3907 3910	L1L|NN|
+T586	Word 3911 3919	function|NN|
+T587	Word 3920 3923	has|VBZ|
+T588	Word 3924 3928	been|VBN|
+T589	Word 3929 3934	shown|VBN|
+T590	Word 3935 3937	to|TO|
+T591	Word 3938 3943	cause|VB|
+T592	Word 3944 3950	embryo|NN|
+T593	Word 3951 3957	arrest|NN|
+T594	Word 3958 3964	during|IN|
+T595	Word 3965 3978	morphogenesis|NN|
+T596	Word 3979 3980	(|LRB|
+T597	Word 3980 3985	Kwong|NNP|
+T598	Word 3986 3992	et al.|FW|
+T599	Word 3992 3993	,|,|
+T600	Word 3994 3998	2003|CD|
+T601	Word 3998 3999	)|RRB|
+T602	Word 3999 4000	,|,|
+T603	Word 4001 4008	whereas|IN|
+T604	Word 4009 4013	lec1|NN|
+T605	Word 4014 4021	embryos|NNS|
+T606	Word 4022 4030	complete|JJ|
+T607	Word 4031 4044	morphogenesis|NN|
+T608	Word 4045 4048	and|CC|
+T609	Word 4049 4052	are|VBP|
+T610	Word 4053 4060	capable|JJ|
+T611	Word 4061 4063	of|IN|
+T612	Word 4064 4071	further|JJ|
+T613	Word 4072 4083	development|NN|
+T614	Word 4084 4088	into|IN|
+T615	Word 4089 4095	plants|NN|
+T616	Word 4096 4098	if|IN|
+T617	Word 4099 4106	rescued|VBN|
+T618	Word 4107 4112	prior|JJ|
+T619	Word 4113 4115	to|TO|
+T620	Word 4116 4127	desiccation|NN|
+T621	Word 4128 4130	of|IN|
+T622	Word 4131 4134	the|DT|
+T623	Word 4153 4157	seed|NN|
+T624	Word 4158 4159	(|LRB|
+T625	Word 4159 4165	Meinke|NNP|
+T626	Word 4165 4166	,|,|
+T627	Word 4167 4171	1992|CD|
+T628	Word 4171 4172	,|,|
+T629	Word 4173 4177	1994|CD|
+T630	Word 4177 4178	;|:|
+T631	Word 4179 4183	West|NNP|
+T632	Word 4184 4190	et al.|FW|
+T633	Word 4190 4191	,|,|
+T634	Word 4192 4196	1994|CD|
+T635	Word 4196 4197	)|RRB|
+T636	Word 4197 4198	.|.|
+T637	Word 4199 4206	Ectopic|JJ|
+T638	Word 4207 4217	expression|NN|
+T639	Word 4218 4220	of|IN|
+T640	Word 4221 4225	LEC1|NN|
+T641	Word 4226 4228	or|CC|
+T642	Word 4229 4232	L1L|NN|
+T643	Word 4233 4235	is|VBZ|
+T644	Word 4236 4246	sufficient|JJ|
+T645	Word 4247 4249	to|TO|
+T646	Word 4250 4256	induce|VB|
+T647	Word 4257 4263	embryo|NN|
+T648	Word 4264 4273	formation|NN|
+T649	Word 4274 4276	in|IN|
+T650	Word 4277 4287	vegetative|JJ|
+T651	Word 4288 4294	organs|NNS|
+T652	Word 4295 4296	(|LRB|
+T653	Word 4296 4301	Lotan|NNP|
+T654	Word 4302 4308	et al.|FW|
+T655	Word 4308 4309	,|,|
+T656	Word 4310 4314	1998|CD|
+T657	Word 4314 4315	;|:|
+T658	Word 4316 4321	Kwong|NN|
+T659	Word 4322 4328	et al.|FW|
+T660	Word 4328 4329	,|,|
+T661	Word 4330 4334	2003|CD|
+T662	Word 4334 4335	)|RRB|
+T663	Word 4335 4336	.|.|
+T664	Word 4337 4340	The|DT|
+T665	Word 4341 4345	lec1|NN|
+T666	Word 4345 4346	,|,|
+T667	Word 4347 4351	fus3|NN|
+T668	Word 4351 4352	,|,|
+T669	Word 4353 4356	and|CC|
+T670	Word 4357 4361	lec2|NN|
+T671	Word 4362 4371	mutations|NNS|
+T672	Word 4372 4377	cause|VBP|
+T673	Word 4378 4385	partial|JJ|
+T674	Word 4386 4400	transformation|NN|
+T675	Word 4401 4403	of|IN|
+T676	Word 4404 4414	cotyledons|NNS|
+T677	Word 4415 4417	to|TO|
+T678	Word 4418 4422	leaf|VB|
+T679	Word 4422 4423	-|JJ|
+T680	Word 4423 4427	like|IN|
+T681	Word 4428 4434	organs|NNS|
+T682	Word 4435 4436	(|LRB|
+T683	Word 4436 4442	Meinke|NNP|
+T684	Word 4442 4443	,|,|
+T685	Word 4444 4448	1992|CD|
+T686	Word 4448 4449	,|,|
+T687	Word 4450 4454	1994|CD|
+T688	Word 4454 4455	;|:|
+T689	Word 4456 4461	Keith|NN|
+T690	Word 4462 4468	et al.|FW|
+T691	Word 4468 4469	,|,|
+T692	Word 4470 4474	1994|CD|
+T693	Word 4474 4475	;|:|
+T694	Word 4476 4480	West|NNP|
+T695	Word 4481 4487	et al.|FW|
+T696	Word 4487 4488	,|,|
+T697	Word 4489 4493	1994|CD|
+T698	Word 4493 4494	)|RRB|
+T699	Word 4494 4495	.|.|
+T700	Word 4496 4499	The|DT|
+T701	Word 4500 4504	fus3|NN|
+T702	Word 4505 4511	mutant|JJ|
+T703	Word 4512 4519	embryos|NNS|
+T704	Word 4519 4520	,|,|
+T705	Word 4521 4523	if|IN|
+T706	Word 4524 4531	rescued|VBN|
+T707	Word 4531 4532	,|,|
+T708	Word 4533 4536	are|VBP|
+T709	Word 4537 4541	also|RB|
+T710	Word 4542 4548	viable|JJ|
+T711	Word 4549 4550	(|LRB|
+T712	Word 4550 4555	Keith|JJ|
+T713	Word 4556 4562	et al.|FW|
+T714	Word 4562 4563	,|,|
+T715	Word 4564 4568	1994|CD|
+T716	Word 4568 4569	;|:|
+T717	Word 4570 4576	Meinke|NNP|
+T718	Word 4577 4583	et al.|FW|
+T719	Word 4583 4584	,|,|
+T720	Word 4585 4589	1994|CD|
+T721	Word 4589 4590	)|RRB|
+T722	Word 4590 4591	.|.|
+T723	Word 4592 4606	Overexpression|NN|
+T724	Word 4607 4609	of|IN|
+T725	Word 4610 4614	LEC2|NN|
+T726	Word 4615 4617	or|CC|
+T727	Word 4618 4622	FUS3|NN|
+T728	Word 4623 4629	causes|VBZ|
+T729	Word 4630 4637	ectopic|JJ|
+T730	Word 4638 4648	expression|NN|
+T731	Word 4649 4651	of|IN|
+T732	Word 4652 4661	embryonic|JJ|
+T733	Word 4662 4668	traits|NNS|
+T734	Word 4669 4671	in|IN|
+T735	Word 4672 4682	vegetative|JJ|
+T736	Word 4683 4690	tissues|NNS|
+T737	Word 4690 4691	,|,|
+T738	Word 4692 4698	albeit|IN|
+T739	Word 4699 4702	not|RB|
+T740	Word 4703 4705	as|RB|
+T741	Word 4706 4714	strongly|RB|
+T742	Word 4715 4717	as|IN|
+T743	Word 4718 4725	induced|VBN|
+T744	Word 4726 4728	by|IN|
+T745	Word 4729 4733	LEC1|NN|
+T746	Word 4734 4736	or|CC|
+T747	Word 4737 4740	L1L|NN|
+T748	Word 4741 4754	misexpression|NN|
+T749	Word 4755 4756	(|LRB|
+T750	Word 4756 4761	Stone|NN|
+T751	Word 4762 4768	et al.|FW|
+T752	Word 4768 4769	,|,|
+T753	Word 4770 4774	2001|CD|
+T754	Word 4774 4775	;|:|
+T755	Word 4776 4784	Tsuchiya|NN|
+T756	Word 4785 4791	et al.|FW|
+T757	Word 4791 4792	,|,|
+T758	Word 4793 4797	2004|CD|
+T759	Word 4797 4798	)|RRB|
+T760	Word 4798 4799	.|.|
+T761	Word 4800 4807	Finally|RB|
+T762	Word 4807 4808	,|,|
+T763	Word 4809 4813	ABI3|NN|
+T764	Word 4814 4816	is|VBZ|
+T765	Word 4817 4825	required|VBN|
+T766	Word 4826 4829	for|IN|
+T767	Word 4830 4840	maturation|NN|
+T768	Word 4840 4841	-|CD|
+T769	Word 4841 4848	related|JJ|
+T770	Word 4849 4852	and|CC|
+T771	Word 4853 4856	ABA|NN|
+T772	Word 4856 4857	-|JJ|
+T773	Word 4857 4866	regulated|JJ|
+T774	Word 4867 4871	gene|NN|
+T775	Word 4872 4882	expression|NN|
+T776	Word 4883 4886	and|CC|
+T777	Word 4887 4900	establishment|NN|
+T778	Word 4901 4903	of|IN|
+T779	Word 4904 4910	embryo|NN|
+T780	Word 4911 4919	dormancy|NN|
+T781	Word 4920 4926	during|IN|
+T782	Word 4927 4933	mid-to|JJ|
+T783	Word 4933 4934	-|JJ|
+T784	Word 4934 4938	late|JJ|
+T785	Word 4957 4963	embryo|NN|
+T786	Word 4964 4975	development|NN|
+T787	Word 4976 4977	(|LRB|
+T788	Word 4977 4986	Koornneef|NN|
+T789	Word 4987 4993	et al.|FW|
+T790	Word 4993 4994	,|,|
+T791	Word 4995 4999	1984|CD|
+T792	Word 4999 5000	)|RRB|
+T793	Word 5000 5001	.|.|
+T794	Word 5002 5006	Null|JJ|
+T795	Word 5007 5011	abi3|NN|
+T796	Word 5012 5018	mutant|JJ|
+T797	Word 5019 5026	embryos|NNS|
+T798	Word 5027 5030	are|VBP|
+T799	Word 5031 5046	morphologically|RB|
+T800	Word 5047 5053	almost|RB|
+T801	Word 5054 5060	normal|JJ|
+T802	Word 5061 5064	and|CC|
+T803	Word 5065 5071	viable|JJ|
+T804	Word 5072 5074	if|IN|
+T805	Word 5075 5082	rescued|VBN|
+T806	Word 5083 5088	prior|JJ|
+T807	Word 5089 5091	to|TO|
+T808	Word 5092 5103	desiccation|NN|
+T809	Word 5104 5105	(|LRB|
+T810	Word 5105 5113	Giraudat|NN|
+T811	Word 5114 5120	et al.|FW|
+T812	Word 5120 5121	,|,|
+T813	Word 5122 5126	1992|CD|
+T814	Word 5126 5127	;|:|
+T815	Word 5128 5135	Nambara|NN|
+T816	Word 5136 5142	et al.|FW|
+T817	Word 5142 5143	,|,|
+T818	Word 5144 5148	1992|CD|
+T819	Word 5148 5149	,|,|
+T820	Word 5150 5154	1994|CD|
+T821	Word 5154 5155	)|RRB|
+T822	Word 5155 5156	.|.|
+T823	Word 5157 5163	Plants|NNS|
+T824	Word 5164 5168	that|WDT|
+T825	Word 5169 5180	ectopically|RB|
+T826	Word 5181 5188	express|VBP|
+T827	Word 5189 5193	ABI3|NN|
+T828	Word 5194 5196	or|CC|
+T829	Word 5197 5200	the|DT|
+T830	Word 5201 5206	maize|NN|
+T831	Word 5207 5208	(|LRB|
+T832	Word 5208 5216	Zea mays|NP|
+T833	Word 5216 5217	)|RRB|
+T834	Word 5218 5226	ortholog|NN|
+T835	Word 5227 5230	VP1|NN|
+T836	Word 5231 5238	develop|VBP|
+T837	Word 5239 5247	normally|RB|
+T838	Word 5247 5248	,|,|
+T839	Word 5249 5252	but|CC|
+T840	Word 5253 5257	have|VBP|
+T841	Word 5258 5270	dramatically|RB|
+T842	Word 5271 5278	altered|VBN|
+T843	Word 5279 5282	ABA|NN|
+T844	Word 5282 5283	-|NN|
+T845	Word 5283 5292	dependent|JJ|
+T846	Word 5293 5297	gene|NN|
+T847	Word 5298 5308	expression|NN|
+T848	Word 5309 5311	in|IN|
+T849	Word 5312 5322	vegetative|JJ|
+T850	Word 5323 5330	tissues|NNS|
+T851	Word 5331 5332	(|LRB|
+T852	Word 5332 5337	Parcy|NNP|
+T853	Word 5338 5344	et al.|FW|
+T854	Word 5344 5345	,|,|
+T855	Word 5346 5350	1994|CD|
+T856	Word 5350 5351	;|:|
+T857	Word 5352 5358	Suzuki|NN|
+T858	Word 5359 5365	et al.|FW|
+T859	Word 5365 5366	,|,|
+T860	Word 5367 5371	2001|CD|
+T861	Word 5371 5372	)|RRB|
+T862	Word 5372 5373	.|.|
+T863	Word 5405 5412	A major|NP|
+T864	Word 5413 5421	function|NN|
+T865	Word 5422 5424	of|IN|
+T866	Word 5425 5428	the|DT|
+T867	Word 5429 5433	LEC2|NN|
+T868	Word 5433 5434	,|,|
+T869	Word 5435 5439	FUS3|NN|
+T870	Word 5439 5440	,|,|
+T871	Word 5441 5444	and|CC|
+T872	Word 5445 5449	ABI3|NN|
+T873	Word 5450 5452	B3|NN|
+T874	Word 5453 5466	transcription|NN|
+T875	Word 5467 5474	factors|NNS|
+T876	Word 5475 5477	is|VBZ|
+T877	Word 5478 5488	activation|NN|
+T878	Word 5489 5491	of|IN|
+T879	Word 5492 5497	genes|NNS|
+T880	Word 5498 5506	involved|VBN|
+T881	Word 5507 5509	in|IN|
+T882	Word 5510 5522	accumulation|NN|
+T883	Word 5523 5525	of|IN|
+T884	Word 5526 5533	storage|NN|
+T885	Word 5534 5541	protein|NN|
+T886	Word 5542 5545	and|CC|
+T887	Word 5546 5551	lipid|NN|
+T888	Word 5552 5560	reserves|VBZ|
+T889	Word 5561 5563	in|IN|
+T890	Word 5564 5567	the|DT|
+T891	Word 5568 5574	embryo|NN|
+T892	Word 5593 5599	during|IN|
+T893	Word 5600 5604	seed|JJ|
+T894	Word 5605 5615	maturation|NN|
+T895	Word 5615 5616	.|.|
+T896	Word 5617 5627	Activation|NN|
+T897	Word 5628 5630	of|IN|
+T898	Word 5631 5641	downstream|JJ|
+T899	Word 5642 5647	genes|NNS|
+T900	Word 5648 5650	is|VBZ|
+T901	Word 5651 5659	mediated|VBN|
+T902	Word 5660 5662	by|IN|
+T903	Word 5663 5671	specific|JJ|
+T904	Word 5672 5679	binding|NN|
+T905	Word 5680 5682	of|IN|
+T906	Word 5683 5686	the|DT|
+T907	Word 5687 5689	B3|NN|
+T908	Word 5690 5696	domain|NN|
+T909	Word 5697 5698	(|LRB|
+T910	Word 5698 5704	Suzuki|NNP|
+T911	Word 5705 5711	et al.|FW|
+T912	Word 5711 5712	,|,|
+T913	Word 5713 5717	1997|CD|
+T914	Word 5717 5718	;|:|
+T915	Word 5719 5723	Kroj|NN|
+T916	Word 5724 5730	et al.|FW|
+T917	Word 5730 5731	,|,|
+T918	Word 5732 5736	2003|CD|
+T919	Word 5736 5737	;|:|
+T920	Word 5738 5746	Carranco|NN|
+T921	Word 5747 5753	et al.|FW|
+T922	Word 5753 5754	,|,|
+T923	Word 5755 5759	2004|CD|
+T924	Word 5759 5760	;|:|
+T925	Word 5761 5766	Monke|NNP|
+T926	Word 5767 5773	et al.|FW|
+T927	Word 5773 5774	,|,|
+T928	Word 5775 5779	2004|CD|
+T929	Word 5779 5780	;|:|
+T930	Word 5781 5790	Braybrook|NN|
+T931	Word 5791 5797	et al.|FW|
+T932	Word 5797 5798	,|,|
+T933	Word 5799 5803	2006|CD|
+T934	Word 5803 5804	)|RRB|
+T935	Word 5805 5807	to|TO|
+T936	Word 5808 5811	the|DT|
+T937	Word 5812 5815	Sph|NN|
+T938	Word 5815 5816	/|NN|
+T939	Word 5816 5818	RY|NN|
+T940	Word 5819 5830	cis-element|NN|
+T941	Word 5831 5832	(|LRB|
+T942	Word 5832 5839	Hattori|NNP|
+T943	Word 5840 5846	et al.|FW|
+T944	Word 5846 5847	,|,|
+T945	Word 5848 5852	1992|CD|
+T946	Word 5852 5853	;|:|
+T947	Word 5854 5857	Kao|NN|
+T948	Word 5858 5864	et al.|FW|
+T949	Word 5864 5865	,|,|
+T950	Word 5866 5870	1996|CD|
+T951	Word 5870 5871	;|:|
+T952	Word 5872 5879	Ezcurra|NN|
+T953	Word 5880 5886	et al.|FW|
+T954	Word 5886 5887	,|,|
+T955	Word 5888 5892	1999|CD|
+T956	Word 5892 5893	;|:|
+T957	Word 5894 5899	Reidt|NN|
+T958	Word 5900 5906	et al.|FW|
+T959	Word 5906 5907	,|,|
+T960	Word 5908 5912	2000|CD|
+T961	Word 5912 5913	;|:|
+T962	Word 5914 5929	Chandrasekharan|NNP|
+T963	Word 5930 5936	et al.|FW|
+T964	Word 5936 5937	,|,|
+T965	Word 5938 5942	2003|CD|
+T966	Word 5942 5943	;|:|
+T967	Word 5944 5947	Nag|NN|
+T968	Word 5948 5954	et al.|FW|
+T969	Word 5954 5955	,|,|
+T970	Word 5956 5960	2005|CD|
+T971	Word 5960 5961	)|RRB|
+T972	Word 5961 5962	.|.|
+T973	Word 5963 5965	In|IN|
+T974	Word 5966 5974	addition|NN|
+T975	Word 5974 5975	,|,|
+T976	Word 5976 5980	ABI3|NN|
+T977	Word 5981 5989	mediates|VBZ|
+T978	Word 5990 5993	ABA|NN|
+T979	Word 5993 5994	-|JJ|
+T980	Word 5994 6003	regulated|JJ|
+T981	Word 6004 6008	gene|NN|
+T982	Word 6009 6019	expression|NN|
+T983	Word 6020 6022	in|IN|
+T984	Word 6023 6026	the|DT|
+T985	Word 6027 6031	seed|VBN|
+T986	Word 6032 6039	through|IN|
+T987	Word 6040 6051	interaction|NN|
+T988	Word 6052 6056	with|IN|
+T989	Word 6057 6065	specific|JJ|
+T990	Word 6066 6071	basic|JJ|
+T991	Word 6072 6082	Leu-zipper|JJ|
+T992	Word 6083 6096	transcription|NN|
+T993	Word 6097 6104	factors|NNS|
+T994	Word 6123 6127	that|WDT|
+T995	Word 6128 6132	bind|VBP|
+T996	Word 6133 6136	ABA|NN|
+T997	Word 6137 6145	response|NN|
+T998	Word 6146 6154	elements|NNS|
+T999	Word 6155 6156	(|LRB|
+T1000	Word 6156 6167	Finkelstein|NNP|
+T1001	Word 6168 6174	et al.|FW|
+T1002	Word 6174 6175	,|,|
+T1003	Word 6176 6180	2002|CD|
+T1004	Word 6180 6181	)|RRB|
+T1005	Word 6181 6182	.|.|
+T1006	Word 6183 6187	FUS3|NN|
+T1007	Word 6188 6191	and|CC|
+T1008	Word 6192 6196	LEC2|NN|
+T1009	Word 6197 6200	are|VBP|
+T1010	Word 6201 6211	implicated|VBN|
+T1011	Word 6212 6214	in|IN|
+T1012	Word 6215 6225	repression|NN|
+T1013	Word 6226 6228	of|IN|
+T1014	Word 6229 6231	GA|NN|
+T1015	Word 6232 6244	biosynthesis|NN|
+T1016	Word 6245 6251	during|IN|
+T1017	Word 6252 6256	seed|JJ|
+T1018	Word 6257 6268	development|NN|
+T1019	Word 6269 6270	(|LRB|
+T1020	Word 6270 6276	Curaba|FW|
+T1021	Word 6277 6283	et al.|FW|
+T1022	Word 6283 6284	,|,|
+T1023	Word 6285 6289	2004|CD|
+T1024	Word 6289 6290	;|:|
+T1025	Word 6291 6301	Gazzarrini|NN|
+T1026	Word 6302 6308	et al.|FW|
+T1027	Word 6308 6309	,|,|
+T1028	Word 6310 6314	2004|CD|
+T1029	Word 6314 6315	)|RRB|
+T1030	Word 6315 6316	.|.|
+T1031	Word 6317 6320	The|DT|
+T1032	Word 6321 6323	B3|NN|
+T1033	Word 6324 6331	factors|NNS|
+T1034	Word 6332 6342	themselves|VBZ|
+T1035	Word 6343 6346	are|VBP|
+T1036	Word 6347 6356	regulated|VBN|
+T1037	Word 6357 6359	in|IN|
+T1038	Word 6360 6364	part|NN|
+T1039	Word 6365 6372	through|IN|
+T1040	Word 6373 6379	mutual|JJ|
+T1041	Word 6380 6392	interactions|NNS|
+T1042	Word 6392 6393	,|,|
+T1043	Word 6394 6396	as|RB|
+T1044	Word 6397 6401	well|RB|
+T1045	Word 6402 6404	as|IN|
+T1046	Word 6405 6417	unidentified|JJ|
+T1047	Word 6418 6424	region|NN|
+T1048	Word 6424 6425	-|CD|
+T1049	Word 6425 6433	specific|JJ|
+T1050	Word 6434 6441	signals|NNS|
+T1051	Word 6460 6466	within|IN|
+T1052	Word 6467 6470	the|DT|
+T1053	Word 6471 6477	embryo|NN|
+T1054	Word 6478 6479	(|LRB|
+T1055	Word 6479 6485	Kagaya|NN|
+T1056	Word 6486 6492	et al.|FW|
+T1057	Word 6492 6493	,|,|
+T1058	Word 6494 6498	2005|CD|
+T1059	Word 6498 6499	;|:|
+T1060	Word 6500 6514	Santos Mendoza|NN|
+T1061	Word 6515 6521	et al.|FW|
+T1062	Word 6521 6522	,|,|
+T1063	Word 6523 6527	2005|CD|
+T1064	Word 6527 6528	;|:|
+T1065	Word 6529 6531	To|TO|
+T1066	Word 6532 6538	et al.|FW|
+T1067	Word 6538 6539	,|,|
+T1068	Word 6540 6544	2006|CD|
+T1069	Word 6544 6545	)|RRB|
+T1070	Word 6545 6546	.|.|
+T1071	Word 6578 6581	The|DT|
+T1072	Word 6582 6586	LEC1|NN|
+T1073	Word 6586 6587	/|NN|
+T1074	Word 6587 6589	B3|NN|
+T1075	Word 6590 6597	network|NN|
+T1076	Word 6598 6600	is|VBZ|
+T1077	Word 6601 6610	repressed|VBN|
+T1078	Word 6611 6616	prior|RB|
+T1079	Word 6617 6619	to|TO|
+T1080	Word 6620 6631	germination|NN|
+T1081	Word 6632 6635	and|CC|
+T1082	Word 6636 6646	resumption|NN|
+T1083	Word 6647 6649	of|IN|
+T1084	Word 6650 6660	vegetative|JJ|
+T1085	Word 6661 6672	development|NN|
+T1086	Word 6672 6673	.|.|
+T1087	Gene 5445 5449	ABI3
+T1088	Gene 1801 1807	pickle
+T1089	Gene 5435 5439	FUS3
+T1090	Gene 1055 1061	FUSCA3
+T1091	Gene 982 986	LEC1
+T1092	Gene 4729 4733	LEC1
+T1093	Gene 3907 3910	L1L
+T1094	Gene 2471 2474	L1L
+T1095	Gene 4229 4232	L1L
+T1096	Gene 4737 4740	L1L
+T1097	Gene 2462 2466	LEC1
+T1098	Gene 5429 5433	LEC2
+T1099	Gene 6183 6187	FUS3
+T1100	Gene 989 993	LEC1
+T1101	Gene 1000 1003	L1L
+T1102	Gene 4618 4622	FUS3
+T1103	Gene 1063 1067	FUS3
+T1104	Gene 3645 3648	L1L
+T1105	Gene 5227 5230	VP1
+T1106	Gene 2841 2858	LEAFY COTYLEDON 1
+T1107	Gene 1323 1336	VP1/ABI3-LIKE
+T1108	Gene 1978 1982	LEC1
+T1109	Gene 4610 4614	LEC2
+T1110	Gene 1048 1052	LEC2
+T1111	Gene 1984 1987	L1L
+T1112	Gene 6192 6196	LEC2
+T1113	Gene 3636 3640	LEC1
+T1114	Gene 2881 2884	L1L
+T1115	Gene 4221 4225	LEC1
+T1116	Gene 4809 4813	ABI3
+T1117	Gene 2870 2879	LEC1-LIKE
+T1118	Gene 1029 1046	LEAFY COTYLEDON 2
+T1119	Gene 3053 3057	FUS3
+T1120	Gene 3045 3051	FUSCA3
+T1121	Gene 2233 2237	LEC1
+T1122	Gene 2870 2874	LEC1
+T1123	Gene 963 980	LEAFY COTYLEDON 1
+T1124	Gene 2860 2864	LEC1
+T1125	Gene 1809 1812	pkl
+T1126	Gene 3039 3043	LEC2
+T1127	Gene 989 998	LEC1-LIKE
+T1128	Gene 1074 1101	ABSCISIC ACID INSENSITIVE 3
+T1129	Gene 1989 1993	ABI3
+T1130	Gene 6582 6586	LEC1
+T1131	Gene 1999 2003	FUS3
+T1132	Gene_Family 3079 3082	ABA
+T1133	Gene_Family 1742 1745	VAL
+T1134	Gene_Family 2909 2920	HAP3 family
+T1135	Gene_Family 3064 3077	ABSCISIC ACID
+T1136	Gene_Family 3099 3103	ABI3
+T1137	Gene_Family 5445 5449	ABI3
+T1138	Gene_Family 5189 5193	ABI3
+T1139	Gene_Family 2498 2501	VAL
+T1140	Gene_Family 1103 1107	ABI3
+T1141	Gene_Family 1338 1341	VAL
+T1142	Gene_Family 2414 2417	VAL
+T1143	Gene_Family 3064 3077	ABSCISIC ACID
+T1144	Gene_Family 2980 3004	B3 domain protein family
+T1145	Gene_Family 2233 2252	LEC1/B3 gene system
+T1146	Gene_Family 2921 2942	CCAAT-binding factors
+T1147	Gene_Family 1010 1027	B3 domain factors
+T1148	Gene_Family 5450 5474	B3 transcription factors
+T1149	Gene_Family 4809 4813	ABI3
+T1150	Pathway 6229 6244	GA biosynthesis
+T1151	Pathway 5510 5541	accumulation of storage protein
+T1152	Pathway 4116 4157	desiccation of the                   seed
+T1153	Pathway 5510 5525	accumulation of
+T1154	Pathway 3864 3885	desiccation tolerance
+T1155	Pathway 2553 2582	chromatin-mediated repression
+T1156	Pathway 1836 1860	gibberellin biosynthesis
+T1157	Genotype 4341 4345	lec1
+T1158	Genotype 4357 4361	lec2
+T1159	Genotype 1462 1483	val monogenic mutants
+T1160	Genotype 4729 4733	LEC1
+T1161	Genotype 5201 5206	maize
+T1162	Genotype 5157 5193	Plants that ectopically express ABI3
+T1163	Genotype 1112 1123	Arabidopsis
+T1164	Genotype 4347 4351	fus3
+T1165	Genotype 1125 1145	Arabidopsis thaliana
+T1166	Genotype 4737 4754	L1L misexpression
+T1167	Genotype 1678 1682	val3
+T1168	Genotype 2766 2772	plants
+T1169	Genotype 5157 5188	Plants that ectopically express
+T1170	Genotype 1511 1520	wild type
+T1171	Genotype 1912 1916	val1
+T1172	Genotype 4009 4013	lec1
+T1173	Genotype 2024 2033	val1 val2
+T1174	Genotype 5002 5018	Null abi3 mutant
+T1175	Genotype 1522 1545	val1 val2 double-mutant
+T1176	Genotype 4199 4225	Ectopic expression of LEC1
+T1177	Genotype 1669 1673	val2
+T1178	Genotype 3887 3910	RNA interference of L1L
+T1179	Genotype 5208 5216	Zea mays
+T1180	Genotype 4500 4504	fus3
+T1181	Genotype 4592 4614	Overexpression of LEC2
+T1182	Genotype 1652 1656	val1
+T1183	Genotype 4592 4609	Overexpression of
+T1184	Genotype 4199 4220	Ectopic expression of
+T1185	Genotype 1801 1807	pickle
+T1186	Development_Phase 1256 1266	maturation
+T1187	Development_Phase 5092 5103	desiccation
+T1188	Development_Phase 5600 5615	seed maturation
+T1189	Development_Phase 2744 2762	Embryo development
+T1190	Development_Phase 6252 6268	seed development
+T1191	Development_Phase 3653 3675	early in embryogenesis
+T1192	Development_Phase 4911 4919	dormancy
+T1193	Development_Phase 3827 3844	embryo maturation
+T1194	Development_Phase 2141 2154	embryogenesis
+T1195	Development_Phase 1758 1780	vegetative development
+T1196	Development_Phase 880 898	embryo development
+T1197	Development_Phase 4927 4975	mid-to-late                   embryo development
+T1198	Development_Phase 3436 3452	embryo formation
+T1199	Development_Phase 2122 2154	late-torpedo-stage embryogenesis
+T1200	Development_Phase 3803 3823	embryo morphogenesis
+T1201	Development_Phase 4031 4044	morphogenesis
+T1202	Development_Phase 6636 6672	resumption of vegetative development
+T1203	Development_Phase 1292 1315	desiccation of the seed
+T1204	Development_Phase 1868 1879	germination
+T1205	Development_Phase 6620 6631	germination
+T1206	Development_Phase 3965 3978	morphogenesis
+T1207	Development_Phase 3769 3844	transition                   from embryo morphogenesis to embryo maturation
+T1208	Protein_Domain 1381 1403	plant homeodomain-like
+T1209	Protein_Domain 5687 5696	B3 domain
+T1210	Protein_Domain 2980 2989	B3 domain
+T1211	Protein_Domain 2303 2324	B3 DNA-binding domain
+T1212	Protein_Domain 1408 1418	CW domains
+T1213	Tissue 5019 5026	embryos
+T1214	Tissue 5312 5330	vegetative tissues
+T1215	Tissue 4904 4910	embryo
+T1216	Tissue 1583 1609	embryo-like proliferations
+T1217	Tissue 6471 6477	embryo
+T1218	Tissue 4014 4021	embryos
+T1219	Tissue 4512 4519	embryos
+T1220	Tissue 4418 4422	leaf
+T1221	Tissue 5600 5604	seed
+T1222	Tissue 3436 3442	embryo
+T1223	Tissue 6027 6031	seed
+T1224	Tissue 3827 3833	embryo
+T1225	Tissue 3803 3809	embryo
+T1226	Tissue 1564 1570	leaves
+T1227	Tissue 2034 2043	seedlings
+T1228	Tissue 1917 1926	seedlings
+T1229	Tissue 4277 4294	vegetative organs
+T1230	Tissue 1311 1315	seed
+T1231	Tissue 1613 1617	root
+T1232	Tissue 6252 6256	seed
+T1233	Tissue 4257 4263	embryo
+T1234	Tissue 5568 5574	embryo
+T1235	Tissue 1546 1555	seedlings
+T1236	Tissue 4153 4157	seed
+T1237	Tissue 880 886	embryo
+T1238	Tissue 4404 4414	cotyledons
+T1239	Tissue 4672 4690	vegetative tissues
+T1240	Tissue 3944 3950	embryo
+T1241	Tissue 1622 1637	apical meristem
+T1242	Tissue 1715 1719	leaf
+T1243	Tissue 2744 2750	Embryo
+T1244	Tissue 4957 4963	embryo
+T1245	Hormone 6229 6231	GA
+T1246	Hormone 5279 5282	ABA
+T1247	Hormone 5990 5993	ABA
+T1248	Hormone 6133 6136	ABA
+T1249	Box 2510 2516	Sph/RY
+T1250	Box 5812 5818	Sph/RY
+T1251	Box 2326 2332	Sph/RY
+T1252	Box 6133 6154	ABA response elements
+T1253	Box 2921 2926	CCAAT
+T1254	Regulatory_Network 4257 4294	embryo formation in vegetative organs
+T1255	Regulatory_Network 5990 6019	ABA-regulated gene expression
+T1256	Regulatory_Network 3944 3957	embryo arrest
+T1257	Regulatory_Network 4887 4919	establishment of embryo dormancy
+T1258	Regulatory_Network 5271 5308	altered ABA-dependent gene expression
+T1259	Regulatory_Network 4386 4434	transformation of cotyledons to leaf-like organs
+T1260	Regulatory_Network 1822 1860	inhibition of gibberellin biosynthesis
+T1261	Regulatory_Network 3849 3885	acquisition of desiccation tolerance
+T1262	Regulatory_Network 1583 1612	embryo-like proliferations in
+T1263	Regulatory_Network 1583 1617	embryo-like proliferations in root
+T1264	Regulatory_Network 4630 4690	ectopic expression of embryonic traits in vegetative tissues
+T1265	Regulatory_Network 6582 6597	LEC1/B3 network
+T1266	Protein_Family 2184 2187	VAL
+T1267	Protein_Family 6066 6104	basic Leu-zipper transcription factors
+T1268	Protein_Family 2607 2673	PKL-related CHD3                      chromatin-remodeling factors
+T1269	Protein_Family 3714 3737	B3 transcription factor
+T1270	Protein_Family 6321 6331	B3 factors
+T1271	Protein_Family 1356 1367	B3 proteins
+T1272	Promoter 2397 2433	first introns of VAL-repressed genes
+T1273	Promoter 2383 2392	promoters
+T1274	Protein 5976 5980	ABI3
+T1275	Protein 2288 2292	ABI3
+T1276	Protein 2298 2302	LEC2
+T1277	Protein 2293 2297	FUS3
+R1	Dependency head:T118 dependent:T121 sentence:T2 label:COMP_of:N-N
+R2	Dependency head:T125 dependent:T124 sentence:T2 label:MOD:N-ADJ
+R3	Dependency head:T130 dependent:T129 sentence:T2 label:MOD:N-N
+R4	Dependency head:T130 dependent:T128 sentence:T2 label:MOD:N-N
+R5	Dependency head:T135 dependent:T138 sentence:T2 label:COMP_of:N-N
+R6	Dependency head:T135 dependent:T133 sentence:T2 label:COORD_and:N-N
+R7	Dependency head:T131 dependent:T135 sentence:T2 label:COMP_in:V-N
+R8	Dependency head:T131 dependent:T133 sentence:T2 label:COMP_in:V-N
+R9	Dependency head:T131 dependent:T130 sentence:T2 label:SUBJ:V-N
+R10	Dependency head:T127 dependent:T130 sentence:T2 label:OBJ:V-N
+R11	Dependency head:T125 dependent:T127 sentence:T2 label:COMP_of:N-V
+R12	Dependency head:T127 dependent:T125 sentence:T2 label:SUBJ:V-N
+R13	Dependency head:T122 dependent:T125 sentence:T2 label:COMP_in:V-N
+R14	Dependency head:T122 dependent:T118 sentence:T2 label:SUBJ:V-N
+R15	Dependency head:T143 dependent:T142 sentence:T3 label:MOD:N-N
+R16	Dependency head:T143 dependent:T141 sentence:T3 label:MOD:N-N
+R17	Dependency head:T143 dependent:T140 sentence:T3 label:MOD:N-N
+R18	Dependency head:T145 dependent:T147 sentence:T3 label:APPOS:N-N
+R19	Dependency head:T143 dependent:T149 sentence:T3 label:COMP_-:N-N
+R20	Dependency head:T143 dependent:T144 sentence:T3 label:MOD:N-N
+R21	Dependency head:T152 dependent:T151 sentence:T3 label:MOD:N-N
+R22	Dependency head:T156 dependent:T155 sentence:T3 label:MOD:N-N
+R23	Dependency head:T154 dependent:T156 sentence:T3 label:OBJ:V-N
+R24	Dependency head:T152 dependent:T154 sentence:T3 label:CMOD:N-V
+R25	Dependency head:T161 dependent:T160 sentence:T3 label:MOD:N-N
+R26	Dependency head:T165 dependent:T164 sentence:T3 label:MOD:N-N
+R27	Dependency head:T162 dependent:T165 sentence:T3 label:COMP_with:V_PASS-N
+R28	Dependency head:T162 dependent:T161 sentence:T3 label:SUBJ:V_PASS-N
+R29	Dependency head:T152 dependent:T161 sentence:T3 label:COMP_like:N-N
+R30	Dependency head:T150 dependent:T152 sentence:T3 label:OBJ:V-N
+R31	Dependency head:T150 dependent:T143 sentence:T3 label:SUBJ:V-N
+R32	Dependency head:T170 dependent:T169 sentence:T4 label:MOD:N-ADJ
+R33	Dependency head:T170 dependent:T168 sentence:T4 label:MOD:N-ADJ
+R34	Dependency head:T176 dependent:T175 sentence:T4 label:MOD:N-ADJ
+R35	Dependency head:T173 dependent:T176 sentence:T4 label:COMP_to:ADJ-N
+R36	Dependency head:T171 dependent:T172 sentence:T4 label:OBJ:V-N
+R37	Dependency head:T171 dependent:T170 sentence:T4 label:SUBJ:V-N
+R38	Dependency head:T188 dependent:T171 sentence:T4 label:COMP_whereas:V-V
+R39	Dependency head:T183 dependent:T182 sentence:T4 label:MOD:N-ADJ
+R40	Dependency head:T183 dependent:T180 sentence:T4 label:MOD:N-ADJ
+R41	Dependency head:T183 dependent:T179 sentence:T4 label:MOD:N-N
+R42	Dependency head:T183 dependent:T178 sentence:T4 label:MOD:N-N
+R43	Dependency head:T184 dependent:T186 sentence:T4 label:OBJ:V-N
+R44	Dependency head:T192 dependent:T194 sentence:T4 label:COMP_in:N-N
+R45	Dependency head:T198 dependent:T197 sentence:T4 label:MOD:N-N
+R46	Dependency head:T198 dependent:T196 sentence:T4 label:MOD:N-ADJ
+R47	Dependency head:T198 dependent:T192 sentence:T4 label:COORD_and:N-N
+R48	Dependency head:T189 dependent:T198 sentence:T4 label:COMP_like:N-N
+R49	Dependency head:T189 dependent:T192 sentence:T4 label:COMP_like:N-N
+R50	Dependency head:T188 dependent:T189 sentence:T4 label:OBJ:V-N
+R51	Dependency head:T188 dependent:T184 sentence:T4 label:COORD_and:V-V
+R52	Dependency head:T188 dependent:T183 sentence:T4 label:SUBJ:V-N
+R53	Dependency head:T184 dependent:T183 sentence:T4 label:SUBJ:V-N
+R54	Dependency head:T203 dependent:T202 sentence:T5 label:MOD:N-N
+R55	Dependency head:T208 dependent:T207 sentence:T5 label:MOD:N-N
+R56	Dependency head:T208 dependent:T205 sentence:T5 label:COORD_and:N-N
+R57	Dependency head:T208 dependent:T203 sentence:T5 label:COORD_and:N-N
+R58	Dependency head:T214 dependent:T208 sentence:T5 label:COMP_in:V-N
+R59	Dependency head:T214 dependent:T205 sentence:T5 label:COMP_in:V-N
+R60	Dependency head:T214 dependent:T203 sentence:T5 label:COMP_in:V-N
+R61	Dependency head:T213 dependent:T212 sentence:T5 label:MOD:N-N
+R62	Dependency head:T213 dependent:T211 sentence:T5 label:MOD:N-ADJ
+R63	Dependency head:T213 dependent:T210 sentence:T5 label:MOD:N-ADJ
+R64	Dependency head:T217 dependent:T216 sentence:T5 label:MOD:N-N
+R65	Dependency head:T214 dependent:T217 sentence:T5 label:OBJ:V-N
+R66	Dependency head:T220 dependent:T219 sentence:T5 label:MOD:N-ADJ
+R67	Dependency head:T214 dependent:T220 sentence:T5 label:COMP_in:V-N
+R68	Dependency head:T214 dependent:T213 sentence:T5 label:SUBJ:V-N
+R69	Dependency head:T225 dependent:T227 sentence:T6 label:APPOS:N-N
+R70	Dependency head:T234 dependent:T233 sentence:T6 label:MOD:N-N
+R71	Dependency head:T234 dependent:T236 sentence:T6 label:COMP_during:N-N
+R72	Dependency head:T231 dependent:T234 sentence:T6 label:COMP_of:N-N
+R73	Dependency head:T231 dependent:T229 sentence:T6 label:APPOS:N-N
+R74	Dependency head:T222 dependent:T231 sentence:T6 label:COMP_of:N-N
+R75	Dependency head:T222 dependent:T229 sentence:T6 label:COMP_of:N-N
+R76	Dependency head:T239 dependent:T238 sentence:T6 label:MOD:N-ADJ
+R77	Dependency head:T242 dependent:T241 sentence:T6 label:MOD:N-N
+R78	Dependency head:T239 dependent:T242 sentence:T6 label:COMP_in:N-N
+R79	Dependency head:T237 dependent:T239 sentence:T6 label:OBJ:V-N
+R80	Dependency head:T237 dependent:T222 sentence:T6 label:SUBJ:V-N
+R81	Dependency head:T249 dependent:T248 sentence:T7 label:MOD:N-N
+R82	Dependency head:T249 dependent:T247 sentence:T7 label:MOD:N-ADJ
+R83	Dependency head:T255 dependent:T253 sentence:T7 label:APPOS:N-N
+R84	Dependency head:T253 dependent:T251 sentence:T7 label:APPOS:N-N
+R85	Dependency head:T251 dependent:T249 sentence:T7 label:APPOS:N-N
+R86	Dependency head:T244 dependent:T255 sentence:T7 label:COMP_with:ADJ-N
+R87	Dependency head:T244 dependent:T253 sentence:T7 label:COMP_with:ADJ-N
+R88	Dependency head:T244 dependent:T251 sentence:T7 label:COMP_with:ADJ-N
+R89	Dependency head:T244 dependent:T249 sentence:T7 label:COMP_with:ADJ-N
+R90	Dependency head:T264 dependent:T263 sentence:T7 label:MOD:N-N
+R91	Dependency head:T264 dependent:T262 sentence:T7 label:MOD:N-N
+R92	Dependency head:T264 dependent:T266 sentence:T7 label:COMP_in:N-N
+R93	Dependency head:T260 dependent:T264 sentence:T7 label:COMP_in:V-N
+R94	Dependency head:T270 dependent:T269 sentence:T7 label:MOD:N-ADJ
+R95	Dependency head:T273 dependent:T272 sentence:T7 label:MOD:N-N
+R96	Dependency head:T270 dependent:T273 sentence:T7 label:COMP_in:N-N
+R97	Dependency head:T270 dependent:T276 sentence:T7 label:COMP_to:N-N
+R98	Dependency head:T280 dependent:T278 sentence:T7 label:MOD:N-ADJ
+R99	Dependency head:T283 dependent:T282 sentence:T7 label:MOD:N-N
+R100	Dependency head:T280 dependent:T283 sentence:T7 label:COMP_-:N-N
+R101	Dependency head:T280 dependent:T281 sentence:T7 label:MOD:N-ADJ
+R102	Dependency head:T277 dependent:T280 sentence:T7 label:OBJ:V-N
+R103	Dependency head:T277 dependent:T270 sentence:T7 label:SUBJ:V-N
+R104	Dependency head:T260 dependent:T270 sentence:T7 label:COMP_with:V-N
+R105	Dependency head:T260 dependent:T259 sentence:T7 label:AUX:V-V
+R106	Dependency head:T260 dependent:T258 sentence:T7 label:SUBJ:V_PASS-N
+R107	Dependency head:T288 dependent:T287 sentence:T8 label:MOD:N-N
+R108	Dependency head:T292 dependent:T291 sentence:T8 label:MOD:N-ADJ
+R109	Dependency head:T299 dependent:T298 sentence:T8 label:MOD:N-N
+R110	Dependency head:T299 dependent:T297 sentence:T8 label:MOD:N-N
+R111	Dependency head:T299 dependent:T296 sentence:T8 label:MOD:N-N
+R112	Dependency head:T299 dependent:T295 sentence:T8 label:MOD:N-N
+R113	Dependency head:T292 dependent:T299 sentence:T8 label:COMP_of:N-N
+R114	Dependency head:T289 dependent:T292 sentence:T8 label:COMP_as:V-N
+R115	Dependency head:T289 dependent:T288 sentence:T8 label:SUBJ:V-N
+R116	Dependency head:T289 dependent:T285 sentence:T8 label:MOD:V-ADV
+R117	Dependency head:T304 dependent:T303 sentence:T9 label:MOD:N-N
+R118	Dependency head:T304 dependent:T302 sentence:T9 label:MOD:N-N
+R119	Dependency head:T313 dependent:T312 sentence:T9 label:MOD:N-N
+R120	Dependency head:T313 dependent:T311 sentence:T9 label:MOD:N-N
+R121	Dependency head:T313 dependent:T310 sentence:T9 label:MOD:N-N
+R122	Dependency head:T313 dependent:T309 sentence:T9 label:MOD:N-N
+R123	Dependency head:T313 dependent:T308 sentence:T9 label:MOD:N-N
+R124	Dependency head:T313 dependent:T307 sentence:T9 label:MOD:N-N
+R125	Dependency head:T304 dependent:T313 sentence:T9 label:COMP_of:N-N
+R126	Dependency head:T316 dependent:T315 sentence:T9 label:MOD:N-N
+R127	Dependency head:T304 dependent:T316 sentence:T9 label:COMP_-:N-N
+R128	Dependency head:T304 dependent:T314 sentence:T9 label:MOD:N-N
+R129	Dependency head:T320 dependent:T319 sentence:T9 label:MOD:N-N
+R130	Dependency head:T320 dependent:T318 sentence:T9 label:MOD:N-N
+R131	Dependency head:T320 dependent:T304 sentence:T9 label:APPOS:N-N
+R132	Dependency head:T324 dependent:T327 sentence:T9 label:COMP_in:V-N
+R133	Dependency head:T324 dependent:T323 sentence:T9 label:MOD:V-ADV
+R134	Dependency head:T324 dependent:T322 sentence:T9 label:AUX:V-V
+R135	Dependency head:T324 dependent:T304 sentence:T9 label:SUBJ:V_PASS-N
+R136	Dependency head:T330 dependent:T329 sentence:T9 label:MOD:N-ADJ
+R137	Dependency head:T330 dependent:T332 sentence:T9 label:COMP_of:N-N
+R138	Dependency head:T341 dependent:T340 sentence:T9 label:MOD:N-N
+R139	Dependency head:T341 dependent:T339 sentence:T9 label:MOD:N-ADJ
+R140	Dependency head:T344 dependent:T343 sentence:T9 label:MOD:N-N
+R141	Dependency head:T344 dependent:T341 sentence:T9 label:COORD_and:N-N
+R142	Dependency head:T337 dependent:T344 sentence:T9 label:OBJ:V-N
+R143	Dependency head:T337 dependent:T341 sentence:T9 label:OBJ:V-N
+R144	Dependency head:T335 dependent:T337 sentence:T9 label:MOD:N-ADJ
+R145	Dependency head:T334 dependent:T335 sentence:T9 label:OBJ:V-N
+R146	Dependency head:T334 dependent:T330 sentence:T9 label:SUBJ:V-N
+R147	Dependency head:T334 dependent:T324 sentence:T9 label:COORD_and:V-V_PASS
+R148	Dependency head:T353 dependent:T352 sentence:T10 label:MOD:N-N
+R149	Dependency head:T353 dependent:T351 sentence:T10 label:MOD:N-N
+R150	Dependency head:T350 dependent:T353 sentence:T10 label:OBJ:V-N
+R151	Dependency head:T359 dependent:T361 sentence:T10 label:COMP_for:N-N
+R152	Dependency head:T373 dependent:T372 sentence:T10 label:MOD:N-N
+R153	Dependency head:T373 dependent:T371 sentence:T10 label:MOD:N-ADJ
+R154	Dependency head:T369 dependent:T373 sentence:T10 label:COMP_-:N-N
+R155	Dependency head:T369 dependent:T370 sentence:T10 label:MOD:N-N
+R156	Dependency head:T366 dependent:T369 sentence:T10 label:COMP_with:N-N
+R157	Dependency head:T364 dependent:T366 sentence:T10 label:COMP_in:N-N
+R158	Dependency head:T376 dependent:T375 sentence:T10 label:MOD:N-N
+R159	Dependency head:T364 dependent:T376 sentence:T10 label:COMP_-:N-N
+R160	Dependency head:T364 dependent:T374 sentence:T10 label:MOD:N-N
+R161	Dependency head:T363 dependent:T364 sentence:T10 label:OBJ:V-N
+R162	Dependency head:T363 dependent:T362 sentence:T10 label:SUBJ:V-N
+R163	Dependency head:T359 dependent:T363 sentence:T10 label:CMOD:N-V
+R164	Dependency head:T356 dependent:T359 sentence:T10 label:COMP_in:N-N
+R165	Dependency head:T355 dependent:T356 sentence:T10 label:OBJ:V-N
+R166	Dependency head:T350 dependent:T355 sentence:T10 label:COMP_-:V-V
+R167	Dependency head:T350 dependent:T354 sentence:T10 label:XMOD:V-N
+R168	Dependency head:T355 dependent:T349 sentence:T10 label:SUBJ:V-N
+R169	Dependency head:T350 dependent:T349 sentence:T10 label:SUBJ:V-N
+R170	Dependency head:T347 dependent:T350 sentence:T10 label:CCOMP:V-V
+R171	Dependency head:T347 dependent:T346 sentence:T10 label:SUBJ:V-N
+R172	Dependency head:T551 dependent:T549 sentence:T13 label:COORD_and:N-N
+R173	Dependency head:T553 dependent:T555 sentence:T13 label:COMP_in:ADJ-N
+R174	Dependency head:T552 dependent:T553 sentence:T13 label:XCOMP:V-ADJ
+R175	Dependency head:T560 dependent:T559 sentence:T13 label:MOD:N-ADJ
+R176	Dependency head:T565 dependent:T564 sentence:T13 label:MOD:N-N
+R177	Dependency head:T565 dependent:T563 sentence:T13 label:MOD:N-N
+R178	Dependency head:T565 dependent:T562 sentence:T13 label:MOD:N-N
+R179	Dependency head:T572 dependent:T571 sentence:T13 label:MOD:N-N
+R180	Dependency head:T575 dependent:T574 sentence:T13 label:MOD:N-N
+R181	Dependency head:T572 dependent:T575 sentence:T13 label:COMP_to:N-N
+R182	Dependency head:T569 dependent:T572 sentence:T13 label:COMP_from:N-N
+R183	Dependency head:T580 dependent:T579 sentence:T13 label:MOD:N-N
+R184	Dependency head:T577 dependent:T580 sentence:T13 label:COMP_of:N-N
+R185	Dependency head:T577 dependent:T569 sentence:T13 label:COORD_and:N-N
+R186	Dependency head:T566 dependent:T577 sentence:T13 label:COMP_with:V_PASS-N
+R187	Dependency head:T566 dependent:T569 sentence:T13 label:COMP_with:V_PASS-N
+R188	Dependency head:T566 dependent:T565 sentence:T13 label:SUBJ:V_PASS-N
+R189	Dependency head:T560 dependent:T565 sentence:T13 label:COMP_of:N-N
+R190	Dependency head:T557 dependent:T560 sentence:T13 label:OBJ:V-N
+R191	Dependency head:T557 dependent:T552 sentence:T13 label:COORD_and:V-V
+R192	Dependency head:T552 dependent:T551 sentence:T13 label:SUBJ:V-N
+R193	Dependency head:T552 dependent:T549 sentence:T13 label:SUBJ:V-N
+R194	Dependency head:T557 dependent:T551 sentence:T13 label:SUBJ:V-N
+R195	Dependency head:T557 dependent:T549 sentence:T13 label:SUBJ:V-N
+R196	Dependency head:T583 dependent:T582 sentence:T14 label:MOD:N-N
+R197	Dependency head:T586 dependent:T585 sentence:T14 label:MOD:N-N
+R198	Dependency head:T583 dependent:T586 sentence:T14 label:COMP_of:N-N
+R199	Dependency head:T593 dependent:T592 sentence:T14 label:MOD:N-N
+R200	Dependency head:T591 dependent:T593 sentence:T14 label:OBJ:V-N
+R201	Dependency head:T600 dependent:T597 sentence:T14 label:APPOS:N-N
+R202	Dependency head:T600 dependent:T595 sentence:T14 label:APPOS:N-N
+R203	Dependency head:T597 dependent:T595 sentence:T14 label:APPOS:N-N
+R204	Dependency head:T591 dependent:T595 sentence:T14 label:COMP_during:V-N
+R205	Dependency head:T607 dependent:T606 sentence:T14 label:MOD:N-ADJ
+R206	Dependency head:T607 dependent:T605 sentence:T14 label:MOD:N-N
+R207	Dependency head:T607 dependent:T604 sentence:T14 label:MOD:N-N
+R208	Dependency head:T591 dependent:T607 sentence:T14 label:COMP_whereas:V-N
+R209	Dependency head:T589 dependent:T591 sentence:T14 label:XCOMP:V-V
+R210	Dependency head:T589 dependent:T588 sentence:T14 label:AUX:V-V
+R211	Dependency head:T589 dependent:T587 sentence:T14 label:AUX:V-V
+R212	Dependency head:T613 dependent:T612 sentence:T14 label:MOD:N-ADJ
+R213	Dependency head:T610 dependent:T613 sentence:T14 label:COMP_of:ADJ-N
+R214	Dependency head:T609 dependent:T610 sentence:T14 label:XCOMP:V-ADJ
+R215	Dependency head:T609 dependent:T615 sentence:T14 label:COMP_into:V-N
+R216	Dependency head:T634 dependent:T632 sentence:T14 label:APPOS:N-FW
+R217	Dependency head:T634 dependent:T632 sentence:T14 label:COORD_;:N-FW
+R218	Dependency head:T634 dependent:T629 sentence:T14 label:COORD_;:N-N
+R219	Dependency head:T634 dependent:T627 sentence:T14 label:COORD_;:N-N
+R220	Dependency head:T634 dependent:T625 sentence:T14 label:COORD_;:N-N
+R221	Dependency head:T634 dependent:T623 sentence:T14 label:APPOS:N-N
+R222	Dependency head:T632 dependent:T623 sentence:T14 label:APPOS:N-N
+R223	Dependency head:T629 dependent:T623 sentence:T14 label:APPOS:N-N
+R224	Dependency head:T627 dependent:T623 sentence:T14 label:APPOS:N-N
+R225	Dependency head:T625 dependent:T623 sentence:T14 label:APPOS:N-N
+R226	Dependency head:T620 dependent:T623 sentence:T14 label:COMP_of:N-N
+R227	Dependency head:T618 dependent:T620 sentence:T14 label:COMP_to:ADJ-N
+R228	Dependency head:T609 dependent:T617 sentence:T14 label:COMP_if:V-V_PASS
+R229	Dependency head:T609 dependent:T589 sentence:T14 label:COORD_and:V-V_PASS
+R230	Dependency head:T589 dependent:T583 sentence:T14 label:SUBJ:V_PASS-N
+R231	Dependency head:T609 dependent:T583 sentence:T14 label:SUBJ:V-N
+R232	Dependency head:T617 dependent:T583 sentence:T14 label:SUBJ:V_PASS-N
+R233	Dependency head:T591 dependent:T583 sentence:T14 label:SUBJ:V-N
+R234	Dependency head:T638 dependent:T637 sentence:T15 label:MOD:N-ADJ
+R235	Dependency head:T642 dependent:T640 sentence:T15 label:COORD_or:N-N
+R236	Dependency head:T638 dependent:T642 sentence:T15 label:COMP_of:N-N
+R237	Dependency head:T638 dependent:T640 sentence:T15 label:COMP_of:N-N
+R238	Dependency head:T648 dependent:T647 sentence:T15 label:MOD:N-N
+R239	Dependency head:T651 dependent:T650 sentence:T15 label:MOD:N-ADJ
+R240	Dependency head:T658 dependent:T656 sentence:T15 label:COORD_;:N-N
+R241	Dependency head:T658 dependent:T654 sentence:T15 label:COORD_;:N-FW
+R242	Dependency head:T658 dependent:T651 sentence:T15 label:APPOS:N-N
+R243	Dependency head:T656 dependent:T651 sentence:T15 label:APPOS:N-N
+R244	Dependency head:T654 dependent:T651 sentence:T15 label:APPOS:N-N
+R245	Dependency head:T652 dependent:T661 sentence:T15 label:MOD:N-N
+R246	Dependency head:T648 dependent:T651 sentence:T15 label:COMP_in:N-N
+R247	Dependency head:T646 dependent:T648 sentence:T15 label:OBJ:V-N
+R248	Dependency head:T644 dependent:T646 sentence:T15 label:XCOMP:ADJ-V
+R249	Dependency head:T643 dependent:T644 sentence:T15 label:XCOMP:V-ADJ
+R250	Dependency head:T643 dependent:T638 sentence:T15 label:SUBJ:V-N
+R251	Dependency head:T646 dependent:T638 sentence:T15 label:SUBJ:V-N
+R252	Dependency head:T671 dependent:T670 sentence:T16 label:MOD:N-N
+R253	Dependency head:T671 dependent:T667 sentence:T16 label:COORD_and:N-N
+R254	Dependency head:T671 dependent:T665 sentence:T16 label:COORD_and:N-N
+R255	Dependency head:T674 dependent:T673 sentence:T16 label:MOD:N-ADJ
+R256	Dependency head:T674 dependent:T676 sentence:T16 label:COMP_of:N-N
+R257	Dependency head:T672 dependent:T674 sentence:T16 label:OBJ:V-N
+R258	Dependency head:T689 dependent:T687 sentence:T16 label:COORD_;:N-N
+R259	Dependency head:T697 dependent:T695 sentence:T16 label:APPOS:N-FW
+R260	Dependency head:T697 dependent:T695 sentence:T16 label:COORD_;:N-FW
+R261	Dependency head:T697 dependent:T692 sentence:T16 label:COORD_;:N-N
+R262	Dependency head:T697 dependent:T689 sentence:T16 label:COORD_;:N-N
+R263	Dependency head:T697 dependent:T687 sentence:T16 label:COORD_;:N-N
+R264	Dependency head:T697 dependent:T685 sentence:T16 label:COORD_;:N-N
+R265	Dependency head:T697 dependent:T683 sentence:T16 label:COORD_;:N-N
+R266	Dependency head:T697 dependent:T681 sentence:T16 label:APPOS:N-N
+R267	Dependency head:T695 dependent:T681 sentence:T16 label:APPOS:N-N
+R268	Dependency head:T692 dependent:T681 sentence:T16 label:APPOS:N-N
+R269	Dependency head:T689 dependent:T681 sentence:T16 label:APPOS:N-N
+R270	Dependency head:T687 dependent:T681 sentence:T16 label:APPOS:N-N
+R271	Dependency head:T685 dependent:T681 sentence:T16 label:APPOS:N-N
+R272	Dependency head:T683 dependent:T681 sentence:T16 label:APPOS:N-N
+R273	Dependency head:T678 dependent:T681 sentence:T16 label:COMP_like:V-N
+R274	Dependency head:T672 dependent:T671 sentence:T16 label:SUBJ:V-N
+R275	Dependency head:T672 dependent:T667 sentence:T16 label:SUBJ:V-N
+R276	Dependency head:T672 dependent:T665 sentence:T16 label:SUBJ:V-N
+R277	Dependency head:T703 dependent:T702 sentence:T17 label:MOD:N-ADJ
+R278	Dependency head:T703 dependent:T701 sentence:T17 label:MOD:N-N
+R279	Dependency head:T708 dependent:T709 sentence:T17 label:MOD:V-ADV
+R280	Dependency head:T708 dependent:T710 sentence:T17 label:XCOMP:V-ADJ
+R281	Dependency head:T712 dependent:T715 sentence:T17 label:MOD:N-N
+R282	Dependency head:T718 dependent:T712 sentence:T17 label:COORD_;:FW-ADJ
+R283	Dependency head:T718 dependent:T720 sentence:T17 label:COORD_;:FW-N
+R284	Dependency head:T720 dependent:T708 sentence:T17 label:APPOS:N-N
+R285	Dependency head:T718 dependent:T708 sentence:T17 label:APPOS:N-N
+R286	Dependency head:T712 dependent:T708 sentence:T17 label:APPOS:N-N
+R287	Dependency head:T708 dependent:T703 sentence:T17 label:SUBJ:V-N
+R288	Dependency head:T727 dependent:T725 sentence:T18 label:COORD_or:N-N
+R289	Dependency head:T723 dependent:T727 sentence:T18 label:COMP_of:N-N
+R290	Dependency head:T723 dependent:T725 sentence:T18 label:COMP_of:N-N
+R291	Dependency head:T730 dependent:T729 sentence:T18 label:MOD:N-ADJ
+R292	Dependency head:T733 dependent:T732 sentence:T18 label:MOD:N-ADJ
+R293	Dependency head:T736 dependent:T735 sentence:T18 label:MOD:N-ADJ
+R294	Dependency head:T733 dependent:T736 sentence:T18 label:COMP_in:N-N
+R295	Dependency head:T730 dependent:T733 sentence:T18 label:COMP_of:N-N
+R296	Dependency head:T728 dependent:T730 sentence:T18 label:OBJ:V-N
+R297	Dependency head:T740 dependent:T739 sentence:T18 label:NEG
+R298	Dependency head:T741 dependent:T740 sentence:T18 label:MOD:ADV-ADV
+R299	Dependency head:T728 dependent:T741 sentence:T18 label:MOD:V-ADV
+R300	Dependency head:T748 dependent:T747 sentence:T18 label:MOD:N-N
+R301	Dependency head:T755 dependent:T753 sentence:T18 label:COORD_;:N-N
+R302	Dependency head:T755 dependent:T750 sentence:T18 label:COORD_;:N-N
+R303	Dependency head:T755 dependent:T748 sentence:T18 label:APPOS:N-N
+R304	Dependency head:T753 dependent:T748 sentence:T18 label:APPOS:N-N
+R305	Dependency head:T750 dependent:T748 sentence:T18 label:APPOS:N-N
+R306	Dependency head:T749 dependent:T758 sentence:T18 label:MOD:N-N
+R307	Dependency head:T748 dependent:T745 sentence:T18 label:COORD_or:N-N
+R308	Dependency head:T743 dependent:T748 sentence:T18 label:COMP_by:V-N
+R309	Dependency head:T743 dependent:T745 sentence:T18 label:COMP_by:V-N
+R310	Dependency head:T728 dependent:T743 sentence:T18 label:COMP_as:V-V_PASS
+R311	Dependency head:T743 dependent:T723 sentence:T18 label:SUBJ:V_PASS-N
+R312	Dependency head:T728 dependent:T723 sentence:T18 label:SUBJ:V-N
+R313	Dependency head:T765 dependent:T764 sentence:T19 label:AUX:V-V
+R314	Dependency head:T775 dependent:T774 sentence:T19 label:MOD:N-N
+R315	Dependency head:T777 dependent:T775 sentence:T19 label:COORD_and:N-N
+R316	Dependency head:T777 dependent:T773 sentence:T19 label:MOD:N-ADJ
+R317	Dependency head:T775 dependent:T773 sentence:T19 label:MOD:N-ADJ
+R318	Dependency head:T771 dependent:T777 sentence:T19 label:COMP_-:N-N
+R319	Dependency head:T771 dependent:T775 sentence:T19 label:COMP_-:N-N
+R320	Dependency head:T771 dependent:T772 sentence:T19 label:MOD:N-ADJ
+R321	Dependency head:T780 dependent:T779 sentence:T19 label:MOD:N-N
+R322	Dependency head:T771 dependent:T780 sentence:T19 label:COMP_of:N-N
+R323	Dependency head:T786 dependent:T785 sentence:T19 label:MOD:N-N
+R324	Dependency head:T786 dependent:T784 sentence:T19 label:MOD:N-ADJ
+R325	Dependency head:T786 dependent:T782 sentence:T19 label:MOD:N-ADJ
+R326	Dependency head:T791 dependent:T788 sentence:T19 label:APPOS:N-N
+R327	Dependency head:T791 dependent:T786 sentence:T19 label:APPOS:N-N
+R328	Dependency head:T788 dependent:T786 sentence:T19 label:APPOS:N-N
+R329	Dependency head:T764 dependent:T786 sentence:T19 label:COMP_during:V-N
+R330	Dependency head:T764 dependent:T769 sentence:T19 label:XMOD:V_PASS-ADJ
+R331	Dependency head:T765 dependent:T771 sentence:T19 label:COMP_for:V_PASS-N
+R332	Dependency head:T765 dependent:T767 sentence:T19 label:COMP_for:V_PASS-N
+R333	Dependency head:T765 dependent:T763 sentence:T19 label:SUBJ:V_PASS-N
+R334	Dependency head:T764 dependent:T761 sentence:T19 label:MOD:V-ADV
+R335	Dependency head:T797 dependent:T796 sentence:T20 label:MOD:N-ADJ
+R336	Dependency head:T797 dependent:T795 sentence:T20 label:MOD:N-N
+R337	Dependency head:T797 dependent:T794 sentence:T20 label:MOD:N-ADJ
+R338	Dependency head:T801 dependent:T800 sentence:T20 label:MOD:ADJ-ADV
+R339	Dependency head:T801 dependent:T799 sentence:T20 label:MOD:ADJ-ADV
+R340	Dependency head:T803 dependent:T801 sentence:T20 label:COORD_and:ADJ-ADJ
+R341	Dependency head:T798 dependent:T803 sentence:T20 label:XCOMP:V-ADJ
+R342	Dependency head:T798 dependent:T801 sentence:T20 label:XCOMP:V-ADJ
+R343	Dependency head:T815 dependent:T813 sentence:T20 label:COORD_;:N-N
+R344	Dependency head:T815 dependent:T820 sentence:T20 label:COORD_;:N-N
+R345	Dependency head:T815 dependent:T818 sentence:T20 label:COORD_;:N-N
+R346	Dependency head:T815 dependent:T810 sentence:T20 label:COORD_;:N-N
+R347	Dependency head:T820 dependent:T808 sentence:T20 label:APPOS:N-N
+R348	Dependency head:T818 dependent:T808 sentence:T20 label:APPOS:N-N
+R349	Dependency head:T815 dependent:T808 sentence:T20 label:APPOS:N-N
+R350	Dependency head:T813 dependent:T808 sentence:T20 label:APPOS:N-N
+R351	Dependency head:T810 dependent:T808 sentence:T20 label:APPOS:N-N
+R352	Dependency head:T806 dependent:T808 sentence:T20 label:COMP_to:ADJ-N
+R353	Dependency head:T798 dependent:T805 sentence:T20 label:COMP_if:V-V_PASS
+R354	Dependency head:T798 dependent:T797 sentence:T20 label:SUBJ:V-N
+R355	Dependency head:T805 dependent:T797 sentence:T20 label:SUBJ:V_PASS-N
+R356	Dependency head:T832 dependent:T830 sentence:T21 label:APPOS:N-N
+R357	Dependency head:T835 dependent:T834 sentence:T21 label:MOD:N-N
+R358	Dependency head:T836 dependent:T837 sentence:T21 label:MOD:V-ADV
+R359	Dependency head:T836 dependent:T835 sentence:T21 label:SUBJ:V-N
+R360	Dependency head:T830 dependent:T836 sentence:T21 label:CMOD:N-V
+R361	Dependency head:T836 dependent:T830 sentence:T21 label:OBJ:V-N
+R362	Dependency head:T830 dependent:T827 sentence:T21 label:COORD_or:N-N
+R363	Dependency head:T826 dependent:T830 sentence:T21 label:OBJ:V-N
+R364	Dependency head:T826 dependent:T827 sentence:T21 label:OBJ:V-N
+R365	Dependency head:T842 dependent:T840 sentence:T21 label:AUX:V-V
+R366	Dependency head:T842 dependent:T841 sentence:T21 label:MOD:V-ADV
+R367	Dependency head:T847 dependent:T846 sentence:T21 label:MOD:N-N
+R368	Dependency head:T847 dependent:T845 sentence:T21 label:MOD:N-ADJ
+R369	Dependency head:T842 dependent:T847 sentence:T21 label:COMP_-:V-N
+R370	Dependency head:T844 dependent:T843 sentence:T21 label:MOD:N-N
+R371	Dependency head:T850 dependent:T849 sentence:T21 label:MOD:N-ADJ
+R372	Dependency head:T857 dependent:T855 sentence:T21 label:COORD_;:N-N
+R373	Dependency head:T857 dependent:T852 sentence:T21 label:COORD_;:N-N
+R374	Dependency head:T857 dependent:T850 sentence:T21 label:APPOS:N-N
+R375	Dependency head:T855 dependent:T850 sentence:T21 label:APPOS:N-N
+R376	Dependency head:T852 dependent:T850 sentence:T21 label:APPOS:N-N
+R377	Dependency head:T851 dependent:T860 sentence:T21 label:MOD:N-N
+R378	Dependency head:T842 dependent:T850 sentence:T21 label:COMP_in:V-N
+R379	Dependency head:T842 dependent:T826 sentence:T21 label:COORD_but:V-V
+R380	Dependency head:T842 dependent:T825 sentence:T21 label:MOD:V-ADV
+R381	Dependency head:T826 dependent:T825 sentence:T21 label:MOD:V-ADV
+R382	Dependency head:T823 dependent:T842 sentence:T21 label:CMOD:N-V
+R383	Dependency head:T823 dependent:T826 sentence:T21 label:CMOD:N-V
+R384	Dependency head:T875 dependent:T874 sentence:T22 label:MOD:N-N
+R385	Dependency head:T875 dependent:T873 sentence:T22 label:MOD:N-N
+R386	Dependency head:T875 dependent:T872 sentence:T22 label:MOD:N-N
+R387	Dependency head:T875 dependent:T869 sentence:T22 label:COORD_and:N-N
+R388	Dependency head:T875 dependent:T867 sentence:T22 label:COORD_and:N-N
+R389	Dependency head:T864 dependent:T875 sentence:T22 label:COMP_of:N-N
+R390	Dependency head:T864 dependent:T869 sentence:T22 label:COMP_of:N-N
+R391	Dependency head:T864 dependent:T867 sentence:T22 label:COMP_of:N-N
+R392	Dependency head:T876 dependent:T877 sentence:T22 label:XCOMP:V-N
+R393	Dependency head:T876 dependent:T864 sentence:T22 label:SUBJ:V-N
+R394	Dependency head:T863 dependent:T876 sentence:T22 label:CMOD:N-V
+R395	Dependency head:T880 dependent:T882 sentence:T22 label:COMP_in:V_PASS-N
+R396	Dependency head:T880 dependent:T879 sentence:T22 label:SUBJ:V_PASS-N
+R397	Dependency head:T863 dependent:T879 sentence:T22 label:COMP_of:N-N
+R398	Dependency head:T888 dependent:T885 sentence:T22 label:COORD_and:V-N
+R399	Dependency head:T885 dependent:T884 sentence:T22 label:MOD:N-N
+R400	Dependency head:T863 dependent:T888 sentence:T22 label:COMP_of:N-V
+R401	Dependency head:T863 dependent:T885 sentence:T22 label:COMP_of:N-N
+R402	Dependency head:T863 dependent:T891 sentence:T22 label:COMP_in:N-N
+R403	Dependency head:T894 dependent:T893 sentence:T22 label:MOD:N-ADJ
+R404	Dependency head:T863 dependent:T894 sentence:T22 label:COMP_during:N-N
+R405	Dependency head:T977 dependent:T974 sentence:T24 label:COMP_in:V-N
+R406	Dependency head:T982 dependent:T981 sentence:T24 label:MOD:N-N
+R407	Dependency head:T982 dependent:T980 sentence:T24 label:MOD:N-ADJ
+R408	Dependency head:T978 dependent:T982 sentence:T24 label:COMP_-:N-N
+R409	Dependency head:T978 dependent:T979 sentence:T24 label:MOD:N-ADJ
+R410	Dependency head:T977 dependent:T978 sentence:T24 label:OBJ:V-N
+R411	Dependency head:T977 dependent:T985 sentence:T24 label:COMP_in:V-V
+R412	Dependency head:T993 dependent:T992 sentence:T24 label:MOD:N-N
+R413	Dependency head:T993 dependent:T991 sentence:T24 label:MOD:N-ADJ
+R414	Dependency head:T993 dependent:T990 sentence:T24 label:MOD:N-ADJ
+R415	Dependency head:T993 dependent:T989 sentence:T24 label:MOD:N-ADJ
+R416	Dependency head:T998 dependent:T997 sentence:T24 label:MOD:N-N
+R417	Dependency head:T998 dependent:T996 sentence:T24 label:MOD:N-N
+R418	Dependency head:T1003 dependent:T1000 sentence:T24 label:APPOS:N-N
+R419	Dependency head:T1003 dependent:T998 sentence:T24 label:APPOS:N-N
+R420	Dependency head:T1000 dependent:T998 sentence:T24 label:APPOS:N-N
+R421	Dependency head:T995 dependent:T998 sentence:T24 label:OBJ:V-N
+R422	Dependency head:T993 dependent:T995 sentence:T24 label:CMOD:N-V
+R423	Dependency head:T987 dependent:T993 sentence:T24 label:COMP_with:N-N
+R424	Dependency head:T977 dependent:T987 sentence:T24 label:COMP_through:V-N
+R425	Dependency head:T977 dependent:T976 sentence:T24 label:SUBJ:V-N
+R426	Dependency head:T1008 dependent:T1006 sentence:T25 label:COORD_and:N-N
+R427	Dependency head:T1015 dependent:T1014 sentence:T25 label:MOD:N-N
+R428	Dependency head:T1012 dependent:T1015 sentence:T25 label:COMP_of:N-N
+R429	Dependency head:T1018 dependent:T1017 sentence:T25 label:MOD:N-ADJ
+R430	Dependency head:T1012 dependent:T1018 sentence:T25 label:COMP_during:N-N
+R431	Dependency head:T1025 dependent:T1023 sentence:T25 label:COORD_;:N-N
+R432	Dependency head:T1025 dependent:T1020 sentence:T25 label:COORD_;:N-FW
+R433	Dependency head:T1025 dependent:T1012 sentence:T25 label:APPOS:N-N
+R434	Dependency head:T1023 dependent:T1012 sentence:T25 label:APPOS:N-N
+R435	Dependency head:T1020 dependent:T1012 sentence:T25 label:APPOS:N-N
+R436	Dependency head:T1019 dependent:T1028 sentence:T25 label:MOD:N-N
+R437	Dependency head:T1010 dependent:T1012 sentence:T25 label:COMP_in:V_PASS-N
+R438	Dependency head:T1010 dependent:T1009 sentence:T25 label:AUX:V-V
+R439	Dependency head:T1010 dependent:T1008 sentence:T25 label:SUBJ:V_PASS-N
+R440	Dependency head:T1010 dependent:T1006 sentence:T25 label:SUBJ:V_PASS-N
+R441	Dependency head:T1075 dependent:T1074 sentence:T27 label:MOD:N-N
+R442	Dependency head:T1075 dependent:T1073 sentence:T27 label:MOD:N-N
+R443	Dependency head:T1075 dependent:T1072 sentence:T27 label:MOD:N-N
+R444	Dependency head:T1085 dependent:T1084 sentence:T27 label:MOD:N-ADJ
+R445	Dependency head:T1082 dependent:T1085 sentence:T27 label:COMP_of:N-N
+R446	Dependency head:T1082 dependent:T1080 sentence:T27 label:COORD_and:N-N
+R447	Dependency head:T1078 dependent:T1082 sentence:T27 label:COMP_to:ADV-N
+R448	Dependency head:T1078 dependent:T1080 sentence:T27 label:COMP_to:ADV-N
+R449	Dependency head:T1077 dependent:T1078 sentence:T27 label:MOD:V-ADV
+R450	Dependency head:T1077 dependent:T1076 sentence:T27 label:AUX:V-V
+R451	Dependency head:T1077 dependent:T1075 sentence:T27 label:SUBJ:V_PASS-N
+R452	Dependency head:T28 dependent:T29 sentence:T1 label:WORDPATH
+R453	Dependency head:T29 dependent:T30 sentence:T1 label:WORDPATH
+R454	Dependency head:T30 dependent:T31 sentence:T1 label:WORDPATH
+R455	Dependency head:T31 dependent:T32 sentence:T1 label:WORDPATH
+R456	Dependency head:T32 dependent:T33 sentence:T1 label:WORDPATH
+R457	Dependency head:T33 dependent:T34 sentence:T1 label:WORDPATH
+R458	Dependency head:T34 dependent:T35 sentence:T1 label:WORDPATH
+R459	Dependency head:T35 dependent:T36 sentence:T1 label:WORDPATH
+R460	Dependency head:T36 dependent:T37 sentence:T1 label:WORDPATH
+R461	Dependency head:T37 dependent:T38 sentence:T1 label:WORDPATH
+R462	Dependency head:T38 dependent:T39 sentence:T1 label:WORDPATH
+R463	Dependency head:T39 dependent:T40 sentence:T1 label:WORDPATH
+R464	Dependency head:T40 dependent:T41 sentence:T1 label:WORDPATH
+R465	Dependency head:T41 dependent:T42 sentence:T1 label:WORDPATH
+R466	Dependency head:T42 dependent:T43 sentence:T1 label:WORDPATH
+R467	Dependency head:T43 dependent:T44 sentence:T1 label:WORDPATH
+R468	Dependency head:T44 dependent:T45 sentence:T1 label:WORDPATH
+R469	Dependency head:T45 dependent:T46 sentence:T1 label:WORDPATH
+R470	Dependency head:T46 dependent:T47 sentence:T1 label:WORDPATH
+R471	Dependency head:T47 dependent:T48 sentence:T1 label:WORDPATH
+R472	Dependency head:T48 dependent:T49 sentence:T1 label:WORDPATH
+R473	Dependency head:T49 dependent:T50 sentence:T1 label:WORDPATH
+R474	Dependency head:T50 dependent:T51 sentence:T1 label:WORDPATH
+R475	Dependency head:T51 dependent:T52 sentence:T1 label:WORDPATH
+R476	Dependency head:T52 dependent:T53 sentence:T1 label:WORDPATH
+R477	Dependency head:T53 dependent:T54 sentence:T1 label:WORDPATH
+R478	Dependency head:T54 dependent:T55 sentence:T1 label:WORDPATH
+R479	Dependency head:T55 dependent:T56 sentence:T1 label:WORDPATH
+R480	Dependency head:T56 dependent:T57 sentence:T1 label:WORDPATH
+R481	Dependency head:T57 dependent:T58 sentence:T1 label:WORDPATH
+R482	Dependency head:T58 dependent:T59 sentence:T1 label:WORDPATH
+R483	Dependency head:T59 dependent:T60 sentence:T1 label:WORDPATH
+R484	Dependency head:T60 dependent:T61 sentence:T1 label:WORDPATH
+R485	Dependency head:T61 dependent:T62 sentence:T1 label:WORDPATH
+R486	Dependency head:T62 dependent:T63 sentence:T1 label:WORDPATH
+R487	Dependency head:T63 dependent:T64 sentence:T1 label:WORDPATH
+R488	Dependency head:T64 dependent:T65 sentence:T1 label:WORDPATH
+R489	Dependency head:T65 dependent:T66 sentence:T1 label:WORDPATH
+R490	Dependency head:T66 dependent:T67 sentence:T1 label:WORDPATH
+R491	Dependency head:T67 dependent:T68 sentence:T1 label:WORDPATH
+R492	Dependency head:T68 dependent:T69 sentence:T1 label:WORDPATH
+R493	Dependency head:T69 dependent:T70 sentence:T1 label:WORDPATH
+R494	Dependency head:T70 dependent:T71 sentence:T1 label:WORDPATH
+R495	Dependency head:T71 dependent:T72 sentence:T1 label:WORDPATH
+R496	Dependency head:T72 dependent:T73 sentence:T1 label:WORDPATH
+R497	Dependency head:T73 dependent:T74 sentence:T1 label:WORDPATH
+R498	Dependency head:T74 dependent:T75 sentence:T1 label:WORDPATH
+R499	Dependency head:T75 dependent:T76 sentence:T1 label:WORDPATH
+R500	Dependency head:T76 dependent:T77 sentence:T1 label:WORDPATH
+R501	Dependency head:T77 dependent:T78 sentence:T1 label:WORDPATH
+R502	Dependency head:T78 dependent:T79 sentence:T1 label:WORDPATH
+R503	Dependency head:T79 dependent:T80 sentence:T1 label:WORDPATH
+R504	Dependency head:T80 dependent:T81 sentence:T1 label:WORDPATH
+R505	Dependency head:T81 dependent:T82 sentence:T1 label:WORDPATH
+R506	Dependency head:T82 dependent:T83 sentence:T1 label:WORDPATH
+R507	Dependency head:T83 dependent:T84 sentence:T1 label:WORDPATH
+R508	Dependency head:T84 dependent:T85 sentence:T1 label:WORDPATH
+R509	Dependency head:T85 dependent:T86 sentence:T1 label:WORDPATH
+R510	Dependency head:T86 dependent:T87 sentence:T1 label:WORDPATH
+R511	Dependency head:T87 dependent:T88 sentence:T1 label:WORDPATH
+R512	Dependency head:T88 dependent:T89 sentence:T1 label:WORDPATH
+R513	Dependency head:T89 dependent:T90 sentence:T1 label:WORDPATH
+R514	Dependency head:T90 dependent:T91 sentence:T1 label:WORDPATH
+R515	Dependency head:T91 dependent:T92 sentence:T1 label:WORDPATH
+R516	Dependency head:T92 dependent:T93 sentence:T1 label:WORDPATH
+R517	Dependency head:T93 dependent:T94 sentence:T1 label:WORDPATH
+R518	Dependency head:T94 dependent:T95 sentence:T1 label:WORDPATH
+R519	Dependency head:T95 dependent:T96 sentence:T1 label:WORDPATH
+R520	Dependency head:T96 dependent:T97 sentence:T1 label:WORDPATH
+R521	Dependency head:T97 dependent:T98 sentence:T1 label:WORDPATH
+R522	Dependency head:T98 dependent:T99 sentence:T1 label:WORDPATH
+R523	Dependency head:T99 dependent:T100 sentence:T1 label:WORDPATH
+R524	Dependency head:T100 dependent:T101 sentence:T1 label:WORDPATH
+R525	Dependency head:T101 dependent:T102 sentence:T1 label:WORDPATH
+R526	Dependency head:T102 dependent:T103 sentence:T1 label:WORDPATH
+R527	Dependency head:T103 dependent:T104 sentence:T1 label:WORDPATH
+R528	Dependency head:T104 dependent:T105 sentence:T1 label:WORDPATH
+R529	Dependency head:T105 dependent:T106 sentence:T1 label:WORDPATH
+R530	Dependency head:T106 dependent:T107 sentence:T1 label:WORDPATH
+R531	Dependency head:T107 dependent:T108 sentence:T1 label:WORDPATH
+R532	Dependency head:T108 dependent:T109 sentence:T1 label:WORDPATH
+R533	Dependency head:T109 dependent:T110 sentence:T1 label:WORDPATH
+R534	Dependency head:T110 dependent:T111 sentence:T1 label:WORDPATH
+R535	Dependency head:T111 dependent:T112 sentence:T1 label:WORDPATH
+R536	Dependency head:T112 dependent:T113 sentence:T1 label:WORDPATH
+R537	Dependency head:T113 dependent:T114 sentence:T1 label:WORDPATH
+R538	Dependency head:T114 dependent:T115 sentence:T1 label:WORDPATH
+R539	Dependency head:T115 dependent:T116 sentence:T1 label:WORDPATH
+R540	Dependency head:T116 dependent:T117 sentence:T1 label:WORDPATH
+R541	Dependency head:T118 dependent:T119 sentence:T2 label:WORDPATH
+R542	Dependency head:T119 dependent:T120 sentence:T2 label:WORDPATH
+R543	Dependency head:T120 dependent:T121 sentence:T2 label:WORDPATH
+R544	Dependency head:T121 dependent:T122 sentence:T2 label:WORDPATH
+R545	Dependency head:T122 dependent:T123 sentence:T2 label:WORDPATH
+R546	Dependency head:T123 dependent:T124 sentence:T2 label:WORDPATH
+R547	Dependency head:T124 dependent:T125 sentence:T2 label:WORDPATH
+R548	Dependency head:T125 dependent:T126 sentence:T2 label:WORDPATH
+R549	Dependency head:T126 dependent:T127 sentence:T2 label:WORDPATH
+R550	Dependency head:T127 dependent:T128 sentence:T2 label:WORDPATH
+R551	Dependency head:T128 dependent:T129 sentence:T2 label:WORDPATH
+R552	Dependency head:T129 dependent:T130 sentence:T2 label:WORDPATH
+R553	Dependency head:T130 dependent:T131 sentence:T2 label:WORDPATH
+R554	Dependency head:T131 dependent:T132 sentence:T2 label:WORDPATH
+R555	Dependency head:T132 dependent:T133 sentence:T2 label:WORDPATH
+R556	Dependency head:T133 dependent:T134 sentence:T2 label:WORDPATH
+R557	Dependency head:T134 dependent:T135 sentence:T2 label:WORDPATH
+R558	Dependency head:T135 dependent:T136 sentence:T2 label:WORDPATH
+R559	Dependency head:T136 dependent:T137 sentence:T2 label:WORDPATH
+R560	Dependency head:T137 dependent:T138 sentence:T2 label:WORDPATH
+R561	Dependency head:T138 dependent:T139 sentence:T2 label:WORDPATH
+R562	Dependency head:T140 dependent:T141 sentence:T3 label:WORDPATH
+R563	Dependency head:T141 dependent:T142 sentence:T3 label:WORDPATH
+R564	Dependency head:T142 dependent:T143 sentence:T3 label:WORDPATH
+R565	Dependency head:T143 dependent:T144 sentence:T3 label:WORDPATH
+R566	Dependency head:T144 dependent:T145 sentence:T3 label:WORDPATH
+R567	Dependency head:T145 dependent:T146 sentence:T3 label:WORDPATH
+R568	Dependency head:T146 dependent:T147 sentence:T3 label:WORDPATH
+R569	Dependency head:T147 dependent:T148 sentence:T3 label:WORDPATH
+R570	Dependency head:T148 dependent:T149 sentence:T3 label:WORDPATH
+R571	Dependency head:T149 dependent:T150 sentence:T3 label:WORDPATH
+R572	Dependency head:T150 dependent:T151 sentence:T3 label:WORDPATH
+R573	Dependency head:T151 dependent:T152 sentence:T3 label:WORDPATH
+R574	Dependency head:T152 dependent:T153 sentence:T3 label:WORDPATH
+R575	Dependency head:T153 dependent:T154 sentence:T3 label:WORDPATH
+R576	Dependency head:T154 dependent:T155 sentence:T3 label:WORDPATH
+R577	Dependency head:T155 dependent:T156 sentence:T3 label:WORDPATH
+R578	Dependency head:T156 dependent:T157 sentence:T3 label:WORDPATH
+R579	Dependency head:T157 dependent:T158 sentence:T3 label:WORDPATH
+R580	Dependency head:T158 dependent:T159 sentence:T3 label:WORDPATH
+R581	Dependency head:T159 dependent:T160 sentence:T3 label:WORDPATH
+R582	Dependency head:T160 dependent:T161 sentence:T3 label:WORDPATH
+R583	Dependency head:T161 dependent:T162 sentence:T3 label:WORDPATH
+R584	Dependency head:T162 dependent:T163 sentence:T3 label:WORDPATH
+R585	Dependency head:T163 dependent:T164 sentence:T3 label:WORDPATH
+R586	Dependency head:T164 dependent:T165 sentence:T3 label:WORDPATH
+R587	Dependency head:T165 dependent:T166 sentence:T3 label:WORDPATH
+R588	Dependency head:T167 dependent:T168 sentence:T4 label:WORDPATH
+R589	Dependency head:T168 dependent:T169 sentence:T4 label:WORDPATH
+R590	Dependency head:T169 dependent:T170 sentence:T4 label:WORDPATH
+R591	Dependency head:T170 dependent:T171 sentence:T4 label:WORDPATH
+R592	Dependency head:T171 dependent:T172 sentence:T4 label:WORDPATH
+R593	Dependency head:T172 dependent:T173 sentence:T4 label:WORDPATH
+R594	Dependency head:T173 dependent:T174 sentence:T4 label:WORDPATH
+R595	Dependency head:T174 dependent:T175 sentence:T4 label:WORDPATH
+R596	Dependency head:T175 dependent:T176 sentence:T4 label:WORDPATH
+R597	Dependency head:T176 dependent:T177 sentence:T4 label:WORDPATH
+R598	Dependency head:T177 dependent:T178 sentence:T4 label:WORDPATH
+R599	Dependency head:T178 dependent:T179 sentence:T4 label:WORDPATH
+R600	Dependency head:T179 dependent:T180 sentence:T4 label:WORDPATH
+R601	Dependency head:T180 dependent:T181 sentence:T4 label:WORDPATH
+R602	Dependency head:T181 dependent:T182 sentence:T4 label:WORDPATH
+R603	Dependency head:T182 dependent:T183 sentence:T4 label:WORDPATH
+R604	Dependency head:T183 dependent:T184 sentence:T4 label:WORDPATH
+R605	Dependency head:T184 dependent:T185 sentence:T4 label:WORDPATH
+R606	Dependency head:T185 dependent:T186 sentence:T4 label:WORDPATH
+R607	Dependency head:T186 dependent:T187 sentence:T4 label:WORDPATH
+R608	Dependency head:T187 dependent:T188 sentence:T4 label:WORDPATH
+R609	Dependency head:T188 dependent:T189 sentence:T4 label:WORDPATH
+R610	Dependency head:T189 dependent:T190 sentence:T4 label:WORDPATH
+R611	Dependency head:T190 dependent:T191 sentence:T4 label:WORDPATH
+R612	Dependency head:T191 dependent:T192 sentence:T4 label:WORDPATH
+R613	Dependency head:T192 dependent:T193 sentence:T4 label:WORDPATH
+R614	Dependency head:T193 dependent:T194 sentence:T4 label:WORDPATH
+R615	Dependency head:T194 dependent:T195 sentence:T4 label:WORDPATH
+R616	Dependency head:T195 dependent:T196 sentence:T4 label:WORDPATH
+R617	Dependency head:T196 dependent:T197 sentence:T4 label:WORDPATH
+R618	Dependency head:T197 dependent:T198 sentence:T4 label:WORDPATH
+R619	Dependency head:T198 dependent:T199 sentence:T4 label:WORDPATH
+R620	Dependency head:T200 dependent:T201 sentence:T5 label:WORDPATH
+R621	Dependency head:T201 dependent:T202 sentence:T5 label:WORDPATH
+R622	Dependency head:T202 dependent:T203 sentence:T5 label:WORDPATH
+R623	Dependency head:T203 dependent:T204 sentence:T5 label:WORDPATH
+R624	Dependency head:T204 dependent:T205 sentence:T5 label:WORDPATH
+R625	Dependency head:T205 dependent:T206 sentence:T5 label:WORDPATH
+R626	Dependency head:T206 dependent:T207 sentence:T5 label:WORDPATH
+R627	Dependency head:T207 dependent:T208 sentence:T5 label:WORDPATH
+R628	Dependency head:T208 dependent:T209 sentence:T5 label:WORDPATH
+R629	Dependency head:T209 dependent:T210 sentence:T5 label:WORDPATH
+R630	Dependency head:T210 dependent:T211 sentence:T5 label:WORDPATH
+R631	Dependency head:T211 dependent:T212 sentence:T5 label:WORDPATH
+R632	Dependency head:T212 dependent:T213 sentence:T5 label:WORDPATH
+R633	Dependency head:T213 dependent:T214 sentence:T5 label:WORDPATH
+R634	Dependency head:T214 dependent:T215 sentence:T5 label:WORDPATH
+R635	Dependency head:T215 dependent:T216 sentence:T5 label:WORDPATH
+R636	Dependency head:T216 dependent:T217 sentence:T5 label:WORDPATH
+R637	Dependency head:T217 dependent:T218 sentence:T5 label:WORDPATH
+R638	Dependency head:T218 dependent:T219 sentence:T5 label:WORDPATH
+R639	Dependency head:T219 dependent:T220 sentence:T5 label:WORDPATH
+R640	Dependency head:T220 dependent:T221 sentence:T5 label:WORDPATH
+R641	Dependency head:T222 dependent:T223 sentence:T6 label:WORDPATH
+R642	Dependency head:T223 dependent:T224 sentence:T6 label:WORDPATH
+R643	Dependency head:T224 dependent:T225 sentence:T6 label:WORDPATH
+R644	Dependency head:T225 dependent:T226 sentence:T6 label:WORDPATH
+R645	Dependency head:T226 dependent:T227 sentence:T6 label:WORDPATH
+R646	Dependency head:T227 dependent:T228 sentence:T6 label:WORDPATH
+R647	Dependency head:T228 dependent:T229 sentence:T6 label:WORDPATH
+R648	Dependency head:T229 dependent:T230 sentence:T6 label:WORDPATH
+R649	Dependency head:T230 dependent:T231 sentence:T6 label:WORDPATH
+R650	Dependency head:T231 dependent:T232 sentence:T6 label:WORDPATH
+R651	Dependency head:T232 dependent:T233 sentence:T6 label:WORDPATH
+R652	Dependency head:T233 dependent:T234 sentence:T6 label:WORDPATH
+R653	Dependency head:T234 dependent:T235 sentence:T6 label:WORDPATH
+R654	Dependency head:T235 dependent:T236 sentence:T6 label:WORDPATH
+R655	Dependency head:T236 dependent:T237 sentence:T6 label:WORDPATH
+R656	Dependency head:T237 dependent:T238 sentence:T6 label:WORDPATH
+R657	Dependency head:T238 dependent:T239 sentence:T6 label:WORDPATH
+R658	Dependency head:T239 dependent:T240 sentence:T6 label:WORDPATH
+R659	Dependency head:T240 dependent:T241 sentence:T6 label:WORDPATH
+R660	Dependency head:T241 dependent:T242 sentence:T6 label:WORDPATH
+R661	Dependency head:T242 dependent:T243 sentence:T6 label:WORDPATH
+R662	Dependency head:T244 dependent:T245 sentence:T7 label:WORDPATH
+R663	Dependency head:T245 dependent:T246 sentence:T7 label:WORDPATH
+R664	Dependency head:T246 dependent:T247 sentence:T7 label:WORDPATH
+R665	Dependency head:T247 dependent:T248 sentence:T7 label:WORDPATH
+R666	Dependency head:T248 dependent:T249 sentence:T7 label:WORDPATH
+R667	Dependency head:T249 dependent:T250 sentence:T7 label:WORDPATH
+R668	Dependency head:T250 dependent:T251 sentence:T7 label:WORDPATH
+R669	Dependency head:T251 dependent:T252 sentence:T7 label:WORDPATH
+R670	Dependency head:T252 dependent:T253 sentence:T7 label:WORDPATH
+R671	Dependency head:T253 dependent:T254 sentence:T7 label:WORDPATH
+R672	Dependency head:T254 dependent:T255 sentence:T7 label:WORDPATH
+R673	Dependency head:T255 dependent:T256 sentence:T7 label:WORDPATH
+R674	Dependency head:T256 dependent:T257 sentence:T7 label:WORDPATH
+R675	Dependency head:T257 dependent:T258 sentence:T7 label:WORDPATH
+R676	Dependency head:T258 dependent:T259 sentence:T7 label:WORDPATH
+R677	Dependency head:T259 dependent:T260 sentence:T7 label:WORDPATH
+R678	Dependency head:T260 dependent:T261 sentence:T7 label:WORDPATH
+R679	Dependency head:T261 dependent:T262 sentence:T7 label:WORDPATH
+R680	Dependency head:T262 dependent:T263 sentence:T7 label:WORDPATH
+R681	Dependency head:T263 dependent:T264 sentence:T7 label:WORDPATH
+R682	Dependency head:T264 dependent:T265 sentence:T7 label:WORDPATH
+R683	Dependency head:T265 dependent:T266 sentence:T7 label:WORDPATH
+R684	Dependency head:T266 dependent:T267 sentence:T7 label:WORDPATH
+R685	Dependency head:T267 dependent:T268 sentence:T7 label:WORDPATH
+R686	Dependency head:T268 dependent:T269 sentence:T7 label:WORDPATH
+R687	Dependency head:T269 dependent:T270 sentence:T7 label:WORDPATH
+R688	Dependency head:T270 dependent:T271 sentence:T7 label:WORDPATH
+R689	Dependency head:T271 dependent:T272 sentence:T7 label:WORDPATH
+R690	Dependency head:T272 dependent:T273 sentence:T7 label:WORDPATH
+R691	Dependency head:T273 dependent:T274 sentence:T7 label:WORDPATH
+R692	Dependency head:T274 dependent:T275 sentence:T7 label:WORDPATH
+R693	Dependency head:T275 dependent:T276 sentence:T7 label:WORDPATH
+R694	Dependency head:T276 dependent:T277 sentence:T7 label:WORDPATH
+R695	Dependency head:T277 dependent:T278 sentence:T7 label:WORDPATH
+R696	Dependency head:T278 dependent:T279 sentence:T7 label:WORDPATH
+R697	Dependency head:T279 dependent:T280 sentence:T7 label:WORDPATH
+R698	Dependency head:T280 dependent:T281 sentence:T7 label:WORDPATH
+R699	Dependency head:T281 dependent:T282 sentence:T7 label:WORDPATH
+R700	Dependency head:T282 dependent:T283 sentence:T7 label:WORDPATH
+R701	Dependency head:T283 dependent:T284 sentence:T7 label:WORDPATH
+R702	Dependency head:T285 dependent:T286 sentence:T8 label:WORDPATH
+R703	Dependency head:T286 dependent:T287 sentence:T8 label:WORDPATH
+R704	Dependency head:T287 dependent:T288 sentence:T8 label:WORDPATH
+R705	Dependency head:T288 dependent:T289 sentence:T8 label:WORDPATH
+R706	Dependency head:T289 dependent:T290 sentence:T8 label:WORDPATH
+R707	Dependency head:T290 dependent:T291 sentence:T8 label:WORDPATH
+R708	Dependency head:T291 dependent:T292 sentence:T8 label:WORDPATH
+R709	Dependency head:T292 dependent:T293 sentence:T8 label:WORDPATH
+R710	Dependency head:T293 dependent:T294 sentence:T8 label:WORDPATH
+R711	Dependency head:T294 dependent:T295 sentence:T8 label:WORDPATH
+R712	Dependency head:T295 dependent:T296 sentence:T8 label:WORDPATH
+R713	Dependency head:T296 dependent:T297 sentence:T8 label:WORDPATH
+R714	Dependency head:T297 dependent:T298 sentence:T8 label:WORDPATH
+R715	Dependency head:T298 dependent:T299 sentence:T8 label:WORDPATH
+R716	Dependency head:T299 dependent:T300 sentence:T8 label:WORDPATH
+R717	Dependency head:T301 dependent:T302 sentence:T9 label:WORDPATH
+R718	Dependency head:T302 dependent:T303 sentence:T9 label:WORDPATH
+R719	Dependency head:T303 dependent:T304 sentence:T9 label:WORDPATH
+R720	Dependency head:T304 dependent:T305 sentence:T9 label:WORDPATH
+R721	Dependency head:T305 dependent:T306 sentence:T9 label:WORDPATH
+R722	Dependency head:T306 dependent:T307 sentence:T9 label:WORDPATH
+R723	Dependency head:T307 dependent:T308 sentence:T9 label:WORDPATH
+R724	Dependency head:T308 dependent:T309 sentence:T9 label:WORDPATH
+R725	Dependency head:T309 dependent:T310 sentence:T9 label:WORDPATH
+R726	Dependency head:T310 dependent:T311 sentence:T9 label:WORDPATH
+R727	Dependency head:T311 dependent:T312 sentence:T9 label:WORDPATH
+R728	Dependency head:T312 dependent:T313 sentence:T9 label:WORDPATH
+R729	Dependency head:T313 dependent:T314 sentence:T9 label:WORDPATH
+R730	Dependency head:T314 dependent:T315 sentence:T9 label:WORDPATH
+R731	Dependency head:T315 dependent:T316 sentence:T9 label:WORDPATH
+R732	Dependency head:T316 dependent:T317 sentence:T9 label:WORDPATH
+R733	Dependency head:T317 dependent:T318 sentence:T9 label:WORDPATH
+R734	Dependency head:T318 dependent:T319 sentence:T9 label:WORDPATH
+R735	Dependency head:T319 dependent:T320 sentence:T9 label:WORDPATH
+R736	Dependency head:T320 dependent:T321 sentence:T9 label:WORDPATH
+R737	Dependency head:T321 dependent:T322 sentence:T9 label:WORDPATH
+R738	Dependency head:T322 dependent:T323 sentence:T9 label:WORDPATH
+R739	Dependency head:T323 dependent:T324 sentence:T9 label:WORDPATH
+R740	Dependency head:T324 dependent:T325 sentence:T9 label:WORDPATH
+R741	Dependency head:T325 dependent:T326 sentence:T9 label:WORDPATH
+R742	Dependency head:T326 dependent:T327 sentence:T9 label:WORDPATH
+R743	Dependency head:T327 dependent:T328 sentence:T9 label:WORDPATH
+R744	Dependency head:T328 dependent:T329 sentence:T9 label:WORDPATH
+R745	Dependency head:T329 dependent:T330 sentence:T9 label:WORDPATH
+R746	Dependency head:T330 dependent:T331 sentence:T9 label:WORDPATH
+R747	Dependency head:T331 dependent:T332 sentence:T9 label:WORDPATH
+R748	Dependency head:T332 dependent:T333 sentence:T9 label:WORDPATH
+R749	Dependency head:T333 dependent:T334 sentence:T9 label:WORDPATH
+R750	Dependency head:T334 dependent:T335 sentence:T9 label:WORDPATH
+R751	Dependency head:T335 dependent:T336 sentence:T9 label:WORDPATH
+R752	Dependency head:T336 dependent:T337 sentence:T9 label:WORDPATH
+R753	Dependency head:T337 dependent:T338 sentence:T9 label:WORDPATH
+R754	Dependency head:T338 dependent:T339 sentence:T9 label:WORDPATH
+R755	Dependency head:T339 dependent:T340 sentence:T9 label:WORDPATH
+R756	Dependency head:T340 dependent:T341 sentence:T9 label:WORDPATH
+R757	Dependency head:T341 dependent:T342 sentence:T9 label:WORDPATH
+R758	Dependency head:T342 dependent:T343 sentence:T9 label:WORDPATH
+R759	Dependency head:T343 dependent:T344 sentence:T9 label:WORDPATH
+R760	Dependency head:T344 dependent:T345 sentence:T9 label:WORDPATH
+R761	Dependency head:T346 dependent:T347 sentence:T10 label:WORDPATH
+R762	Dependency head:T347 dependent:T348 sentence:T10 label:WORDPATH
+R763	Dependency head:T348 dependent:T349 sentence:T10 label:WORDPATH
+R764	Dependency head:T349 dependent:T350 sentence:T10 label:WORDPATH
+R765	Dependency head:T350 dependent:T351 sentence:T10 label:WORDPATH
+R766	Dependency head:T351 dependent:T352 sentence:T10 label:WORDPATH
+R767	Dependency head:T352 dependent:T353 sentence:T10 label:WORDPATH
+R768	Dependency head:T353 dependent:T354 sentence:T10 label:WORDPATH
+R769	Dependency head:T354 dependent:T355 sentence:T10 label:WORDPATH
+R770	Dependency head:T355 dependent:T356 sentence:T10 label:WORDPATH
+R771	Dependency head:T356 dependent:T357 sentence:T10 label:WORDPATH
+R772	Dependency head:T357 dependent:T358 sentence:T10 label:WORDPATH
+R773	Dependency head:T358 dependent:T359 sentence:T10 label:WORDPATH
+R774	Dependency head:T359 dependent:T360 sentence:T10 label:WORDPATH
+R775	Dependency head:T360 dependent:T361 sentence:T10 label:WORDPATH
+R776	Dependency head:T361 dependent:T362 sentence:T10 label:WORDPATH
+R777	Dependency head:T362 dependent:T363 sentence:T10 label:WORDPATH
+R778	Dependency head:T363 dependent:T364 sentence:T10 label:WORDPATH
+R779	Dependency head:T364 dependent:T365 sentence:T10 label:WORDPATH
+R780	Dependency head:T365 dependent:T366 sentence:T10 label:WORDPATH
+R781	Dependency head:T366 dependent:T367 sentence:T10 label:WORDPATH
+R782	Dependency head:T367 dependent:T368 sentence:T10 label:WORDPATH
+R783	Dependency head:T368 dependent:T369 sentence:T10 label:WORDPATH
+R784	Dependency head:T369 dependent:T370 sentence:T10 label:WORDPATH
+R785	Dependency head:T370 dependent:T371 sentence:T10 label:WORDPATH
+R786	Dependency head:T371 dependent:T372 sentence:T10 label:WORDPATH
+R787	Dependency head:T372 dependent:T373 sentence:T10 label:WORDPATH
+R788	Dependency head:T373 dependent:T374 sentence:T10 label:WORDPATH
+R789	Dependency head:T374 dependent:T375 sentence:T10 label:WORDPATH
+R790	Dependency head:T375 dependent:T376 sentence:T10 label:WORDPATH
+R791	Dependency head:T376 dependent:T377 sentence:T10 label:WORDPATH
+R792	Dependency head:T378 dependent:T379 sentence:T11 label:WORDPATH
+R793	Dependency head:T379 dependent:T380 sentence:T11 label:WORDPATH
+R794	Dependency head:T380 dependent:T381 sentence:T11 label:WORDPATH
+R795	Dependency head:T381 dependent:T382 sentence:T11 label:WORDPATH
+R796	Dependency head:T382 dependent:T383 sentence:T11 label:WORDPATH
+R797	Dependency head:T383 dependent:T384 sentence:T11 label:WORDPATH
+R798	Dependency head:T384 dependent:T385 sentence:T11 label:WORDPATH
+R799	Dependency head:T385 dependent:T386 sentence:T11 label:WORDPATH
+R800	Dependency head:T386 dependent:T387 sentence:T11 label:WORDPATH
+R801	Dependency head:T387 dependent:T388 sentence:T11 label:WORDPATH
+R802	Dependency head:T388 dependent:T389 sentence:T11 label:WORDPATH
+R803	Dependency head:T389 dependent:T390 sentence:T11 label:WORDPATH
+R804	Dependency head:T390 dependent:T391 sentence:T11 label:WORDPATH
+R805	Dependency head:T391 dependent:T392 sentence:T11 label:WORDPATH
+R806	Dependency head:T392 dependent:T393 sentence:T11 label:WORDPATH
+R807	Dependency head:T393 dependent:T394 sentence:T11 label:WORDPATH
+R808	Dependency head:T394 dependent:T395 sentence:T11 label:WORDPATH
+R809	Dependency head:T395 dependent:T396 sentence:T11 label:WORDPATH
+R810	Dependency head:T396 dependent:T397 sentence:T11 label:WORDPATH
+R811	Dependency head:T397 dependent:T398 sentence:T11 label:WORDPATH
+R812	Dependency head:T398 dependent:T399 sentence:T11 label:WORDPATH
+R813	Dependency head:T399 dependent:T400 sentence:T11 label:WORDPATH
+R814	Dependency head:T400 dependent:T401 sentence:T11 label:WORDPATH
+R815	Dependency head:T401 dependent:T402 sentence:T11 label:WORDPATH
+R816	Dependency head:T402 dependent:T403 sentence:T11 label:WORDPATH
+R817	Dependency head:T403 dependent:T404 sentence:T11 label:WORDPATH
+R818	Dependency head:T404 dependent:T405 sentence:T11 label:WORDPATH
+R819	Dependency head:T405 dependent:T406 sentence:T11 label:WORDPATH
+R820	Dependency head:T406 dependent:T407 sentence:T11 label:WORDPATH
+R821	Dependency head:T407 dependent:T408 sentence:T11 label:WORDPATH
+R822	Dependency head:T408 dependent:T409 sentence:T11 label:WORDPATH
+R823	Dependency head:T409 dependent:T410 sentence:T11 label:WORDPATH
+R824	Dependency head:T410 dependent:T411 sentence:T11 label:WORDPATH
+R825	Dependency head:T411 dependent:T412 sentence:T11 label:WORDPATH
+R826	Dependency head:T412 dependent:T413 sentence:T11 label:WORDPATH
+R827	Dependency head:T413 dependent:T414 sentence:T11 label:WORDPATH
+R828	Dependency head:T414 dependent:T415 sentence:T11 label:WORDPATH
+R829	Dependency head:T415 dependent:T416 sentence:T11 label:WORDPATH
+R830	Dependency head:T416 dependent:T417 sentence:T11 label:WORDPATH
+R831	Dependency head:T417 dependent:T418 sentence:T11 label:WORDPATH
+R832	Dependency head:T418 dependent:T419 sentence:T11 label:WORDPATH
+R833	Dependency head:T419 dependent:T420 sentence:T11 label:WORDPATH
+R834	Dependency head:T420 dependent:T421 sentence:T11 label:WORDPATH
+R835	Dependency head:T421 dependent:T422 sentence:T11 label:WORDPATH
+R836	Dependency head:T422 dependent:T423 sentence:T11 label:WORDPATH
+R837	Dependency head:T423 dependent:T424 sentence:T11 label:WORDPATH
+R838	Dependency head:T424 dependent:T425 sentence:T11 label:WORDPATH
+R839	Dependency head:T425 dependent:T426 sentence:T11 label:WORDPATH
+R840	Dependency head:T426 dependent:T427 sentence:T11 label:WORDPATH
+R841	Dependency head:T427 dependent:T428 sentence:T11 label:WORDPATH
+R842	Dependency head:T428 dependent:T429 sentence:T11 label:WORDPATH
+R843	Dependency head:T429 dependent:T430 sentence:T11 label:WORDPATH
+R844	Dependency head:T430 dependent:T431 sentence:T11 label:WORDPATH
+R845	Dependency head:T431 dependent:T432 sentence:T11 label:WORDPATH
+R846	Dependency head:T432 dependent:T433 sentence:T11 label:WORDPATH
+R847	Dependency head:T433 dependent:T434 sentence:T11 label:WORDPATH
+R848	Dependency head:T434 dependent:T435 sentence:T11 label:WORDPATH
+R849	Dependency head:T435 dependent:T436 sentence:T11 label:WORDPATH
+R850	Dependency head:T436 dependent:T437 sentence:T11 label:WORDPATH
+R851	Dependency head:T437 dependent:T438 sentence:T11 label:WORDPATH
+R852	Dependency head:T438 dependent:T439 sentence:T11 label:WORDPATH
+R853	Dependency head:T439 dependent:T440 sentence:T11 label:WORDPATH
+R854	Dependency head:T440 dependent:T441 sentence:T11 label:WORDPATH
+R855	Dependency head:T441 dependent:T442 sentence:T11 label:WORDPATH
+R856	Dependency head:T442 dependent:T443 sentence:T11 label:WORDPATH
+R857	Dependency head:T443 dependent:T444 sentence:T11 label:WORDPATH
+R858	Dependency head:T444 dependent:T445 sentence:T11 label:WORDPATH
+R859	Dependency head:T445 dependent:T446 sentence:T11 label:WORDPATH
+R860	Dependency head:T446 dependent:T447 sentence:T11 label:WORDPATH
+R861	Dependency head:T447 dependent:T448 sentence:T11 label:WORDPATH
+R862	Dependency head:T448 dependent:T449 sentence:T11 label:WORDPATH
+R863	Dependency head:T449 dependent:T450 sentence:T11 label:WORDPATH
+R864	Dependency head:T450 dependent:T451 sentence:T11 label:WORDPATH
+R865	Dependency head:T451 dependent:T452 sentence:T11 label:WORDPATH
+R866	Dependency head:T452 dependent:T453 sentence:T11 label:WORDPATH
+R867	Dependency head:T453 dependent:T454 sentence:T11 label:WORDPATH
+R868	Dependency head:T454 dependent:T455 sentence:T11 label:WORDPATH
+R869	Dependency head:T455 dependent:T456 sentence:T11 label:WORDPATH
+R870	Dependency head:T456 dependent:T457 sentence:T11 label:WORDPATH
+R871	Dependency head:T457 dependent:T458 sentence:T11 label:WORDPATH
+R872	Dependency head:T458 dependent:T459 sentence:T11 label:WORDPATH
+R873	Dependency head:T459 dependent:T460 sentence:T11 label:WORDPATH
+R874	Dependency head:T460 dependent:T461 sentence:T11 label:WORDPATH
+R875	Dependency head:T461 dependent:T462 sentence:T11 label:WORDPATH
+R876	Dependency head:T462 dependent:T463 sentence:T11 label:WORDPATH
+R877	Dependency head:T463 dependent:T464 sentence:T11 label:WORDPATH
+R878	Dependency head:T464 dependent:T465 sentence:T11 label:WORDPATH
+R879	Dependency head:T465 dependent:T466 sentence:T11 label:WORDPATH
+R880	Dependency head:T466 dependent:T467 sentence:T11 label:WORDPATH
+R881	Dependency head:T467 dependent:T468 sentence:T11 label:WORDPATH
+R882	Dependency head:T468 dependent:T469 sentence:T11 label:WORDPATH
+R883	Dependency head:T469 dependent:T470 sentence:T11 label:WORDPATH
+R884	Dependency head:T470 dependent:T471 sentence:T11 label:WORDPATH
+R885	Dependency head:T471 dependent:T472 sentence:T11 label:WORDPATH
+R886	Dependency head:T472 dependent:T473 sentence:T11 label:WORDPATH
+R887	Dependency head:T473 dependent:T474 sentence:T11 label:WORDPATH
+R888	Dependency head:T474 dependent:T475 sentence:T11 label:WORDPATH
+R889	Dependency head:T475 dependent:T476 sentence:T11 label:WORDPATH
+R890	Dependency head:T476 dependent:T477 sentence:T11 label:WORDPATH
+R891	Dependency head:T478 dependent:T479 sentence:T12 label:WORDPATH
+R892	Dependency head:T479 dependent:T480 sentence:T12 label:WORDPATH
+R893	Dependency head:T480 dependent:T481 sentence:T12 label:WORDPATH
+R894	Dependency head:T481 dependent:T482 sentence:T12 label:WORDPATH
+R895	Dependency head:T482 dependent:T483 sentence:T12 label:WORDPATH
+R896	Dependency head:T483 dependent:T484 sentence:T12 label:WORDPATH
+R897	Dependency head:T484 dependent:T485 sentence:T12 label:WORDPATH
+R898	Dependency head:T485 dependent:T486 sentence:T12 label:WORDPATH
+R899	Dependency head:T486 dependent:T487 sentence:T12 label:WORDPATH
+R900	Dependency head:T487 dependent:T488 sentence:T12 label:WORDPATH
+R901	Dependency head:T488 dependent:T489 sentence:T12 label:WORDPATH
+R902	Dependency head:T489 dependent:T490 sentence:T12 label:WORDPATH
+R903	Dependency head:T490 dependent:T491 sentence:T12 label:WORDPATH
+R904	Dependency head:T491 dependent:T492 sentence:T12 label:WORDPATH
+R905	Dependency head:T492 dependent:T493 sentence:T12 label:WORDPATH
+R906	Dependency head:T493 dependent:T494 sentence:T12 label:WORDPATH
+R907	Dependency head:T494 dependent:T495 sentence:T12 label:WORDPATH
+R908	Dependency head:T495 dependent:T496 sentence:T12 label:WORDPATH
+R909	Dependency head:T496 dependent:T497 sentence:T12 label:WORDPATH
+R910	Dependency head:T497 dependent:T498 sentence:T12 label:WORDPATH
+R911	Dependency head:T498 dependent:T499 sentence:T12 label:WORDPATH
+R912	Dependency head:T499 dependent:T500 sentence:T12 label:WORDPATH
+R913	Dependency head:T500 dependent:T501 sentence:T12 label:WORDPATH
+R914	Dependency head:T501 dependent:T502 sentence:T12 label:WORDPATH
+R915	Dependency head:T502 dependent:T503 sentence:T12 label:WORDPATH
+R916	Dependency head:T503 dependent:T504 sentence:T12 label:WORDPATH
+R917	Dependency head:T504 dependent:T505 sentence:T12 label:WORDPATH
+R918	Dependency head:T505 dependent:T506 sentence:T12 label:WORDPATH
+R919	Dependency head:T506 dependent:T507 sentence:T12 label:WORDPATH
+R920	Dependency head:T507 dependent:T508 sentence:T12 label:WORDPATH
+R921	Dependency head:T508 dependent:T509 sentence:T12 label:WORDPATH
+R922	Dependency head:T509 dependent:T510 sentence:T12 label:WORDPATH
+R923	Dependency head:T510 dependent:T511 sentence:T12 label:WORDPATH
+R924	Dependency head:T511 dependent:T512 sentence:T12 label:WORDPATH
+R925	Dependency head:T512 dependent:T513 sentence:T12 label:WORDPATH
+R926	Dependency head:T513 dependent:T514 sentence:T12 label:WORDPATH
+R927	Dependency head:T514 dependent:T515 sentence:T12 label:WORDPATH
+R928	Dependency head:T515 dependent:T516 sentence:T12 label:WORDPATH
+R929	Dependency head:T516 dependent:T517 sentence:T12 label:WORDPATH
+R930	Dependency head:T517 dependent:T518 sentence:T12 label:WORDPATH
+R931	Dependency head:T518 dependent:T519 sentence:T12 label:WORDPATH
+R932	Dependency head:T519 dependent:T520 sentence:T12 label:WORDPATH
+R933	Dependency head:T520 dependent:T521 sentence:T12 label:WORDPATH
+R934	Dependency head:T521 dependent:T522 sentence:T12 label:WORDPATH
+R935	Dependency head:T522 dependent:T523 sentence:T12 label:WORDPATH
+R936	Dependency head:T523 dependent:T524 sentence:T12 label:WORDPATH
+R937	Dependency head:T524 dependent:T525 sentence:T12 label:WORDPATH
+R938	Dependency head:T525 dependent:T526 sentence:T12 label:WORDPATH
+R939	Dependency head:T526 dependent:T527 sentence:T12 label:WORDPATH
+R940	Dependency head:T527 dependent:T528 sentence:T12 label:WORDPATH
+R941	Dependency head:T528 dependent:T529 sentence:T12 label:WORDPATH
+R942	Dependency head:T529 dependent:T530 sentence:T12 label:WORDPATH
+R943	Dependency head:T530 dependent:T531 sentence:T12 label:WORDPATH
+R944	Dependency head:T531 dependent:T532 sentence:T12 label:WORDPATH
+R945	Dependency head:T532 dependent:T533 sentence:T12 label:WORDPATH
+R946	Dependency head:T533 dependent:T534 sentence:T12 label:WORDPATH
+R947	Dependency head:T534 dependent:T535 sentence:T12 label:WORDPATH
+R948	Dependency head:T535 dependent:T536 sentence:T12 label:WORDPATH
+R949	Dependency head:T536 dependent:T537 sentence:T12 label:WORDPATH
+R950	Dependency head:T537 dependent:T538 sentence:T12 label:WORDPATH
+R951	Dependency head:T538 dependent:T539 sentence:T12 label:WORDPATH
+R952	Dependency head:T539 dependent:T540 sentence:T12 label:WORDPATH
+R953	Dependency head:T540 dependent:T541 sentence:T12 label:WORDPATH
+R954	Dependency head:T541 dependent:T542 sentence:T12 label:WORDPATH
+R955	Dependency head:T542 dependent:T543 sentence:T12 label:WORDPATH
+R956	Dependency head:T543 dependent:T544 sentence:T12 label:WORDPATH
+R957	Dependency head:T544 dependent:T545 sentence:T12 label:WORDPATH
+R958	Dependency head:T545 dependent:T546 sentence:T12 label:WORDPATH
+R959	Dependency head:T546 dependent:T547 sentence:T12 label:WORDPATH
+R960	Dependency head:T547 dependent:T548 sentence:T12 label:WORDPATH
+R961	Dependency head:T549 dependent:T550 sentence:T13 label:WORDPATH
+R962	Dependency head:T550 dependent:T551 sentence:T13 label:WORDPATH
+R963	Dependency head:T551 dependent:T552 sentence:T13 label:WORDPATH
+R964	Dependency head:T552 dependent:T553 sentence:T13 label:WORDPATH
+R965	Dependency head:T553 dependent:T554 sentence:T13 label:WORDPATH
+R966	Dependency head:T554 dependent:T555 sentence:T13 label:WORDPATH
+R967	Dependency head:T555 dependent:T556 sentence:T13 label:WORDPATH
+R968	Dependency head:T556 dependent:T557 sentence:T13 label:WORDPATH
+R969	Dependency head:T557 dependent:T558 sentence:T13 label:WORDPATH
+R970	Dependency head:T558 dependent:T559 sentence:T13 label:WORDPATH
+R971	Dependency head:T559 dependent:T560 sentence:T13 label:WORDPATH
+R972	Dependency head:T560 dependent:T561 sentence:T13 label:WORDPATH
+R973	Dependency head:T561 dependent:T562 sentence:T13 label:WORDPATH
+R974	Dependency head:T562 dependent:T563 sentence:T13 label:WORDPATH
+R975	Dependency head:T563 dependent:T564 sentence:T13 label:WORDPATH
+R976	Dependency head:T564 dependent:T565 sentence:T13 label:WORDPATH
+R977	Dependency head:T565 dependent:T566 sentence:T13 label:WORDPATH
+R978	Dependency head:T566 dependent:T567 sentence:T13 label:WORDPATH
+R979	Dependency head:T567 dependent:T568 sentence:T13 label:WORDPATH
+R980	Dependency head:T568 dependent:T569 sentence:T13 label:WORDPATH
+R981	Dependency head:T569 dependent:T570 sentence:T13 label:WORDPATH
+R982	Dependency head:T570 dependent:T571 sentence:T13 label:WORDPATH
+R983	Dependency head:T571 dependent:T572 sentence:T13 label:WORDPATH
+R984	Dependency head:T572 dependent:T573 sentence:T13 label:WORDPATH
+R985	Dependency head:T573 dependent:T574 sentence:T13 label:WORDPATH
+R986	Dependency head:T574 dependent:T575 sentence:T13 label:WORDPATH
+R987	Dependency head:T575 dependent:T576 sentence:T13 label:WORDPATH
+R988	Dependency head:T576 dependent:T577 sentence:T13 label:WORDPATH
+R989	Dependency head:T577 dependent:T578 sentence:T13 label:WORDPATH
+R990	Dependency head:T578 dependent:T579 sentence:T13 label:WORDPATH
+R991	Dependency head:T579 dependent:T580 sentence:T13 label:WORDPATH
+R992	Dependency head:T580 dependent:T581 sentence:T13 label:WORDPATH
+R993	Dependency head:T582 dependent:T583 sentence:T14 label:WORDPATH
+R994	Dependency head:T583 dependent:T584 sentence:T14 label:WORDPATH
+R995	Dependency head:T584 dependent:T585 sentence:T14 label:WORDPATH
+R996	Dependency head:T585 dependent:T586 sentence:T14 label:WORDPATH
+R997	Dependency head:T586 dependent:T587 sentence:T14 label:WORDPATH
+R998	Dependency head:T587 dependent:T588 sentence:T14 label:WORDPATH
+R999	Dependency head:T588 dependent:T589 sentence:T14 label:WORDPATH
+R1000	Dependency head:T589 dependent:T590 sentence:T14 label:WORDPATH
+R1001	Dependency head:T590 dependent:T591 sentence:T14 label:WORDPATH
+R1002	Dependency head:T591 dependent:T592 sentence:T14 label:WORDPATH
+R1003	Dependency head:T592 dependent:T593 sentence:T14 label:WORDPATH
+R1004	Dependency head:T593 dependent:T594 sentence:T14 label:WORDPATH
+R1005	Dependency head:T594 dependent:T595 sentence:T14 label:WORDPATH
+R1006	Dependency head:T595 dependent:T596 sentence:T14 label:WORDPATH
+R1007	Dependency head:T596 dependent:T597 sentence:T14 label:WORDPATH
+R1008	Dependency head:T597 dependent:T598 sentence:T14 label:WORDPATH
+R1009	Dependency head:T598 dependent:T599 sentence:T14 label:WORDPATH
+R1010	Dependency head:T599 dependent:T600 sentence:T14 label:WORDPATH
+R1011	Dependency head:T600 dependent:T601 sentence:T14 label:WORDPATH
+R1012	Dependency head:T601 dependent:T602 sentence:T14 label:WORDPATH
+R1013	Dependency head:T602 dependent:T603 sentence:T14 label:WORDPATH
+R1014	Dependency head:T603 dependent:T604 sentence:T14 label:WORDPATH
+R1015	Dependency head:T604 dependent:T605 sentence:T14 label:WORDPATH
+R1016	Dependency head:T605 dependent:T606 sentence:T14 label:WORDPATH
+R1017	Dependency head:T606 dependent:T607 sentence:T14 label:WORDPATH
+R1018	Dependency head:T607 dependent:T608 sentence:T14 label:WORDPATH
+R1019	Dependency head:T608 dependent:T609 sentence:T14 label:WORDPATH
+R1020	Dependency head:T609 dependent:T610 sentence:T14 label:WORDPATH
+R1021	Dependency head:T610 dependent:T611 sentence:T14 label:WORDPATH
+R1022	Dependency head:T611 dependent:T612 sentence:T14 label:WORDPATH
+R1023	Dependency head:T612 dependent:T613 sentence:T14 label:WORDPATH
+R1024	Dependency head:T613 dependent:T614 sentence:T14 label:WORDPATH
+R1025	Dependency head:T614 dependent:T615 sentence:T14 label:WORDPATH
+R1026	Dependency head:T615 dependent:T616 sentence:T14 label:WORDPATH
+R1027	Dependency head:T616 dependent:T617 sentence:T14 label:WORDPATH
+R1028	Dependency head:T617 dependent:T618 sentence:T14 label:WORDPATH
+R1029	Dependency head:T618 dependent:T619 sentence:T14 label:WORDPATH
+R1030	Dependency head:T619 dependent:T620 sentence:T14 label:WORDPATH
+R1031	Dependency head:T620 dependent:T621 sentence:T14 label:WORDPATH
+R1032	Dependency head:T621 dependent:T622 sentence:T14 label:WORDPATH
+R1033	Dependency head:T622 dependent:T623 sentence:T14 label:WORDPATH
+R1034	Dependency head:T623 dependent:T624 sentence:T14 label:WORDPATH
+R1035	Dependency head:T624 dependent:T625 sentence:T14 label:WORDPATH
+R1036	Dependency head:T625 dependent:T626 sentence:T14 label:WORDPATH
+R1037	Dependency head:T626 dependent:T627 sentence:T14 label:WORDPATH
+R1038	Dependency head:T627 dependent:T628 sentence:T14 label:WORDPATH
+R1039	Dependency head:T628 dependent:T629 sentence:T14 label:WORDPATH
+R1040	Dependency head:T629 dependent:T630 sentence:T14 label:WORDPATH
+R1041	Dependency head:T630 dependent:T631 sentence:T14 label:WORDPATH
+R1042	Dependency head:T631 dependent:T632 sentence:T14 label:WORDPATH
+R1043	Dependency head:T632 dependent:T633 sentence:T14 label:WORDPATH
+R1044	Dependency head:T633 dependent:T634 sentence:T14 label:WORDPATH
+R1045	Dependency head:T634 dependent:T635 sentence:T14 label:WORDPATH
+R1046	Dependency head:T635 dependent:T636 sentence:T14 label:WORDPATH
+R1047	Dependency head:T637 dependent:T638 sentence:T15 label:WORDPATH
+R1048	Dependency head:T638 dependent:T639 sentence:T15 label:WORDPATH
+R1049	Dependency head:T639 dependent:T640 sentence:T15 label:WORDPATH
+R1050	Dependency head:T640 dependent:T641 sentence:T15 label:WORDPATH
+R1051	Dependency head:T641 dependent:T642 sentence:T15 label:WORDPATH
+R1052	Dependency head:T642 dependent:T643 sentence:T15 label:WORDPATH
+R1053	Dependency head:T643 dependent:T644 sentence:T15 label:WORDPATH
+R1054	Dependency head:T644 dependent:T645 sentence:T15 label:WORDPATH
+R1055	Dependency head:T645 dependent:T646 sentence:T15 label:WORDPATH
+R1056	Dependency head:T646 dependent:T647 sentence:T15 label:WORDPATH
+R1057	Dependency head:T647 dependent:T648 sentence:T15 label:WORDPATH
+R1058	Dependency head:T648 dependent:T649 sentence:T15 label:WORDPATH
+R1059	Dependency head:T649 dependent:T650 sentence:T15 label:WORDPATH
+R1060	Dependency head:T650 dependent:T651 sentence:T15 label:WORDPATH
+R1061	Dependency head:T651 dependent:T652 sentence:T15 label:WORDPATH
+R1062	Dependency head:T652 dependent:T653 sentence:T15 label:WORDPATH
+R1063	Dependency head:T653 dependent:T654 sentence:T15 label:WORDPATH
+R1064	Dependency head:T654 dependent:T655 sentence:T15 label:WORDPATH
+R1065	Dependency head:T655 dependent:T656 sentence:T15 label:WORDPATH
+R1066	Dependency head:T656 dependent:T657 sentence:T15 label:WORDPATH
+R1067	Dependency head:T657 dependent:T658 sentence:T15 label:WORDPATH
+R1068	Dependency head:T658 dependent:T659 sentence:T15 label:WORDPATH
+R1069	Dependency head:T659 dependent:T660 sentence:T15 label:WORDPATH
+R1070	Dependency head:T660 dependent:T661 sentence:T15 label:WORDPATH
+R1071	Dependency head:T661 dependent:T662 sentence:T15 label:WORDPATH
+R1072	Dependency head:T662 dependent:T663 sentence:T15 label:WORDPATH
+R1073	Dependency head:T664 dependent:T665 sentence:T16 label:WORDPATH
+R1074	Dependency head:T665 dependent:T666 sentence:T16 label:WORDPATH
+R1075	Dependency head:T666 dependent:T667 sentence:T16 label:WORDPATH
+R1076	Dependency head:T667 dependent:T668 sentence:T16 label:WORDPATH
+R1077	Dependency head:T668 dependent:T669 sentence:T16 label:WORDPATH
+R1078	Dependency head:T669 dependent:T670 sentence:T16 label:WORDPATH
+R1079	Dependency head:T670 dependent:T671 sentence:T16 label:WORDPATH
+R1080	Dependency head:T671 dependent:T672 sentence:T16 label:WORDPATH
+R1081	Dependency head:T672 dependent:T673 sentence:T16 label:WORDPATH
+R1082	Dependency head:T673 dependent:T674 sentence:T16 label:WORDPATH
+R1083	Dependency head:T674 dependent:T675 sentence:T16 label:WORDPATH
+R1084	Dependency head:T675 dependent:T676 sentence:T16 label:WORDPATH
+R1085	Dependency head:T676 dependent:T677 sentence:T16 label:WORDPATH
+R1086	Dependency head:T677 dependent:T678 sentence:T16 label:WORDPATH
+R1087	Dependency head:T678 dependent:T679 sentence:T16 label:WORDPATH
+R1088	Dependency head:T679 dependent:T680 sentence:T16 label:WORDPATH
+R1089	Dependency head:T680 dependent:T681 sentence:T16 label:WORDPATH
+R1090	Dependency head:T681 dependent:T682 sentence:T16 label:WORDPATH
+R1091	Dependency head:T682 dependent:T683 sentence:T16 label:WORDPATH
+R1092	Dependency head:T683 dependent:T684 sentence:T16 label:WORDPATH
+R1093	Dependency head:T684 dependent:T685 sentence:T16 label:WORDPATH
+R1094	Dependency head:T685 dependent:T686 sentence:T16 label:WORDPATH
+R1095	Dependency head:T686 dependent:T687 sentence:T16 label:WORDPATH
+R1096	Dependency head:T687 dependent:T688 sentence:T16 label:WORDPATH
+R1097	Dependency head:T688 dependent:T689 sentence:T16 label:WORDPATH
+R1098	Dependency head:T689 dependent:T690 sentence:T16 label:WORDPATH
+R1099	Dependency head:T690 dependent:T691 sentence:T16 label:WORDPATH
+R1100	Dependency head:T691 dependent:T692 sentence:T16 label:WORDPATH
+R1101	Dependency head:T692 dependent:T693 sentence:T16 label:WORDPATH
+R1102	Dependency head:T693 dependent:T694 sentence:T16 label:WORDPATH
+R1103	Dependency head:T694 dependent:T695 sentence:T16 label:WORDPATH
+R1104	Dependency head:T695 dependent:T696 sentence:T16 label:WORDPATH
+R1105	Dependency head:T696 dependent:T697 sentence:T16 label:WORDPATH
+R1106	Dependency head:T697 dependent:T698 sentence:T16 label:WORDPATH
+R1107	Dependency head:T698 dependent:T699 sentence:T16 label:WORDPATH
+R1108	Dependency head:T700 dependent:T701 sentence:T17 label:WORDPATH
+R1109	Dependency head:T701 dependent:T702 sentence:T17 label:WORDPATH
+R1110	Dependency head:T702 dependent:T703 sentence:T17 label:WORDPATH
+R1111	Dependency head:T703 dependent:T704 sentence:T17 label:WORDPATH
+R1112	Dependency head:T704 dependent:T705 sentence:T17 label:WORDPATH
+R1113	Dependency head:T705 dependent:T706 sentence:T17 label:WORDPATH
+R1114	Dependency head:T706 dependent:T707 sentence:T17 label:WORDPATH
+R1115	Dependency head:T707 dependent:T708 sentence:T17 label:WORDPATH
+R1116	Dependency head:T708 dependent:T709 sentence:T17 label:WORDPATH
+R1117	Dependency head:T709 dependent:T710 sentence:T17 label:WORDPATH
+R1118	Dependency head:T710 dependent:T711 sentence:T17 label:WORDPATH
+R1119	Dependency head:T711 dependent:T712 sentence:T17 label:WORDPATH
+R1120	Dependency head:T712 dependent:T713 sentence:T17 label:WORDPATH
+R1121	Dependency head:T713 dependent:T714 sentence:T17 label:WORDPATH
+R1122	Dependency head:T714 dependent:T715 sentence:T17 label:WORDPATH
+R1123	Dependency head:T715 dependent:T716 sentence:T17 label:WORDPATH
+R1124	Dependency head:T716 dependent:T717 sentence:T17 label:WORDPATH
+R1125	Dependency head:T717 dependent:T718 sentence:T17 label:WORDPATH
+R1126	Dependency head:T718 dependent:T719 sentence:T17 label:WORDPATH
+R1127	Dependency head:T719 dependent:T720 sentence:T17 label:WORDPATH
+R1128	Dependency head:T720 dependent:T721 sentence:T17 label:WORDPATH
+R1129	Dependency head:T721 dependent:T722 sentence:T17 label:WORDPATH
+R1130	Dependency head:T723 dependent:T724 sentence:T18 label:WORDPATH
+R1131	Dependency head:T724 dependent:T725 sentence:T18 label:WORDPATH
+R1132	Dependency head:T725 dependent:T726 sentence:T18 label:WORDPATH
+R1133	Dependency head:T726 dependent:T727 sentence:T18 label:WORDPATH
+R1134	Dependency head:T727 dependent:T728 sentence:T18 label:WORDPATH
+R1135	Dependency head:T728 dependent:T729 sentence:T18 label:WORDPATH
+R1136	Dependency head:T729 dependent:T730 sentence:T18 label:WORDPATH
+R1137	Dependency head:T730 dependent:T731 sentence:T18 label:WORDPATH
+R1138	Dependency head:T731 dependent:T732 sentence:T18 label:WORDPATH
+R1139	Dependency head:T732 dependent:T733 sentence:T18 label:WORDPATH
+R1140	Dependency head:T733 dependent:T734 sentence:T18 label:WORDPATH
+R1141	Dependency head:T734 dependent:T735 sentence:T18 label:WORDPATH
+R1142	Dependency head:T735 dependent:T736 sentence:T18 label:WORDPATH
+R1143	Dependency head:T736 dependent:T737 sentence:T18 label:WORDPATH
+R1144	Dependency head:T737 dependent:T738 sentence:T18 label:WORDPATH
+R1145	Dependency head:T738 dependent:T739 sentence:T18 label:WORDPATH
+R1146	Dependency head:T739 dependent:T740 sentence:T18 label:WORDPATH
+R1147	Dependency head:T740 dependent:T741 sentence:T18 label:WORDPATH
+R1148	Dependency head:T741 dependent:T742 sentence:T18 label:WORDPATH
+R1149	Dependency head:T742 dependent:T743 sentence:T18 label:WORDPATH
+R1150	Dependency head:T743 dependent:T744 sentence:T18 label:WORDPATH
+R1151	Dependency head:T744 dependent:T745 sentence:T18 label:WORDPATH
+R1152	Dependency head:T745 dependent:T746 sentence:T18 label:WORDPATH
+R1153	Dependency head:T746 dependent:T747 sentence:T18 label:WORDPATH
+R1154	Dependency head:T747 dependent:T748 sentence:T18 label:WORDPATH
+R1155	Dependency head:T748 dependent:T749 sentence:T18 label:WORDPATH
+R1156	Dependency head:T749 dependent:T750 sentence:T18 label:WORDPATH
+R1157	Dependency head:T750 dependent:T751 sentence:T18 label:WORDPATH
+R1158	Dependency head:T751 dependent:T752 sentence:T18 label:WORDPATH
+R1159	Dependency head:T752 dependent:T753 sentence:T18 label:WORDPATH
+R1160	Dependency head:T753 dependent:T754 sentence:T18 label:WORDPATH
+R1161	Dependency head:T754 dependent:T755 sentence:T18 label:WORDPATH
+R1162	Dependency head:T755 dependent:T756 sentence:T18 label:WORDPATH
+R1163	Dependency head:T756 dependent:T757 sentence:T18 label:WORDPATH
+R1164	Dependency head:T757 dependent:T758 sentence:T18 label:WORDPATH
+R1165	Dependency head:T758 dependent:T759 sentence:T18 label:WORDPATH
+R1166	Dependency head:T759 dependent:T760 sentence:T18 label:WORDPATH
+R1167	Dependency head:T761 dependent:T762 sentence:T19 label:WORDPATH
+R1168	Dependency head:T762 dependent:T763 sentence:T19 label:WORDPATH
+R1169	Dependency head:T763 dependent:T764 sentence:T19 label:WORDPATH
+R1170	Dependency head:T764 dependent:T765 sentence:T19 label:WORDPATH
+R1171	Dependency head:T765 dependent:T766 sentence:T19 label:WORDPATH
+R1172	Dependency head:T766 dependent:T767 sentence:T19 label:WORDPATH
+R1173	Dependency head:T767 dependent:T768 sentence:T19 label:WORDPATH
+R1174	Dependency head:T768 dependent:T769 sentence:T19 label:WORDPATH
+R1175	Dependency head:T769 dependent:T770 sentence:T19 label:WORDPATH
+R1176	Dependency head:T770 dependent:T771 sentence:T19 label:WORDPATH
+R1177	Dependency head:T771 dependent:T772 sentence:T19 label:WORDPATH
+R1178	Dependency head:T772 dependent:T773 sentence:T19 label:WORDPATH
+R1179	Dependency head:T773 dependent:T774 sentence:T19 label:WORDPATH
+R1180	Dependency head:T774 dependent:T775 sentence:T19 label:WORDPATH
+R1181	Dependency head:T775 dependent:T776 sentence:T19 label:WORDPATH
+R1182	Dependency head:T776 dependent:T777 sentence:T19 label:WORDPATH
+R1183	Dependency head:T777 dependent:T778 sentence:T19 label:WORDPATH
+R1184	Dependency head:T778 dependent:T779 sentence:T19 label:WORDPATH
+R1185	Dependency head:T779 dependent:T780 sentence:T19 label:WORDPATH
+R1186	Dependency head:T780 dependent:T781 sentence:T19 label:WORDPATH
+R1187	Dependency head:T781 dependent:T782 sentence:T19 label:WORDPATH
+R1188	Dependency head:T782 dependent:T783 sentence:T19 label:WORDPATH
+R1189	Dependency head:T783 dependent:T784 sentence:T19 label:WORDPATH
+R1190	Dependency head:T784 dependent:T785 sentence:T19 label:WORDPATH
+R1191	Dependency head:T785 dependent:T786 sentence:T19 label:WORDPATH
+R1192	Dependency head:T786 dependent:T787 sentence:T19 label:WORDPATH
+R1193	Dependency head:T787 dependent:T788 sentence:T19 label:WORDPATH
+R1194	Dependency head:T788 dependent:T789 sentence:T19 label:WORDPATH
+R1195	Dependency head:T789 dependent:T790 sentence:T19 label:WORDPATH
+R1196	Dependency head:T790 dependent:T791 sentence:T19 label:WORDPATH
+R1197	Dependency head:T791 dependent:T792 sentence:T19 label:WORDPATH
+R1198	Dependency head:T792 dependent:T793 sentence:T19 label:WORDPATH
+R1199	Dependency head:T794 dependent:T795 sentence:T20 label:WORDPATH
+R1200	Dependency head:T795 dependent:T796 sentence:T20 label:WORDPATH
+R1201	Dependency head:T796 dependent:T797 sentence:T20 label:WORDPATH
+R1202	Dependency head:T797 dependent:T798 sentence:T20 label:WORDPATH
+R1203	Dependency head:T798 dependent:T799 sentence:T20 label:WORDPATH
+R1204	Dependency head:T799 dependent:T800 sentence:T20 label:WORDPATH
+R1205	Dependency head:T800 dependent:T801 sentence:T20 label:WORDPATH
+R1206	Dependency head:T801 dependent:T802 sentence:T20 label:WORDPATH
+R1207	Dependency head:T802 dependent:T803 sentence:T20 label:WORDPATH
+R1208	Dependency head:T803 dependent:T804 sentence:T20 label:WORDPATH
+R1209	Dependency head:T804 dependent:T805 sentence:T20 label:WORDPATH
+R1210	Dependency head:T805 dependent:T806 sentence:T20 label:WORDPATH
+R1211	Dependency head:T806 dependent:T807 sentence:T20 label:WORDPATH
+R1212	Dependency head:T807 dependent:T808 sentence:T20 label:WORDPATH
+R1213	Dependency head:T808 dependent:T809 sentence:T20 label:WORDPATH
+R1214	Dependency head:T809 dependent:T810 sentence:T20 label:WORDPATH
+R1215	Dependency head:T810 dependent:T811 sentence:T20 label:WORDPATH
+R1216	Dependency head:T811 dependent:T812 sentence:T20 label:WORDPATH
+R1217	Dependency head:T812 dependent:T813 sentence:T20 label:WORDPATH
+R1218	Dependency head:T813 dependent:T814 sentence:T20 label:WORDPATH
+R1219	Dependency head:T814 dependent:T815 sentence:T20 label:WORDPATH
+R1220	Dependency head:T815 dependent:T816 sentence:T20 label:WORDPATH
+R1221	Dependency head:T816 dependent:T817 sentence:T20 label:WORDPATH
+R1222	Dependency head:T817 dependent:T818 sentence:T20 label:WORDPATH
+R1223	Dependency head:T818 dependent:T819 sentence:T20 label:WORDPATH
+R1224	Dependency head:T819 dependent:T820 sentence:T20 label:WORDPATH
+R1225	Dependency head:T820 dependent:T821 sentence:T20 label:WORDPATH
+R1226	Dependency head:T821 dependent:T822 sentence:T20 label:WORDPATH
+R1227	Dependency head:T823 dependent:T824 sentence:T21 label:WORDPATH
+R1228	Dependency head:T824 dependent:T825 sentence:T21 label:WORDPATH
+R1229	Dependency head:T825 dependent:T826 sentence:T21 label:WORDPATH
+R1230	Dependency head:T826 dependent:T827 sentence:T21 label:WORDPATH
+R1231	Dependency head:T827 dependent:T828 sentence:T21 label:WORDPATH
+R1232	Dependency head:T828 dependent:T829 sentence:T21 label:WORDPATH
+R1233	Dependency head:T829 dependent:T830 sentence:T21 label:WORDPATH
+R1234	Dependency head:T830 dependent:T831 sentence:T21 label:WORDPATH
+R1235	Dependency head:T831 dependent:T832 sentence:T21 label:WORDPATH
+R1236	Dependency head:T832 dependent:T833 sentence:T21 label:WORDPATH
+R1237	Dependency head:T833 dependent:T834 sentence:T21 label:WORDPATH
+R1238	Dependency head:T834 dependent:T835 sentence:T21 label:WORDPATH
+R1239	Dependency head:T835 dependent:T836 sentence:T21 label:WORDPATH
+R1240	Dependency head:T836 dependent:T837 sentence:T21 label:WORDPATH
+R1241	Dependency head:T837 dependent:T838 sentence:T21 label:WORDPATH
+R1242	Dependency head:T838 dependent:T839 sentence:T21 label:WORDPATH
+R1243	Dependency head:T839 dependent:T840 sentence:T21 label:WORDPATH
+R1244	Dependency head:T840 dependent:T841 sentence:T21 label:WORDPATH
+R1245	Dependency head:T841 dependent:T842 sentence:T21 label:WORDPATH
+R1246	Dependency head:T842 dependent:T843 sentence:T21 label:WORDPATH
+R1247	Dependency head:T843 dependent:T844 sentence:T21 label:WORDPATH
+R1248	Dependency head:T844 dependent:T845 sentence:T21 label:WORDPATH
+R1249	Dependency head:T845 dependent:T846 sentence:T21 label:WORDPATH
+R1250	Dependency head:T846 dependent:T847 sentence:T21 label:WORDPATH
+R1251	Dependency head:T847 dependent:T848 sentence:T21 label:WORDPATH
+R1252	Dependency head:T848 dependent:T849 sentence:T21 label:WORDPATH
+R1253	Dependency head:T849 dependent:T850 sentence:T21 label:WORDPATH
+R1254	Dependency head:T850 dependent:T851 sentence:T21 label:WORDPATH
+R1255	Dependency head:T851 dependent:T852 sentence:T21 label:WORDPATH
+R1256	Dependency head:T852 dependent:T853 sentence:T21 label:WORDPATH
+R1257	Dependency head:T853 dependent:T854 sentence:T21 label:WORDPATH
+R1258	Dependency head:T854 dependent:T855 sentence:T21 label:WORDPATH
+R1259	Dependency head:T855 dependent:T856 sentence:T21 label:WORDPATH
+R1260	Dependency head:T856 dependent:T857 sentence:T21 label:WORDPATH
+R1261	Dependency head:T857 dependent:T858 sentence:T21 label:WORDPATH
+R1262	Dependency head:T858 dependent:T859 sentence:T21 label:WORDPATH
+R1263	Dependency head:T859 dependent:T860 sentence:T21 label:WORDPATH
+R1264	Dependency head:T860 dependent:T861 sentence:T21 label:WORDPATH
+R1265	Dependency head:T861 dependent:T862 sentence:T21 label:WORDPATH
+R1266	Dependency head:T863 dependent:T864 sentence:T22 label:WORDPATH
+R1267	Dependency head:T864 dependent:T865 sentence:T22 label:WORDPATH
+R1268	Dependency head:T865 dependent:T866 sentence:T22 label:WORDPATH
+R1269	Dependency head:T866 dependent:T867 sentence:T22 label:WORDPATH
+R1270	Dependency head:T867 dependent:T868 sentence:T22 label:WORDPATH
+R1271	Dependency head:T868 dependent:T869 sentence:T22 label:WORDPATH
+R1272	Dependency head:T869 dependent:T870 sentence:T22 label:WORDPATH
+R1273	Dependency head:T870 dependent:T871 sentence:T22 label:WORDPATH
+R1274	Dependency head:T871 dependent:T872 sentence:T22 label:WORDPATH
+R1275	Dependency head:T872 dependent:T873 sentence:T22 label:WORDPATH
+R1276	Dependency head:T873 dependent:T874 sentence:T22 label:WORDPATH
+R1277	Dependency head:T874 dependent:T875 sentence:T22 label:WORDPATH
+R1278	Dependency head:T875 dependent:T876 sentence:T22 label:WORDPATH
+R1279	Dependency head:T876 dependent:T877 sentence:T22 label:WORDPATH
+R1280	Dependency head:T877 dependent:T878 sentence:T22 label:WORDPATH
+R1281	Dependency head:T878 dependent:T879 sentence:T22 label:WORDPATH
+R1282	Dependency head:T879 dependent:T880 sentence:T22 label:WORDPATH
+R1283	Dependency head:T880 dependent:T881 sentence:T22 label:WORDPATH
+R1284	Dependency head:T881 dependent:T882 sentence:T22 label:WORDPATH
+R1285	Dependency head:T882 dependent:T883 sentence:T22 label:WORDPATH
+R1286	Dependency head:T883 dependent:T884 sentence:T22 label:WORDPATH
+R1287	Dependency head:T884 dependent:T885 sentence:T22 label:WORDPATH
+R1288	Dependency head:T885 dependent:T886 sentence:T22 label:WORDPATH
+R1289	Dependency head:T886 dependent:T887 sentence:T22 label:WORDPATH
+R1290	Dependency head:T887 dependent:T888 sentence:T22 label:WORDPATH
+R1291	Dependency head:T888 dependent:T889 sentence:T22 label:WORDPATH
+R1292	Dependency head:T889 dependent:T890 sentence:T22 label:WORDPATH
+R1293	Dependency head:T890 dependent:T891 sentence:T22 label:WORDPATH
+R1294	Dependency head:T891 dependent:T892 sentence:T22 label:WORDPATH
+R1295	Dependency head:T892 dependent:T893 sentence:T22 label:WORDPATH
+R1296	Dependency head:T893 dependent:T894 sentence:T22 label:WORDPATH
+R1297	Dependency head:T894 dependent:T895 sentence:T22 label:WORDPATH
+R1298	Dependency head:T896 dependent:T897 sentence:T23 label:WORDPATH
+R1299	Dependency head:T897 dependent:T898 sentence:T23 label:WORDPATH
+R1300	Dependency head:T898 dependent:T899 sentence:T23 label:WORDPATH
+R1301	Dependency head:T899 dependent:T900 sentence:T23 label:WORDPATH
+R1302	Dependency head:T900 dependent:T901 sentence:T23 label:WORDPATH
+R1303	Dependency head:T901 dependent:T902 sentence:T23 label:WORDPATH
+R1304	Dependency head:T902 dependent:T903 sentence:T23 label:WORDPATH
+R1305	Dependency head:T903 dependent:T904 sentence:T23 label:WORDPATH
+R1306	Dependency head:T904 dependent:T905 sentence:T23 label:WORDPATH
+R1307	Dependency head:T905 dependent:T906 sentence:T23 label:WORDPATH
+R1308	Dependency head:T906 dependent:T907 sentence:T23 label:WORDPATH
+R1309	Dependency head:T907 dependent:T908 sentence:T23 label:WORDPATH
+R1310	Dependency head:T908 dependent:T909 sentence:T23 label:WORDPATH
+R1311	Dependency head:T909 dependent:T910 sentence:T23 label:WORDPATH
+R1312	Dependency head:T910 dependent:T911 sentence:T23 label:WORDPATH
+R1313	Dependency head:T911 dependent:T912 sentence:T23 label:WORDPATH
+R1314	Dependency head:T912 dependent:T913 sentence:T23 label:WORDPATH
+R1315	Dependency head:T913 dependent:T914 sentence:T23 label:WORDPATH
+R1316	Dependency head:T914 dependent:T915 sentence:T23 label:WORDPATH
+R1317	Dependency head:T915 dependent:T916 sentence:T23 label:WORDPATH
+R1318	Dependency head:T916 dependent:T917 sentence:T23 label:WORDPATH
+R1319	Dependency head:T917 dependent:T918 sentence:T23 label:WORDPATH
+R1320	Dependency head:T918 dependent:T919 sentence:T23 label:WORDPATH
+R1321	Dependency head:T919 dependent:T920 sentence:T23 label:WORDPATH
+R1322	Dependency head:T920 dependent:T921 sentence:T23 label:WORDPATH
+R1323	Dependency head:T921 dependent:T922 sentence:T23 label:WORDPATH
+R1324	Dependency head:T922 dependent:T923 sentence:T23 label:WORDPATH
+R1325	Dependency head:T923 dependent:T924 sentence:T23 label:WORDPATH
+R1326	Dependency head:T924 dependent:T925 sentence:T23 label:WORDPATH
+R1327	Dependency head:T925 dependent:T926 sentence:T23 label:WORDPATH
+R1328	Dependency head:T926 dependent:T927 sentence:T23 label:WORDPATH
+R1329	Dependency head:T927 dependent:T928 sentence:T23 label:WORDPATH
+R1330	Dependency head:T928 dependent:T929 sentence:T23 label:WORDPATH
+R1331	Dependency head:T929 dependent:T930 sentence:T23 label:WORDPATH
+R1332	Dependency head:T930 dependent:T931 sentence:T23 label:WORDPATH
+R1333	Dependency head:T931 dependent:T932 sentence:T23 label:WORDPATH
+R1334	Dependency head:T932 dependent:T933 sentence:T23 label:WORDPATH
+R1335	Dependency head:T933 dependent:T934 sentence:T23 label:WORDPATH
+R1336	Dependency head:T934 dependent:T935 sentence:T23 label:WORDPATH
+R1337	Dependency head:T935 dependent:T936 sentence:T23 label:WORDPATH
+R1338	Dependency head:T936 dependent:T937 sentence:T23 label:WORDPATH
+R1339	Dependency head:T937 dependent:T938 sentence:T23 label:WORDPATH
+R1340	Dependency head:T938 dependent:T939 sentence:T23 label:WORDPATH
+R1341	Dependency head:T939 dependent:T940 sentence:T23 label:WORDPATH
+R1342	Dependency head:T940 dependent:T941 sentence:T23 label:WORDPATH
+R1343	Dependency head:T941 dependent:T942 sentence:T23 label:WORDPATH
+R1344	Dependency head:T942 dependent:T943 sentence:T23 label:WORDPATH
+R1345	Dependency head:T943 dependent:T944 sentence:T23 label:WORDPATH
+R1346	Dependency head:T944 dependent:T945 sentence:T23 label:WORDPATH
+R1347	Dependency head:T945 dependent:T946 sentence:T23 label:WORDPATH
+R1348	Dependency head:T946 dependent:T947 sentence:T23 label:WORDPATH
+R1349	Dependency head:T947 dependent:T948 sentence:T23 label:WORDPATH
+R1350	Dependency head:T948 dependent:T949 sentence:T23 label:WORDPATH
+R1351	Dependency head:T949 dependent:T950 sentence:T23 label:WORDPATH
+R1352	Dependency head:T950 dependent:T951 sentence:T23 label:WORDPATH
+R1353	Dependency head:T951 dependent:T952 sentence:T23 label:WORDPATH
+R1354	Dependency head:T952 dependent:T953 sentence:T23 label:WORDPATH
+R1355	Dependency head:T953 dependent:T954 sentence:T23 label:WORDPATH
+R1356	Dependency head:T954 dependent:T955 sentence:T23 label:WORDPATH
+R1357	Dependency head:T955 dependent:T956 sentence:T23 label:WORDPATH
+R1358	Dependency head:T956 dependent:T957 sentence:T23 label:WORDPATH
+R1359	Dependency head:T957 dependent:T958 sentence:T23 label:WORDPATH
+R1360	Dependency head:T958 dependent:T959 sentence:T23 label:WORDPATH
+R1361	Dependency head:T959 dependent:T960 sentence:T23 label:WORDPATH
+R1362	Dependency head:T960 dependent:T961 sentence:T23 label:WORDPATH
+R1363	Dependency head:T961 dependent:T962 sentence:T23 label:WORDPATH
+R1364	Dependency head:T962 dependent:T963 sentence:T23 label:WORDPATH
+R1365	Dependency head:T963 dependent:T964 sentence:T23 label:WORDPATH
+R1366	Dependency head:T964 dependent:T965 sentence:T23 label:WORDPATH
+R1367	Dependency head:T965 dependent:T966 sentence:T23 label:WORDPATH
+R1368	Dependency head:T966 dependent:T967 sentence:T23 label:WORDPATH
+R1369	Dependency head:T967 dependent:T968 sentence:T23 label:WORDPATH
+R1370	Dependency head:T968 dependent:T969 sentence:T23 label:WORDPATH
+R1371	Dependency head:T969 dependent:T970 sentence:T23 label:WORDPATH
+R1372	Dependency head:T970 dependent:T971 sentence:T23 label:WORDPATH
+R1373	Dependency head:T971 dependent:T972 sentence:T23 label:WORDPATH
+R1374	Dependency head:T973 dependent:T974 sentence:T24 label:WORDPATH
+R1375	Dependency head:T974 dependent:T975 sentence:T24 label:WORDPATH
+R1376	Dependency head:T975 dependent:T976 sentence:T24 label:WORDPATH
+R1377	Dependency head:T976 dependent:T977 sentence:T24 label:WORDPATH
+R1378	Dependency head:T977 dependent:T978 sentence:T24 label:WORDPATH
+R1379	Dependency head:T978 dependent:T979 sentence:T24 label:WORDPATH
+R1380	Dependency head:T979 dependent:T980 sentence:T24 label:WORDPATH
+R1381	Dependency head:T980 dependent:T981 sentence:T24 label:WORDPATH
+R1382	Dependency head:T981 dependent:T982 sentence:T24 label:WORDPATH
+R1383	Dependency head:T982 dependent:T983 sentence:T24 label:WORDPATH
+R1384	Dependency head:T983 dependent:T984 sentence:T24 label:WORDPATH
+R1385	Dependency head:T984 dependent:T985 sentence:T24 label:WORDPATH
+R1386	Dependency head:T985 dependent:T986 sentence:T24 label:WORDPATH
+R1387	Dependency head:T986 dependent:T987 sentence:T24 label:WORDPATH
+R1388	Dependency head:T987 dependent:T988 sentence:T24 label:WORDPATH
+R1389	Dependency head:T988 dependent:T989 sentence:T24 label:WORDPATH
+R1390	Dependency head:T989 dependent:T990 sentence:T24 label:WORDPATH
+R1391	Dependency head:T990 dependent:T991 sentence:T24 label:WORDPATH
+R1392	Dependency head:T991 dependent:T992 sentence:T24 label:WORDPATH
+R1393	Dependency head:T992 dependent:T993 sentence:T24 label:WORDPATH
+R1394	Dependency head:T993 dependent:T994 sentence:T24 label:WORDPATH
+R1395	Dependency head:T994 dependent:T995 sentence:T24 label:WORDPATH
+R1396	Dependency head:T995 dependent:T996 sentence:T24 label:WORDPATH
+R1397	Dependency head:T996 dependent:T997 sentence:T24 label:WORDPATH
+R1398	Dependency head:T997 dependent:T998 sentence:T24 label:WORDPATH
+R1399	Dependency head:T998 dependent:T999 sentence:T24 label:WORDPATH
+R1400	Dependency head:T999 dependent:T1000 sentence:T24 label:WORDPATH
+R1401	Dependency head:T1000 dependent:T1001 sentence:T24 label:WORDPATH
+R1402	Dependency head:T1001 dependent:T1002 sentence:T24 label:WORDPATH
+R1403	Dependency head:T1002 dependent:T1003 sentence:T24 label:WORDPATH
+R1404	Dependency head:T1003 dependent:T1004 sentence:T24 label:WORDPATH
+R1405	Dependency head:T1004 dependent:T1005 sentence:T24 label:WORDPATH
+R1406	Dependency head:T1006 dependent:T1007 sentence:T25 label:WORDPATH
+R1407	Dependency head:T1007 dependent:T1008 sentence:T25 label:WORDPATH
+R1408	Dependency head:T1008 dependent:T1009 sentence:T25 label:WORDPATH
+R1409	Dependency head:T1009 dependent:T1010 sentence:T25 label:WORDPATH
+R1410	Dependency head:T1010 dependent:T1011 sentence:T25 label:WORDPATH
+R1411	Dependency head:T1011 dependent:T1012 sentence:T25 label:WORDPATH
+R1412	Dependency head:T1012 dependent:T1013 sentence:T25 label:WORDPATH
+R1413	Dependency head:T1013 dependent:T1014 sentence:T25 label:WORDPATH
+R1414	Dependency head:T1014 dependent:T1015 sentence:T25 label:WORDPATH
+R1415	Dependency head:T1015 dependent:T1016 sentence:T25 label:WORDPATH
+R1416	Dependency head:T1016 dependent:T1017 sentence:T25 label:WORDPATH
+R1417	Dependency head:T1017 dependent:T1018 sentence:T25 label:WORDPATH
+R1418	Dependency head:T1018 dependent:T1019 sentence:T25 label:WORDPATH
+R1419	Dependency head:T1019 dependent:T1020 sentence:T25 label:WORDPATH
+R1420	Dependency head:T1020 dependent:T1021 sentence:T25 label:WORDPATH
+R1421	Dependency head:T1021 dependent:T1022 sentence:T25 label:WORDPATH
+R1422	Dependency head:T1022 dependent:T1023 sentence:T25 label:WORDPATH
+R1423	Dependency head:T1023 dependent:T1024 sentence:T25 label:WORDPATH
+R1424	Dependency head:T1024 dependent:T1025 sentence:T25 label:WORDPATH
+R1425	Dependency head:T1025 dependent:T1026 sentence:T25 label:WORDPATH
+R1426	Dependency head:T1026 dependent:T1027 sentence:T25 label:WORDPATH
+R1427	Dependency head:T1027 dependent:T1028 sentence:T25 label:WORDPATH
+R1428	Dependency head:T1028 dependent:T1029 sentence:T25 label:WORDPATH
+R1429	Dependency head:T1029 dependent:T1030 sentence:T25 label:WORDPATH
+R1430	Dependency head:T1031 dependent:T1032 sentence:T26 label:WORDPATH
+R1431	Dependency head:T1032 dependent:T1033 sentence:T26 label:WORDPATH
+R1432	Dependency head:T1033 dependent:T1034 sentence:T26 label:WORDPATH
+R1433	Dependency head:T1034 dependent:T1035 sentence:T26 label:WORDPATH
+R1434	Dependency head:T1035 dependent:T1036 sentence:T26 label:WORDPATH
+R1435	Dependency head:T1036 dependent:T1037 sentence:T26 label:WORDPATH
+R1436	Dependency head:T1037 dependent:T1038 sentence:T26 label:WORDPATH
+R1437	Dependency head:T1038 dependent:T1039 sentence:T26 label:WORDPATH
+R1438	Dependency head:T1039 dependent:T1040 sentence:T26 label:WORDPATH
+R1439	Dependency head:T1040 dependent:T1041 sentence:T26 label:WORDPATH
+R1440	Dependency head:T1041 dependent:T1042 sentence:T26 label:WORDPATH
+R1441	Dependency head:T1042 dependent:T1043 sentence:T26 label:WORDPATH
+R1442	Dependency head:T1043 dependent:T1044 sentence:T26 label:WORDPATH
+R1443	Dependency head:T1044 dependent:T1045 sentence:T26 label:WORDPATH
+R1444	Dependency head:T1045 dependent:T1046 sentence:T26 label:WORDPATH
+R1445	Dependency head:T1046 dependent:T1047 sentence:T26 label:WORDPATH
+R1446	Dependency head:T1047 dependent:T1048 sentence:T26 label:WORDPATH
+R1447	Dependency head:T1048 dependent:T1049 sentence:T26 label:WORDPATH
+R1448	Dependency head:T1049 dependent:T1050 sentence:T26 label:WORDPATH
+R1449	Dependency head:T1050 dependent:T1051 sentence:T26 label:WORDPATH
+R1450	Dependency head:T1051 dependent:T1052 sentence:T26 label:WORDPATH
+R1451	Dependency head:T1052 dependent:T1053 sentence:T26 label:WORDPATH
+R1452	Dependency head:T1053 dependent:T1054 sentence:T26 label:WORDPATH
+R1453	Dependency head:T1054 dependent:T1055 sentence:T26 label:WORDPATH
+R1454	Dependency head:T1055 dependent:T1056 sentence:T26 label:WORDPATH
+R1455	Dependency head:T1056 dependent:T1057 sentence:T26 label:WORDPATH
+R1456	Dependency head:T1057 dependent:T1058 sentence:T26 label:WORDPATH
+R1457	Dependency head:T1058 dependent:T1059 sentence:T26 label:WORDPATH
+R1458	Dependency head:T1059 dependent:T1060 sentence:T26 label:WORDPATH
+R1459	Dependency head:T1060 dependent:T1061 sentence:T26 label:WORDPATH
+R1460	Dependency head:T1061 dependent:T1062 sentence:T26 label:WORDPATH
+R1461	Dependency head:T1062 dependent:T1063 sentence:T26 label:WORDPATH
+R1462	Dependency head:T1063 dependent:T1064 sentence:T26 label:WORDPATH
+R1463	Dependency head:T1064 dependent:T1065 sentence:T26 label:WORDPATH
+R1464	Dependency head:T1065 dependent:T1066 sentence:T26 label:WORDPATH
+R1465	Dependency head:T1066 dependent:T1067 sentence:T26 label:WORDPATH
+R1466	Dependency head:T1067 dependent:T1068 sentence:T26 label:WORDPATH
+R1467	Dependency head:T1068 dependent:T1069 sentence:T26 label:WORDPATH
+R1468	Dependency head:T1069 dependent:T1070 sentence:T26 label:WORDPATH
+R1469	Dependency head:T1071 dependent:T1072 sentence:T27 label:WORDPATH
+R1470	Dependency head:T1072 dependent:T1073 sentence:T27 label:WORDPATH
+R1471	Dependency head:T1073 dependent:T1074 sentence:T27 label:WORDPATH
+R1472	Dependency head:T1074 dependent:T1075 sentence:T27 label:WORDPATH
+R1473	Dependency head:T1075 dependent:T1076 sentence:T27 label:WORDPATH
+R1474	Dependency head:T1076 dependent:T1077 sentence:T27 label:WORDPATH
+R1475	Dependency head:T1077 dependent:T1078 sentence:T27 label:WORDPATH
+R1476	Dependency head:T1078 dependent:T1079 sentence:T27 label:WORDPATH
+R1477	Dependency head:T1079 dependent:T1080 sentence:T27 label:WORDPATH
+R1478	Dependency head:T1080 dependent:T1081 sentence:T27 label:WORDPATH
+R1479	Dependency head:T1081 dependent:T1082 sentence:T27 label:WORDPATH
+R1480	Dependency head:T1082 dependent:T1083 sentence:T27 label:WORDPATH
+R1481	Dependency head:T1083 dependent:T1084 sentence:T27 label:WORDPATH
+R1482	Dependency head:T1084 dependent:T1085 sentence:T27 label:WORDPATH
+R1483	Dependency head:T1085 dependent:T1086 sentence:T27 label:WORDPATH
+R1484	Comparison Agent2:T1132 Agent1:T1143
+R1485	Comparison Agent2:T1161 Agent1:T1179
+R1486	Comparison Agent2:T1163 Agent1:T1165
+R1487	Comparison Agent2:T1091 Agent1:T1123
+R1488	Comparison Agent2:T1141 Agent1:T1107
+R1489	Comparison Agent2:T1105 Agent1:T1138
+R1490	Comparison Agent2:T1114 Agent1:T1117
+R1491	Comparison Agent2:T1119 Agent1:T1120
+R1492	Comparison Agent2:T1124 Agent1:T1106
+R1493	Comparison Agent2:T1140 Agent1:T1128
+R1494	Comparison Agent2:T1125 Agent1:T1088
+R1495	Comparison Agent2:T1103 Agent1:T1090
+R1496	Comparison Agent2:T1134 Agent1:T1146
+R1497	Comparison Agent2:T1172 Agent1:T1178
+R1498	Comparison Agent2:T1101 Agent1:T1127
+R1499	Comparison Agent2:T1136 Agent1:T1135
+R1500	Comparison Agent2:T1110 Agent1:T1118
+R1501	Is_Found_In_or_During Product:T1211 Factor:T1276
+R1502	Is_Found_In_or_During Product:T1211 Factor:T1275
+R1503	Is_Found_In_or_During Product:T1211 Factor:T1277
+R1504	Is_Found_In_or_During Product:T1226 Factor:T1175
+R1505	Is_Found_In_or_During Product:T1251 Factor:T1272
+R1506	Is_Found_In_or_During Product:T1251 Factor:T1094
+R1507	Is_Found_In_or_During Product:T1105 Factor:T1161
+R1508	Is_Found_In_or_During Product:T1251 Factor:T1273
+R1509	Is_Found_In_or_During Product:T1208 Factor:T1271
+R1510	Is_Found_In_or_During Product:T1212 Factor:T1271
+R1511	Is_Found_In_or_During Product:T1251 Factor:T1097
+R1512	Is_Found_In_or_During Product:T1274 Factor:T1223
+R1513	Is_Found_In_or_During Product:T1151 Factor:T1188
+R1514	Is_Found_In_or_During Product:T1150 Factor:T1190
+R1515	Is_Found_In_or_During Product:T1150 Factor:T1190
+R1516	Is_Found_In_or_During Product:T1151 Factor:T1234
+R1517	Is_Found_In_or_During Product:T1151 Factor:T1234
+R1518	Is_Found_In_or_During Product:T1226 Factor:T1235
+R1519	Is_Found_In_or_During Product:T1151 Factor:T1234
+R1520	Is_Found_In_or_During Product:T1151 Factor:T1188
+R1521	Is_Found_In_or_During Product:T1151 Factor:T1188
+R1522	Is_Found_In_or_During Product:T1214 Factor:T1169
+R1523	Is_Found_In_or_During Product:T1227 Factor:T1173
+R1524	Is_Found_In_or_During Product:T1227 Factor:T1173
+R1525	Is_Found_In_or_During Product:T1227 Factor:T1173
+R1526	Is_Found_In_or_During Product:T1235 Factor:T1175
+R1527	Is_Found_In_or_During Product:T1214 Factor:T1162
+R1528	Is_Found_In_or_During Product:T1227 Factor:T1173
+R1529	Regulates_Activity_Of Target:T1189 Agent:T1114
+R1530	Regulates_Activity_Of Target:T1189 Agent:T1124
+R1531	Regulates_Activity_Of Target:T1196 Agent:T1103
+R1532	Regulates_Activity_Of Target:T1262 Agent:T1175
+R1533	Regulates_Activity_Of Target:T1257 Agent:T1149
+R1534	Regulates_Activity_Of Target:T1150 Agent:T1099
+R1535	Regulates_Activity_Of Target:T1189 Agent:T1119
+R1536	Regulates_Activity_Of Target:T1264 Agent:T1166
+R1537	Regulates_Activity_Of Target:T1151 Agent:T1089
+R1538	Regulates_Activity_Of Target:T1254 Agent:T1176
+R1539	Regulates_Activity_Of Target:T1195 Agent:T1133
+R1540	Regulates_Activity_Of Target:T1265 Agent:T1202
+R1541	Regulates_Activity_Of Target:T1262 Agent:T1175
+R1542	Regulates_Activity_Of Target:T1259 Agent:T1157
+R1543	Regulates_Activity_Of Target:T1264 Agent:T1160
+R1544	Regulates_Activity_Of Target:T1259 Agent:T1158
+R1545	Regulates_Activity_Of Target:T1255 Agent:T1274
+R1546	Regulates_Activity_Of Target:T1254 Agent:T1184
+R1547	Regulates_Activity_Of Target:T1259 Agent:T1164
+R1548	Regulates_Activity_Of Target:T1151 Agent:T1098
+R1549	Regulates_Activity_Of Target:T1256 Agent:T1178
+R1550	Regulates_Activity_Of Target:T1189 Agent:T1136
+R1551	Regulates_Activity_Of Target:T1196 Agent:T1091
+R1552	Regulates_Activity_Of Target:T1189 Agent:T1126
+R1553	Regulates_Activity_Of Target:T1150 Agent:T1112
+R1554	Regulates_Activity_Of Target:T1264 Agent:T1183
+R1555	Regulates_Activity_Of Target:T1264 Agent:T1181
+R1556	Regulates_Activity_Of Target:T1196 Agent:T1101
+R1557	Regulates_Activity_Of Target:T1151 Agent:T1137
+R1558	Regulates_Activity_Of Target:T1265 Agent:T1205
+R1559	Regulates_Activity_Of Target:T1155 Agent:T1268
+R1560	Regulates_Activity_Of Target:T1196 Agent:T1140
+R1561	Regulates_Activity_Of Target:T1258 Agent:T1162
+R1562	Regulates_Activity_Of Target:T1196 Agent:T1110
+R1563	Regulates_Activity_Of Target:T1258 Agent:T1169
+R1564	Regulates_Activity_Of Agent:T1214 Target:T1258
+R1565	Regulates_Activity_Of Agent:T1223 Target:T1255
+R1566	Regulates_Activity_Of Agent:T1214 Target:T1258
+R1567	Regulates_Activity_Of Agent:T1206 Target:T1256
+R1568	Regulates_Activity_Of Agent:T1197 Target:T1257
+R1569	Regulates_Activity_Of Agent:T1168 Target:T1189
+R1570	Regulates_Activity_Of Agent:T1163 Target:T1196
+R1571	Regulates_Activity_Of Agent:T1163 Target:T1196
+R1572	Regulates_Activity_Of Agent:T1163 Target:T1196
+R1573	Regulates_Activity_Of Agent:T1168 Target:T1189
+R1574	Regulates_Activity_Of Agent:T1163 Target:T1196
+R1575	Regulates_Activity_Of Agent:T1163 Target:T1196
+R1576	Regulates_Activity_Of Agent:T1168 Target:T1189
+R1577	Regulates_Activity_Of Agent:T1168 Target:T1189
+R1578	Regulates_Activity_Of Agent:T1168 Target:T1189
+R1579	Regulates_Activity_Of Agent:T1178 Target:T1206
+R1580	Binds_To Target:T1252 Product:T1267
+R1581	Binds_To Target:T1250 Product:T1209
+R1582	Binds_To Target:T1251 Product:T1211
+R1583	Belongs_To Set:T1148 Element:T1137
+R1584	Belongs_To Set:T1147 Element:T1110
+R1585	Belongs_To Set:T1147 Element:T1140
+R1586	Belongs_To Set:T1144 Element:T1119
+R1587	Belongs_To Set:T1148 Element:T1089
+R1588	Belongs_To Set:T1134 Element:T1124
+R1589	Belongs_To Set:T1144 Element:T1126
+R1590	Belongs_To Set:T1144 Element:T1136
+R1591	Belongs_To Set:T1147 Element:T1103
+R1592	Belongs_To Set:T1148 Element:T1098
+R1593	Belongs_To Set:T1134 Element:T1114
+R1594	Regulates_Expression_Of Target:T1131 Agent:T1173
+R1595	Regulates_Expression_Of Target:T1111 Agent:T1173
+R1596	Regulates_Expression_Of Target:T1104 Agent:T1191
+R1597	Regulates_Expression_Of Target:T1129 Agent:T1173
+R1598	Regulates_Expression_Of Target:T1113 Agent:T1191
+R1599	Regulates_Expression_Of Target:T1145 Agent:T1266
+R1600	Regulates_Expression_Of Target:T1249 Agent:T1139
+R1601	Regulates_Expression_Of Target:T1108 Agent:T1173
+R1602	Regulates_Expression_Of Agent:T1188 Target:T1137
+R1603	Regulates_Expression_Of Agent:T1168 Target:T1136
+R1604	Regulates_Expression_Of Agent:T1227 Target:T1131
+R1605	Regulates_Expression_Of Agent:T1190 Target:T1099
+R1606	Regulates_Expression_Of Agent:T1163 Target:T1110
+R1607	Regulates_Expression_Of Agent:T1190 Target:T1112
+R1608	Regulates_Expression_Of Agent:T1163 Target:T1140
+R1609	Regulates_Expression_Of Agent:T1227 Target:T1129
+R1610	Regulates_Expression_Of Agent:T1234 Target:T1137
+R1611	Regulates_Expression_Of Agent:T1163 Target:T1101
+R1612	Regulates_Expression_Of Agent:T1168 Target:T1114
+R1613	Regulates_Expression_Of Agent:T1227 Target:T1108
+R1614	Regulates_Expression_Of Agent:T1234 Target:T1098
+R1615	Regulates_Expression_Of Agent:T1234 Target:T1089
+R1616	Regulates_Expression_Of Agent:T1163 Target:T1103
+R1617	Regulates_Expression_Of Agent:T1163 Target:T1091
+R1618	Regulates_Expression_Of Agent:T1188 Target:T1089
+R1619	Regulates_Expression_Of Agent:T1168 Target:T1126
+R1620	Regulates_Expression_Of Agent:T1197 Target:T1149
+R1621	Regulates_Expression_Of Agent:T1168 Target:T1119
+R1622	Regulates_Expression_Of Agent:T1188 Target:T1098
+R1623	Regulates_Expression_Of Agent:T1227 Target:T1111
+R1624	Regulates_Expression_Of Agent:T1168 Target:T1124
+R1625	Encodes Gene:T1141 Protein:T1271
+R1626	Interacts_With Target:T1267 Agent:T1274

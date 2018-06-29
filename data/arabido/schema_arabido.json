@@ -1,0 +1,814 @@
+{
+  "Condition": {
+    "relationDef": [
+      {
+        "Event": [
+          "Is_Found_In_or_During",
+          "Binds_To",
+          "Belongs_To",
+          "Interacts_With",
+          "Regulates_Expression_Of",
+          "Regulates_Accumulation_Of",
+          "Regulates_Activity_Of",
+          "Site",
+          "Comparison"
+        ]
+      },
+      {
+        "Constraint": [
+          "Tissue",
+          "Hormone",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Genotype",
+          "Is_Found_In_or_During",
+          "Binds_To",
+          "Interacts_With"
+        ]
+      }
+    ],
+    "propDef": {
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#FF5500",
+    "type": "Condition",
+    "kind": 2
+  },
+  "Encodes": {
+    "relationDef": [
+      {
+        "Gene": [
+	  "Gene",
+	  "Gene_Family",
+	  "RNA"
+	]
+      },
+      {
+        "Protein": [
+	  "Protein",
+	  "Protein_Family",
+	  "Protein_Domain"
+	]
+      }
+    ],
+    "propDef": {
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#CC8C00",
+    "type": "Encodes",
+    "kind": 2
+  },
+  "Comparison": {
+    "relationDef": [
+      {
+        "Agent1": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      },
+      {
+        "Agent2": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      }
+    ],
+    "propDef": {
+      "type": {
+        "valType": {
+          "defaultVal": "Equivalent",
+          "domain": [
+            "Equivalent",
+            "Identical",
+            "Redundant"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "type"
+      },
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#00FF55",
+    "type": "Comparison",
+    "kind": 2
+  },
+  "Regulates_Activity_Of": {
+    "relationDef": [
+      {
+        "Agent": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      },
+      {
+        "Target": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype",
+          "Promoter"
+        ]
+      }
+    ],
+    "propDef": {
+      "modality": {
+        "valType": {
+          "defaultVal": "involvement",
+          "domain": [
+            "involvement",
+            "activation",
+            "inhibition",
+            "               requirement"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "modality"
+      },
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#00A875",
+    "type": "Regulates_Activity_Of",
+    "kind": 2
+  },
+  "Regulates_Accumulation_Of": {
+    "relationDef": [
+      {
+        "Agent": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      },
+      {
+        "Target": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      }
+    ],
+    "propDef": {
+      "modality": {
+        "valType": {
+          "defaultVal": "involvement",
+          "domain": [
+            "involvement",
+            "activation",
+            "inhibition",
+            "               requirement"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "modality"
+      },
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#1240AA",
+    "type": "Regulates_Accumulation_Of",
+    "kind": 2
+  },
+  "Regulates_Expression_Of": {
+    "relationDef": [
+      {
+        "Agent": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      },
+      {
+        "Target": [
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box"
+        ]
+      }
+    ],
+    "propDef": {
+      "modality": {
+        "valType": {
+          "defaultVal": "involvement",
+          "domain": [
+            "involvement",
+            "activation",
+            "inhibition",
+            "               requirement"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "modality"
+      },
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#7CE700",
+    "type": "Regulates_Expression_Of",
+    "kind": 2
+  },
+  "Interacts_With": {
+    "relationDef": [
+      {
+        "Agent": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      },
+      {
+        "Target": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      }
+    ],
+    "propDef": {
+      "type": {
+        "valType": {
+          "defaultVal": "Interaction",
+          "domain": [
+            "Interaction",
+            "Increase",
+            "Decrease"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "type"
+      },
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#FFFF00",
+    "type": "Interacts_With",
+    "kind": 2
+  },
+  "Belongs_To": {
+    "relationDef": [
+      {
+        "Element": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      },
+      {
+        "Set": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box",
+          "Tissue",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Physiological_Stage",
+          "Genotype"
+        ]
+      }
+    ],
+    "propDef": {
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#FF0000",
+    "type": "Belongs_To",
+    "kind": 2
+  },
+  "Binds_To": {
+    "relationDef": [
+      {
+        "Product": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain"
+        ]
+      },
+      {
+        "Target": [
+          "RNA",
+          "Protein",
+          "Protein_Family",
+          "Protein_Complex",
+          "Regulatory_Network",
+          "Hormone",
+          "Pathway",
+          "Protein_Domain",
+          "Gene",
+          "Gene_Family",
+          "Regulon",
+          "Promoter",
+          "Site",
+          "Box"
+        ]
+      }
+    ],
+    "propDef": {
+      "type": {
+        "valType": {
+          "defaultVal": "Binding",
+          "domain": [
+            "Binding",
+            "Increase",
+            "Decrease"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "type"
+      },
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#FFC600",
+    "type": "Binds_To",
+    "kind": 2
+  },
+  "Is_Found_In_or_During": {
+    "relationDef": [
+      {
+        "Product": [
+	  "Box",
+	  "Development_Phase",
+	  "Gene",
+          "Hormone",
+          "Pathway",
+	  "Promoter",
+          "Protein",
+          "Protein_Complex",
+          "Protein_Domain",
+          "Protein_Family",
+          "RNA",
+          "Regulatory_Network",
+	  "Tissue"
+        ]
+      },
+      {
+        "Factor": [
+	  "Box",
+	  "Pathway",
+	  "Promoter",
+	  "Protein",
+	  "Protein_Family",
+	  "Regulatory_Network",
+          "Development_Phase",
+          "Environmental_Factor",
+          "Genotype",
+          "Physiological_Stage",
+          "Tissue",
+	  "Gene"
+        ]
+      }
+    ],
+    "propDef": {
+      "type": {
+        "valType": {
+          "defaultVal": "Presence",
+          "domain": [
+            "Presence",
+            "Increase",
+            "Decrease"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "type"
+      },
+      "speculation": {
+        "valType": {
+          "defaultVal": "speculation",
+          "domain": [
+            "speculation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "speculation"
+      },
+      "negation": {
+        "valType": {
+          "defaultVal": "negation",
+          "domain": [
+            "negation"
+          ],
+          "valTypeName": "ClosedDomain"
+        },
+        "maxVal": 1,
+        "minVal": 1,
+        "mandatory": false,
+        "key": "negation"
+      }
+    },
+    "color": "#4A11AD",
+    "type": "Is_Found_In_or_During",
+    "kind": 2
+  }
+}

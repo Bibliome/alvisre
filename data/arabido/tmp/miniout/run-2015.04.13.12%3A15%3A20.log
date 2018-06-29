@@ -1,0 +1,37 @@
+XML CONFIGURATION:__________________________________
+<?xml version="1.0" encoding="utf-8" ?>
+<experiment>
+	<name>Arabido first blood</name>
+		<inputPath>
+		arabido/tmp/minimix/
+		</inputPath>
+	
+<!-- 	<trainPath> -->
+<!-- 		arabido/tmp/minitrain/ -->
+<!-- 	</trainPath> -->
+<!-- 	<testPath> -->
+<!-- 		arabido/tmp/minitest/ -->
+<!-- 	</testPath> -->
+	<outputPath>arabido/tmp/miniout</outputPath>
+	<outputFormat>AlvisNLP</outputFormat>
+	<writeObjects>false</writeObjects>
+<!-- 	<outputFormatChallenge>LLL</outputFormatChallenge> -->
+	<type>AlvisNLP</type>
+	<verbose>3</verbose>
+	<action>CrossValidation</action>
+	<evaluation>evalscript</evaluation>
+	<schemaJSON>arabido/schema_arabido.json</schemaJSON>
+	<nonDirectional>Comparison, Interacts_With</nonDirectional>
+<Representation>EntireSentence</Representation>
+	<SimilarityFunction>
+		<functionName>Dummy</functionName>
+	</SimilarityFunction>
+	<Weka>
+		<Algorithm>Advanced</Algorithm>
+		<Classifier>dummy</Classifier>
+		<Options>-c 0.0 </Options>
+	</Weka>
+</experiment>
+_______________________________
+END XML CONFIGURATION_______________________________
+PROGRAM OUTPUT___________________________

@@ -1,0 +1,86 @@
+T24	Sentence 5963 6182	In addition, ABI3 mediates ABA-regulated gene expression in the seed through interaction with specific basic Leu-zipper transcription factors                   that bind ABA response elements (Finkelstein et al., 2002).
+T973    Word 5963 5965  In|IN|
+T974    Word 5966 5974  addition|NN|
+T975    Word 5974 5975  ,|,|
+T976    Word 5976 5980  ABI3|NN|
+T977    Word 5981 5989  mediates|VBZ|
+T978    Word 5990 5993  ABA|NN|
+T979    Word 5993 5994  -|JJ|
+T980    Word 5994 6003  regulated|JJ|
+T981    Word 6004 6008  gene|NN|
+T982    Word 6009 6019  expression|NN|
+T983    Word 6020 6022  in|IN|
+T984    Word 6023 6026  the|DT|
+T985    Word 6027 6031  seed|VBN|
+T986    Word 6032 6039  through|IN|
+T987    Word 6040 6051  interaction|NN|
+T988    Word 6052 6056  with|IN|
+T989    Word 6057 6065  specific|JJ|
+T990    Word 6066 6071  basic|JJ|
+T991    Word 6072 6082  Leu-zipper|JJ|
+T992    Word 6083 6096  transcription|NN|
+T993    Word 6097 6104  factors|NNS|
+T994    Word 6123 6127  that|WDT|
+T995    Word 6128 6132  bind|VBP|
+T996    Word 6133 6136  ABA|NN|
+T997    Word 6137 6145  response|NN|
+T998    Word 6146 6154  elements|NNS|
+T999    Word 6155 6156  (|LRB|
+T1000   Word 6156 6167  Finkelstein|NNP|
+T1001   Word 6168 6174  et al.|FW|
+T1002   Word 6174 6175  ,|,|
+T1003   Word 6176 6180  2002|CD|
+T1004   Word 6180 6181  )|RRB|
+T1005   Word 6181 6182  .|.|
+
+
+T1223	Tissue	6027	6031	seed
+T1247	Hormone	5990	5993	ABA
+T1248	Hormone	6133	6136	ABA
+T1252	Box	6133	6154	ABA	response elements
+T1255	Regulatory_Network	5990	6019 ABA-regulated gene expression
+T1267	Protein_Family	6066	6104    basic Leu-zipper transcription factors
+T1274	Protein	5976	5980	ABI3
+
+R1512	Is_Found_In_or_During Product:T1274 Factor:T1223        SAME PHRASE
+R1545	Regulates_Activity_Of Target:T1255 Agent:T1274          SAME PHRASE
+R1565	Regulates_Activity_Of Agent:T1223 Target:T1255          SAME PHRASE
+R1580	Binds_To Target:T1252 Product:T1267                     SAME PHRASE
+R1626	Interacts_With Target:T1267 Agent:T1274                 SAME PHRASE
+
+
+
+
+R1374   Dependency head:T973 dependent:T974 sentence:T24 label:WORDPATH
+R1375   Dependency head:T974 dependent:T975 sentence:T24 label:WORDPATH
+R1376   Dependency head:T975 dependent:T976 sentence:T24 label:WORDPATH
+R1377   Dependency head:T976 dependent:T977 sentence:T24 label:WORDPATH
+R1378   Dependency head:T977 dependent:T978 sentence:T24 label:WORDPATH
+R1379   Dependency head:T978 dependent:T979 sentence:T24 label:WORDPATH
+R1380   Dependency head:T979 dependent:T980 sentence:T24 label:WORDPATH
+R1381   Dependency head:T980 dependent:T981 sentence:T24 label:WORDPATH
+R1382   Dependency head:T981 dependent:T982 sentence:T24 label:WORDPATH
+R1383   Dependency head:T982 dependent:T983 sentence:T24 label:WORDPATH
+R1384   Dependency head:T983 dependent:T984 sentence:T24 label:WORDPATH
+R1385   Dependency head:T984 dependent:T985 sentence:T24 label:WORDPATH
+R1386   Dependency head:T985 dependent:T986 sentence:T24 label:WORDPATH
+R1387   Dependency head:T986 dependent:T987 sentence:T24 label:WORDPATH
+R1388   Dependency head:T987 dependent:T988 sentence:T24 label:WORDPATH
+R1389   Dependency head:T988 dependent:T989 sentence:T24 label:WORDPATH
+R1390   Dependency head:T989 dependent:T990 sentence:T24 label:WORDPATH
+R1391   Dependency head:T990 dependent:T991 sentence:T24 label:WORDPATH
+R1392   Dependency head:T991 dependent:T992 sentence:T24 label:WORDPATH
+R1393   Dependency head:T992 dependent:T993 sentence:T24 label:WORDPATH
+R1394   Dependency head:T993 dependent:T994 sentence:T24 label:WORDPATH
+R1395   Dependency head:T994 dependent:T995 sentence:T24 label:WORDPATH
+R1396   Dependency head:T995 dependent:T996 sentence:T24 label:WORDPATH
+R1397   Dependency head:T996 dependent:T997 sentence:T24 label:WORDPATH
+R1398   Dependency head:T997 dependent:T998 sentence:T24 label:WORDPATH
+R1399   Dependency head:T998 dependent:T999 sentence:T24 label:WORDPATH
+R1400   Dependency head:T999 dependent:T1000 sentence:T24 label:WORDPATH
+R1401   Dependency head:T1000 dependent:T1001 sentence:T24 label:WORDPATH
+R1402   Dependency head:T1001 dependent:T1002 sentence:T24 label:WORDPATH
+R1403   Dependency head:T1002 dependent:T1003 sentence:T24 label:WORDPATH
+R1404   Dependency head:T1003 dependent:T1004 sentence:T24 label:WORDPATH
+R1405   Dependency head:T1004 dependent:T1005 sentence:T24 label:WORDPATH
+

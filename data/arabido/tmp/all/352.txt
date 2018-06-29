@@ -1,0 +1,441 @@
+
+  
+    
+      prs.rt('data_start');Volume 93, Issue 7, 26 June 1998, Pages 1195–1205ArticleArabidopsis LEAFY COTYLEDON1 Is Sufficient to Induce Embryo Development in Vegetative CellsTamar Lotan1, Masa-aki Ohto1, 2, Kelly Matsudaira Yee1, Marilyn A.L West1, 3, Russell Lo1, 4, Raymond W Kwong1, Kazutoshi Yamagishi1, Robert L Fischer2, Robert B Goldberg3, John J Harada1, 1, , 1 Section of Plant Biology, Division of Biological Sciences, University of California, Davis, California 95616, USA2 Department of Plant and Microbial Biology, University of California, Berkeley, California 94720, USA3 Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, California 90024-1606, USAReceived 9 December 1997. Revised 7 May 1998. Available online 9 October 2000.http://dx.doi.org/10.1016/S0092-8674(00)81463-4, How to Cite or Link Using DOIPermissions & ReprintsAbstractThe Arabidopsis LEAFY COTYLEDON1 (LEC1) gene is required for the specification of cotyledon identity and the completion of embryo maturation. We isolated the LEC1 gene and showed that it functions at an early developmental stage to maintain embryonic cell fate. The LEC1 gene encodes a transcription factor homolog, the CCAAT box–binding factor HAP3 subunit. LEC1
+ RNA accumulates only during seed development in embryo cell types and 
+in endosperm tissue. Ectopic postembryonic expression of the LEC1
+ gene in vegetative cells induces the expression of embryo-specific 
+genes and initiates formation of embryo-like structures. Our results 
+suggest that LEC1 is an important regulator of embryo development that 
+activates the transcription of genes required for both embryo 
+morphogenesis and cellular differentiation.prs.rt("abs_end");IntroductionHigher
+ plant embryogenesis is divided conceptually into two distinct phases: 
+early morphogenetic processes that give rise to embryonic cell types, 
+tissues, and organ systems, and late maturation events that allow the 
+fully developed embryo to enter a desiccated and metabolically quiescent
+ state (
+                  [52] and [13]).
+ Upon reception of the appropriate signals, the dormant embryo 
+germinates, and seedling development begins. Thus, seed maturation and 
+metabolic quiescence interrupt the morphogenetic processes that occur 
+during embryogenesis and seedling development. This unique form of 
+development underlies, in part, a plant's ability to make seeds, a trait
+ that has conferred significant selective advantages to higher plants (Steeves 1983).
+ Because lower plants do not make seeds and do not undergo embryo 
+maturation, this bipartite mode of embryogenesis is thought to have 
+resulted from the insertion of maturation events into the higher plant 
+life cycle (reviewed by
+                  [51], 
+                  [47] and [16]).
+ Little is known at the mechanistic level about how distinct processes 
+that occur during the morphogenesis and seed maturation phases are 
+coordinated.Genetic strategies employed to identify regulators of Arabidopsis thaliana embryo development have distinguished several gene classes that affect embryogenesis. One class of mutations, including raspberry, tinman, and abnormal suspensor ( 
+                  [41], 
+                  [56], 
+                  [7] and [49];
+ T. L. et al, unpublished data), causes the arrest of embryo 
+morphogenesis. Many of the corresponding proteins are involved in basic 
+cellular functions and probably do not perform direct regulatory roles. A
+ second class of genes predicted to play a role in embryonic pattern 
+formation has been identified (Mayer et al. 1991). The expression patterns of two such genes, EMB30 (GNOM) and KNOLLE, suggest that they do not function specifically during embryogenesis ( 
+                  [42] and [23]). Another class, including SHOOTMERISTEMLESS and SCARECROW, is active in the developing shoot or root apical meristems ( 
+                  [9] and [22]).
+ Although these genes play key roles in meristem function, they are 
+required for meristem formation during both embryogenesis and 
+postembryonic development. ABSCISIC ACID INSENSITIVE3 (ABI3), a fourth gene class, encodes an embryo-specific transcription factor that regulates genes expressed during seed maturation ( 
+                  [20] and [38]).
+ However, its function is limited to the late stages of embryogenesis. 
+Although each of these gene classes is essential for embryo development,
+ none appears to act specifically during embryogenesis to control both 
+the morphogenesis and maturation phases.The LEAFY COTYLEDON1 (LEC1) gene, by contrast, controls many distinct aspects of embryogenesis (Meinke 1992Meinke, 1992, 1994;  
+                  [53] and [39]). As summarized in Figure 1, the lec1 mutation is pleiotropic, indicating several roles in late embryo development. LEC1 is required for specific aspects of seed maturation. lec1
+ mutant embryos are intolerant of desiccation and show defects in the 
+expression of some, but not all, maturation-specific genes ( 
+                  [28], 
+                  [53] and [39]). LEC1 is also involved in inhibiting premature germination. lec1
+ mutant embryos exhibit morphological and molecular characteristics of 
+both embryogenesis and postgerminative seedling development, showing 
+that aspects of both programs can occur simultaneously (Meinke 1992Meinke, 1992, 1994; West et al. 1994). LEC1 plays a role in the specification of embryonic organ identity as well. Embryonic leaves or cotyledons of lec1 mutants possess trichomes, epidermal hairs, which normally form only on leaves and stems in Arabidopsis ( 
+                  [28] and [53]). The anatomy of lec1 mutant cotyledons is intermediate between those of a wild-type cotyledon and a leaf (West et al. 1994). Finally, LEC1 appears to act only during embryo development. Desiccation-intolerant lec1
+ embryos can be rescued from plants before desiccation and germinated to
+ produce homozygous mutant plants that are fertile and that do not 
+display any obvious vegetative or floral mutant phenotypes ( 
+                  [28] and [53]). Two other LEC class genes, LEC2 and FUSCA3 (FUS3), are thought to share similar or overlapping functions with LEC1, including the specification or cotyledon identity and the maintenance of maturation ( 
+                  [2], 
+                  [18] and [29]). Although nothing has been reported about how LEC
+ class genes act at the molecular level, their involvement in many 
+diverse aspects of embryogenesis suggests that these genes serve as 
+regulators of higher plant embryonic processes.Figure 1. Pleiotropic Effects of the lec1 Mutation on Embryo DevelopmentMajor differences between wild-type and lec1
+ mutant embryos are as follows. Embryo shape: the axes of mutant embryos
+ are short, and their cotyledons are round and do not curl. Anthocyanin 
+generally accumulates at the tips of mutant cotyledons. Precocious 
+germination: the shoot apical meristems of lec1 embryos are 
+activated in that they are domed and possess leaf primordia, unlike 
+their wild-type counterparts that are flat and do not contain leaf 
+primordia. Defects in seed maturation: lec1 mutant embryos are intolerant of desiccation and normally die if dried on the plant. However, lec1
+ embryos isolated before desiccation can be germinated to produce 
+fertile homozygous mutant plants. The promoter of a 7S storage protein 
+gene that is normally active during wild-type embryogenesis is not 
+active in the lec1 mutant. Incomplete specification of cotyledon identity: lec1 seedlings possess trichomes on cotyledons. Trichomes are present on Arabidopsis leaves and stems but not on wild-type cotyledons. a, axis; c, cotyledon; SAM, shoot apical meristem.View thumbnail imagesView high quality image (116K)In this paper, we report the isolation of the LEC1 gene and show that it encodes a homolog of a conserved eukaryotic transcription factor. Expression studies showed that the LEC1 gene is active only within seeds during both early and late seed development. Ectopic expression of the LEC1
+ gene induces embryonic programs and embryo development in vegetative 
+cells. We suggest that LEC1 is an important transcriptional regulator 
+required for both early and late embryogenesis that controls and 
+coordinates higher plant embryo development.ResultsLEC1 Functions Early in EmbryogenesisThe Lec1− phenotype indicates that the gene plays a significant role in controlling late embryo development (Figure 1). To determine whether the gene is also required for early embryonic events, we analyzed early-stage lec1 mutant embryos and detected defects in suspensor morphology. The wild-type suspensor, shown in Figure 2D,
+ is a transient embryonic structure consisting of a single file of six 
+to eight cells that are identical genotypically to embryo proper cells. 
+By contrast, Figure 2A and Figure 2B show that globular- and transition-stage embryos homozygous for either of the two lec1
+ mutant alleles had abnormal suspensors. Cell walls parallel to the 
+suspensor axis were observed, suggesting that aberrant cell divisions 
+occurred in the mutant suspensors. As summarized in Table 1, abnormal suspensors rarely observed in wild-type embryos were detected initially in globular/transition-stage lec1 embryos and were represented in approximately 90% of mutant torpedo-stage embryos.Figure 2. Embryogenic Potential of lec1 Mutant Suspensor(A)–(D) Seeds from the indicated plants were cleared and photographed using Nomarski optics. lec1-1 (A); lec1-2 (B); lec1-2 fus3-3
+ (C); wild type (D). Arrowheads indicate sites of abnormal suspensor 
+cell divisions. Bar, 25 μm. (E) A primary (top) and a secondary (bottom)
+ embryo isolated from a lec1-2 fus3-3 double mutant. Bar, 0.1 mm. (F) A germinated lec1-2 fus3-3 seed containing twin seedlings. Bar, 0.5 mm. ep, embryo proper; s, suspensor.View thumbnail imagesView high quality image (209K)Table 1.
+        Suspensor Abnormalities in Mutant EmbryosEmbryonic StagesGlobular/TransitionHeartTorpedoWild type1/162 (0.01%)a2/78 (2.6%)0/200 (0%)lec1-125/115 (22%)87/128 (68%)49/54 (91%)lec1-215/164 (9.0%)48/80 (60%)29/32 (90%)lec21/189 (0.01%)4/47 (8.5%)21/54 (39%)fus3-39/97 (9.3%)21/112 (19%)10/89 (11%)abi3-30/68 (0%)0/62 (0%)0/20 (0%)aNumber of embryos with abnormal suspensors/total embryos analyzed (percent embryos with abnormal suspensors).Full-size tableWe investigated a lec1 fus3 double mutant (West et al. 1994) to learn whether other LEC class genes could enhance the effect of the lec1 mutation on suspensor development. Figure 2C shows that suspensor abnormalities were observed in lec1-2 fus3-3
+ double mutants at an early embryonic stage as with the single mutants. 
+By contrast to wild-type suspensors that undergo a limited number of 
+cell divisions, suspensor cells continued to proliferate in the double 
+mutants. Subsequently, secondary embryos, shown in Figure 2E, formed from these abnormal suspensor cell masses in approximately 20% (118/598) of lec1-2 fus3-3 seeds. Primary embryos were attached to secondary, suspensor-derived embryos either at or near the latter's shoot apices (Figure 2E)
+ or at their root ends (data not shown). Both primary and secondary 
+embryos were able to germinate, and viable seedings were produced (Figure 2F). Secondary embryo formation was also observed in lec1-1 fus3-3 and lec1-2 abi3-3 double mutants, but not in lec1 single mutants or in lec1-2 lec2 double mutants, and only rarely formed in fus3-3
+ monogenic mutants (e.g., 2 of 298 seeds had secondary embryos). These 
+results showed that polyembryony was not limited to a particular lec1 or fus3 allele. Control experiments showed that abnormal suspensors were also detected in early-stage lec2-1 and fus3-3 mutant embryos but not in abi3-3 mutant embryos (Table 1). Together these results indicate that LEC1 gene activity is required during early embryogenesis, in part, to suppress the embryogenic potential of the suspensor.Insertion and Deletion Mutations Identify the LEC1 Genelec1-1 and lec1-2 mutant alleles were derived from a population of plants mutagenized insertionally with T-DNA ( 
+                  [11], 
+                  [28] and [53]). The lec1-1 mutation is not associated with T-DNA (Meinke 1992; M. O. and J. J. H., unpublished data); however, we showed that a specific subset of the T-DNA fragments in lec1-2 was within 1.5 cM of the lec1 mutation. We identified genomic clones containing T-DNA sequences that cosegregated with the lec1 mutation from a library of lec1-2 DNA. The one clone that contained Arabidopsis DNA sequences identified restriction fragment length polymorphisms that distinguished wild-type, lec1-1, and lec1-2 genomic DNAs. Figure 3B shows that plant DNA sequences flanking the lec1-2 T-DNA identified 2.25 kb, 1.2 kb, and 0.6 kb HindIII fragments in wild-type DNA that were replaced with a 2.0 kb fragment in lec1-1 DNA. The two lec1-2 DNA fragments marked by the arrows in Figure 3B that were absent in wild-type DNA presumably represented T-DNA/plant DNA junction fragments.Figure 3. Structure and Expression of LEC1 Gene Loci(A) Diagrammatic representation of the LEC1 locus in wild-type (WT), lec1-1, and lec1-2
+ chromosomes. The box represents the LEC1 open reading frame and its 
+transcriptional orientation. The positions of the deletion in lec1-1 and of the T-DNA insertion in lec1-2
+ are indicated. The bars represent the 3.4 kb BstYI restriction fragment
+ used for the transgene complementation test and the 7.4 kb EcoRI 
+restriction fragment used in (B). Vertical lines represent HindIII 
+restriction sites.(B) Gel blot of genomic DNA from wild-type (wt), lec1-1, and lec1-2
+ digested with HindIII and hybridized with the wild-type 7.4 kb EcoRI 
+fragment shown in (A). Arrows indicate restriction fragments in lec1-2 that contain the T-DNA/plant DNA junctions.(C) Gel blot containing 2 μg polyadenylated RNA from homozygous lec1-1 siliques (lane 1), homozygous lec1-2
+ siliques (lane 2), wild-type siliques (lane 3), and the leaves and 
+stems of wild-type seedlings grown for 2 weeks (lane 4) were hybridized 
+with the LEC1 cDNA clone. The 0.85 kb LEC1 RNA was 
+detected only in wild-type siliques. Hybridization of this blot and the 
+blot shown in (D) with a probe for a constitutively expressed ribosomal 
+protein showed that equal amounts of RNA were present in each lane (data
+ not shown).(D) Gel blot analysis of 20
+ μg total RNA from wild-type siliques at three different stages 
+hybridized with LEC1 cDNA clone. Lane 1, preglobular to heart stage; 
+lane 2, heart to curled cotyledon stage; lane 3, maturing embryo stage.View thumbnail imagesView high quality image (253K)Restriction mapping and nucleotide sequence analyses, summarized in Figure 3A, indicated that one T-DNA complex in lec1-2
+ was inserted 115 bp upstream of a 626 bp open reading frame (ORF). 
+Several lines of evidence suggested that this ORF represented the LEC1 gene. First, as shown diagrammatically in Figure 3A, cloning and nucleotide sequencing studies showed that this ORF was part of a 2000 bp region deleted in lec1-1
+ DNA. Second, this ORF was represented in embryo RNA. cDNA clones 
+corresponding to the ORF were identified from a library of silique RNA 
+that contained developing embryo mRNA. As shown in Figure 3C, this cDNA clone identified a single 0.85 kb polyadenylated RNA detected in wild-type silique RNA (lane 3) but not lec1-1 (lane 1) or lec1-2
+ (lane 2) silique RNAs. This result suggested that both mutations 
+compromised the expression of this ORF. Third, RNA gel blot analysis 
+using the 7.4 kb EcoRI restriction fragment shown in Figure 3A
+ that spanned a region 4.4 kb upstream and 2.4 kp downstream of this ORF
+ did not identify any other transcript in the silique RNA. Finally, 
+nucleotide sequencing studies did not reveal any other extended ORFs 
+within this 7.4 kb EcoRI restriction fragment.To demonstrate directly that this ORF corresponded to the LEC1 gene, we transferred the 3394 bp fragment that contained this ORF and its 5′ and 3′ flanking DNA sequences into homozygous lec1-1 and lec1-2 mutant plants (see Figure 3A).
+ Plants transformed with this ORF produced viable seeds that survived 
+desiccation, germinated, and produced fertile plants with a wild-type 
+vegetative phenotype. Because lec1 mutant embryos are normally 
+desiccation intolerant, this result indicated that the ORF complemented 
+the mutation. PCR amplification experiments and segregation analyses 
+verified that all viable transgenic plants were homozygous for the lec1
+ mutation and contained 1–3 copies of the transgene (data not shown). 
+These data showed that the 3.4 kb fragment containing this ORF 
+complemented lec1 mutations. Taken together, these results indicate that the ORF represents the LEC1 gene.LEC1 Is a Homolog of CCAAT Box–Binding FactorThe
+ predicted LEC1 polypeptide shared significant sequence similarity with 
+the HAP3 subunit of the CCAAT box–binding factor (CBF; Figure 4).
+ Based on amino acid sequence comparisons, the HAP3 subunit is divided 
+into three domains: an amino-terminal A domain, a central B domain, and a
+ carboxyl-terminal C domain, as shown diagrammatically in Figure 4A (Li et al. 1992). Figure 4B
+ shows that LEC1 shared between 75% and 85% similarity and between 55% 
+and 63% identity with the B domains of other HAP3 homologs. This degree 
+of similarity was comparable to that obtained in sequence comparisons 
+among HAP3 subunits from other organisms (Li et al. 1992).
+ No significant sequence similarity was detected between the A and C 
+domains of LEC1 and other HAP3 homologs, or with any other polypeptide 
+sequence recorded in the databases. The high degree of sequence 
+conservation in the B domain strongly suggests that LEC1 is part of an 
+oligomeric CBF transcriptional activator.Figure 4. Amino Acid Sequence Similarity between LEC1 and Other CBF HAP3 Homologs(A) Schematic representation of the three domains of the predicted LEC1 polypeptide.(B) Comparison of the predicted amino acid sequence of the B domain encoded by LEC1 with HAP3 homologs from maize, chicken, lamprey, Xenopus laveis, human, mouse (Li et al. 1992), rat (Vuorio et al. 1990), Emericella nidulans (Papagiannopoulos et al. 1996), Schizosaccharomyces pombe (Xing et al. 1993), Saccharomyces cerevisiae (Hahn et al. 1988), and Kluyveromyces lactis (Mulder et al. 1994).
+ The DNA-binding region and the subunit interaction region are 
+indicated. Numbers indicate amino acid positions of the B domains. The Xenopus sequence was derived from an incomplete cDNA clone.View thumbnail imagesView high quality image (253K)LEC1 Is Expressed Specifically within Seeds during Early and Late EmbryogenesisWe analyzed LEC1 RNA levels to determine the expression pattern of the gene during development. Figure 3C shows that LEC1
+ RNA was present in developing siliques of wild-type plants (lane 3) but
+ was not detected in the leaves and stems of 2-week-old vegetative 
+plants (lane 4). LEC1 RNA was also not detected in gel blot 
+hybridization experiments with polyadenylated RNAs from wild-type 
+leaves, stems, roots, and flower buds (data not shown). Our previous 
+observation that lec1 mutant embryos rescued before desiccation
+ occurred produce homozygous mutant plants with no obvious vegetative 
+abnormalities is consistent with this apparent seed-specific expression 
+pattern (Figure 1; West et al. 1994).To define when the LEC1 gene was active during embryogenesis, we measured LEC1 RNA levels in siliques at different stages of development. As shown in Figure 3D, LEC1
+ RNA was present at higher levels in siliques containing early 
+preglobular to heart-stage embryos (lane 1) and heart to curled 
+cotyledon–stage embryos (lane 2) than in maturing embryos (lane 3). 
+These results suggest that the LEC1 gene is expressed at highest levels during early embryo development.We hybridized a LEC1 probe in situ with developing seed sections to determine the distribution of LEC1 RNA within the seed. Figure 5A and Figure 5E show that LEC1 RNA accumulated in both the embryo proper and the suspensor of an early eight-celled proembryo. Other experiments showed that LEC1 RNA was present shortly after fertilization within a two-celled proembryo and its suspensor (data not shown). LEC1 RNA was present at a higher level in early-stage embryos at the proembryo stage, globular stage (Figure 5B and Figure 5F), transition stage (Figure 5C and Figure 5G), heart stage (Figure 5D and Figure 5H), torpedo stage (Figure 5I and Figure 5M), and curled cotyledon stage (Figure 5J and Figure 5N) than in late maturing-stage embryos (Figure 5K and Figure 5O). This result was consistent with the RNA gel blot studies (Figure 3D). Beginning with the globular and transition stages (Figure 5F and Figure 5G), LEC1
+ RNA became restricted to the embryo periphery, primarily within the 
+outer protoderm and the ground tissue cell layers. By contrast, the 
+extent of hybridization was much less in the procambial tissue at the 
+center of the embryo proper (Figure 5G and Figure 5H). The LEC1
+ RNA accumulation pattern changed gradually during the progression from 
+the linear to curled cotyledon stages when the RNA became distributed 
+throughout the embryo (Figure 5N).Figure 5. Distribution of LEC1 mRNA in Developing EmbryosWild-type and lec1-1 mutant seed sections were hybridized with a LEC1
+ antisense RNA probe and photographed following autoradiography. 
+Sections (A)–(D) and (I)–(L) were stained with toluidine blue and 
+photographed. Sections (E)–(H) and (M)–(P) were photographed with 
+darkfield optics. As a negative control, the LEC1 probe was hybridized to seed sections of lec1-1 mutants. Hybridization with a LEC1
+ sense RNA probe did not yield detectable signals (data not shown). 
+Bars, 50 μm. a, embryonic axis; c, cotyledon; en, endosperm; ep, embryo 
+proper; s, suspensor.(A and E) Preglobular embryo.(B and F) Globular-stage embryo.(C and G) Transition-stage embryo.(D and H) Heart-stage embryo.(I and M) Torpedo/linear cotyledon–stage embryo.(J and N) Bent cotyledon–stage embryo.(K and O) Maturing embryo.(L and P) lec1-1 mutant heart–stage embryo.View thumbnail imagesView high quality image (381K)As shown in Figure 5H, Figure 5M, and Figure 5N, LEC1
+ RNA also accumulated in the endosperm, a triploid nonembryonic seed 
+tissue that originates from the fertilization of the central cell of a 
+female gametophyte with a sperm nucleus. Figure 5 also shows that LEC1 RNA was not detected in maternally derived silique and seed coat tissues, indicating that the LEC1 RNA detected in silique RNA gel blots was present primarily within the seed (Figure 3C and Figure 3D). Furthermore, Figure 5L and Figure 5P show that the hybridization reactions were specific for LEC1 RNA; no appreciable hybridization was observed within an early-stage seed of the lec1-1 null mutant. The pattern of LEC1 gene expression and the lec1 mutant phenotype suggest strongly that the LEC1 gene functions specifically during embryogenesis, including the earliest embryonic period.LEC1 Is Sufficient to Induce Embryonic PathwaysBecause
+ LEC1 appears to function as a specific regulator of embryo development,
+ we wanted to know whether ectopic expression of the LEC1 gene after embryogenesis affected vegetative development. We transferred a LEC1 cDNA clone under the control of the cauliflower mosaic virus 35S promoter into lec1-1 null mutants. The 35S promoter is active at a high level in most plant tissues (Odell et al. 1985).We obtained viable, desiccated T1 seeds from lec1-1 mutants transformed in planta with the 35S/LEC1 construct. This result showed that the transgene complemented the mutation because lec1 mutant seeds are intolerant of desiccation (Figure 1).
+ However, viable seed production was a relatively rare event; T1 seeds 
+germinated with an efficiency of only 0.006%, much less than the 1% 
+efficiency typically obtained from in planta transformation experiments.
+ Three-fourths of the seeds that germinated (33 of 43) produced T1 
+seedlings with abnormal terminal morphologies as shown in Figure 6B and Figure 6C. These 35S/LEC1 seedlings were smaller than wild-type seedlings (Figure 6A),
+ and they possessed cotyledons that remained fleshy and failed to 
+expand. Their roots often did not extend or extended only in sections 
+and sometimes greened. As shown in Figure 6C, /LEC1
+ seedlings sometimes produced a single pair of cotyledon-like organs on 
+the shoot apex at positions normally occupied by leaves. Unlike 
+wild-type leaves, these organs did not expand and did not possess 
+trichomes or mature stomatal structures (Figure 6C; data not shown). Morphologically, these organs closely resembled embryonic cotyledons.Figure 6. 35S/LEC1 Seedlings Have Embryonic Characteristics(A) Comparison of a wild-type seedling grown for 2 weeks (left) with two 35S/LEC1 seedlings (right) that are shown at a higher magnification in (B) and (C).(B) 35S/LEC1 seedling grown for 4 weeks that germinated but did not continue to develop.(C) Two-week-old 35S/LEC1 seedling that produced a pair of cotyledon-like organs at the shoot apex.(D–F) Darkfield micrographs of 35S/LEC1 seedling sections hybridized with probes for the following RNAs: (D) cruciferin A storage protein; (E) oleosin; (F) LEC1.c, cotyledon; cl, cotyledon-like organ; l, leaf; r, root. Bars, 1 mm for (A)–(C) and 0.1 mm for (D)–(F).View thumbnail imagesView high quality image (253K)Ten of the T1 35S/LEC1
+ seedlings produced plants that grew vegetatively. One plant was male 
+sterile and did not produce progeny. Seven other plants flowered and 
+produced T2 progeny that all displayed the Lec1− phenotype though PCR amplification experiments confirmed the presence of the 35S/LEC1 transgene (data not shown). This result suggested that the 35S/LEC1 gene was initially active in developing T1 seeds to complement the lec1 mutation but that the gene became inactive after germination. Others have observed transgene silencing in plants ( 
+                  [25] and [45]).
+ Two of the ten plants that grew vegetatively were exceptional in that 
+they produced progeny with variable phenotypes. Only 25% of total 
+desiccated seed from one plant, 20-3, was able to germinate, and all 
+seedlings initially recapitulated the embryo-like seedling phenotypes 
+shown in Figure 6B and Figure 6C.
+ All T2 progeny from the second, independently derived line, 21-4, also 
+exhibited the embryo-like seedling phenotypes shown in Figure 6B and Figure 6C. Thus, the ability of 35S/LEC1 plants to produce seedlings with an embryonic morphology was heritable to the T2 generation. T2 35S/LEC1 plants that were fertile only produced progeny with a Lec1− phenotype.Because the 35S/LEC1
+ seedlings had embryonic morphological characteristics, we asked whether
+ they express genes normally active only in developing seeds. Figure 6D shows that cruciferin A storage protein RNA accumulated throughout 35S/LEC1
+ T2 seedlings displaying embryonic characteristics, including the 
+cotyledon-like organs at the position of leaves. Similar results were 
+obtained in experiments with independently derived T1 embryo-like 
+seedlings. We also showed that other embryo-specific RNAs encoding 
+oleosin, an oil body protein (Figure 6E), and two 2S storage proteins (data not shown) accumulated similarly in these embryo-like seedlings. We confirmed that LEC1 RNA accumulated in these 35S/LEC1 seedlings (Figure 6F) but not in wild-type seedlings (data not shown; Figure 3C). Thus, 35S/LEC1 seedlings displaying an embryo-like phenotype accumulated embryo-specific RNAs. Together, these results suggest that ectopic LEC1 gene expression induces embryonic programs in vegetative cells.Of the T2 35S/LEC1 seedlings that displayed embryonic characteristics (Figure 6B and Figure 6C),
+ most of the progeny from one line, 21-4, and approximately 10% from the
+ second line, 20-3, continued to grow vegetatively, unlike the T1 
+seedlings that were arrested developmentally. These T2 plants displayed 
+morphological abnormalities ranging from plants shown in Figure 7A
+ with multiple embryonic cotyledon-like organs to plants with small, 
+dark green abnormally shaped leaves that often produced callus-like 
+cells. Immunochemical analysis showed that these plants accumulated 
+cruciferin storage protein (data not shown), suggesting that these 
+vegetatively growing plants expressed embryonic programs.Figure 7. Embryo-like Structures on Transgenic Plants Ectopically Expressing the LEC1 Gene(A) 35S/LEC1 seedling that grew vegetatively and produced multiple cotyledon-like organs.(B) Embryo-like structures on the leaf of a 35S/LEC1 plant that grew vegetatively.(C) Axes of embryo-like structures that “germinated” to produce roots.(D and E) SEM analysis of embryo-like structures. Structures resemble fused cotyledon-stage embryos with multiple cotyledons.(F) SEM of wild-type cotyledon-stage embryo.a, axis; c, cotyledon; l, leaf; r, root. Bars, 1 mm (A and C), 0.5 mm (B), 0.1 mm (D and E), and 0.05 mm (F).View thumbnail imagesView high quality image (256K)A striking phenotype of the T2 progeny is shown in Figure 7B. We discovered embryo-like structures on the leaves of three progeny plants from the two independently derived 35S/LEC1 lines. As shown in Figure 7D, these structures resembled fused wild-type cotyledon-stage embryos (Figure 7F).
+ Multiple embryonic cotyledon-like organs that lacked trichomes and 
+mature stomata were attached to structures that resembled embryonic axes
+ with elongated cells typical of wild-type embryos (Figure 7E;
+ data not shown). Histological analyses suggested that, like wild-type 
+embryos, these embryo-like structures possessed an outer protoderm 
+layer, a central procambium layer, and ground tissue that consisted of 
+several distinct files of cells (data not shown). Similar to embryos, 
+the ground tissue cells of the ectopic embryos were densely cytoplasmic.
+ Figure 7C
+ shows roots that emerged from the axes tips, suggesting that these axes
+ share similar functions with wild-type embryos. Finally, in situ 
+hybridization experiments showed that embryo-specific RNAs encoding 
+cruciferin A and 2S-1 storage proteins accumulated in these embryo-like 
+structures but were not detected in the underlying leaf cells (data not 
+shown). We conclude that postembryonic expression of the LEC1 gene is sufficient to induce embryo formation in vegetative tissues of these two lines.DiscussionLEC1 Is a Transcriptional Activator HomologWe
+ have shown that the LEC1 polypeptide is homologous to the HAP3 subunit 
+of the CBF class of eukaryotic transcriptional activators that includes 
+NF-Y, CP1, and HAP2/3/4/5 (Johnson and McKnight 1989).
+ The sequence similarity between LEC1 and other HAP3 subunits is 
+restricted to the B domain, consistent with the finding that this domain
+ is conserved evolutionarily (Li et al. 1992).
+ Furthermore, amino acid residues of yeast and mammalian HAP3 subunits 
+required for DNA binding and for interactions with other CBF subunits 
+are conserved in LEC1 (Figure 4; 
+                  [55] and [44]).
+ Experiments demonstrating that yeast and mammalian CBF subunits can be 
+combined to form DNA-binding complexes indicate that this amino acid 
+sequence similarity underlies functional conservation (
+                  [6] and [43]).CBFs
+ are heteroligomeric transcription factors, but it is not known whether 
+the plant CBF is organized as its yeast counterpart into four 
+nonhomologous subunits, HAP2, 3, 4, and 5, or is similar to the trimeric
+ mammalian CBF (
+                  [24] and [27]). Oilseed rape, maize, and Arabidopsis
+ DNA sequences encoding HAP2, HAP3, and HAP5 homologs have been 
+identified, although the functional roles of the plant proteins have not
+ been established ( 
+                  [21], 
+                  [33] and [1]). Several distinct Arabidopsis
+ DNA sequences have been identified that correspond to each of these 
+subunits, including the LEC1/HAP3 subunit, implicating the existence of 
+gene families.Because LEC1 is a 
+component of a plant CBF, we predict that it regulates embryonic 
+processes by activating the transcription of specific genes. Mammalian 
+CBFs are thought to serve a general role in transcription by optimizing 
+promoter efficiency through its binding with CCAAT DNA sequences that 
+are found 50–100 bp upstream of many mammalian genes (Myers et al. 1986).
+ However, some mammalian CBFs have been shown to increase the 
+transcriptional activities of specific genes by their association with 
+other transcription factors (
+                  [54] and [10]).
+ The CBF containing LEC1 is unlikely to serve a general role in 
+transcription for several reasons. First, CBFs in other organisms 
+regulate specific gene sets. For example, yeast CBFs specifically 
+activate genes encoding mitochondrial proteins involved in respiration (
+                  [14], 
+                  [19], 
+                  [48] and [40]).
+ Second, CCAAT boxes are not typically found upstream of most plant 
+genes near position −80, and mutation of the CCAAT sequence within the 
+35S promoter does not affect promoter activity or footprint formation (Benfey and Chua 1990). Third, lec1
+ null mutations, although pleiotropic, do not abrogate the transcription
+ of many genes, including those encoding cruciferin A, oleosin, and late
+ embryogenesis abundant proteins (West et al. 1994). Thus, the Lec1−
+ phenotype most likely results from abnormal transcription of specific 
+genes regulated by the CBF containing LEC1. Finally, expression of the 
+35S/LEC1 gene in postembryonic plants induces embryonic 
+processes, indicating that specific gene sets required for embryo 
+development are activated by LEC1 (Figure 6 and Figure 7). We conclude that LEC1 is a specific transcriptional regulator of genes required for normal Arabidopsis embryo development.LEC1 Is a Central Regulator of EmbryogenesisA
+ key to define the precise role of LEC1 in embryo development is to 
+understand whether LEC1 functions throughout embryogenesis or 
+specifically during either the morphogenesis phase or the maturation 
+phase. We and others speculated previously that LEC1 might function 
+solely during morphogenesis as a homeotic regulator of cotyledon 
+identity (
+                  [28] and [53]). Cotyledons and leaves are homologous organs. Incomplete specification of organ identity resulting from the lec1 mutation could cause cotyledons to acquire leaf characteristics and defects in seed maturation (Figure 1). However, LEC1 RNA is distributed throughout the embryo and in the endosperm but not exclusively in developing cotyledons (Figure 5). These results suggest that LEC1
+ does not act solely in the specification of cotyledon identity. An 
+alternative hypothesis is that LEC1 might act exclusively to regulate 
+the maturation phase of embryogenesis ( 
+                  [53] and [39]). Because germination is actively suppressed during embryo development (Harada 1997),
+ defects in maturation processes are expected to cause premature 
+activation of postgerminative development. Thus, the phenotype of lec1 mutants (Figure 1) could result from the heterochronic effects of the mutation. Our finding that LEC1 is expressed early in embryogenesis and is required for early embryo development (Figure 2 and Figure 3)
+ indicates that LEC1 functions before the onset of maturation and, 
+therefore, cannot be involved only in regulating this late embryonic 
+phase. The simplest interpretation is that LEC1 plays a more central 
+role in embryo development.The ability of LEC1
+ to induce embryonic programs in vegetative cells establishes the gene 
+as a critical regulator of embryogenesis. The seed maturation phase of 
+embryogenesis is induced, at least in part, in seedlings expressing the 
+gene as indicated by the activation of cruciferin A and 2S storage 
+protein genes and the oleosin gene (Figure 6). The failure of 35S/LEC1 seedlings with embryonic characteristics (Figure 6)
+ to continue vegetative development is also consistent with induction of
+ maturation because morphogenesis is normally arrested during the seed 
+maturation phase (Harada 1997). Because the LEC1
+ gene is not normally expressed postembryonically, this result suggests 
+that LEC1 may activate genes that suppress vegetative development. Our 
+previous finding that postgerminative development is activated 
+prematurely in lec1 mutant embryos is consistent with this intepretation (West et al. 1994).
+ Alternatively, LEC1 may interfere with interactions between 
+transcription factors in seedlings, creating a dominant-negative 
+mutation that disrupts vegetative development. The effect of LEC1 gene expression on postembryonic development may explain the low germination frequency of 35S/LEC1 T1 seeds and the rarity with which we recovered vegetative plants with embryonic structures. The 35S/LEC1 transgene must be active in the developing lec1 mutant seeds to permit the completion of embryo development, yet the activity of the LEC1 gene is antagonistic to vegetative development. Thus, continued overexpression of the 35S/LEC1
+ gene following germination is likely to inhibit vegetative development,
+ and silencing of the transgene probably produced plants with the Lec1− phenotype. Because transgene activity is highly variable in independent transformants ( 
+                  [25] and [45]),
+ only those rare transgenic plants producing LEC1 protein at a critical 
+level may be competent to produce vegetative plants with embryonic 
+structures. Together, these results indicate that LEC1 is sufficient to 
+induce many aspects of the maturation phase of embryogenesis in 
+vegetative cells.The formation of embryo-like structures on the leaves of 35S/LEC1 plants (Figure 7)
+ strongly suggests that LEC1 is sufficient to induce the morphogenesis 
+phase of embryo development, although it remains to be determined how 
+closely ectopic embryo formation follows zygotic embryogenesis. 
+Additional evidence that ectopic LEC1 gene expression induces 
+embryonic structures comes from preliminary experiments showing that 
+embryonic cotyledon-like structures form on seedlings ectopically 
+expressing the LEC1 gene from a different promoter (R. W. K. and J. J. H., unpublished results). Our findings that the lec1 mutation causes defects in suspensor morphology in early-stage embryos (Figure 2) and that the LEC1 gene is expressed at the earliest stages of embryo development (Figure 5) provide independent evidence of LEC1 function early in embryogenesis. This conclusion is also consistent with genetic analyses of lec1 lec2 double mutants. Although lec1 and lec2
+ mutants at their terminal stages resemble late-stage embryos, the 
+double mutant arrests with the morphology of an early torpedo-stage 
+embryo, suggesting a role for both genes in early embryogenesis (data 
+not shown; Meinke et al. 1994).The
+ ability of LEC1 to induce both the morphogenesis and maturation phases 
+of embryogenesis and to suppress vegetative development suggests its 
+fundamental role in regulating different aspects of embryogenesis. As 
+discussed above, other genes shown to be required for embryo development
+ do not function seed-specifically throughout embryogenesis. LEC1 is the only gene shown to be sufficient to induce embryo formation in vegetatively growing plants. For example, ABI3
+ has been implicated to play a critical role in controlling the late 
+seed maturation phase of embryogenesis. Transgenic plants containing a 35S/ABI3 gene express a subset of genes normally active during seed maturation when challenged with the hormone ABA (Parcy et al. 1994). Ectopic ABI3
+ gene expression does not cause visible defects in vegetative or 
+reproductive development in these transgenic plants, suggesting that 
+ABI3 is not sufficient to induce the maturation phase. This result 
+suggests that, unlike LEC1, the role of ABI3 is more limited to regulating gene sets expressed during seed maturation. Double mutant analyses indicating that LEC1 and ABI3 do not appear to act in series in the same genetic pathway are consistent with this interpretation (data not shown; Meinke et al. 1994). We note that it has recently been reported that embryonic programs are induced in vegetative root cells of the pickle mutant (Ogas et al. 1997).Considering that LEC1 can induce embryo development in vegetative cells, why is the Lec1− phenotype not more severe? Although lec1 mutant embryos are intolerant of desiccation, they continue to undergo many aspects of morphogenesis and seed maturation (see Figure 1). A clue comes from analyses of cruciferin A, oleosin, and 2S storage protein gene expression. These genes are expressed in 35S/LEC1 seedlings, yet they are also active in lec1 mutant embryos (Figure 6; West et al. 1994).
+ Thus, LEC1 is sufficient but not necessary for their expression, 
+implicating genetic redundancy. That is, another gene, possibly the 
+other LEC genes LEC2 and/or FUS3, may partially fulfill LEC1 function during embryogenesis.In
+ conclusion, we have shown that LEC1 is a transcription factor homolog 
+that is required early and late in embryo development and that it is 
+sufficient to induce embryonic programs in vegetative cells. Together, 
+our results suggest that LEC1 is a major embryonic regulator that 
+mediates the switch between embryo and vegetative development. LEC1's 
+role in inducing and maintaining embryogenesis while suppressing 
+vegetative development is likely to be critical for the establishment of
+ the seed habit of higher plants. Given this central role, the LEC1
+ gene and its protein will be important tools for the dissection of 
+higher plant embryogenesis. In particular, one key will be to identify 
+the downstream genes regulated by LEC1 and the protein(s) with which it 
+interacts in establishing the regulatory circuits controlling embryonic 
+development.Experimental ProceduresPlant Materiallec1-1, lec1-2, and lec2-1 mutants were derived from a population of Arabidopsis thaliana ecotype Wassilewskija (Ws-O) lines mutagenized with T-DNA insertions ( 
+                  [11] and [28]Meinke, 1992, 1994; West et al. 1994). abi3-3 and fus3-3 mutants and lec2-1 were provided by Peter McCourt (University of Toronto;  
+                  [32] and [18]) and by David Meinke (Oklahoma State University). Plants were grown as described previously (West et al. 1994).
+ Digenic mutants were constructed and their genotypes were verified 
+through backcrosses with each parental line as described previously (West et al. 1994).Isolation and Sequence Analysis of Genomic and cDNA ClonesGenomic DNA libraries from homozygous lec1-1 and lec1-2
+ mutants were constructed in the λGEM 11 vector (Promega). A wild-type 
+Ws-O genomic library was provided by Ken Feldmann (University of 
+Arizona). Two cDNA libraries were prepared according to manufacturers' 
+specifications in the λZAPII bacteriophage vector (Stratagene) from 
+wild-type siliques containing globular- to heart-stage embryos and 
+heart- to young torpedo-stage embryos.Clones were isolated from the lec1-2
+ genomic library using probes for the right and left T-DNA borders. A 
+7.1 kb XhoI fragment containing the plant DNA/T-DNA junction was 
+isolated and cloned into the Bluescript-KS plasmid (Stratagene) to 
+create pML7. A 4.2 kb EcoR I fragment containing plant DNA from pML7 was used to isolate genomic clones from a wild-type Ws-0 library. A 7.4 kb EcoR
+ I fragment present in several overlapping clones was inserted into the 
+Bluescript-KS plasmid and used to identify corresponding clones from a lec1-1 genomic library and from the wild-type silique cDNA libraries. Eighteen LEC1 cDNA clones were isolated and entirely or partially sequenced; all sequences were identical to corresponding regions of the LEC1
+ gene. Additional details of the cloning experiments are available upon 
+request. Nucleotide sequencing was done using the automated dideoxy 
+chain termination method on an ABI Prism 377 DNA Sequencer. Database 
+searches were performed at the National Center for Biotechnology 
+Information by using the BLAST network service. Alignment of protein 
+sequences was done using PILEUP program (Genetics Computer Group, 
+Madison, WI).Production of Transgenic lec1 MutantsA 3.4 kb BstYI fragment containing the wild-type LEC1 gene was inserted into the plant transformation vector, pBIB-Hyg (Becker 1990). A full-length LEC1
+ cDNA was fused in the proper transcriptional orientation with the 35S 
+promoter and the octopine synthase terminator into the plasmid, pART7 (Gleave 1992).
+ The entire fusion gene was transferred into the plant transformation 
+vector BJ49. Constructs were transferred into homozygous lec1-1 and/or lec1-2 mutants using the in planta transformation procedure with Agrobacterium tumefaciens strain GV3101 (Bechtold et al. 1993). Genotypes of the complemented plants were verified in DNA amplification experiments. T2 plants containing the 35S/LEC1 transgene were either germinated from dry seeds or rescued from siliques and grown on basal media (Olsen et al. 1993).DNA and RNA Hybridization AnalysesNucleic acid isolation and gel blot hybridization experiments were done as described previously (West et al. 1994). In situ hybridization experiments were performed as described previously (Dietrich et al. 1989).Scanning Electron MicroscopySEM analysis was performed as described previously (Yadegari et al. 1994).AcknowledgementsWe
+ thank Jay Danao, Minsung Kim, and Sara Wortley for their help with 
+experiments, Bart Janssen for vectors, K.C. McFarland of the NSF-Plant 
+Cell Biology Training Facility for help in generating figures, and 
+Neelima Sinha for comments about the manuscript. T. L. was supported by a
+ postdoctoral fellowship from the Human Frontiers Science Program, M. O.
+ was supported by postdoctoral fellowships for research abroad from the 
+Japanese Society for the Promotion of Science and from Kenzo Nakamura, 
+National Institute of Basic Biology, and K. Y. was supported in part by a
+ postdoctoral fellowship from the Japanese Society for the Promotion of 
+Science. This work was supported by a grant from the Department of 
+Energy.
+            prs.rt("ref_start");
+            References1D Albani, L.S RobertCloning and characterization of a Brassica napus gene encoding a homologue of the B subunit of a heteromeric CCAAT-binding factorGene, 167 (1995), pp. 209–2132H Baumlein, S Misera, H Luerben, K Kolle, C Horstmann, U Wobus, A.J MullerThe FUS3 gene of Arabidopsis thaliana is a regulator of gene expression during late embryogenesisPlant J., 6 (1994), pp. 379–3873N Bechtold, J Ellis, G PelletierIn planta Agrobacterium mediated gene transfer by infiltration of adult Arabidopsis thaliana plantsC.R. Acad. Sci. Paris, 316 (1993), pp. 1194–11994D BeckerBinary vectors which allow the exchange of plant selectable markers and reporter genesNucleic Acids Res., 18 (1990), p. 2035P.N Benfey, N.-H ChuaThe cauliflower mosaic virus 35S promotercombinatorial regulation of transcription in plantsScience, 250 (1990), pp. 959–9666L.A Chodosh, J Olesen, S Hahn, A.S Baldwin, L Guarente, P.A SharpA yeast and a human CCAAT-binding protein have heterologous subunits that are functionally interchangeableCell, 53 (1988), pp. 25–367M Devic, S Albert, M DelsenyInduction and expression of seed-specific promoters in Arabidopsis embryo-defective mutantsPlant J., 9 (1996), pp. 205–2158R.A Dietrich, D.J Maslyar, R.C Heupel, J.J HaradaSpatial patterns of gene expression in Brassica napus
+ seedlingsidentification of a cortex-specific gene and localization of 
+messenger RNA encoding isocitrate lyase and a polypeptide homologous to 
+proteinasesPlant Cell, 1 (1989), pp. 73–809L Di Laurenzio, J Wysocka-Diller, J.E Malamy, L Pysh, Y Helariutta, G Freshour, M.G Hahn, K.A Feldmann, P.N BenfeyThe SCARECROW gene regulates an asymmetric cell division that is essential for generating the radial organization of the Arabidopsis rootCell, 86 (1996), pp. 423–43310J Ericsson, S.M Jackson, P.A EdwardsSynergistic
+ binding of sterol regulatory element-binding protein and NF-Y to the 
+farnesyl diphosphate synthase promoter is critical for sterol-regulated 
+expression of the geneJ. Biol. Chem., 271 (1996), pp. 24359–2436411K.A Feldmann, M.D MarksAgrobacterium-mediated transformation of germinating seeds of Arabidopsis thalianaa non-tissue culture approachMol. Gen. Genet., 208 (1987), pp. 1–912A.P GleaveA
+ versatile binary vector system with a T-DNA organisational structure 
+conducive to efficient integration of cloned DNA into the plant genomePlant Mol. Biol., 20 (1992), pp. 1203–120713R.B Goldberg, G De Paiva, R YadegariPlant embryogenesiszygote to seedScience, 266 (1994), pp. 605–61414L Guarente, B Lalonde, P Gifford, E AlaniDistinctly regulated tandem upstream activation sites mediate catabolite repression of the CYC1 genes of S. cerevisiaeCell, 32 (1984), pp. 317–32115S Hahn, J Pinkham, R Wei, R Miller, L GuarenteThe HAP3 regulatory locus of Saccharomyces cerevisiae encodes divergent overlapping transcriptsMol. Cell. Biol., 8 (1988), pp. 655–66316Harada,
+ J.J. (1997). Seed maturation and control of germination. In Advances in
+ Cellular and Molecular Biology of Plants, Volume 4, Cellular 
+and Molecular Biology of Seed Development, B.A. Larkins and I.K. Vasi, 
+eds. (Dordrecht: Kluwer Academic Publishers), pp. 545–592.17P.F Johnson, SL McKnightEukaryotic transcriptional regulatory proteinsAnnu. Rev. Biochem., 58 (1989), pp. 799–84018K Keith, M Kraml, N.G Dengler, P McCourtfusca3a heterochronic mutation affecting late embryo development in ArabidopsisPlant Cell, 6 (1994), pp. 589–60019T Keng, L GuarenteConstitutive expression of the yeast HEM1 gene is actually a composite of activation and repressionProc. Natl. Acad. Sci. USA, 84 (1987), pp. 9113–911720M Koornneef, G Reuling, C.M KarssenThe isolation and characterization of abscisic acid-insensitive mutants of Arabidopsis thalianaPhysiol. Plant, 61 (1984), pp. 377–38321X.-Y Li, R Mantvani, R Hooft Van Huijsduijnen, I Andre, C Benoist, D MathisEvolutionary variation of the CCAAT-binding transcription factor NF-YNucleic Acids Res., 20 (1992), pp. 1087–109122J.A Long, E.I Moan, J.I Medford, M.K BartonA member of the KNOTTED class of homeodomain proteins encoded by the STM gene of ArabidopsisNature, 379 (1996), pp. 66–6923W Lukowitz, U Mayer, G JuergensCytokinesis in the Arabidopsis embryo involves the syntaxin-related KNOLLE gene productCell, 84 (1996), pp. 61–7124S.N Maity, S Sinha, E.C Ruteshouser, B De CrombruggheThree different polypeptides are necessary for DNA binding of the mammalian heteromeric CCAAT binding factorJ. Biol. Chem., 267 (1992), pp. 16574–1658025M.A Matzke, A.J.M MatzkeHow and why do plants inactivate homologous (trans)genes?Plant Physiol., 107 (1995), pp. 679–68526U Mayer, R.A.T Torres Ruiz, T Berleth, S Misera, G JurgensMutations affecting body organization in the Arabidopsis embryoNature, 353 (1991), pp. 402–40727D.S McNabb, Y Xing, L GuarenteCloning of yeast HAP5a novel subunit of a heterotrimeric complex required for CCAAT bindingGenes Dev., 9 (1994), pp. 47–5828D.W MeinkeA homoeotic mutant of Arabidopsis thaliana with leafy cotyledonsScience, 258 (1992), pp. 1647–165029D.W Meinke, L.H Franzmann, T.C Nickle, E.C Yeungleafy cotyledon mutants of ArabidopsisPlant Cell, 6 (1994), pp. 1049–106430W Mulder, I.H Scholten, R.W de Boer, L.A GrivellSequence of the HAP3 transcription factor of Kluyveromyces lactis predicts the presence of a novel 4-cysteine zinc-finger motifMol. Gen. Genet., 245 (1994), pp. 96–10631R.M Myers, K Tilly, T ManiatisFine structure genetic analysis of a beta-globin promoterScience, 232 (1986), pp. 613–61832E Nambara, S Naito, P McCourtA mutant of Arabidopsis which is defective in seed development and storage protein accumulation is a new abi3 allelePlant J., 2 (1992), pp. 435–44133T Newman, F.J De Bruijn, P Green, K Keegstra, H Kende, L McIntosh, J Ohlrogge, N Raikhel, S Somerville, M Thomashow et al.Genes galorea summary of methods for accessing results from large-scale partial sequencing of anonymous Arabidopsis cDNA clonesPlant Physiol., 106 (1994), pp. 1241–125534J.T Odell, F Nagy, N.-H ChuaIdentification of DNA sequences required for activity of cauliflower mosaic virus 35S promoterNature, 313 (1985), pp. 810–81235J Ogas, J.-C Cheng, Z.R Sung, C SomervilleCellular differentiation regulated by gibberellin in the Arabidopsis thaliana pickle mutantScience, 277 (1997), pp. 91–9436L.J Olsen, W.F Ettinger, B Damsz, K.L Matsudaira, M.A Webb, J.J HaradaTargeting of glyoxysomal proteins to peroxisomes in leaves and roots of a higher plantPlant Cell, 5 (1993), pp. 941–95237P Papagiannopoulos, A Andrianopoulos, J.A Sharp, M.A Davis, M.J HynesThe hapC gene of Aspergillus nidulans is involved in the expression of CCAAT-containing promotersMol. Gen. Genet., 251 (1996), pp. 412–42138F Parcy, C Valon, M Raynal, P Gaubier-Comella, M Delseny, J GiraudatRegulation of gene expression programs during Arabidopsis seed developmentroles of the ABI3 locus and of endogenous abscisic acidPlant Cell, 6 (1994), pp. 1567–158239F Parcy, C Valon, A Kohara, S Misera, J GiraudatThe ABSCISIC ACID-INSENSITIVE3, FUSCA3, and LEAFY COTYLEDON1 loci act in concert to control multiple aspects of Arabidopsis seed developmentPlant Cell, 9 (1997), pp. 1265–127740J.C Schneider, L GuarenteRegulation of the yeast CYT1 gene encoding cytochrome c1 by HAP1 and HAP2/3/4Mol. Cell Biol., 11 (1991), pp. 4934–494241B.W Schwartz, E.C Yeung, D.W MeinkeDisruption of morphogenesis and transformation of the suspensor in abnormal suspensor mutants of ArabidopsisDevelopment, 120 (1994), pp. 3235–324542D.E Shevell, W.-M Leu, C.S Gillmor, G Xia, K.A Feldmann, N.-H ChuaEMB30
+ is essential for normal cell division, cell expansion, and cell 
+adhesion in arabidopsis and encodes a protein that has similarity to 
+Sec7Cell, 77 (1994), pp. 1051–106243S Sinha, S.N Maity, J Lu, B de CrombruggheRecombinant
+ rat CBF-C, the third subunit of CBF/NFY, allows formation of a 
+protein-DNA complex with CBF-A and CBF-B and with yeast HAP2 and HAP3Proc. Natl. Acad. Sci. USA, 92 (1995), pp. 1624–162844S Sinha, I.S Kim, K.-Y Sohn, B de Crombrugghe, S.N MaityThree
+ classes of mutations in the A subunit of the CCAAT-binding factor CBF 
+delineate functional domains involved in the three-step assembly of the 
+CBF-DNA complexMol. Cell. Biol., 16 (1996), pp. 328–33745M Stam, J.N.M Mol, J.M KoosterThe silence of genes in transgenic plantsAnn. Bot., 79 (1997), pp. 3–1246T.A SteevesThe evolution and biological significance of seedsCan. J. Bot., 61 (1983), pp. 3550–356047T.A Steeves, I.M SussexPatterns in Plant Development, Second EditionCambridge University Press, Cambridge (1989)48C.E Trueblood, R.M Wright, R.O PoytonDifferential regulation of the two genes encoding Saccharomyces cervisiae cytochrome oxidase subunit V by heme and HAP2 and REO1 genesMol. Cell Biol., 8 (1988), pp. 4537–474049R Tsugeki, E.Z Kochieva, N.V FedoroffA transposon insertion in the Arabidopsis SSR16 gene causes an embryo-defective lethal mutationPlant J., 10 (1996), pp. 479–48950T Vuorio, S.N Maity, B de CrombrugghePurification and molecular cloning of the “A” chain of a ratJ. Biol. Chem., 265 (1990), pp. 22480–2248651Walbot,
+ V. (1978). Control mechanisms for plant embryogeny. In Dormancy and 
+Developmental Arrest, M.E. Clutter, ed. (New York: Academic Press, 
+Inc.), pp. 113–166.52M.A West, J.J HaradaEmbryogenesis in higher plantsan overviewPlant Cell, 5 (1993), pp. 1361–136953M.A.L West, K.L Matsudaira Yee, J Danao, J.L Zimmerman, R.L Fischer, R.B Goldberg, J.J HaradaLEAFY COTYLEDON1 is an essential regulator of late embryogenesis and cotyledon identity in ArabidopsisPlant Cell, 6 (1994), pp. 1731–174554K.L Wright, B.J Vilen, Y Itoh-Lindstrom, T.L Moore, G Li, M Criscitiello, P Cogswell, J.B Clarke, J.P.-Y TingCCAAT box binding protein NF-Y facilitates in vivo recruitment of upstream DNA binding transcription factorsEMBO J., 13 (1994), pp. 4042–405355Y Xing, J.D Fikes, L GuarenteMutations in yeast HAP2/HAP3 define a hybrid CCAAT box binding domainEMBO J., 12 (1993), pp. 4647–465556R Yadegari, G.R De Paiva, T Laux, A.M Koltunow, N Apuya, J.L Zimmerman, R.L Fischer, J.J Harada, R.B GoldbergCell differentiation and morphogenesis are uncoupled in Arabidopsis raspberry embryosPlant Cell, 6 (1994), pp. 1713–1729Further readingThe accession number for the sequence reported in this paper is AF036684.Correspondence: John J. Harada, 916 752 0673 (phone), 916 752 5410 (fax)1To whom correspondence should be addressed.2Present address: Department of Developmental Biology, National Institute for Basic Biology, Myodaijicho, Okazaki, 444 Japan.3Present address: Department of Vegetable Crops, University of California, Davis, California 95616.4Present address: Department of Genetics, University of Washington, Seattle, Washington 98195.Copyright © 1998 Cell Press.  All rights reserved.
+      prs.rt('data_end');
+  

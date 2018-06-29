@@ -1,0 +1,82 @@
+XML CONFIGURATION:__________________________________
+<?xml version="1.0" encoding="utf-8" ?>
+<experiment>
+	<name>Arabido first blood</name>
+		<inputPath>
+		arabido/tmp/all/
+		</inputPath>
+	
+<!-- 	<trainPath> -->
+<!-- 		arabido/tmp/minitrain/ -->
+<!-- 	</trainPath> -->
+<!-- 	<testPath> -->
+<!-- 		arabido/tmp/minitest/ -->
+<!-- 	</testPath> -->
+	<outputPath>arabido/tmp/miniout</outputPath>
+	<outputFormat>AlvisNLP</outputFormat>
+	<writeObjects>false</writeObjects>
+<!-- 	<outputFormatChallenge>LLL</outputFormatChallenge> -->
+	<type>AlvisNLP</type>
+	<verbose>3</verbose>
+	<action>CrossValidation</action>
+	<evaluation>Weka</evaluation>
+	<schemaJSON>arabido/schema_arabido.json</schemaJSON>
+	<nonDirectional>Comparison, Interacts_With</nonDirectional>
+<Representation>EntireSentence</Representation>
+	<SimilarityFunction>
+		<functionName>Dummy</functionName>
+	</SimilarityFunction>
+	<Weka>
+		<Algorithm>Advanced</Algorithm>
+		<Classifier>dummy</Classifier>
+		<Options>-c 0.0 </Options>
+	</Weka>
+</experiment>
+_______________________________
+END XML CONFIGURATION_______________________________
+PROGRAM OUTPUT___________________________
+Input Parsed, calculating representation
+Mon Apr 13 20:22:27 CEST 2015 Calculating representation as Shortest Paths on the Dependency Graph [Target Candidates]
+labeled: found 121674 possible couples and 121674 connected candidates among them.
+Mon Apr 13 20:22:30 CEST 2015 >> Calculating distances for the subset dataset (This can take time).
+Mon Apr 13 20:22:34 CEST 2015 Creating the Kernel
+Mon Apr 13 20:22:34 CEST 2015 Building the classifier
+Mon Apr 13 20:22:35 CEST 2015 done!
+Mon Apr 13 20:22:35 CEST 2015 Using classifier to predict
+Wrote trained model to: /home/dvalsamou/workspace/re-kernels/data/arabido/tmp/miniout/weka.model
+Mon Apr 13 20:22:37 CEST 2015 done!
+=== Detailed Accuracy By Class ===
+
+               TP Rate   FP Rate   Precision   Recall  F-Measure   ROC Area  Class
+                 1         0.004      0.018     1         0.035      0.998    Encodes
+                 1         0.168      0.016     1         0.032      0.916    Comparison
+                 1         0.132      0.008     1         0.016      0.934    Regulates_Activity_Of
+                 1         0.131      0         1         0          0.935    Regulates_Accumulation_Of
+                 1         0.039      0.02      1         0.039      0.981    Regulates_Expression_Of
+                 1         0.17       0         1         0.001      0.915    Interacts_With
+                 1         0.17       0.002     1         0.003      0.915    Belongs_To
+                 1         0.045      0.003     1         0.006      0.977    Binds_To
+                 1         0.134      0.01      1         0.02       0.933    Is_Found_In_or_During
+                 0         0          0         0         0          0.5      none
+Weighted Avg.    0.007     0.001      0         0.007     0          0.503
+
+Labeled examples distribution
+Encodes: 10
+Comparison: 340
+Regulates_Activity_Of: 132
+Regulates_Accumulation_Of: 2
+Regulates_Expression_Of: 95
+Interacts_With: 8
+Belongs_To: 35
+Binds_To: 18
+Is_Found_In_or_During: 164
+Total: 804
+_______________________
+Weighted Average Positive Only Measures
+Precision: 0.013
+Recall:    1.000
+F-Measure: 0.026
+_______________________
+_______________________________
+END PROGRAM OUTPUT_______________________________
+Wrote files to: /home/dvalsamou/workspace/re-kernels/data/arabido/tmp/miniout

@@ -1,0 +1,3182 @@
+
+  
+    Genes directly regulated by LEAFY COTYLEDON2 provide insight into the control of embryo maturation and somatic embryogenesis
+               
+                  
+                  
+                        Siobhan A. Braybrook
+                        *
+                        ,
+                        
+                           †, 
+                     
+                     
+                        Sandra L. Stone
+                        *, 
+                     
+                     
+                        Soomin Park
+                        *, 
+                     
+                     
+                        Anhthu Q. Bui
+                        
+                           ‡, 
+                     
+                     
+                        Brandon H. Le
+                        
+                           ‡, 
+                     
+                     
+                        Robert L. Fischer
+                        
+                           §, 
+                     
+                     
+                        Robert B. Goldberg
+                        
+                           ‡
+                        ,
+                        
+                           ¶,  and 
+                     
+                     
+                        John J. Harada
+                        *
+                        ,
+                        
+                           †
+                        ,
+                        
+                           ∥
+                        
+                     
+                  
+                        
+                        
+                        *Section of Plant Biology, College of Biological Sciences, University of California, Davis, CA 95616; 
+                        
+                     
+                     
+                        
+                        
+                        
+                           †Graduate Program in Plant Biology and 
+                        
+                        
+                     
+                     
+                        
+                        
+                        
+                           ‡Department of Molecular, Cell, and Developmental Biology, University of California, Los Angeles, CA 90024; and 
+                        
+                        
+                     
+                     
+                        
+                        
+                        
+                           §Department of Plant and Microbial Biology, University of California, Berkeley, CA 94720
+                        
+                        
+                     
+                  
+                        
+                        Contributed by Robert B. Goldberg, December 30, 2005
+                        
+                     
+                  
+               
+                  
+                      Next Section
+                  
+                  Abstract
+                  
+                  The B3 domain protein LEAFY COTYLEDON2 (LEC2) is required for several aspects of embryogenesis, including the maturation phase,
+                     and is sufficient to induce somatic embryo development in vegetative cells. Here, we demonstrate that LEC2 directly controls
+                     a transcriptional program involved in the maturation phase of seed development. Induction of LEC2 activity in seedlings causes
+                     rapid accumulation of RNAs normally present primarily during the maturation phase. Several RNAs encode proteins with known
+                     roles in maturation processes, including seed-storage and lipid-body proteins. Clustering analyses identified other LEC2-induced
+                     RNAs not previously shown to be involved in the maturation phase. We show further that genes encoding these maturation RNAs
+                     all possess in their 5′ flanking regions RY motifs, DNA elements bound by other closely related B3 domain transcription factors.
+                     Our finding that recombinant LEC2 specifically binds RY motifs from the 5′ flanking regions of LEC2-induced genes provides
+                     strong evidence that these genes represent transcriptional targets of LEC2. Although these LEC2-induced RNAs accumulate primarily
+                     during the maturation phase, we show that a subset, including AGL15 and IAA30, accumulate in seeds containing zygotes. We discuss how identification of LEC2 target genes provides a potential link between
+                     the roles of LEC2 in the maturation phase and in the induction of somatic embryogenesis.
+                  
+                  
+                  Arabidopsis
+                     B3 domain
+                  
+               Embryogenesis in higher plants can be divided conceptually into two distinct phases. Early in embryogenesis, during the morphogenesis
+                  phase, the basic body plan of the plant is established with regional specification of apical–basal and radial domains from
+                  which morphological structures derive, fixation of polarity from specification of the shoot-root axis, and formation of embryonic
+                  tissue and organ systems (1–3). The morphogenesis phase is followed temporally by the maturation phase, although the two phases can overlap (4, 5). During the maturation phase, embryo cell-division rates decline markedly, embryo cells acquire the ability to withstand
+                  desiccation, and embryo cell growth occurs, with the accumulation of storage reserves that comprise lipids and proteins in
+                  Arabidopsis (6, 7). At the end of the maturation phase, the embryo becomes quiescent metabolically as the seed desiccates.
+               
+               The maturation phase can be viewed as an interruption of an ancestral life cycle, as occurs in lower plants, in which there
+                  are no periods of maturation or dormancy separating the end of embryogenesis and the beginning of postembryonic development
+                  (4). Evolution of this unique mode of embryogenesis has enabled higher plants to make seeds. The ability to make seeds has provided
+                  tremendous selective advantages that, in part, account for the success of the angiosperms (8, 9). Little is known at a mechanistic level about the processes by which the maturation phase has been integrated into the higher
+                  plant life cycle.
+               
+               LEAFY COTYLEDON2 (LEC2), along with ABA INSENSITIVE3 (ABI3), and FUSCA3 (FUS3), have been implicated to be major regulators
+                  of the maturation phase (reviewed in ref. 5). The LEC2 protein contains a DNA-binding B3 domain that is most closely related to that of FUS3 and ABI3 (10–12). The lec2 mutation causes localized defects in embryo filling, seed protein accumulation, and desiccation tolerance (12, 13). LEC2 expression is normally limited primarily to seed development, although LEC2 RNA may be present at very low levels at other stages of the life cycle (12). Ectopic expression of LEC2 causes accumulation of seed storage lipids and proteins in vegetative organs (ref. 14, and S.L.S., S. L. Paula, L. W. Kwong, J. E. Meuser, J. Pelletier, R.L.F., R.B.G., and J.J.H., unpublished work). The function
+                  of LEC2 is not limited to the maturation phase. The lec2 mutation causes defects during the morphogenesis phase, and ectopic LEC2 expression induces somatic embryo formation from vegetative cells (12, 13). Furthermore, the lec2 mutation severely compromises the ability of Arabidopsis explants to form somatic embryos (15). These observations suggest that LEC2 plays several roles during embryogenesis, indicating that it is a central regulator
+                  of embryo development.
+               
+               To gain insight into the role of LEC2 in embryogenesis, we have identified genes regulated by the LEC2 transcription factor.
+                  We show that a subset of genes activated by LEC2 is expressed predominantly during the maturation phase, and several have
+                  known roles in maturation processes. Several of these maturation genes are also expressed early in embryogenesis. We also
+                  show that all of these genes possess a common DNA motif that is bound by LEC2, providing strong evidence that these genes
+                  are regulated directly by LEC2. The identity of LEC2 target genes suggests a link between the ability of LEC2 to induce maturation
+                  processes and somatic embryogenesis.
+               
+               
+                  Previous SectionNext Section
+                  
+                  Results
+                  
+                  Ectopic LEC2 Activity Induces Changes in Seedling RNA Populations.
+                  To obtain insight into the specific role of LEC2 in embryogenesis and the mechanisms by which it causes developmental abnormalities
+                     when expressed ectopically (refs. 12 and 14, and S.L.S., S. L. Paula, L. W. Kwong, J. E. Meuser, J. Pelletier, R.L.F., R.B.G., and J.J.H., unpublished work), we identified
+                     genes regulated by the LEC2 transcription factor. An inducible form of LEC2 consisting of LEC2 fused with the steroid-binding
+                     domain of the glucocorticoid receptor (LEC2-GR) (16) was used. It has been shown that LEC2 activity could be induced by treating plants containing the 35S:LEC2-GR chimeric gene with the steroid-hormone analogue dexamethasone (Dex) (ref. 14, and S.L.S., S. L. Paula, L. W. Kwong, J. E. Meuser, J. Pelletier, R.L.F., R.B.G., and J.J.H., unpublished work).
+                  
+                  
+                  
+                  To identify genes regulated by LEC2, we isolated RNA from 35S:LEC2-GR seedlings grown for 8 days that were treated with Dex for either 1 or 4 hours (1-h or 4-h Dex). Nontransgenic 8-day seedlings
+                     do not contain LEC2 RNA detectable by RT-PCR, suggesting that the endogenous gene is not active at this stage (12). As negative controls, RNAs from 35S:LEC2-GR seedlings that were not treated with Dex (0-h Dex) and from nontransgenic plants treated with Dex for 4 h (NT Dex) were used.
+                     RNAs were hybridized with ATH1 GeneChip DNA microarrays that contain probes corresponding to ≈24,000 Arabidopsis genes. Specific RNAs were considered present in a population if they were judged by statistical algorithms (see Materials and Methods) to be present in both biological replicates of a treatment. RNAs were considered not present if they were absent or not
+                     present in both biological replicates. It is possible that some RNAs designated not present may be detectable in these treatments.
+                  
+                  
+                  The following criteria were used to define RNAs induced by LEC2 activity: (i) RNAs present only in the 1-h Dex treatment (and not in any other treatment); (ii) RNAs present only in the 4-h Dex treatment; and (iii) RNAs present in both the 1-h and 4-h Dex treatments but not in any other treatments. As listed in Table 2 and summarized
+                     in Fig. 5, which are published as supporting information on the PNAS web site, the levels of 718 RNAs were altered positively
+                     by induction of LEC2 activity by using these criteria. Because LEC2 gene expression is limited predominantly to embryogenesis
+                     (12), biologically relevant target genes are expected to be expressed in seeds. Therefore, we used results from a series of DNA
+                     microarray experiments with ATH1 GeneChips that profiled RNA populations during Arabidopsis seed development to search for LEC2-induced RNAs present in seeds containing zygotes 24 h after pollination, cotyledon-stage
+                     embryos 7–8 days after pollination (DAP), mature green-stage embryos 13–14 DAP, and postmature green-stage embryos 18 to 19
+                     DAP (www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc = GSE680, and B.H.L., unpublished results). Four hundred twenty LEC2-induced RNAs encoding proteins with divergent functions were
+                     present at one or more stages of seed development. We conclude that induction of LEC2 activity in seedlings activated the
+                     expression of a number of genes normally expressed during seed development.
+                  
+                  
+                  RNAs Involved in Maturation Processes Are Induced by Ectopic LEC2 Activity.
+                  We found that RNAs encoding seed proteins that include 2S and 12S storage proteins and oleosin, the major lipid-body protein,
+                     constituted a prominent group of LEC2-induced RNAs that accumulated in seeds. During seed development, seed protein RNAs accumulate,
+                     specifically during the maturation phase, indicating that LEC2 regulates genes involved in maturation processes.
+                  
+                  
+                  
+                  To identify other RNAs involved in processes that occur during the maturation phase, we used statistical clustering methods
+                     to group RNAs based on their profiles in the LEC2 induction experiments and in seeds containing zygotes, cotyledon-stage,
+                     mature green-stage, and postmature green-stage embryos. The latter two stages of seed development represent the maturation
+                     phase. We found that 88 RNAs were present in clusters containing seed protein RNAs using either K means (17), self-organizing maps (18) or hierarchical (19) clustering methods (see Materials and Methods), and 21 RNAs clustered together with all three methods. A summary of RNA accumulation patterns for a subset of these RNAs
+                     is shown in Fig. 1. We validated the DNA microarray results for 14 of 17 RNAs by using quantitative RT-PCR (qRT-PCR) as represented in Fig. 2 and detailed in Table 3, which is published as supporting information on the PNAS web site. qRT-PCR experiments also showed
+                     that most of these RNAs accumulated primarily, although not exclusively, during the maturation phase (Fig. 2 and Table 3).
+                  
+                  
+                  
+                     
+                     
+                        
+                           
+                        
+                        
+                           View larger version:
+                           
+                           
+                                 In this window
+                                 
+                              
+                              
+                                 In a new window
+                                 
+                              
+                           Download as PowerPoint Slide
+                           
+                        
+                     
+                     
+                     
+                        Fig. 1. 
+                        
+                        Profiles of RNAs induced by LEC2 that are prevalent during the maturation phase. Representation of mean normalized expression
+                           data for 14 LEC2-induced RNAs in LEC2 induction experiments (Left) and during seed development (Right). Gene names and AGI loci are listed. Color scale shows relative RNA levels, with gray representing RNAs not present. L2GR,
+                           seedlings treated with Dex for the indicated period; NT, nontransgenic seedlings; Zyg, seeds containing zygotes; Cot, embryos
+                           at the cotyledon stage; MatGr, mature green stage; Post MatGr, postmature green stage; Str, steroleosin; CysProt, cysteine
+                           proteinase; Expr Pr, expressed protein.
+                        
+                        
+                        
+                     
+                     
+                  
+                  
+                  
+                     
+                     
+                        
+                           
+                        
+                        
+                           View larger version:
+                           
+                           
+                                 In this window
+                                 
+                              
+                              
+                                 In a new window
+                                 
+                              
+                           Download as PowerPoint Slide
+                           
+                        
+                     
+                     
+                     
+                        Fig. 2. 
+                        
+                        qPCR data validate DNA microarray results and reveal an early role for several LEC2-induced RNAs. Normalized RNA levels from
+                           DNA microarray experiments (bars) and relative RNA levels from qPCR experiments (lines) in LEC2 induction experiments (A and B) and during seed development (C and D). (A and C) AGL15, IAA30, LOB40, and EEL. (B and D) AT2S2, AT2S3, AT2SL, and CRA1.
+                        
+                        
+                        
+                     
+                     
+                  
+                  
+                  In addition to the 2S and 12S storage proteins At2S1–4 and CRA1, respectively, and oleosin, this group also included RNAs
+                     encoding a 2S-like protein, steroleosin, and ENHANCED EM LEVEL (EEL), proteins known or postulated to play roles in maturation
+                     processes (20, 21). Detection of these RNAs indicated that the clustering methods were efficient in identifying LEC2-induced RNAs with roles
+                     in the maturation phase. In addition, we found that the other RNAs in this group encoding cysteine proteinase, LATERAL ORGAN
+                     BOUNDARY40 (LOB40), IAA30, AGAMOUS-LIKE15 (AGL15), and the expressed protein AT1G65090 exhibited similar profiles, suggesting
+                     that they may also have roles in the maturation phase. We conclude that LEC2 rapidly activates genes involved in maturation
+                     processes and designate this group as maturation RNAs.
+                  
+                  
+                  The sensitive qRT-PCR analyses showed that several of the maturation RNAs, AGL15, IAA30, EEL, and LOB40, were detected in
+                     seeds containing zygotes. This result opened up the possibility that these maturation RNAs also play roles at the earliest
+                     stage of embryogenesis. The potential significance of this result will be discussed.
+                  
+                  
+                  LEC2 Binds with RY Motifs Upstream of Genes Encoding LEC2-Induced Maturation RNAs.
+                  Genes encoding maturation RNAs are potential targets directly regulated by the LEC2 transcription factor. To address this
+                     possibility, we asked whether these genes share a common DNA sequence in their 5′ flanking regions that may serve as a LEC2-binding
+                     site. Two pattern-recognition algorithms, Multiple Em for Motif Elicitation (http://meme.sdsc.edu/meme/intro.html) (22) and MotifSampler (http://homes.esat.kuleuven.be/∼thijs/Work/MotifSampler.html) (23) identified a motif that was significantly enriched within 1 kb of the transcription start site in the 5′ flanking regions
+                     of the maturation genes. As diagrammed in Fig. 3, this CATGCA DNA sequence, the RY motif (24), was present at least once within 1 kb of the 5′ flanking regions of the 14 LEC2-induced maturation genes (see Table 4,
+                     which is published as supporting information on the PNAS web site), although no discernable positional or strand-specific
+                     pattern was observed. Thus, the RY motif is a candidate to serve as a LEC2-binding site required for the activation of LEC2
+                     target genes.
+                  
+                  
+                  
+                  
+                     
+                     
+                        
+                           
+                        
+                        
+                           View larger version:
+                           
+                           
+                                 In this window
+                                 
+                              
+                              
+                                 In a new window
+                                 
+                              
+                           Download as PowerPoint Slide
+                           
+                        
+                     
+                     
+                     
+                        Fig. 3. 
+                        
+                        
+                           LEC2 target genes contain upstream RY motifs. Representation of the location of RY motifs (CATGCA) present within 1 kb of the
+                           transcription start site of 14 LEC2 target genes. White boxes, RY motifs on sense strand; gray boxes, RY motifs on antisense
+                           strand with respect to the gene.
+                        
+                        
+                        
+                     
+                     
+                  
+                  
+                  DNA-binding studies provided additional evidence that LEC2 directly regulates maturation genes. Electrophoretic mobility-shift
+                     assays, shown in Fig. 4
+                     A, indicate that recombinant LEC2 fused with glutathione S-transferase bound the 2SRY oligonucleotide containing three closely spaced RY motifs from the 5′ flanking region of the At2S3 gene (lanes 2 and 9). Competition experiments showed that unlabeled 2SRY oligonucleotide (lanes 3 and 4) and an oligonucleotide
+                     containing a RY motif derived from the 5′ flanking region of the legumin storage protein gene (lanes 5 and 6) (25) competed for LEC2 binding. By contrast, a legumin oligonucleotide with a mutated RY motif (lane 7) and an oligonucleotide
+                     lacking a RY motif (lane 8) did not compete for binding. Together, these results show that LEC2 binds specifically with the
+                     RY motif.
+                  
+                  
+                  
+                     
+                     
+                        
+                           
+                        
+                        
+                           View larger version:
+                           
+                           
+                                 In this window
+                                 
+                              
+                              
+                                 In a new window
+                                 
+                              
+                           Download as PowerPoint Slide
+                           
+                        
+                     
+                     
+                     
+                        Fig. 4. 
+                        
+                        LEC2 binds specifically to RY motifs upstream of LEC2 target genes. (A) Binding of the 2SRY probe DNA oligonucleotides with recombinant LEC2 in the presence and absence of the indicated unlabeled
+                           competitor DNA oligonucleotides. LegRY contains a RY motif, whereas the RY motif in mLegRY is mutated. UAS2 does not contain
+                           a RY motif. Free, no added LEC2 protein; 0x, no added competitor. (B) DNA oligonucleotides containing RY motifs upstream of LEC2 target genes compete for binding of the 2SRY probe with LEC2.
+                           Competitors: EEL; Str, steroleosin; AGL, AGL15; CP, cysteine proteinase. Competition experiments were performed with 500-
+                           and 2,000-fold molar excesses of competitor, except for the 2SRY self-competition experiments in B in which 100-, 500-, and 2,000-fold molar excesses were used. Competition experiments with oligonucleotides lacking a RY
+                           motif were done with a 2,000-fold molar excess.
+                        
+                        
+                        
+                     
+                     
+                  
+                  
+                  We next investigated whether LEC2 binds RY motifs located in the 5′ flanking regions of other LEC2-induced maturation genes.
+                     Electrophoretic mobility-shift assays were performed in which oligonucleotides containing RY motifs from the upstream regions
+                     of representative maturation genes were used as competitors of LEC2 binding with the 2SRY probe. As shown in Fig. 4
+                     B, every oligonucleotide tested that contained a RY motif competed for binding of the 2SRY probe, indicating that they were
+                     bound by recombinant LEC2. Oligonucleotides containing three different RY motifs upstream of the cysteine proteinase gene
+                     competed to different extents (lanes 18–23). Differences in binding affinity were observed between RY motifs derived from
+                     different genes, suggesting that oligonucleotides containing RY motifs did not compete equally for 2SRY binding and that DNA
+                     sequences flanking the RY motif may influence binding. Our findings that induction of LEC2 activated genes expressed primarily
+                     during the maturation phase and that LEC2 bound specific sequences in the 5′ flanking regions of these genes strongly suggest
+                     that LEC2 transcriptionally regulates genes involved in maturation processes.
+                  
+                  
+                  LEC2 Activates a Gene Containing an Upstream RY Motif in Planta.
+                  The ability of LEC2 to bind to the RY motif in vitro prompted us to determine whether LEC2 could activate a promoter containing a RY motif in planta. We used biolistic bombardment
+                     of Brassica napus leaves (26) with 35S:LEC2 and a reporter gene encoding β-glucuronidase (GUS) fused with the 5′ flanking region from the B. napus napin gene that has three RY motifs (NAPIN:GUS) (27). A 35S:Luciferase gene was used to normalize for the efficiency of bombardment. As shown in Table 1, β-glucuronidase activity was not detected in leaves bombarded with the NAPIN:GUS gene alone. However, we did detect GUS activity in leaves cobombarded with NAPIN:GUS and 35S:LEC2, suggesting that LEC2 activates the NAPIN promoter. Together, these results suggest that the LEC2 transcription factor activates genes containing upstream RY motifs
+                     in plants.
+                  
+                  
+                  
+                  
+                     
+                     
+                        
+                        
+                           View this table:
+                           
+                           
+                                 In this window
+                                 
+                              
+                              
+                                 In a new window
+                                 
+                              
+                           
+                        
+                     
+                     
+                     
+                        Table 1. 
+                        
+                        LEC2 activates a gene with an upstream RY motif in planta
+                        
+                        
+                     
+                     
+                  
+                  
+               
+               
+                  Previous SectionNext Section
+                  
+                  Discussion
+                  
+                  LEC2 Directly Activates Genes Involved in Maturation Processes.
+                  We provide evidence that LEC2 confers maturation characteristics to vegetative plants by directly activating genes involved
+                     in maturation processes. We and others have shown that ectopic LEC2 activity causes postembryonic organs to assume characteristics
+                     of maturating embryos that include accumulation of seed storage reserves (refs. 12 and 14, and S.L.S., S. L. Paula, L. W. Kwong, J. E. Meuser, J. Pelletier, R.L.F., R.B.G., and J.J.H., unpublished work). Because
+                     LEC2 induces somatic embryogenesis (12), it was possible that the onset of maturation processes resulted from progression of somatic embryos through the morphogenesis
+                     and maturation phases of embryogenesis. However, our demonstration that induction of LEC2 causes rapid increases in the expression
+                     of many maturation genes indicates that LEC2 can activate maturation processes directly.
+                  
+                  
+                  
+                  Many LEC2-induced RNAs are directly involved in storage reserve accumulation, a hallmark of the maturation phase. These RNAs
+                     include 2S and 12S storage proteins, oleosin, and steroleosin, an abundant oil body protein that shares similarity with the
+                     anchoring hydrophobic domain of oleosin and contains a sterol-binding domain (21, 28). Another LEC2-induced maturation RNA encodes a regulator of reserve accumulation, EEL. This bZIP transcription factor works
+                     in cooperation with ABI3 and ABI5 to regulate expression of the Em gene that encodes an abundant seed protein (20). Clustering analysis also identified RNAs encoding AGL15, IAA30, LOB40, a cysteine proteinase, and the expressed protein
+                     AT1G65090. Although these RNAs have no known role in maturation and insertional mutations in the corresponding genes did not
+                     obviously affect seed development (ref. 29, and S.L.S. and J.J.H., unpublished results), their induction by LEC2 and accumulation patterns during seed development suggest
+                     their involvement in maturation processes. Thus, integrating RNA profiles from the LEC2 induction experiments with those during
+                     seed development has permitted discovery of genes with potential roles in the maturation phase.
+                  
+                  
+                  Our results suggest that these maturation genes are direct targets of the LEC2 transcription factor for several reasons. First,
+                     the levels of these RNAs increased within 1 or 4 h of induction of LEC2 activity (Fig. 1). Second, LEC2 binds with RY motifs that are located in the 5′ flanking regions of all induced maturation genes (Figs. 3 and 4). Third, LEC2 activates a reporter gene with a RY motif in its 5′ flanking region in planta (Table 1). Taken together, these studies identify a network of genes regulated transcriptionally by LEC2 that play roles in the maturation
+                     phase. Consistent with this conclusion, others have suggested that LEC2 activates the At2S3 and S3 oleosin genes transcriptionally (14, 30). Of the 718 genes encoding LEC2-induced RNAs and the 420 genes encoding LEC2-induced RNAs present during seed development
+                     (Table 2), 41% and 40%, respectively, contain RY motifs within 1 kb of their 5′ flanking regions. Thus, it is likely that
+                     many induced RNAs represent genes activated indirectly by LEC2. The protein synthesis inhibitor cycloheximide is often used
+                     to avoid identifying RNAs regulated indirectly by an induced transcription factor. However, we avoided this approach, because
+                     seed protein RNA levels were elevated in nontransgenic seedlings treated with cycloheximide (R.W. Kwong and J.J.H., unpublished
+                     results).
+                  
+                  
+                  The closely related B3 domain transcription factors LEC2, FUS3, and ABI3 have been implicated to play major roles in controlling
+                     gene expression during the maturation phase. Loss-of-function mutations in each gene cause defects in seed protein RNA accumulation,
+                     although to different degrees (12–14, 30–35). Ectopic expression of each gene causes accumulation of seed protein RNAs in vegetative organs, although ABA is required
+                     or enhances seed protein RNA accumulation in plants overexpressing ABI3 and FUS3, respectively (Fig. 1) (33, 36, 37). Our demonstration that LEC2 binds with the same DNA element bound by FUS3 and ABI3 (30, 38–40), the RY motif, provides a partial explanation for similarities in the gain-of-function phenotypes. Consistent with this
+                     observation, LEC2, ABI3, and FUS3 share identical or conserved amino acid residues at positions in the B3 domain implicated
+                     as being responsible for DNA-binding specificity based on the solution structure of the B3 domain protein RAV1 (41). Thus, all three transcription factors bind RY motifs through their B3 domains and activate maturation-specific genes, although
+                     we note that ABI3 activity is influenced by an additional domain that binds ABA response elements (40).
+                  
+                  
+                  Although the precise regulatory relationship between these transcription factors remains to be determined, our results indicate
+                     that LEC2 is sufficient to activate maturation genes in seedlings, a stage at which LEC2 is not normally expressed. If LEC2 works in concert with other factors to activate the maturation genes, these other factors
+                     must be present in seedlings. We note, however, that 298 RNAs up-regulated by LEC2 in induction experiments were not detected
+                     during seed development (Table 2). Some of these 298 RNAs may be present in seeds but were not detected in the microarray
+                     experiments because of the limited sensitivity of detection or because the RNAs are present at seed stages that were not analyzed.
+                     Alternatively, LEC2-mediated transcriptional activation of these genes may be inhibited specifically during seed development
+                     by other mechanisms, such as chromatin conformation or negatively acting transcription factors.
+                  
+                  
+                  Roles for LEC2 Target Genes in Somatic Embryogenesis.
+                  A striking effect of ectopic LEC2 expression is the induction of somatic embryo development (12). Although this study has focused largely on LEC2-induced RNAs that accumulate primarily during the maturation phase, it
+                     has provided clues about the mechanisms by which LEC2 induces somatic embryogenesis. Arabidopsis somatic embryos can be formed from maturation-phase zygotic embryos treated with the synthetic auxin, 2,4-D (42). Although auxin is generally required to induce somatic embryogenesis (43), most tissues, including morphogenesis-phase zygotic embryos, do not give rise to somatic embryos in response to auxin treatment
+                     (42). A simple interpretation of these observations is that auxin is the induction signal for somatic embryogenesis and that
+                     specific tissues, such as those from maturation-phase zygotic embryos, are competent to respond to this signal and enter embryonic
+                     pathways.
+                  
+                  
+                  
+                  Several LEC2-induced RNAs, but particularly AGL15 and IAA30, accumulate predominantly during the maturation phase and are also detected in seeds containing zygotes (Fig. 2; and Table 3), opening up the possibility that these RNAs play roles at the earliest stages of embryo development. Expression
+                     of AGL15 is correlated with embryogenesis in that AGL15 RNA is detected in all tissues tested undergoing zygotic or somatic embryogenesis (44–46). Although a loss-of-function mutant allele of AGL15 does not provide insight into its function, ectopic expression of AGL15 affects embryonic programs (47). Specifically, cultured 35S:AGL15 zygotic embryos produce secondary embryonic calli that express maturation genes. Furthermore, ectopic AGL15 expression enhances the competency of shoot apical meristems to undergo somatic embryogenesis in response to auxin treatment.
+                     Thus, LEC2, by inducing AGL15 expression, may cause tissues to become competent to respond to the auxin signal and initiate somatic embryogenesis.
+                  
+                  
+                  Another LEC2-induced RNA, IAA30, encodes one of a family of auxin signaling proteins (48) that is enriched in the quiescent center of Arabidopsis root apical meristems (49). Thus, IAA30 may play one of two distinct roles in the induction of somatic embryogenesis. First, IAA30 may confer competency
+                     for somatic embryogenesis. This hypothesis is based on IAA30 expression in root stem cells, the quiescent center. Somatic embryos can form from enlarged shoot apical meristems of seedlings
+                     (50), suggesting that meristematic cells have competence to undergo somatic embryogenesis. Second, IAA30 may be involved in inducing
+                     somatic embryogenesis through its role in auxin signaling. Auxin signals the initiation of somatic embryogenesis in cultured
+                     cells. IAA30 may alter plant responses to auxin or cause an increase in free auxin levels, thereby initiating somatic embryogenesis.
+                     Therefore, LEC2 may promote somatic embryo development by affecting both induction and competence. We have recently shown
+                     that induction of LEC2 activity causes a rapid increase in the activity on an auxin-induced promoter (S.L.S., S. L. Paula,
+                     L. W. Kwong, J. E. Meuser, J. Pelletier, R.L.F., R.B.G., and J.J.H., unpublished work), suggesting that it triggers induction
+                     of somatic embryogenesis through auxin signaling. LEC2 may also induce somatic embryo development by increasing tissue competency
+                     to undergo somatic embryogenesis through AGL15 and, perhaps, IAA30.
+                  
+                  
+               
+               
+                  Previous SectionNext Section
+                  
+                  Conclusion
+                  
+                  These observations are relevant to the role of LEC2 in zygotic embryogenesis. Our studies provide evidence that LEC2 is a
+                     major regulator of the maturation phase, directly activating genes that are intimately involved in maturation processes. LEC2
+                     likely acts in concert with other transcription factors, including ABI3 and FUS3, to regulate the maturation phase. We also
+                     show that LEC2 activates genes such as AGL15 and IAA30 that are expressed in seeds containing zygotes. Given that LEC2 is expressed at the earliest stage of seed development tested,
+                     well before the maturation phase, and remains active until midmaturation phase (12), our results are consistent with a model in which LEC2 acts at the earliest stages of embryogenesis to activate genes that
+                     induce zygotes to undergo embryonic development. However, it is not clear why other maturation genes are not activated early
+                     in embryogenesis with the onset of LEC2 activity. Additional studies are needed to define other mechanisms, such as changes
+                     in chromatin conformation or transcriptional repression, that control the expression of maturation genes during seed development.
+                  
+                  
+               
+               
+                  Previous SectionNext Section
+                  
+                  Materials and Methods
+                  
+                  
+                     Plant Materials.
+                     Growth of Arabidopsis thaliana (L.) Heyn ecotype Wassilewskija was described in ref. 51. Plants containing 35S:LEC2-GR that encodes LEC2 fused at its carboxyl terminus with the steroid-binding domain of the glucocorticoid receptor (16) were generated as described by S.L.S., S. L. Paula, L. W. Kwong, J. E. Meuser, J. Pelletier, R.L.F., R.B.G., and J.J.H.
+                        (unpublished work).
+                     
+                  
+                  
+                  
+                  
+                     LEC2-GR Induction Experiment.
+                     
+                        Seedlings were grown on medium for 8 days as described in ref. 51. Seedlings containing the 35S:LEC2-GR transgene were either frozen in liquid nitrogen immediately (0-h Dex) or placed in liquid medium (52) containing 30 μM Dex (dexamethasone-21-acetate in ethanol, Sigma) for either 1 h or 4 h with gentle shaking. Nontransgenic
+                        seedlings were treated similarly with Dex for 4 h. Treated seedlings were frozen in liquid nitrogen and stored at −80°C. Two
+                        biological replicates were prepared for each treatment.
+                     
+                  
+                  
+                  
+                  
+                     GeneChip Hybridization and Data Analysis.
+                     cRNA was prepared and hybridized with Affymetrix ATH1 GeneChips as described in the Gene Expression Omnibus accession GSE680 (www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc = GSE680). One GeneChip was hybridized for each biological replicate. Microarray suite software package (mas 5.0, Affymetrix) (53) was used to assess probe set signals and to generate present/absent calls for each RNA. Each data set was then normalized
+                        to the 50th percentile signal by using the genespring data analysis platform (Silicon Genetics), and a mean normalized expression value was determined for each treatment from
+                        the replicate values. Data for the microarray experiments has been deposited in the Gene Expression Omnibus (www.ncbi.nlm.nih.gov/geo) under accession no. GSE3959.
+                     
+                  
+                  
+                  
+                  
+                     Statistical Clustering.
+                     Normalized expression data for 718 LEC2-induced RNAs, irrespective of their present or absent calls, were clustered by using
+                        three methods (genespring data analysis platform): K-means (parameters: 5 clusters, 100 iterations, Pearson correlation) (17), self-organizing maps (parameters: 4 clusters, 220,000 iterations, neighborhood radius = 2.0) (18), and hierarchical (parameter: Pearson correlation) (19). All RNAs that clustered with storage protein RNAs were examined, and present and absent calls were used to eliminate RNAs
+                        without reliable values. A second clustering analysis that identified AGL15 was done by using a subset of the 718 RNAs that encoded transcription factors to identify RNAs present at lower levels that
+                        clustered with EEL.
+                     
+                  
+                  
+                  
+                  
+                     qRT-PCR Analysis.
+                     Real-time, qRT-PCR was performed as described in ref. 55. Primer sets were derived from Affymetrix probe sets for each RNA (see Table 5, which is published as supporting information
+                        on the PNAS web site).
+                     
+                  
+                  
+                  
+                  Electrophoretic Mobility-Shift Assays.
+                  Recombinant GST-LEC2 was generated by using the LEC2 cDNA cloned into pGEX-KG (54). Fusion protein produced in Escherichia coli BL21 cells was partially purified by glutathione-affinity chromatography.
+                  
+                  
+                  
+                  DNA-binding reactions were done by using 0.1 μg of total protein (7 ng of GST-LEC2) incubated with 1.6 fmol of [32P]-labeled 2SRY probe in binding buffer (25 mM Hepes, pH 8.0, 1 mM DTT, 200 μg/ml BSA, 75 mM KCl, and 10% Glycerol). For competition
+                     assays, unlabeled competitor was incubated with protein for 10 min at room temperature before the addition of labeled probe.
+                     After the addition of labeled probe, reactions were incubated for 20 min at room temperature. Binding reactions were fractionated
+                     at 4°C by 5% polyacrylamide-gel electrophoresis.
+                  
+                  
+                  
+                     Particle-Bombardment Experiments.
+                     Particle-bombardment experiments were conducted as described in ref. 26, except that NAPIN:GUS (27) was used as the reporter plasmid, and 35S:LEC2 (12) was used as the effector plasmid.
+                     
+                  
+                  
+                  
+               
+               
+                  Previous SectionNext Section
+                  
+                  Acknowledgments
+                  
+                  We acknowledge use of the University of California, Los Angeles, Plant Genomics Center for the Affymetrix GeneChip hybridization
+                     experiments, and we thank Makoto Murase (Mitsubishi Chemical) for the gift of the NAPIN:GUS plasmid and Julie Pelletier and Raymond Kwong for technical assistance with this project. This work was supported by grants
+                     from Ceres, Inc. (Thousand Oaks, CA), and the National Science Foundation.
+                  
+                  
+               
+               
+                  Previous SectionNext Section
+                  
+                  Footnotes
+                  
+                  
+                        ¶To whom correspondence may be addressed. E-mail:
+                        bobg{at}ucla.edu
+                        
+                     
+                     
+                        ∥To whom correspondence may be addressed at:
+                        
+                        Section of Plant Biology, College of Biological Sciences, University of California, One Shields Avenue, Davis, CA 95616. E-mail:
+                        jjharada{at}ucdavis.edu
+                        
+                     
+                     
+                        
+                        Author contributions: S.A.B., S.L.S., S.P., and J.J.H. designed research; S.A.B., S.L.S., S.P., A.Q.B., and B.H.L. performed
+                           research; S.A.B., S.L.S., S.P., B.H.L., R.L.F., R.B.G., and J.J.H. analyzed data; and S.A.B., S.L.S., R.L.F., R.B.G., and
+                           J.J.H. wrote the paper.
+                        
+                        
+                     
+                     
+                        
+                        Conflict of interest statement: No conflicts declared.
+                        
+                     
+                     
+                        
+                        Data deposition: Data for the microaray experiments reported in this paper have been deposited in the Gene Expression Omnibus
+                           database, www.ncbi.nlm.nih.gov/geo (accession no. GSE3959).
+                        
+                        
+                     
+                     Abbreviations:
+                        Abbreviations:
+                           Dex,
+                           dexamethasone;
+                           GUS,
+                           β-glucuronidase;
+                           GR,
+                           glucocorticoid receptor;
+                           LEC2,
+                           LEAFY COTYLEDON2;
+                           qRT-PCR,
+                           quantitative RT-PCR.
+                        
+                     © 2006 by The National Academy of Sciences of the USA
+                  
+               
+                  Previous Section 
+                  
+                  
+                  References
+                  
+                  
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Berleth 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Chatfield 
+                                       S.
+                                       
+                                    
+                                 
+                              
+                                    
+                                       Somerville 
+                                       C. R.
+                                       , 
+                                 
+                                 
+                                    
+                                       Meyerowitz 
+                                       E. M.
+                                       
+                                    
+                                 
+                               (2002) in The Arabidopsis Book, eds 
+                                    Somerville 
+                                    C. R.
+                                    , 
+                                    Meyerowitz 
+                                    E. M.
+                                     (Am. Soc. Plant Biologists, Rockville, MD) 10.1199/tab. 0009, www.aspb.org/publications/arabidopsis
+                                    .
+                              
+                           
+                           
+                           
+                           
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Jurgens 
+                                       G.
+                                       
+                                    
+                                 
+                               (2001) EMBO J 
+                                 20:3609–3616, 
+                                    pmid:11447101.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Laux 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Wurschum 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Breuninger 
+                                       H.
+                                       
+                                    
+                                 
+                               (2004) Plant Cell 
+                                 16:S190–S202, 
+                                    pmid:15100395.
+                              
+                           
+                           
+                           
+                           FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Harada 
+                                       J. J.
+                                       
+                                    
+                                 
+                              
+                                    
+                                       Larkins 
+                                       B. A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Vasi 
+                                       I. K.
+                                       
+                                    
+                                 
+                               (1997) in Advances in Cellular and Molecular Biology of Plants, Volume 4, Cellular and Molecular Biology of Seed Development, eds 
+                                    Larkins 
+                                    B. A.
+                                    , 
+                                    Vasi 
+                                    I. K.
+                                     (Kluwer, Dordrecht, The Netherlands), pp 545–592.
+                              
+                           
+                           
+                           
+                           
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Vicente-Carbajosa 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Carbonero 
+                                       P.
+                                       
+                                    
+                                 
+                               (2005) Int. J. Dev. Biol 
+                                 49:645–651, 
+                                    pmid:16096971.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Wobus 
+                                       U.
+                                       , 
+                                 
+                                 
+                                    
+                                       Weber 
+                                       H.
+                                       
+                                    
+                                 
+                               (1999) Curr. Opin. Plant Biol 
+                                 2:33–38, 
+                                    pmid:10047566.
+                              
+                           
+                           
+                           
+                           Medline
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Baud 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Boutin 
+                                       J.-P.
+                                       , 
+                                 
+                                 
+                                    
+                                       Miquel 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lepiniec 
+                                       L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Rochat 
+                                       C.
+                                       
+                                    
+                                 
+                               (2002) Plant Physiol. Biochem 
+                                 40:151–160.
+                              
+                           
+                           
+                           
+                           CrossRefWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Steeves 
+                                       T. A.
+                                       
+                                    
+                                 
+                               (1983) Can. J. Bot 
+                                 61:3550–3560.
+                              
+                           
+                           
+                           
+                           
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Walbot 
+                                       V.
+                                       
+                                    
+                                 
+                              
+                                    
+                                       Clutter 
+                                       M. E.
+                                       
+                                    
+                                 
+                               (1978) in Dormancy and Developmental Arrest, ed 
+                                    Clutter 
+                                    M. E.
+                                     (Academic, New York), pp 113–166.
+                              
+                           
+                           
+                           
+                           
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Giraudat 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Hauge 
+                                       B. M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Valon 
+                                       C.
+                                       , 
+                                 
+                                 
+                                    
+                                       Smalle 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Parcy 
+                                       F.
+                                       , 
+                                 
+                                 
+                                    
+                                       Goodman 
+                                       H. M.
+                                       
+                                    
+                                 
+                               (1992) Plant Cell 
+                                 4:1251–1261, 
+                                    pmid:1359917.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Luerssen 
+                                       H.
+                                       , 
+                                 
+                                 
+                                    
+                                       Kirik 
+                                       V.
+                                       , 
+                                 
+                                 
+                                    
+                                       Herrmann 
+                                       P.
+                                       , 
+                                 
+                                 
+                                    
+                                       Misera 
+                                       S.
+                                       
+                                    
+                                 
+                               (1998) Plant J 
+                                 15:755–764, 
+                                    pmid:9807814.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Stone 
+                                       S. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Kwong 
+                                       L. W.
+                                       , 
+                                 
+                                 
+                                    
+                                       Yee 
+                                       K. M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Pelletier 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lepiniec 
+                                       L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Fischer 
+                                       R. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Goldberg 
+                                       R. B.
+                                       , 
+                                 
+                                 
+                                    
+                                       Harada 
+                                       J. J.
+                                       
+                                    
+                                 
+                               (2001) Proc. Natl. Acad. Sci. USA 
+                                 98:11806–11811, 
+                                    pmid:11573014.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Meinke 
+                                       D. W.
+                                       , 
+                                 
+                                 
+                                    
+                                       Franzmann 
+                                       L. H.
+                                       , 
+                                 
+                                 
+                                    
+                                       Nickle 
+                                       T. C.
+                                       , 
+                                 
+                                 
+                                    
+                                       Yeung 
+                                       E. C.
+                                       
+                                    
+                                 
+                               (1994) Plant Cell 
+                                 6:1049–1064, 
+                                    pmid:12244265.
+                              
+                           
+                           
+                           
+                           Abstract
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Santos Mendoza 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Dubreucq 
+                                       B.
+                                       , 
+                                 
+                                 
+                                    
+                                       Miquel 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Caboche 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lepiniec 
+                                       L.
+                                       
+                                    
+                                 
+                               (2005) FEBS Lett 
+                                 579:4666–4670, 
+                                    pmid:16107256.
+                              
+                           
+                           
+                           
+                           MedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Gaj 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Zhang 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Harada 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lemaux 
+                                       P.
+                                       
+                                    
+                                 
+                               (2005) Planta 
+                                 222:977–988, 
+                                    pmid:16034595.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Sablowski 
+                                       R. W. M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Meyerowitz 
+                                       E. M.
+                                       
+                                    
+                                 
+                               (1998) Cell 
+                                 92:93–103, 
+                                    pmid:9489703.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Hartigan 
+                                       J. A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Wong 
+                                       M. A.
+                                       
+                                    
+                                 
+                               (1979) Appl. Statist 
+                                 28:100–108.
+                              
+                           
+                           
+                           
+                           CrossRef
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Kohonen 
+                                       T.
+                                       
+                                    
+                                 
+                               (2000) Self-Organizing Maps (Springer, Berlin).
+                              
+                           
+                           
+                           
+                           
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Eisen 
+                                       M. B.
+                                       , 
+                                 
+                                 
+                                    
+                                       Spellman 
+                                       P. T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Brown 
+                                       P. O.
+                                       , 
+                                 
+                                 
+                                    
+                                       Botstein 
+                                       D.
+                                       
+                                    
+                                 
+                               (1998) Proc. Natl. Acad. Sci. USA 
+                                 95:14863–14868, 
+                                    pmid:9843981.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Bensmihen 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Rippa 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lambert 
+                                       G.
+                                       , 
+                                 
+                                 
+                                    
+                                       Jublot 
+                                       D.
+                                       , 
+                                 
+                                 
+                                    
+                                       Pautot 
+                                       V.
+                                       , 
+                                 
+                                 
+                                    
+                                       Granier 
+                                       F.
+                                       , 
+                                 
+                                 
+                                    
+                                       Giraudat 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Parcy 
+                                       F.
+                                       
+                                    
+                                 
+                               (2002) Plant Cell 
+                                 14:1391–1403, 
+                                    pmid:12084834.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Jolivet 
+                                       P.
+                                       , 
+                                 
+                                 
+                                    
+                                       Roux 
+                                       E.
+                                       , 
+                                 
+                                 
+                                    
+                                       d’Andrea 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Davanture 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Negroni 
+                                       L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Zivy 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Chardot 
+                                       T.
+                                       
+                                    
+                                 
+                               (2004) Plant Physiol. Biochem 
+                                 42:501–509, 
+                                    pmid:15246063.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Bailey 
+                                       T. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Elkan 
+                                       C.
+                                       
+                                    
+                                 
+                               (1994) Second International Conference on Intelligent Systems for Molecular Biology (AAAI Press), pp 28–36.
+                              
+                           
+                           
+                           
+                           
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Thijs 
+                                       G.
+                                       , 
+                                 
+                                 
+                                    
+                                       Marchal 
+                                       K.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lescot 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Rombauts 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       De Moor 
+                                       B.
+                                       , 
+                                 
+                                 
+                                    
+                                       Rouze 
+                                       P.
+                                       , 
+                                 
+                                 
+                                    
+                                       Moreau 
+                                       Y.
+                                       
+                                    
+                                 
+                               (2002) J. Comp. Biol 
+                                 9:447–464.
+                              
+                           
+                           
+                           
+                           
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Dickinson 
+                                       C.
+                                       , 
+                                 
+                                 
+                                    
+                                       Evans 
+                                       R.
+                                       , 
+                                 
+                                 
+                                    
+                                       Nielsen 
+                                       N.
+                                       
+                                    
+                                 
+                               (1988) Nucleic Acids Res 
+                                 16:371, 
+                                    pmid:3340541.
+                              
+                           
+                           
+                           
+                           FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Baumlein 
+                                       H.
+                                       , 
+                                 
+                                 
+                                    
+                                       Nagy 
+                                       I.
+                                       , 
+                                 
+                                 
+                                    
+                                       Villarroel 
+                                       R.
+                                       , 
+                                 
+                                 
+                                    
+                                       Inze 
+                                       D.
+                                       , 
+                                 
+                                 
+                                    
+                                       Wobus 
+                                       U.
+                                       
+                                    
+                                 
+                               (1992) Plant J 
+                                 2:233–239, 
+                                    pmid:1338774.
+                              
+                           
+                           
+                           
+                           MedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Zhang 
+                                       J. Z.
+                                       , 
+                                 
+                                 
+                                    
+                                       Santes 
+                                       C. M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Engel 
+                                       M. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Gasser 
+                                       C. S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Harada 
+                                       J. J.
+                                       
+                                    
+                                 
+                               (1996) Plant Physiol 
+                                 110:1069–1079, 
+                                    pmid:8934622.
+                              
+                           
+                           
+                           
+                           Abstract
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Josefsson 
+                                       L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lenman 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Ericson 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Rask 
+                                       L.
+                                       
+                                    
+                                 
+                               (1987) J. Biol. Chem 
+                                 262:12196–12201, 
+                                    pmid:3624251.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Lin 
+                                       L.-J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Tai 
+                                       S. S. K.
+                                       , 
+                                 
+                                 
+                                    
+                                       Peng 
+                                       C.-C.
+                                       , 
+                                 
+                                 
+                                    
+                                       Tzen 
+                                       J. T. C.
+                                       
+                                    
+                                 
+                               (2002) Plant Physiol 
+                                 128:1200–1211, 
+                                    pmid:11950969.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Wang 
+                                       H.
+                                       , 
+                                 
+                                 
+                                    
+                                       Caruso 
+                                       L. V.
+                                       , 
+                                 
+                                 
+                                    
+                                       Downie 
+                                       A. B.
+                                       , 
+                                 
+                                 
+                                    
+                                       Perry 
+                                       S. E.
+                                       
+                                    
+                                 
+                               (2004) Plant Cell 
+                                 16:1206–1219, 
+                                    pmid:15084721.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Kroj 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Savino 
+                                       G.
+                                       , 
+                                 
+                                 
+                                    
+                                       Valon 
+                                       C.
+                                       , 
+                                 
+                                 
+                                    
+                                       Giraudat 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Parcy 
+                                       F.
+                                       
+                                    
+                                 
+                               (2003) Development (Cambridge, U.K.) 
+                                 130:6065–6073.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Baumlein 
+                                       H.
+                                       , 
+                                 
+                                 
+                                    
+                                       Misera 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Luerben 
+                                       H.
+                                       , 
+                                 
+                                 
+                                    
+                                       Kolle 
+                                       K.
+                                       , 
+                                 
+                                 
+                                    
+                                       Horstmann 
+                                       C.
+                                       , 
+                                 
+                                 
+                                    
+                                       Wobus 
+                                       U.
+                                       , 
+                                 
+                                 
+                                    
+                                       Muller 
+                                       A. J.
+                                       
+                                    
+                                 
+                               (1994) Plant J 
+                                 6:379–387.
+                              
+                           
+                           
+                           
+                           CrossRefWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Nambara 
+                                       E.
+                                       , 
+                                 
+                                 
+                                    
+                                       Keith 
+                                       K.
+                                       , 
+                                 
+                                 
+                                    
+                                       McCourt 
+                                       P.
+                                       , 
+                                 
+                                 
+                                    
+                                       Naito 
+                                       S.
+                                       
+                                    
+                                 
+                               (1995) Development (Cambridge, U.K.) 
+                                 121:629–636.
+                              
+                           
+                           
+                           
+                           Abstract
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Parcy 
+                                       F.
+                                       , 
+                                 
+                                 
+                                    
+                                       Valon 
+                                       C.
+                                       , 
+                                 
+                                 
+                                    
+                                       Raynal 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Gaubier-Comella 
+                                       P.
+                                       , 
+                                 
+                                 
+                                    
+                                       Delseny 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Giraudat 
+                                       J.
+                                       
+                                    
+                                 
+                               (1994) Plant Cell 
+                                 6:1567–1582, 
+                                    pmid:7827492.
+                              
+                           
+                           
+                           
+                           Abstract
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Parcy 
+                                       F.
+                                       , 
+                                 
+                                 
+                                    
+                                       Valon 
+                                       C.
+                                       , 
+                                 
+                                 
+                                    
+                                       Kohara 
+                                       A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Misera 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Giraudat 
+                                       J.
+                                       
+                                    
+                                 
+                               (1997) Plant Cell 
+                                 9:1265–1277, 
+                                    pmid:9286105.
+                              
+                           
+                           
+                           
+                           Abstract
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Keith 
+                                       K.
+                                       , 
+                                 
+                                 
+                                    
+                                       Kraml 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Dengler 
+                                       N. G.
+                                       , 
+                                 
+                                 
+                                    
+                                       McCourt 
+                                       P.
+                                       
+                                    
+                                 
+                               (1994) Plant Cell 
+                                 6:589–600, 
+                                    pmid:12244252.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Gazzarrini 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Tsuchiya 
+                                       Y.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lumba 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Okamoto 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       McCourt 
+                                       P.
+                                       
+                                    
+                                 
+                               (2004) Dev. Cell 
+                                 7:373–385, 
+                                    pmid:15363412.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Kagaya 
+                                       Y.
+                                       , 
+                                 
+                                 
+                                    
+                                       Okuda 
+                                       R.
+                                       , 
+                                 
+                                 
+                                    
+                                       Ban 
+                                       A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Toyoshima 
+                                       R.
+                                       , 
+                                 
+                                 
+                                    
+                                       Tsutsumida 
+                                       K.
+                                       , 
+                                 
+                                 
+                                    
+                                       Usui 
+                                       H.
+                                       , 
+                                 
+                                 
+                                    
+                                       Yamamoto 
+                                       A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Hattori 
+                                       T.
+                                       
+                                    
+                                 
+                               (2005) Plant Cell Physiol 
+                                 46:300–311, 
+                                    pmid:15695463.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Reidt 
+                                       W.
+                                       , 
+                                 
+                                 
+                                    
+                                       Wohlfarth 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Ellerstrom 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Czihal 
+                                       A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Tewes 
+                                       A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Ezcurra 
+                                       I.
+                                       , 
+                                 
+                                 
+                                    
+                                       Rask 
+                                       L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Baumlein 
+                                       H.
+                                       
+                                    
+                                 
+                               (2000) Plant J 
+                                 21:401–408, 
+                                    pmid:10758492.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Monke 
+                                       G.
+                                       , 
+                                 
+                                 
+                                    
+                                       Altschmied 
+                                       L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Tewes 
+                                       A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Reidt 
+                                       W.
+                                       , 
+                                 
+                                 
+                                    
+                                       Mock 
+                                       H.-P.
+                                       , 
+                                 
+                                 
+                                    
+                                       Baumlein 
+                                       H.
+                                       , 
+                                 
+                                 
+                                    
+                                       Conrad 
+                                       U.
+                                       
+                                    
+                                 
+                               (2004) Planta 
+                                 219:158–166, 
+                                    pmid:14767767.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Ezcurra 
+                                       I.
+                                       , 
+                                 
+                                 
+                                    
+                                       Wycliffe 
+                                       P.
+                                       , 
+                                 
+                                 
+                                    
+                                       Nehlin 
+                                       L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Ellerstrom 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Rask 
+                                       L.
+                                       
+                                    
+                                 
+                               (2000) Plant J 
+                                 24:57–66, 
+                                    pmid:11029704.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Yamasaki 
+                                       K.
+                                       , 
+                                 
+                                 
+                                    
+                                       Kigawa 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Inoue 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Tateno 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Yamasaki 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Yabuki 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Aoki 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Seki 
+                                       E.
+                                       , 
+                                 
+                                 
+                                    
+                                       Matsuda 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Tomo 
+                                       Y.
+                                       , 
+                                 
+                                 
+                                    et al.
+                                    
+                                 
+                               (2004) Plant Cell 
+                                 16:3448–3459, 
+                                    pmid:15548737.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Gaj 
+                                       M. D.
+                                       
+                                    
+                                 
+                               (2001) Plant Cell Tiss. Org. Cult 
+                                 64:39–46.
+                              
+                           
+                           
+                           
+                           CrossRef
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Zimmerman 
+                                       J. L.
+                                       
+                                    
+                                 
+                               (1993) Plant Cell 
+                                 5:1411–1423, 
+                                    pmid:12271037.
+                              
+                           
+                           
+                           
+                           FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Heck 
+                                       G. R.
+                                       , 
+                                 
+                                 
+                                    
+                                       Perry 
+                                       S. E.
+                                       , 
+                                 
+                                 
+                                    
+                                       Nichols 
+                                       K. W.
+                                       , 
+                                 
+                                 
+                                    
+                                       Fernandez 
+                                       D. E.
+                                       
+                                    
+                                 
+                               (1995) Plant Cell 
+                                 7:1271–1282, 
+                                    pmid:7549483.
+                              
+                           
+                           
+                           
+                           Abstract
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Perry 
+                                       S. E.
+                                       , 
+                                 
+                                 
+                                    
+                                       Nichols 
+                                       K. W.
+                                       , 
+                                 
+                                 
+                                    
+                                       Fernandez 
+                                       D. E.
+                                       
+                                    
+                                 
+                               (1996) Plant Cell 
+                                 8:1977–1989, 
+                                    pmid:8953767.
+                              
+                           
+                           
+                           
+                           Abstract
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Perry 
+                                       S. E.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lehti 
+                                       M. D.
+                                       , 
+                                 
+                                 
+                                    
+                                       Fernandez 
+                                       D. E.
+                                       
+                                    
+                                 
+                               (1999) Plant Physiol 
+                                 120:121–130, 
+                                    pmid:10318690.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Harding 
+                                       E. W.
+                                       , 
+                                 
+                                 
+                                    
+                                       Tang 
+                                       W.
+                                       , 
+                                 
+                                 
+                                    
+                                       Nichols 
+                                       K. W.
+                                       , 
+                                 
+                                 
+                                    
+                                       Fernandez 
+                                       D. E.
+                                       , 
+                                 
+                                 
+                                    
+                                       Perry 
+                                       S. E.
+                                       
+                                    
+                                 
+                               (2003) Plant Physiol 
+                                 133:653–663, 
+                                    pmid:14512519.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Liscum 
+                                       E.
+                                       , 
+                                 
+                                 
+                                    
+                                       Reed 
+                                       J. W.
+                                       
+                                    
+                                 
+                               (2002) Plant Mol. Biol 
+                                 49:387–400, 
+                                    pmid:12036262.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Nawy 
+                                       T.
+                                       , 
+                                 
+                                 
+                                    
+                                       Lee 
+                                       J.-Y.
+                                       , 
+                                 
+                                 
+                                    
+                                       Colinas 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Wang 
+                                       J. Y.
+                                       , 
+                                 
+                                 
+                                    
+                                       Thongrod 
+                                       S. C.
+                                       , 
+                                 
+                                 
+                                    
+                                       Malamy 
+                                       J. E.
+                                       , 
+                                 
+                                 
+                                    
+                                       Birnbaum 
+                                       K.
+                                       , 
+                                 
+                                 
+                                    
+                                       Benfey 
+                                       P. N.
+                                       
+                                    
+                                 
+                               (2005) Plant Cell 
+                                 17:1908–1925, 
+                                    pmid:15937229.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Mordhorst 
+                                       A. P.
+                                       , 
+                                 
+                                 
+                                    
+                                       Voerman 
+                                       K. J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Hartog 
+                                       M. V.
+                                       , 
+                                 
+                                 
+                                    
+                                       Meijer 
+                                       E. A.
+                                       , 
+                                 
+                                 
+                                    
+                                       van Went 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Koornneef 
+                                       M.
+                                       , 
+                                 
+                                 
+                                    
+                                       de Vries 
+                                       S. C.
+                                       
+                                    
+                                 
+                               (1998) Genetics 
+                                 149:549–563, 
+                                    pmid:9611173.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       West 
+                                       M. A. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Matsudaira Yee 
+                                       K. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Danao 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Zimmerman 
+                                       J. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Fischer 
+                                       R. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Goldberg 
+                                       R. B.
+                                       , 
+                                 
+                                 
+                                    
+                                       Harada 
+                                       J. J.
+                                       
+                                    
+                                 
+                               (1994) Plant Cell 
+                                 6:1731–1745, 
+                                    pmid:12244233.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Olsen 
+                                       L. J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Ettinger 
+                                       W. F.
+                                       , 
+                                 
+                                 
+                                    
+                                       Damsz 
+                                       B.
+                                       , 
+                                 
+                                 
+                                    
+                                       Matsudaira 
+                                       K.
+                                       , 
+                                 
+                                 
+                                    
+                                       Webb 
+                                       M. A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Harada 
+                                       J. J.
+                                       
+                                    
+                                 
+                               (1993) Plant Cell 
+                                 5:941–952, 
+                                    pmid:8400872.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Hubbell 
+                                       E.
+                                       , 
+                                 
+                                 
+                                    
+                                       Liu 
+                                       W.-M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Mei 
+                                       R.
+                                       
+                                    
+                                 
+                               (2002) Bioinformatics 
+                                 18:1585–1592, 
+                                    pmid:12490442.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Guan 
+                                       K. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Dixon 
+                                       J. E.
+                                       
+                                    
+                                 
+                               (1991) Anal. Biochem 
+                                 192:262–267, 
+                                    pmid:1852137.
+                              
+                           
+                           
+                           
+                           CrossRefMedlineWeb of Science
+                        
+                        
+                     
+                     
+                        ↵
+                        
+                        
+                           
+                           
+                              
+                              
+                                    
+                                       Yamagishi 
+                                       K.
+                                       , 
+                                 
+                                 
+                                    
+                                       Nagata 
+                                       N.
+                                       , 
+                                 
+                                 
+                                    
+                                       Yee 
+                                       K. M.
+                                       , 
+                                 
+                                 
+                                    
+                                       Braybrook 
+                                       S. A.
+                                       , 
+                                 
+                                 
+                                    
+                                       Pelletier 
+                                       J.
+                                       , 
+                                 
+                                 
+                                    
+                                       Fujioka 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Yoshida 
+                                       S.
+                                       , 
+                                 
+                                 
+                                    
+                                       Fischer 
+                                       R. L.
+                                       , 
+                                 
+                                 
+                                    
+                                       Goldberg 
+                                       R. B.
+                                       , 
+                                 
+                                 
+                                    
+                                       Harada 
+                                       J. J.
+                                       
+                                    
+                                 
+                               (2005) Plant Physiol 
+                                 139:163–173, 
+                                    pmid:16113228.
+                              
+                           
+                           
+                           
+                           Abstract/FREE Full Text
+                        
+                        
+                     
+                  
+  

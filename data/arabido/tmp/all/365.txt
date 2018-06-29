@@ -1,0 +1,1488 @@
+
+  
+    
+      
+      
+                     Plant Cell, Vol. 12, 183-198, February 2000, Copyright © 2000, American Society of Plant Physiologists
+                     
+                     The Embryo MADS Domain Factor AGL15 Acts Postembryonically: Inhibition of Perianth Senescence and Abscission via Constitutive
+                     Expression
+                     
+                     
+                  
+                     Donna E. Fernandeza, 
+                     Gregory R. Heck2,a, 
+                     Sharyn E. Perry3,a, 
+                     Sara E. Pattersona, 
+                     Anthony B. Bleeckera, and 
+                     Su-Chiung Fangaa Department of Botany, 430 Lincoln Drive, University of Wisconsin, Madison, Wisconsin 53706-1381
+                     
+                        Correspondence to: 
+                        Donna E. Fernandez, dfernand{at}facstaff.wisc.edu (E-mail), 608-262-7509 (fax)
+                        
+                     
+                     
+                     
+                  
+                  
+                  
+                     
+                     
+                           
+                                 ABSTRACT
+                        TOPABSTRACTINTRODUCTIONRESULTSDISCUSSIONMETHODSREFERENCES
+                        
+                     
+                     
+                     
+                     AGL15 (AGAMOUS-like 15), a member of the MADS domain family of regulatory factors, accumulates preferentially throughout the
+                     early stages of the plant life cycle. In this study, we investigated the expression pattern and possible roles of postembryonic
+                     accumulation of AGL15. Using a combination of reporter genes, RNA gel blot analysis, and immunochemistry, we found that the
+                     AGL15 protein accumulates transiently in the shoot apex in young Arabidopsis and Brassica seedlings and that promoter activity
+                     is associated with the shoot apex and the base of leaf petioles throughout the vegetative phase. During the reproductive phase,
+                     AGL15 accumulates transiently in floral buds. When AGL15 was expressed in Arabidopsis under the control of a strong constitutive promoter, we noted a striking increase in the longevity
+                     of the sepals and petals as well as delays in a selected set of age-dependent developmental processes, including the transition
+                     to flowering and fruit maturation. Although ethylene has been implicated in many of these same processes, the effects of AGL15
+                     could be clearly distinguished from the effects of the ethylene resistant1-1 mutation, which confers dominant insensitivity to ethylene. By comparing the petal breakstrength (the force needed to remove
+                     petals) for flowers of different ages, we determined that ectopic AGL15 had a novel effect: the breakstrength of petals initially
+                     declined, as occurs in the wild type, but was then maintained at an intermediate value over a prolonged period. Abscission-associated
+                     gene expression and structural changes were also altered in the presence of ectopic AGL15. 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                     
+                     
+                           
+                                 INTRODUCTION
+                        TOPABSTRACTINTRODUCTIONRESULTSDISCUSSIONMETHODSREFERENCES
+                        
+                     
+                     
+                     AGL15 (AGAMOUS-like 15) is a member of the MADS domain family, a large, diverse family of regulatory factors. All of the members
+                     of this family contain a highly conserved 55– to 60–amino acid domain, known as the MADS domain, which binds DNA through contacts
+                     in the minor groove and interactions with the phosphate backbone (Pellegrini et al. 1995 ). MADS domain proteins also have more divergent regions, which contribute to structural and functional specificity. MADS
+                     domain–containing regulatory factors are found in all eukaryotic organisms and play pivotal roles in regulating many different
+                     kinds of developmental events, including mating-type specification in yeast, muscle development in Drosophila and mammals,
+                     and responses to the environment in humans. MADS domain factors form a particularly large and diverse group in plants. In
+                     addition to the MADS domain, the plant proteins have another, less highly conserved domain, the K domain, which is thought
+                     to serve as a protein–protein interaction domain (reviewed in  Riechmann and Meyerowitz 1997 ). 
+                     
+                  
+                  
+                  
+                     
+                     The MADS domain family consists of at least 36 members in Arabidopsis (Liljegren et al. 1998 ), including the well-known floral organ identity regulators AGAMOUS (AG), APETALA3 (AP3), and PISTILLATA; meristem identity
+                     regulators APETALA1 (AP1) and CAULIFLOWER; silique tissue identity regulators FRUITFULL/AGL8, AGL1, and AGL5; and a set of
+                     other AGL factors of unknown function expressed in flowers. Family members that are preferentially expressed in developmental
+                     contexts other than the flower have also been identified (Rounsley et al. 1995 ) and include such factors as ANR1, which plays a role in control of root architecture in response to nutrient availability
+                     (Zhang and Forde 1998 ), and FLOWERING LOCUS C, a recently identified repressor of flowering (Michaels and Amasino 1999 ). Based on its expression pattern and divergent sequence, AGL15 belongs to this latter group; however, its developmental
+                     role is undefined. 
+                     
+                  
+                  
+                  
+                     
+                     Our previous findings have led us to suggest that AGL15 is likely to play an important regulatory role at the beginning of
+                     the plant life cycle. We initially isolated AGL15 as a low-abundance mRNA that preferentially accumulates in developing embryos (Heck et al. 1995 );  Rounsley et al. 1995  independently isolated it from a floral cDNA library. AGL15 is a single-copy gene in Arabidopsis, and thus far, genome sequencing efforts have not revealed any genes likely to represent
+                     recent duplications of the AGL15 locus. The only members of the MADS domain family in Arabidopsis that are known to be expressed in embryos are AGL15 and AGL2 (Flanagan and Ma 1994 ). AGL15 shows strong preferential expression in embryos, whereas AGL2 is predominantly expressed in floral tissues (Heck et al. 1995 ). Using AGL15-specific antibodies, we have shown that AGL15 accumulates in the nuclei of young embryos, endosperm, and suspensor
+                     cells but only in the cytoplasm of the egg cell (Perry et al. 1996 ). More recently, we found that AGL15 is similarly regulated in a wide variety of embryogenic situations (Perry et al. 1999
+                     ). 
+                     
+                  
+                  
+                  
+                     
+                     Although AGL15 accumulates preferentially in embryos, its accumulation is clearly not restricted to the embryonic phase. AGL15 transcripts have been detected in young Arabidopsis seedlings by using in situ hybridization (Rounsley et al. 1995 ) and in various tissues (including flowers) in Brassica by using RNA gel blot analyses (Heck et al. 1995 ). These findings, plus an awareness that expression patterns have provided important insights into the developmental roles
+                     of MADS domain factors in past investigations, motivated us to look more closely at AGL15 expression in postembryonic phases. We combined an analysis of AGL15 promoter activity with an examination of mRNA and protein accumulation to examine both qualitative and quantitative aspects
+                     of AGL15 expression. Because the cellular localization of AGL15 is regulated in embryos (Perry et al. 1996 ,  Perry et al. 1999 ), we also performed immunolocalization analyses to determine whether the protein accumulated in the cytoplasm or the nuclei.
+                     
+                     
+                  
+                  
+                  
+                     
+                     Because we found that AGL15 accumulates transiently in nuclei in a selected set of tissues during the vegetative and reproductive
+                     phases, this raises the possibility that it plays multiple roles during the plant life cycle. To investigate these roles,
+                     we have examined whether altering the expression pattern of AGL15 has any effect on postembryonic development. The results were striking and unexpected. The combination of effects on the
+                     transition to flowering, perianth longevity, and fruit maturation defines a new kind of developmental role for a MADS domain
+                     factor. Specifically, AGL15 may play a role in controlling age-dependent developmental programs, particularly in reproductive
+                     tissues. 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                           
+                                 RESULTS
+                        TOPABSTRACTINTRODUCTIONRESULTSDISCUSSIONMETHODSREFERENCES
+                        
+                     
+                     
+                     AGL15 Promoter Activity in Vegetative and Reproductive Organs
+                     
+                     For analysis of AGL15 promoter activity in the period after germination, transgenic Arabidopsis plants carrying a reporter construct were generated.
+                     The reporter construct, shown in  Fig 1A and designated pAGL15:GUS, consisted of 2.5 kb of Arabidopsis genomic sequence upstream of the translational start site of
+                     AGL15, a translational fusion between the first four codons of AGL15 and the coding sequence for ß-glucuronidase (GUS), and 2.5
+                     kb of genomic sequence downstream of the AGL15 stop codon. Sixteen transformants were recovered (of a total of 21) that showed intense staining throughout the embryo and
+                     endosperm when excised seeds were incubated with the color-generating substrate X-gluc, as shown in  Fig 2A and  Fig 2B. Therefore, the reporter construct appears to contain the regulatory elements necessary for appropriate expression of AGL15 during the embryonic phase. To obtain information about promoter activity during other phases of the life cycle, we performed
+                     GUS assays with seven independently derived lines, all of which showed strong staining of embryo and endosperm tissue. 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                     
+                  
+                  
+                     
+                              
+                              View larger version (21K):In this windowIn a new window 
+                                       
+                                    
+                                    Figure 1.
+                                       Constructs Used for Arabidopsis Transformations.
+                                       
+                                       
+                                          
+                                          (A) Reporter construct (pAGL15:GUS). Genomic sequences (hatched rectangles) flanking the AGL15 coding sequence (5' and 3') were fused to the coding sequence for GUS.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (B) Construct for constitutive expression of AGL15 (p35S:AGL15). The promoter of the 35S gene of the cauliflower mosaic virus was fused to the AGL15 cDNA.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (C) Construct for constitutive expression of AGL15 (p35S:gAGL15). Similar to the construct shown in (B), p35S:gAGL15 includes the first three introns (black rectangles) of the AGL15 gene.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          NOS, nopaline synthase; arrowheads, transcription start/stop; bent arrows, translation start; black circles, translation stop.
+                                          
+                                       
+                                       
+                                    
+                                 
+                        
+                  
+                  
+                     
+                     
+                     
+                     
+                  
+                  
+                     
+                              
+                              View larger version (122K):In this windowIn a new window 
+                                       
+                                    
+                                    Figure 2.
+                                       Analysis of AGL15 Promoter Activity in Transgenic Arabidopsis Plants Carrying AGL15 Promoter:GUS Reporter Constructs.
+                                       
+                                       
+                                          
+                                          GUS activity appears as blue staining in bright-field images and as pink crystals in dark-field images.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (A) Section of developing seed, stained with toluidine blue to show internal tissues.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (B) Dark-field microscopy showing GUS activity in developing seed.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (C) GUS activity is associated with the shoot apex (arrowhead) in a 7-day-old seedling.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (D) Section of the shoot apex of an 8-day-old seedling stained with toluidine blue.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (E) Dark-field microscopy showing GUS activity in the meristem, leaf primordia, stipules, and trichome initials (arrowhead) in
+                                          an 8-day-old seedling.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (F) GUS activity in the shoot apex (arrowhead) of a plant growing vegetatively under noninductive (short-day) conditions.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (G) Section of the shoot apex of a plant growing under short-day conditions, stained with toluidine blue to show the shoot apical
+                                          meristem and associated structures.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (H) Dark-field microscopy showing GUS activity in the shoot apical meristem, axillary meristems (arrowheads), stipules, and young
+                                          leaf primordia of a plant grown under short-day conditions.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (I) and (J) GUS activity associated with the base of the cauline leaves (arrowheads) in the inflorescence.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (K) GUS activity associated with young floral buds (black arrowhead) and with the basal part of older floral buds (white arrowhead).
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (L) Dark-field microscopy showing GUS activity in the apex of an inflorescence. No GUS activity is detectable in the inflorescence
+                                          meristem or youngest floral buds.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (M) Dark-field microscopy showing GUS activity associated with cells in the receptacle and at the base of the floral organs in
+                                          a stage 11 floral bud.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (N) GUS activity in floral buds of different ages. GUS activity declines with increasing age and cannot be detected in buds that
+                                          are ready to open (arrowheads).
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          am, axillary meristem; an, anther; c, cotyledon petiole; ca, carpel; cl, cauline leaf; e, embryo; en, endosperm; fb, floral
+                                          bud; l, leaf; lb, leaf buttress; m, meristem; pe, pedicel; re, receptacle; sc, seed coat; se, sepal; sp, septum of fruit;
+                                          st, stipule primordium. Bars in (A), (D), (G), (L), and (M) = 100 µm.
+                                          
+                                       
+                                       
+                                    
+                                 
+                        
+                  
+                  
+                     
+                     The AGL15 promoter was active in shoot tissues after germination and was regulated in a tissue- and time-dependent manner. As shown
+                     in  Fig 2C to 2E, GUS activity could be detected primarily at the shoot apex, in the meristem, leaf primordia, and stipule primordia in young
+                     seedlings. Although the promoter is active in both the cotyledons and axes during the embryonic phase (Fig 2B), GUS activity could not be detected in roots, cotyledons, or most of the hypocotyl after germination (Fig 2C). All of the cells in young leaves, including the trichome initials, showed GUS activity at first (Fig 2D and  Fig 2E). As the leaves expanded and matured, however, GUS activity became progressively restricted to the broad band of cells that
+                     constitute the leaf base, as shown in  Fig 2F. GUS activity could be detected in the shoot apex as long as the plants were growing vegetatively.  Fig 2G and  Fig 2H show a higher magnification view of the shoot apex of a plant grown under noninductive, short-day conditions. The strongest
+                     GUS activity was associated with the axillary buds (Fig 2H) forming at the base of the rosette leaves. GUS activity in the shoot apical meristem of the main axis was less than that
+                     in the younger axillary bud meristems and in the meristems of young seedlings. As shown in  Fig 2I and  Fig 2J, GUS activity was also associated with the bases of immature cauline leaves, which develop largely after the transition to
+                     reproductive growth. However, staining was not visible in the cells of the inflorescence axis immediately adjacent to the
+                     leaf bases. 
+                     
+                  
+                  
+                  
+                     
+                     The AGL15 promoter was also active in developing floral buds, as shown in  Fig 2K.  Fig 2L provides a higher magnification view of the apex of the inflorescence. No GUS activity could be detected in the meristem
+                     or in the youngest floral buds. GUS staining was visible as early as stage 4 (data not shown), which corresponds to the stage
+                     after sepal initiation and before the stamen and petal primordia are clearly visible (Bowman 1994 ). GUS activity was initially present in cells throughout the developing floral organs, but as the buds matured, the activity
+                     became progressively restricted to cells at the base of the organs.  Fig 2M shows a higher magnification of this area in a stage 11 floral bud. Color deposits indicating GUS activity are visible at
+                     the base of the carpel, stamen filaments, petals, and sepals, and throughout the receptacle.  Fig 2N shows that GUS activity was undetectable by stage 13, when the buds opened. 
+                     
+                  
+                  
+                  
+                     
+                     Accumulation of AGL15 mRNA and Protein in Postembryonic Stages
+                     
+                     We used AGL15-specific antibodies to confirm that the AGL15 gene product accumulated in tissues that showed promoter activity after germination. Controls indicating that these antibodies
+                     were highly specific for AGL15 have been described previously (Heck et al. 1995 ;  Perry et al. 1996 ,  Perry et al. 1999 ). As shown in  Fig 3A, an immunoreactive protein was present in soluble protein extracts of young Arabidopsis seedlings and inflorescence tissues;
+                     moreover, this protein had the same mobility (~29 kD) as the soluble protein in embryo extracts (data not shown). Fully mature
+                     leaves contained only trace amounts of AGL15. When sections of 4-day-old Arabidopsis seedlings were probed with anti-AGL15
+                     antibodies, we found that immunoreactive protein accumulated in the nuclei of cells in all layers of the shoot apical meristem
+                     and in young leaf primordia, as shown in  Fig 3B. The protein quantities in the cells of the shoot apex of young seedlings were at least roughly comparable with those in
+                     developing embryos. Sections of 4-day-old Arabidopsis seedlings and sections of Brassica torpedo-stage embryos were processed
+                     together for examination by immunohistochemistry; the nuclear staining was equally intense in both samples. However, when
+                     sections of older seedlings (6 to 8 days old) and embryo sections were processed together, the nuclear staining in the cells
+                     of the seedling shoot apex was clearly less intense than that in the developing embryo samples (data not shown). As the seedlings
+                     matured, AGL15 protein accumulation in the shoot apex became increasingly more difficult to detect. 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                     
+                  
+                  
+                     
+                              
+                              View larger version (40K):In this windowIn a new window 
+                                       
+                                    
+                                    Figure 3.
+                                       Analysis of AGL15 mRNA and Protein Accumulation in Arabidopsis and Brassica.
+                                       
+                                       
+                                          
+                                          (A) Protein gel blot of soluble protein extracts (150 µg per lane) from various Arabidopsis tissues probed with affinity-purified
+                                          anti-AGL15 antibodies. The inflorescence apex sample included all of the tissues within 1 cm of the youngest buds.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (B) Immunolocalization of AGL15 in the shoot apex of a 4-day-old Arabidopsis seedling. AGL15 is associated with nuclei in the
+                                          shoot apical meristem and in leaf primordia. Bar = 50 µm.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (C) AGL15 mRNA accumulation in various Brassica tissues. A slot blot loaded with equal amounts of tRNA or poly(A)+ RNA was hybridized with an AGL15-specific probe prepared from a sequence downstream of the MADS box. Samples labeled abscission zone/receptacle (AZ/R) were
+                                          prepared from the basal regions of open flowers at anthesis or from the basal regions of developing fruits.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (D) Protein gel blot of soluble protein extracts (75 µg per lane) from young Brassica floral buds or the basal portions (AZ/Receptacle)
+                                          of older floral buds, flowers, or developing fruits, probed with affinity-purified anti-AGL15 antibodies.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (E) Immunolocalization of AGL15 in the basal region of an immature (3 to 4 mm) Brassica floral bud. Bar = 250 µm.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (F) Immunolocalization of AGL15 in the basal region of a mature Brassica flower. Bar = 500 µm.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          an, anther; c, cotyledon; ca, carpel; DAP, days after pollination; Infl. apex, inflorescence apex; l, leaf; m, meristem; n,
+                                          nectary; o, ovule; p, petal; re, receptacle; se, sepal.
+                                          
+                                       
+                                       
+                                    
+                                 
+                        
+                  
+                  
+                     
+                     The dynamics of AGL15 mRNA accumulation during the reproductive phase were analyzed in floral buds collected from Brassica plants. Brassica floral
+                     buds are relatively large, and they can be easily staged on the basis of bud length (Scott et al. 1991 ). Thus, we could collect sufficient amounts of tissue from a few plants to isolate poly(A)+ RNAs corresponding to different developmental stages. As the slot blot analysis in  Fig 3C shows, AGL15 mRNA amounts in floral tissues were markedly lower than they were in developing embryos. AGL15 sequences were present in 1- to 2-mm-long floral buds, which is a stage marked by the appearance of microsporocytes and pollen
+                     meiosis (Scott et al., 1991; equivalent to stages 8 and 9 in Arabidopsis [ Smyth et al. 1990 ]), and in younger, premeiotic buds collected in association with the inflorescence apex. AGL15 mRNA could be detected in the floral buds until at least the time of tapetal breakdown (3- to 4-mm-long bud stage [ Scott
+                     et al. 1991 ]; equivalent to stage 11 in Arabidopsis  Arabidopsis [Smyth et al. 1990 ). However, no AGL15 mRNA could be detected in the basal portions of mature, open flowers (Fig 3C). We also performed in situ hybridization experiments (data not shown) to localize AGL15 transcripts in developing Brassica buds. The signal was very weak, even with the high specific activity radioactive probes
+                     that had been used successfully on embryo tissue (Heck et al. 1995 ), and there was no indication of preferential accumulation in any specific organ or cell type (data not shown). 
+                     
+                  
+                  
+                  
+                     
+                     The AGL15 protein also accumulated transiently in floral structures. Immunoblot analysis of soluble proteins isolated from
+                     staged Brassica floral bud samples is shown in  Fig 3D. The major immunoreactive protein in floral tissues had the same apparent molecular mass (29 kD) as AGL15 in Brassica embryo
+                     extracts but was at least 10-fold less abundant per milligram of soluble protein (data not shown). Protein accumulation could
+                     be detected at all stages of floral morphogenesis and maturation. The highest relative accumulations were associated with
+                     young buds (1 to 2 mm long) and with the basal portions of the flowers at anthesis (Fig 3D).  
+                     
+                  
+                  
+                  
+                     
+                     Immunohistochemistry indicated that AGL15 accumulates in nuclei in virtually every part of an immature flower bud, as shown
+                     in  Fig 3E. In open flowers, on the other hand, much of the immunostaining was associated with the cells of the nectaries (both the
+                     cytoplasm and the nuclei), as shown in  Fig 3F. AGL15 protein concentrations in the basal portions of the flowers decreased after pollination. At ~6 or 7 days after pollination
+                     (DAP), the perianth organs abscised. By 10 or 11 DAP, which corresponds to an early globular embryo stage, the immunoreactive
+                     protein could no longer be detected in the receptacle and basal portions of the fruit (Fig 3D). 
+                     
+                  
+                  
+                  
+                     
+                     Phenotypic Changes in Plants with Increased Amounts of AGL15
+                     
+                     To obtain plants that expressed AGL15 constitutively, we transformed Arabidopsis with the two constructs shown in  Fig 1B and  Fig 1C. In all, we isolated 48 lines carrying the construct designated p35S:AGL15, which consisted of the cauliflower mosaic virus
+                     (CaMV) 35S promoter and full-length AGL15 cDNA (Fig 1B). Also, 37 lines carrying a second construct designated p35S:gAGL15, which included the genomic sequence of AGL15 through the third intron (Fig 1C), were isolated. Ectopic accumulation of AGL15 was confirmed by immunoblot analysis of leaf tissue from selected lines carrying
+                     single T-DNA loci, shown in  Fig 4A. AGL15 could not be detected in the fully expanded leaves of nontransformed plants but was detected in the leaves of the
+                     transgenic plants. Plants carrying the intron-bearing construct (p35S:gAGL15) consistently accumulated more AGL15 than did
+                     plants carrying the cDNA construct (p35S:AGL15).  Fig 4B and  Fig 4C show that the AGL15 protein also accumulated in increased amounts in the floral organs of the transgenic plants. Although
+                     AGL15 protein was difficult to detect in the floral tissues of wild-type Arabidopsis by immunohistochemistry (Fig 4B), intense immunostaining was seen in the nuclei in all the cells of the inflorescence in plants carrying p35S:gAGL15, the
+                     intron-bearing construct (Fig 4C). 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                     
+                  
+                  
+                     
+                              
+                              View larger version (60K):In this windowIn a new window 
+                                       
+                                    
+                                    Figure 4.
+                                       Analysis of Effects of Constitutive Expression of AGL15 in Arabidopsis.
+                                       
+                                       
+                                          
+                                          (A) Protein gel blot of soluble protein extracts (150 µg per lane) from leaves of wild-type or transgenic Arabidopsis plants
+                                          incubated with anti-AGL15 affinity-purified antibodies. Plants carrying the intron-bearing construct (p35S:gAGL15) accumulated
+                                          more AGL15 than did plants carrying the cDNA construct (p35S:AGL15).
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (B) Immunolocalization of AGL15 in the apex of the inflorescence of a wild-type Arabidopsis plant.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (C) Immunolocalization of AGL15 in the apex of the inflorescence of a transgenic Arabidopsis plant carrying the p35S:gAGL15 construct.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (D) Vegetative rosette of a wild-type (Ws ecotype) plant grown for 19 days under long-day conditions.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (E) Vegetative rosette of a transgenic plant that expresses AGL15 constitutively, grown for 33 days under long-day conditions.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (F) Inflorescence of a wild-type (Ws ecotype) plant.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (G) Inflorescence of a transgenic plant that expresses AGL15 constitutively.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (H) Petals and sepals (arrowhead) associated with developing fruits on transgenic plants that express AGL15 constitutively.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (I) Developing embryo at 7 DAP in seed of a wild-type plant.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (J) Developing embryo at 7 DAP in seed of a transgenic plant that expresses AGL15 constitutively.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (K) Abscission zone associated with the sepal of a wild-type plant.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (L) Abscission zone associated with the sepal of a transgenic plant that expresses AGL15 constitutively.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          az, abscission zone; cl, cauline leaf; e, embryo; fb, floral bud; m, meristem; pe, pedicel; re, receptacle; se, sepal. Bars
+                                          in (B) and (C) = 100 µm; bars in (D) and (E) = 1 cm; bars in (I) to (L) = 50 µm.
+                                          
+                                       
+                                       
+                                    
+                                 
+                        
+                  
+                  
+                     
+                     We sorted the transgenic lines into three groups, designated low, moderate, and high, based on visible phenotypic changes
+                     and differences in the amounts of constitutive expression, as determined by a combination of immunoblot and immunohistochemical
+                     analyses. In the analysis presented here, we focused on the effects of constitutive expression at moderate levels. This group
+                     included at least 12 lines carrying the full-length cDNA construct (p35S:AGL15) and at least three lines carrying the intron-bearing
+                     construct (p35S:gAGL15). Plants with lower levels of constitutive expression were generally indistinguishable from wild-type
+                     plants. Plants with higher levels of expression (those harboring the p35S:gAGL15 construct only) had reduced fertility, which
+                     made them difficult to propagate. The phenotypic changes in the high-expression group were related to those seen in the moderate-expression
+                     group but were more extreme, including green petals, low seed set, fruit that failed to mature, inflorescence meristems that
+                     failed to undergo global proliferative arrest (Hensel et al. 1994 ), and (infrequently) indeterminate floral meristems (data not shown). We saw no evidence of AGL15 decreases attributable
+                     to cosuppression in any of the lines we analyzed. 
+                     
+                  
+                  
+                  
+                     
+                     Constitutive expression of AGL15 in moderate amounts resulted in changes in leaf morphogenesis and a delayed transition to flowering. Plants carrying the
+                     AGL15 transgene could be distinguished from wild-type plants within a few days after germination. The petioles of the cotyledons
+                     were shorter than those of the wild type, and the blades were held with a pronounced downward tilt (data not shown). The petioles
+                     of the rosette leaves were also shorter and the leaf blades tended to be more rounded than in the wild type (cf.  Fig 4D and  Fig 4E ). As  Table 1 shows, flowering was delayed in plants that constitutively expressed AGL15. Under inductive long-day conditions, wild-type Wassilewskija (Ws) plants produced approximately six leaves before bolting.
+                     Plants carrying an AGL15 transgene produced two or three extra rosette leaves before bolting (Table 1) and flowered ~6 days later (data not shown) than did the wild-type plants. 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                     
+                  
+                  
+                  
+                     
+                              
+                               View this table:In this windowIn a new window 
+                                       
+                                    
+                                    Table 1.
+                                       Comparison of Flowering Time and Fruit Maturation in Wild-Type and Transgenic Plants That Express AGL15 Constitutively
+                                       
+                                    
+                                 
+                        
+                  
+                  
+                     
+                     Constitutive expression of AGL15 also resulted in phenotypic changes during the reproductive phase. Floral morphogenesis was not perturbed: the flowers had
+                     the same number and arrangement of organs as in the wild type. Pollination and fertilization also proceeded normally in plants
+                     expressing moderately increased amounts of AGL15. The plants were both male- and female-fertile and set seed readily. In wild-type
+                     Arabidopsis, pollination and fertilization are followed by abscission of the organs in the perianth. The sepals and petals
+                     are typically shed in a turgid state shortly after anthesis (Bleecker and Patterson 1997 ). In cases in which abscission is delayed, as in ethylene resistant1 (etr1) mutants, the perianth organs senesce first, ~4 or 5 days after pollination, and abscise afterward (Bleecker and Patterson
+                     1997 ;  Patterson 1998 ). In plants that constitutively expressed AGL15 in moderate amounts, the perianth organs did not abscise and showed no loss of chlorophyll or turgidity or any other sign
+                     of senescence for at least 2 weeks after pollination and fertilization. Consequently, the inflorescences typically had many
+                     more flowers with intact perianths (often 30 or more) than did the inflorescences on wild-type plants of comparable age, as
+                     shown in  Fig 4F (wild type) and 4G (transgenic).  Fig 4H shows that the perianth organs were retained throughout the period of silique elongation and well into the period of fruit
+                     maturation. 
+                     
+                  
+                  
+                  
+                     
+                     Constitutive expression of AGL15 also resulted in a delay in fruit maturation.  Table 1 shows that the period between pollination and senescence of the silique tissues was increased by almost 50% in these plants.
+                     The seeds also remained green for an extended period; however, embryo morphogenesis appeared to proceed at the same rate as
+                     in wild-type plants, as shown in  Fig 4I (wild type) and 4J (transgenic). Despite the delays in maturation of the fruit wall and seeds, the embryos were fully viable
+                     and seed germination proceeded normally. 
+                     
+                  
+                  
+                  
+                     
+                     Effect of Constitutive Expression of AGL15 on the Abscission Processes
+                     
+                     Floral organs abscise as a result of complex biochemical and structural changes that take place in the abscission zone, a
+                     small set of densely cytoplasmic cells at the base of the organs (reviewed in  Osborne 1989 ). To further analyze the effect of the AGL15 transgene, we explored the possibility that constitutive expression of AGL15 resulted in structural or functional defects in abscission zone cells. The size, shape, and general arrangement of cells
+                     in the abscission zones at the base of sepals in wild-type flowers are shown in  Fig 4K. As  Fig 4L shows, abscission zones were present at the base of the sepals in flowers with increased amounts of AGL15 and were anatomically
+                     indistinguishable from the wild type. 
+                     
+                  
+                  
+                  
+                     
+                     Because the hormone ethylene has been implicated in the regulation of abscission in many plants (Abeles et al. 1992 ;  Bleecker and Patterson 1997 ), we tested whether the cells in the abscission zones of the transgenic plants could perceive and respond to ethylene. Transgenic
+                     and wild-type plants were placed in sealed chambers and gassed with either air or air containing 10 ppm of ethylene. The perianth
+                     organs of the transgenic plants were retained in the presence of air alone but abscised in 3 days in the presence of ethylene
+                     (data not shown). The response of the transgenic plants to exogenous ethylene was phenotypically indistinguishable from that
+                     of the wild-type plants. When plants carrying AGL15 transgenes were crossed with plants carrying the dominant etr1-1 mutation, which results in ethylene insensitivity, the kanamycin-resistant F1 progeny resembled the transgenic parent in terms of perianth longevity; however, applying exogenous ethylene did not trigger
+                     abscission. The additive effects of p35S:AGL15 and etr1-1 suggest that AGL15 does not act through changes in ethylene perception. In addition, because the abscission zones of the
+                     transgenic plants functioned appropriately when they received a strong inductive signal (ethylene), we conclude that constitutive
+                     expression of AGL15 does not result in major developmental or biochemical defects in these cells. 
+                     
+                  
+                  
+                  
+                     
+                     To define more clearly when and how AGL15 affects the process of abscission, we measured the force needed to remove petals
+                     (i.e., the petal breakstrength) from successively older flowers along the length of the inflorescence. The youngest bud having
+                     visible white petals was designated flower position 1. In wild-type plants, the petal breakstrength decreased with increasing
+                     flower age. As shown in  Fig 5A, less force was needed to remove petals from flowers that had been open for 1 or 2 days (positions 4 and 5) than from flowers
+                     that had opened more recently (positions 2 and 3). In flowers at position 6 (and lower), any petals that remained generally
+                     abscised during the process of being clamped. In plants constitutively expressing AGL15, the petal breakstrength also decreased during the first day or two after anthesis, much as it did in wild-type plants. Unlike
+                     the case with wild-type plants, however, the petal breakstrength did not continue to decline but stayed at an intermediate
+                     value for the next few positions. There was a general decline in breakstrength at and below position 9. The petals persisted
+                     but were increasingly prone to abscise as they were being clamped (hence the variation in the measurements of breakstrength).
+                     In terms of tissue integrity, flowers in position 11 on the transgenic plants were equivalent to much younger wild-type flowers
+                     (position 5). 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                     
+                  
+                  
+                     
+                              
+                              View larger version (107K):In this windowIn a new window 
+                                       
+                                    
+                                    Figure 5.
+                                       Analysis of Abscission in Wild-Type Plants and Transgenic Arabidopsis Plants That Express AGL15 Constitutively.
+                                       
+                                       
+                                          
+                                          (A) Comparison of petal breakstrength in wild-type plants and plants that express AGL15 constitutively. A stress transducer was used to measure the force required to remove petals from flowers at different positions along the
+                                          main inflorescence axis. Position 1 corresponds to the apical-most flower with visible white petals. Higher numbers correspond
+                                          to more basal positions and successively older flowers. Bars indicate the standard error of the mean. For positions 2, 4,
+                                          and 6, n = 3 to 6 flowers; for other positions, n  10 flowers.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (B) to (E) Scanning electron microscopy of petal abscission zones in wild-type plants. Petals were forcibly removed from flowers in
+                                          positions 3 (B) and 5 (C). Petals had abscised naturally from flowers in positions 7 (D) and 9 (E).
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (F) to (I) Scanning electron microscopy of abscission zones in plants that express AGL15 constitutively (p35S:AGL15). Petals were forcibly removed from flowers in positions 3 (F), 5 (G), 7 (H), and 9 (I).
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          (J) GUS activity in flowers at position 6 on Arabidopsis plants carrying the pBAC (bean abscission cellulase):GUS reporter construct.
+                                          The plant on the right carried the p35S:gAGL15 construct and constitutively expressed AGL15. The plant on the left was a sibling that did not carry the AGL15 construct.
+                                          
+                                       
+                                       
+                                       
+                                          
+                                          Bars in (B) to (I) = 25 µm.
+                                          
+                                       
+                                       
+                                    
+                                 
+                        
+                  
+                  
+                     
+                     Using scanning electron microscopy, we further analyzed the progressive changes associated with floral organ abscission in
+                     plants that constitutively express AGL15. Images of the proximal face of the fracture plane (on the receptacle side) of the petal abscission zone are shown in  Fig 5B to 5I. Forcible removal of petals from flowers in position 3 on wild-type (Ws ecotype) plants left a circular depression with a
+                     relatively smooth surface (Fig 5B). This type of image is generated when the fracture plane runs along the weakened middle lamellae of the cell walls in the
+                     abscission zone, which is slightly recessed at this stage, and is typical of early stages of abscission (Bleecker and Patterson
+                     1997 ). The later stages of abscission are marked by progressive cell enlargement and transdifferentiation of cells to form a protective
+                     layer (Osborne 1989 ). When flowers in position 5 were forcibly removed, enlarged and rounded cells were visible on the proximal face of the fracture
+                     plane (Fig 5C). In lower positions, where the petals had abscised naturally (positions 7 and 9), the cells were larger and more rounded,
+                     forming the characteristic raised abscission scar (Fig 5D and  Fig 5E). When petals were forcibly removed from flowers on plants that constitutively express AGL15, recessed abscission zones with smooth fracture surfaces were seen at more basal positions than in the wild type (cf.  Fig 5B and  Fig 5F, position 3;  Fig 5C and  Fig 5G, position 5; and  Fig 5D and  Fig 5H, position 7). The petal breakstrength decreased between positions 7 and 9 in transgenic plants (Fig 5A), and when petals were removed from flowers in position 9, rounded and enlarged cells were seen (Fig 5I). We conclude that constitutive expression of AGL15 had an effect on cellular dynamics in the abscission zone that paralleled the change in the petal breakstrength profile.
+                     
+                     
+                  
+                  
+                  
+                     
+                     Various cell wall hydrolases are expressed in abscission zones and contribute to the progressive decline in tissue integrity
+                     during abscission (reviewed in  Osborne 1989 ). We tested the effect of constitutive expression of AGL15 on activation of the promoter of an endo-ß-1,4-glucanase (bean abscission cellulase [BAC]) that is expressed in association
+                     with abscission in bean (Tucker et al. 1988 ). Arabidopsis plants that had been transformed with a reporter construct consisting of the BAC promoter (Koehler et al. 1996
+                     ) fused to GUS (pBAC:GUS) showed GUS activity in the sepal, petal, and filament abscission zones at positions 1 through 5
+                     (S.-C. Fang, unpublished observation) and in abscission scars lower on the inflorescence (Patterson 1998 ). Transgenic plants carrying two copies of a single pBAC:GUS locus (homozygous) were crossed with plants carrying one copy
+                     of a single p35S:gAGL15 locus (hemizygous). In the F1 generation, all of the progeny carried the pBAC:GUS construct and 50% carried the p35S:gAGL15 construct. We compared GUS
+                     activity in siblings showing wild-type and AGL15 overexpression phenotypes, which segregated 1:1, as expected. As shown in  Fig 5J, strong GUS activity was associated with the sepal, petal, and filament abscission scars at the base of flowers in position
+                     6 on plants with wild-type phenotypes. For siblings that constitutively express AGL15, on the other hand, the sepals and petals had not abscised from flowers in position 6, and GUS activity could not be detected
+                     in the corresponding abscission zones (Fig 5J). When flowers in positions 10 to 20 were examined, light staining was visible at the base of the perianth organs (data not
+                     shown). We conclude that the BAC promoter was not strongly activated in the sepal and petal abscission zones in the presence
+                     of ectopic AGL15. 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                           
+                                 DISCUSSION
+                        TOPABSTRACTINTRODUCTIONRESULTSDISCUSSIONMETHODSREFERENCES
+                        
+                     
+                     
+                     Postembryonic Expression of AGL15
+                     
+                     AGL15 can be distinguished from other MADS domain factors by virtue of its sequence and preferential accumulation of the protein
+                     during the earliest phases of the plant life cycle. We previously showed that AGL15 accumulates in the nuclei of young embryos,
+                     suspensors, and endosperm cells (Perry et al. 1996 ). We show here that AGL15 accumulates after germination as well but in a limited set of developmental contexts. In Arabidopsis
+                     grown under continuous light, AGL15 protein could be readily detected in the nuclei of cells in the shoot apex during the
+                     first few days of seedling growth. The AGL15 promoter remains active throughout the vegetative phase in the meristems, young leaf primordia, and leaf bases; however,
+                     we have been unable to detect mRNA and protein in these cells histochemically. Although small amounts of AGL15 protein might
+                     accumulate in these tissues throughout the vegetative phase, we conclude that the amounts of nuclear-localized AGL15 protein
+                     approach those seen in young embryos only during the earliest stages of vegetative growth in the shoot apex of Arabidopsis.
+                     
+                     
+                  
+                  
+                  
+                     
+                     With the onset of the reproductive phase, AGL15 promoter activity ceases in the meristematic cells at the apex of the inflorescence. This pattern of gene regulation further
+                     distinguishes AGL15 from the large group of floral MADS box genes, including AP1 (Mandel et al. 1992b ) and FRUITFULL/AGL8 (Mandel and Yanofsky 1995a ;  Gu et al. 1998 ), which are preferentially expressed during the reproductive phase and are induced or upregulated during the transition to
+                     flowering (Hempel et al. 1997 ). In terms of regulation, AGL15 is most similar to the MADS box gene FLOWERING LOCUS C, which encodes a repressor of flowering and is also downregulated in the transition to flowering (Michaels and Amasino 1999
+                     ). 
+                     
+                  
+                  
+                  
+                     
+                     During the reproductive phase, AGL15 promoter activity is also associated with young immature cells. Cell maturation proceeds in the apical-to-basal direction
+                     in floral organs, as it does in leaves (reviewed in  Telfer and Poethig 1994 ). In both leaves and floral organs, which are considered homologous organs (reviewed in  Poethig 1997 ), the AGL15 promoter is initially active throughout the young organ primordia but is gradually restricted to the base of the maturing
+                     organs. 
+                     
+                  
+                  
+                  
+                     
+                     Given the patterns of AGL15 promoter activity and mRNA and protein accumulation, we conclude that AGL15 function is most likely associated with the shoot
+                     apical meristems and with young vegetative organs during the juvenile stage of the vegetative phase, when the protein concentrations
+                     are highest, and with floral organs up to the point at which they are fully mature. To define more clearly any possible regulatory
+                     roles, we turned to an analysis of transgenic plants that express AGL15 under the control of a heterologous promoter. 
+                     
+                  
+                  
+                  
+                     
+                     Effects of AGL15 Constitutive Expression
+                     
+                     We examined the effect of constitutive expression of AGL15 by generating transgenic Arabidopsis plants carrying CaMV 35S promoter and AGL15 constructs. We recovered transgenic plants that accumulate different amounts of ectopic AGL15, designated low, moderate,
+                     or high. In some lines carrying p35S:AGL15, plants with two copies of a single T-DNA locus (homozygous) had the moderate phenotype,
+                     whereas siblings with one copy (hemizygous) had the low phenotype. In one line carrying p35S:gAGL15, plants with two copies
+                     of a single T-DNA locus (homozygous) had the high phenotype, whereas siblings with one copy (hemizygous) had the moderate
+                     phenotype. This suggests that the phenotypic changes represent a graded response to increasing amounts of AGL15, and the differences
+                     between low and moderate or moderate and high may reflect only twofold changes in the amount of ectopic AGL15. We saw no evidence
+                     of decreases in AGL15 amounts through the action of sense suppression in the transgenic plants. This is consistent with our
+                     belief that downregulation of AGL15 may compromise viability, which would preclude recovery and propagation of such lines. 
+                     
+                  
+                  
+                  
+                     
+                     Constitutive expression of AGL15 produced a limited number of effects, effects that were distinct from those reported for other MADS domain factors. CaMV
+                     35S promoter–driven expression of AP1 (Mandel and Yanofsky 1995b ) or AG (Mizukami and Ma 1992 ) or AP3 plus PISTILLATA (Krizek and Meyerowitz 1996 ) leads to early flowering and the production of leaves with upwardly curling margins; expression of AGL15 by way of this promoter does not. Expression of floral MADS domain factors in inappropriate contexts in reproductive tissues
+                     leads to changes in the identity of the meristems and floral organs (Mandel et al. 1992a ;  Mizukami and Ma 1992 ;  Jack et al. 1994 ,  Jack et al. 1997 ). In plants with moderate constitutive expression, AGL15 accumulated in nuclei throughout the flower with no apparent effect
+                     on organ identity or morphogenesis. 
+                     
+                  
+                  
+                  
+                     
+                     The lack of effects on floral morphogenesis suggests that AGL15 maintains some degree of specificity for regulatory targets
+                     even when it is overexpressed. If excess AGL15 competed for and indiscriminately occupied the DNA binding sites of the floral
+                     MADS domain proteins, we would expect to see major perturbations throughout the reproductive phase. Instead, we saw that overexpression
+                     of AGL15 primarily affected tissues in which we had detected both AGL15 promoter activity and protein accumulation in wild-type plants. We cannot completely eliminate the possibility that some
+                     aspects of the overexpression phenotype are the result of newly acquired functions (i.e., AGL15 binding to new target genes
+                     in new tissues). However, given the transient nature of AGL15 expression in most wild-type tissues, at least some of the phenotypic changes may result from temporal extensions of the
+                     normal functions of the AGL15 gene product (i.e., AGL15 acting on target genes for longer periods). 
+                     
+                  
+                  
+                  
+                     
+                     When AGL15 was constitutively expressed, the transition to flowering was delayed and the vegetative phase was extended by ~6 days under
+                     inductive, long-day conditions. Plants carrying AGL15 transgenes produced two or three extra rosette leaves. In the Ws ecotype, which flowers early and typically produces six
+                     rosette leaves on average, this apparently modest change represents a substantial extension of the vegetative phase. In contrast,
+                     plants that overexpress floral MADS factors, such as AP1, AG, or AP3 with PISTILLATA, typically have a shorter vegetative
+                     phase than do wild-type plants, resulting in fewer rosette leaves and earlier flowering (reviewed in  Ma 1998 ). Given the accumulation pattern of AGL15 in wild-type plants, AGL15 might act by prolonging or promoting the early juvenile
+                     phase in the transgenic plants; that is, it may "juvenilize" the plants. Effects at the beginning of the juvenile phase would
+                     translate into a delay in flowering because competence to flower is acquired in an age-dependent fashion (Thomas 1993 ). A partially juvenilized plant might require a longer period or stronger inductive signals before flowering. 
+                     
+                  
+                  
+                  
+                     
+                     The petioles of the cotyledons and rosette leaves were considerably shorter and the leaf blades were shorter and rounder in
+                     plants carrying AGL15 transgenes. In wild-type Arabidopsis, rounded leaves are produced during the earliest stages of vegetative growth, whereas
+                     increasingly spatulate leaves are produced later (Bowman 1994 ;  Poethig 1997 ). Although the change in leaf shape suggests a more juvenile mode of morphogenesis in the transgenic plants, leaf shape is
+                     too variable and the regulation of leaf shape is too complex (reviewed in  Poethig 1997 ) for this character to serve as a definitive marker of phase. In Arabidopsis, a more consistent marker of the juvenile phase
+                     is the absence of trichomes on the abaxial surface of the leaf (Telfer et al. 1997 ). In preliminary studies of trichome distribution, we have not seen a marked difference between transgenic and wild-type
+                     plants (D.E. Fernandez, unpublished data); however, we cannot rule out the presence of more subtle effects on phase change
+                     in the transgenic plants. Further studies are needed to determine the cellular or developmental basis for the changes we see.
+                     
+                     
+                  
+                  
+                  
+                     
+                     Constitutive expression of AGL15 by way of the CaMV 35S promoter resulted in a noticeable increase in tissue longevity during the reproductive phase. Sepals
+                     and petals, which typically abscise within 3 days after the flowers open in wild-type Arabidopsis (Patterson 1998 ), persisted for extended periods in the presence of ectopic AGL15. Plants constitutively expressing moderate amounts of AGL15 generally set more fruit on their main axis than do wild-type plants (G.R. Heck, unpublished results), which suggests that
+                     the inflorescence meristem also has greater longevity, increased proliferative capacity, or both. The fruits of the transgenic
+                     plants took considerably longer to ripen than did those of the nontransformed plants; however, embryo morphogenesis proceeded
+                     at the same rate in both. Various other factors have been shown to modulate abscission and senescence in reproductive tissues.
+                     The effect of constitutive expression of AGL15 differs distinctly from the effects of mutations and hormonal treatments described in previous studies, as summarized in
+                     the following paragraphs. 
+                     
+                  
+                  
+                  
+                     
+                     Mutations that change the identity of a floral organ may result in increased longevity. The organs in the first floral whorl
+                     persist longer in Arabidopsis mutants such as ap1 because of a partial conversion from sepal to leaf identity (Irish and Sussex 1990 ). The first-whorl floral organs of the AGL15 transformants were greener at the point at which the buds opened but otherwise resembled wild-type sepals in terms of epidermal
+                     cell morphology (data not shown). The first-whorl organs on the AGL15 transformants also abscised in response to ethylene, whereas leaves in Arabidopsis do not. 
+                     
+                  
+                  
+                  
+                     
+                     In some genetic backgrounds, abscission cannot occur because the cells that are critical to the process fail to develop. In
+                     tomato jointless mutants, mid-pedicel abscission zones are eliminated, resulting in a complete block in abscission (Butler 1936 ). In Arabidopsis agl1 agl5 double mutants and fruitfull/agl8 mutants, silique dehiscence is blocked because the appropriate differentiated cell types are not present (Gu et al. 1998
+                     ;  Liljegren et al. 1998 ). Constitutive expression of AGL15 does not block development of functional abscission zones in the flower or sutures in fruits. 
+                     
+                  
+                  
+                  
+                     
+                     Many studies in a variety of plants have shown that alterations in ethylene concentrations or ethylene perception can affect
+                     abscission and senescence (Abeles et al. 1992 ). Mutations that affect ethylene perception delay abscission (but not senescence) of floral organs in Arabidopsis (etr1;  Bleecker and Patterson 1997 ) and block fruit ripening in tomato (Never ripe;  Rick and Butler 1956 ;  Lanahan et al. 1994 ). We have shown that cells in the abscission zones of plants that constitutively express AGL15 are capable of perceiving and responding to application of exogenous ethylene. We cannot rule out the possibility that ethylene
+                     production or sensitivity is reduced. However, analysis of petal breakstrengths indicates that ethylene primarily affects
+                     the timing of the onset of abscission in Arabidopsis (S.E. Patterson and A.B. Bleecker, unpublished results), whereas ectopic
+                     AGL15 chiefly affects later stages in the abscission process. Therefore, ethylene apparently does not play a major role in
+                     the effects we see. 
+                     
+                  
+                  
+                  
+                     
+                     Changes in auxin or cytokinin amounts can lead to delays in abscission, senescence, or both. Although the evidence is inconclusive
+                     regarding a role for auxin in regulation of petal abscission, application of exogenous auxin to the cut surface after flower
+                     removal can prevent pedicel abscission in various species (reviewed in  van Doorn and Stead 1997 ). Cytokinins do not appear to play a role in the regulation of floral abscission; however, whole plant and leaf senescence
+                     is greatly delayed in plants engineered to produce a burst of cytokinin at the onset of senescence (Gan and Amasino 1995 ). Plants that overexpress AGL15 show no delays in leaf senescence (G.R. Heck, unpublished results) and do not otherwise resemble plants with general alterations
+                     in cytokinin or auxin metabolism (reviewed in  Klee and Estelle 1991 ;  Binns 1994 ). However, we cannot rule out a more specific effect on cytokinin or auxin metabolism in floral organs or abscission zone
+                     cells. Relatively high concentrations of cytokinin and auxin are associated with early stages of growth and young tissues.
+                     If ectopic AGL15 blocks age-related changes in floral organ tissues, this may translate into maintenance of higher concentrations
+                     of cytokinin and auxin, which would lead to delays in abscission. In this scenario, the effect of AGL15 on abscission would
+                     be hormone-mediated but it would also be a secondary effect subsequent to a primary effect on floral organ senescence. 
+                     
+                  
+                  
+                  
+                     
+                     Transgenic plants that constitutively express AGL15 provide a unique tool for the study of floral organ senescence and abscission. Although previous experiments have pointed
+                     to the importance of ethylene-independent pathways in controlling these processes in Arabidopsis (reviewed in  Bleecker and
+                     Patterson 1997 ), little or nothing is known about regulation or components of such pathways. Plants that constitutively express AGL15 show major perturbations in the timing of programs that drive gene activation (glucanase) and developmental events such as
+                     cell enlargement and transdifferentiation of the protective layer after organ abscission (reviewed in  Osborne 1989 ). On the other hand, constitutive expression of AGL15 appears to have little or no effect on the initiation of abscission. We conclude that ectopic AGL15 acts, either directly
+                     or indirectly, as a negative regulator of a particular subset of abscission events, events that are probably controlled by
+                     one or a few integrated regulatory pathways. The transgenic plants will be valuable tools for defining the components and
+                     regulation of these pathways. 
+                     
+                  
+                  
+                  
+                     
+                     In addition to its effects on abscission, overexpression of AGL15 affects floral organ senescence, fruit maturation, and flowering time. These apparently pleiotropic effects may have a common
+                     developmental basis. Ectopic AGL15 appears primarily to affect processes in which competence is acquired as a function of
+                     age. Shoot apical meristems of young plants cannot respond to photoinductive conditions immediately; meristem competence for
+                     flowering is acquired with increasing age. Similarly, immature floral buds and fruits acquire competence for abscission and
+                     ripening/senescence in an age-dependent manner. Our working hypothesis is that AGL15 is part of a program operating in young
+                     tissues to signal or maintain or otherwise enhance an immature or juvenile or nonsenescent state. Increasing the amount of
+                     AGL15 in transgenic plants is sufficient to slow the progression of a specific subset of age-related programs. 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                           
+                                 METHODS
+                        TOPABSTRACTINTRODUCTIONRESULTSDISCUSSIONMETHODSREFERENCES
+                        
+                     
+                     
+                     Plant Material
+                     
+                     Plants of the Arabidopsis thaliana ecotype Wassilewskija (Ws) were used in all experiments unless otherwise specified. Seed was surface sterilized (95% ethanol
+                     for 5 min and 0.5% [v/v] sodium hypochlorite for 5 min) and plated on germination medium (Murashige and Skoog salts and vitamins
+                     [ Murashige and Skoog 1962 ], supplemented with 10 g/L sucrose, 0.5 g/L Mes, and 8 g/L agar, pH 5.6 to 5.7). Plates were kept at 4°C for 2 days and then
+                     transferred to 22°C and continuous light for germination. After 1 week, seedlings were transplanted into a 2:1 (v/v) mix of
+                     peat-based potting soil (Jiffy Mix; Jiffy Products of America, Batavia, IL) and Perlite (Midwest Perlite, Appleton, WI) and
+                     were grown to maturity in an environmental chamber (Enconair Ecological Chambers, Inc., Winnipeg, Canada) with continuous
+                     light (~125 µE m-2 sec-1), 22°C, and 70 to 80% relative humidity. When an extended vegetative phase was desired, plants were grown under short-day
+                     conditions, on a 10-hr-light/14-hr-dark cycle. Plants treated with ethylene were handled essentially as described in  Grbic
+                     and Bleecker 1995 , except that light was reduced to ~40 µE m-2 sec-1 during the ethylene treatment period. Mature, flowering plants were exposed for 72 hr to a continuously flowing stream of
+                     air containing either 0 or 10 ppm ethylene. 
+                     
+                  
+                  
+                  
+                     
+                     Brassica plants (Brassica napus cv Tower) were grown in an environmental chamber (Conviron; Controlled Environments Inc., Pembina, ND), under a 16-hr-light
+                     (370 µE m-2 sec-1 at flower level at 15°C) and 8-hr-dark (10°C) regime. Flowers on the primary inflorescence were hand pollinated and tagged.
+                     Silique and flower age were determined by counting days after pollination (DAP), in which day 0 was the day the flower opened.
+                     Floral buds were collected and sorted by size. The system for staging Brassica buds by measuring size along the longitudinal
+                     axis was as outlined in  Scott et al. 1991 . The sample designated as inflorescence apices consisted of inflorescence tissue distal to, and including, any buds <1 mm
+                     long. Samples designated as bud bases or silique bases consisted of a 1- to 2-mm-thick slice around the point of sepal insertion
+                     and included the nectaries and basal-most part of any floral organs that were present. 
+                     
+                  
+                  
+                  
+                     
+                     Generation of Transgenic Arabidopsis
+                     
+                     A reporter gene construct (pAGL15:GUS) was made by combining the gene for the histochemical marker ß-glucuronidase (GUS) with
+                     nucleotide sequences flanking the coding region of AGL15. A DNA fragment representing ~2.5 kb of 5' flanking sequence was obtained from a genomic clone of Arabidopsis AGL15 (Heck et al. 1995 ) by polymerase chain reaction (PCR) amplification with the oligonucleotide 5'-ATGGATCCACGACCCATTTTCC-3' and an oligonucleotide
+                     complementary to the vector sequence. This amplification generated a fragment with BamHI sites, ~2.5 kb of sequence upstream
+                     from the translation initiation codon, and AGL15 coding sequence through the fourth codon. After digestion with BamHI, this sequence was inserted into the BamHI site in the
+                     transformation vector pBI101.1 (Clontech, Palo Alto, CA), which resulted in an in-frame translational fusion with the GUS coding sequence. A DNA fragment representing 3' flanking sequence was obtained from the AGL15 genomic clone by PCR amplification with the oligonucleotide 5'-TGTGAGCTCCTAGAAAAGTATGG-3' and an oligonucleotide complementary
+                     to the vector sequence. This amplification generated a fragment with SacI and EcoRI sites and ~2.5 kb of sequence immediately
+                     downstream of the AGL15 translation stop codon. The nopaline synthase terminator was removed from the 3' end of the reporter gene construct by digestion
+                     with SacI and EcoRI and was replaced with this 3' AGL15 sequence. 
+                     
+                  
+                  
+                  
+                     
+                     For constitutive expression experiments, AGL15 coding sequences were fused with the promoter for the 35S gene of cauliflower mosaic virus (CaMV). Two separate constructs
+                     were made. In p35S:AGL15, the BamHI-SacI fragment that contains the GUS gene in the pBI121 transformation vector (Clontech) was removed and replaced with the AGL15 cDNA. The insert included 18 bp of 5' untranslated region, the complete coding sequence for AGL15, and 246 bp of the 3' untranslated
+                     region. In p35S:gAGL15, the first three introns of AGL15 were introduced into p35S:AGL15 by replacing the internal BsmI-NsiI fragment of the AGL15 cDNA with the corresponding genomic fragment. 
+                     
+                  
+                  
+                  
+                     
+                     The pBAC:GUS reporter construct was obtained from M. Tucker (U.S. Department of Agriculture Agricultural Research Service,
+                     Beltsville, MD) and was similar to one used previously to analyze promoter elements (Koehler et al. 1996 ). The construct included ~2.6 kb of sequence upstream of the transcriptional start site for bean abscission cellulase (BAC), 47 bp of BAC 5' untranslated region with the ATG start of translation, the complete coding sequence of GUS, and ~680 bp of BAC 3' termination sequence. After digestion with EcoRI and HindIII, this sequence was inserted into the pBIN19 transformation
+                     vector (Bevan 1984 ), which had been partially digested with EcoRI and HindIII. 
+                     
+                  
+                  
+                  
+                     
+                     Constructs were introduced into Arabidopsis by using Agrobacterium tumefaciens strain GV3101 and whole-plant vacuum infiltration, as described in  Bechtold et al. 1993 . Transformed individuals (T1 generation) were selected on germination medium supplemented with 75 µg/mL kanamycin before transfer to soil. The number
+                     of T-DNA loci within each line was determined by segregation for kanamycin resistance (using 50 µg/mL kanamycin) in the progeny
+                     (T2 generation). 
+                     
+                  
+                  
+                  
+                     
+                     Analysis of GUS Activity and Tissue Organization
+                     
+                     To visualize GUS activity, lines bearing the pAGL15:GUS or pBAC:GUS construct were stained according to  Koltunow et al. 1990
+                     , with modifications introduced by  Patterson 1998 . Samples were first lightly fixed for 15 min at room temperature in 0.3% (w/v) glutaraldehyde in 50 mM potassium phosphate
+                     buffer, pH 7.2, and then incubated with 0.5 mg/mL X-gluc for 4 to 12 hr at 37°C. After several washes with 50 mM potassium
+                     phosphate buffer, pH 7.2, the tissues were fixed overnight at 4°C with 4% (w/v) glutaraldehyde in the same buffer. Samples
+                     were dehydrated by using a graded ethanol series and then stored in 70% (v/v) ethanol. Material intended for sectioning was
+                     dehydrated further and embedded in London Resin White resin (medium grade; Ted Pella, Inc., Redding, CA). Semi-thin sections
+                     (2 µm thick) were cut with glass knives on a Sorvall MT-2 ultramicrotome (Ivan Sorvall, Inc., Norwalk, CT) and heat fixed
+                     to glass slides. To view the color precipitates resulting from GUS activity, we left the sections unstained. To view tissue
+                     organization, we briefly counterstained sections collected from the same sample with aqueous 0.05% (w/v) toluidine blue O.
+                     Sections were permanently mounted in Cytoseal 60 (Stephens Scientific, Riverdale, NJ). 
+                     
+                  
+                  
+                  
+                     
+                     For anatomical analyses of wild-type and 35S:gAGL15 plants, we processed samples as outlined above except that the steps involving
+                     prefixation and incubation with GUS substrate were omitted. 
+                     
+                  
+                  
+                  
+                     
+                     For scanning electron microscopy, individual flowers were fixed in 4% (w/v) glutaraldehyde in 50 mM potassium phosphate buffer,
+                     pH 7.2, for 4 hr at room temperature or overnight at 4°C. After four rinses with buffer, the samples were dehydrated by using
+                     a graded ethanol series, dried in a critical point dryer, coated with gold palladium, and examined in a scanning electron
+                     microscope (model S-570; Hitachi, Tokyo, Japan). 
+                     
+                  
+                  
+                  
+                     
+                     RNA and Protein Analysis
+                     
+                     Poly(A)+ RNA was isolated from Brassica tissues as described previously (Heck et al. 1995 ). Slot blots were loaded with 1 µg poly(A)+ RNA per slot and probed with a 32P-labeled PCR amplification product generated from Brassica napus AGL15-1 cDNA downstream of the MADS domain (probe 2 in  Heck et al. 1995 ). Hybridization conditions were as described previously (Heck et al. 1995 ), and the final washes were performed under high-stringency conditions (0.1 x SSC [1 x SSC is 0.15 M NaCl and 0.015 M sodium citrate], 0.1% (w/v) SDS at 65°C). 
+                     
+                  
+                  
+                  
+                     
+                     The preparation of polyclonal antibodies and the controls that indicate a high degree of specificity for AGL15 were described
+                     previously (Heck et al. 1995 ;  Perry et al. 1996 ,  Perry et al. 1999 ). Protein gel blot analyses were performed with soluble protein extracts, affinity-purified antibodies, and the Lumi-Glo
+                     chemiluminescent system (Kirkegaard and Perry Laboratories, Inc., Gaithersburg, MD), as described in  Heck et al. 1995 . Immunoreactive protein was localized on 7-µm sections of paraformaldehyde-fixed tissue by using antiserum preabsorbed against
+                     lightly fixed Brassica leaf pieces and a highly sensitive enzyme-linked detection system (Vectastain Elite ABC kit; Vector
+                     Labs, Inc., Burlingame, CA), as described in  Perry et al. 1996 . 
+                     
+                  
+                  
+                  
+                     
+                     Analysis of Petal Breakstrength
+                     
+                     Petal breakstrength was measured in flowers on the primary inflorescences at a stage when at least 15 flowers had opened but
+                     before the inflorescence meristem had stopped producing buds. Flower position was designated relative to the position of the
+                     apical-most flower with visible white petals (position 1): flowers in positions 2, 3, 4, and so forth were located in progressively
+                     more basal positions along the inflorescence axis. Petal breakstrength was measured by using a stress transducer developed
+                     by A.B. Bleecker and E.P. Spalding (University of Wisconsin–Madison) and described in  Patterson 1998 . A small clamp was attached to a single petal in each flower, and the resistance needed to remove the petal was measured
+                     by using a FORT 10 force transducer (World Precision Instruments, Inc., Sarasota, FL) and a voltmeter (Radio Shack, Fort Worth,
+                     TX) with a range from 0 to 10 V, which resulted in a range of 0- to 10-g equivalents. The petal breakstrength was recorded
+                     as the minimum force (in gram equivalents) needed to remove the petal from the flower. 
+                     
+                  
+                  
+                  
+                     
+                     Microscopy and Image Processing
+                     
+                     Stained whole-mount specimens were examined and photographed by using a dissecting microscope (model Wild M8; Wild Leitz,
+                     Heerbrugg, Switzerland). Sectioned material was examined and photographed on a Zeiss Axioskop (Carl Zeiss, Oberkochen, Germany)
+                     or Olympus microscope (model BX60; Olympus Optical Company, Tokyo, Japan) with use of bright-field and dark-field optics.
+                     Photographic images were recorded on Ektachrome 160T color slide film (Eastman Kodak), which subsequently was scanned with
+                     a Kodak Professional RFS 2035 film scanner. Images on x-ray film were scanned with an ARCUS Plus flatbed scanner (Agfa Corporation,
+                     Ridgefield Park, NJ). For scanning electron microscopy, images were recorded on Polaroid 55P-N film (Polaroid Corporation,
+                     Cambridge, MA) or handled digitally by using a Gatan digital image capture system and digital micrograph 2.5 software (Gatan,
+                     Inc., Pleasanton, CA). Images were assembled into plates by using Adobe Photoshop 3.0 software (Adobe, Inc., Mountain View,
+                     CA). 
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                           
+                                 FOOTNOTES
+                        
+                     
+                     
+                     2 Current address: Monsanto Company, 700 Chesterfield Parkway North, St. Louis, MO 63198. 3 Current address: Department of Agronomy, University of Kentucky, Lexington, KY 40546. 
+                  
+                  
+                     
+                     
+                     
+                           
+                                 ACKNOWLEDGMENTS
+                        
+                     
+                     
+                     We thank Dr. Rick Amasino, Talila Golan, and Melissa Lehti for helpful comments on the manuscript; Dr. Mark Tucker for the
+                     BAC reporter construct; Dr. Edgar Spalding for aid in the development of the "Love-me-not" meter; and Claudia Lipke and Heidi
+                     Barnhill for assistance with plant photography and scanning electron microscopy, respectively. This research was supported
+                     by grants from the University of Wisconsin–Madison Graduate School, the National Science Foundation (No. DCB-9105527), and
+                     the U.S. Department of Agriculture (No. 96-35304-3699) to D.E.F.; from the National Science Foundation (No. BIR-9403929) to
+                     Sh.E.P.; from the U.S. Department of Agriculture (No. 98-35301-7674) to A.B.B.; and by a grant to the University of Wisconsin–Madison
+                     from the U.S. Department of Energy, the National Science Foundation, and the U.S. Department of Agriculture Collaborative
+                     Program on Research in Plant Biology (No. DBI 96-02222). 
+                     
+                  
+                  
+                  
+                     
+                     Received September 15, 1999; accepted November 21, 1999.
+                     
+                  
+                  
+                  
+                     
+                     
+                     
+                           
+                                 REFERENCES
+                        TOPABSTRACTINTRODUCTIONRESULTSDISCUSSIONMETHODSREFERENCES
+                        
+                     
+                     
+                     
+                     Abeles, F.B., Morgan, P.W., and Saltveit, M.E., Jr. (1992) Ethylene in Plant Biology. San Diego, CA, Academic Press.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Bechtold, N., Ellis, J., and Pelletier, G. (1993) In planta Agrobacterium mediated gene transfer by infiltration of adult Arabidopsis thaliana plants. C. R. Acad. Sci. Ser. III Sci. Vie 360:1194-1199.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Bevan, M. (1984) Binary Agrobacterium vectors for plant transformation. Nucleic Acids Res. 12:8711-8721[Abstract/Free Full Text].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Binns, A.N. (1994) Cytokinin accumulation and action: Biochemical, genetic, and molecular approaches. Annu. Rev. Plant Physiol. Plant
+                     Mol. Biol. 45:173-196[CrossRef][Web of Science].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Bleecker, A.B., and Patterson, S.E. (1997) Last exit: Senescence, abscission, and meristem arrest in Arabidopsis. Plant Cell 9:1169-1179[CrossRef][Web of Science][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Bowman, J. (1994) Arabidopsis: An Atlas of Morphology and Development. New York, Springer-Verlag.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Butler, L. (1936) Inherited characters in the tomato. II. Jointless pedicel. J. Hered. 37:25-26.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Flanagan, C.A., and Ma, H. (1994) Spatially and temporally regulated expression of the MADS-box gene AGL2 in wild-type and mutant Arabidopsis flowers. Plant Mol. Biol. 26:581-595[CrossRef][Web of Science][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Gan, S., and Amasino, R. (1995) Inhibition of leaf senescence by autoregulated production of cytokinin. Science 270:1986-1988[Abstract/Free Full Text].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Grbic, V., and Bleecker, A.B. (1995) Ethylene regulates the timing of leaf senescence in Arabidopsis.. Plant J. 8:595-602[CrossRef][Web of Science].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Gu, Q., Ferrándiz, C., Yanofsky, M.F., and Martienssen, R. (1998) The FRUITFULL MADS-box gene mediates cell differentiation during Arabidopsis fruit development. Development 125:1509-1517[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Heck, G.R., Perry, S.E., Nichols, K.W., and Fernandez, D.E. (1995) AGL15, a MADS domain protein expressed in developing embryos. Plant Cell 7:1271-1282[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Hempel, F.D., Weigel, D., Mandel, M.A., Ditta, G., Zambryski, P.C., Feldman, L.J., and Yanofsky, M.F. (1997) Floral determination and expression of floral regulatory genes in Arabidopsis.. Development 124:3845-3853[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Hensel, L.L., Nelson, M.A., Richmond, T.A., and Bleecker, A.B. (1994) The fate of inflorescence meristems is controlled by developing fruits in Arabidopsis.. Plant Physiol. 106:863-876[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Irish, V.F., and Sussex, I.M. (1990) Function of the apetala-1 gene during Arabidopsis floral development. Plant Cell 2:741-753[Abstract/Free Full Text].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Jack, T., Fox, G.L., and Meyerowitz, E.M. (1994) Arabidopsis homeotic gene APETALA3 ectopic expression: Transcriptional and posttranscriptional regulation determine floral organ identity. Cell 76:703-716[CrossRef][Web of Science][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Jack, T., Sieburth, L., and Meyerowitz, E. (1997) Targeted misexpression of AGAMOUS in whorl 2 of Arabidopsis flowers. Plant J. 11:825-839[CrossRef][Web of Science][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Klee, H., and Estelle, M. (1991) Molecular genetic approaches to plant hormone biology. Annu. Rev. Plant Physiol. Plant Mol. Biol. 42:529-551[CrossRef][Web of Science].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Koehler, S.M., Matters, G.L., Nath, P., Kemmerer, E.C., and Tucker, M.L. (1996) The gene promoter for a bean abscission cellulase is ethylene-induced in transgenic tomato and shows high sequence
+                     conservation with a soybean abscission cellulase. Plant Mol. Biol. 31:595-606[CrossRef][Web of Science][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Koltunow, A.M., Pruettner, J., Cox, K.H., Wallroth, M., and Goldberg, R.B. (1990) Different temporal and spatial gene expression patterns occur during anther development. Plant Cell 2:1201-1224[Abstract/Free Full Text].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Krizek, B.A., and Meyerowitz, E.M. (1996) The Arabidopsis homeotic genes APETALA3 and PISTILLATA are sufficient to provide the B class organ identity function. Development 122:11-22[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Lanahan, M.B., Yen, H.-C., Giovannoni, J.J., and Klee, H.J. (1994) The Never ripe mutation blocks ethylene perception in tomato. Plant Cell 6:521-530[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Liljegren, S.J., Ferrándiz, C., Alvarez-Buylla, E.R., Pelaz, S., and Yanofsky, M.F. (1998) Arabidopsis MADS-box genes involved in fruit dehiscence. Flowering Newsl. 25:9-19.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Ma, H. (1998) To be, or not to be, a flower-control of floral meristem identity. Trends Genet. 14:26-32[CrossRef][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Mandel, M.A., and Yanofsky, M.F. (1995a) The Arabidopsis AGL8 MADS box gene is expressed in inflorescence meristems and is negatively regulated by APETALA1.. Plant Cell 7:1763-1771[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Mandel, M.A., and Yanofsky, M.F. (1995b) A gene triggering flower formation in Arabidopsis.. Nature 377:522-524[CrossRef][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Mandel, M.A., Bowman, J.L., Kempin, S.A., Ma, H., Meyerowitz, E.M., and Yanofsky, M.F. (1992a) Manipulation of flower structure in transgenic tobacco. Cell 71:133-143[CrossRef][Web of Science][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Mandel, M.A., Gustafson-Brown, C., Savidge, B., and Yanofsky, M.F. (1992b) Molecular characterization of the Arabidopsis floral homeotic gene APETALA1.. Nature 360:273-277[CrossRef][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Michaels, S.D., and Amasino, R.M. (1999) Flowering Locus C encodes a novel MADS domain protein that acts as a repressor of flowering. Plant Cell 11:949-956[Abstract/Free Full Text].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Mizukami, Y., and Ma, H. (1992) Ectopic expression of the floral homeotic gene AGAMOUS in transgenic Arabidopsis plants alters floral organ identity. Cell 71:119-131[CrossRef][Web of Science][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Murashige, T., and Skoog, F. (1962) A revised medium for rapid growth and bioassays with tobacco tissue cultures. Physiol. Plant. 15:473-497[CrossRef].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Osborne, D.J. (1989) Abscission. Curr. Rev. Plant Sci. 8:103-129.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Patterson, S.E. (1998). Characterization of Delayed Floral Organ Abscission and Cell Separation in Arabidopsis thaliana L. Heynh. PhD Dissertation (Madison, WI: University of Wisconsin).
+                     
+                  
+                  
+                  
+                     
+                     
+                     Pellegrini, L., Tan, S., and Richmond, T.J. (1995) Structure of serum response factor core bound to DNA. Nature 376:490-498[CrossRef][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Perry, S.E., Nichols, K.W., and Fernandez, D.E. (1996) The MADS domain protein AGL15 localizes to the nucleus during early stages of seed development. Plant Cell 8:1977-1989[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Perry, S.E., Lehti, M.D., and Fernandez, D.E. (1999) The MADS-domain protein AGAMOUS-like 15 accumulates in embryonic tissues with diverse origins. Plant Physiol. 120:121-129[Abstract/Free Full Text].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Poethig, R.S. (1997) Leaf morphogenesis in flowering plants. Plant Cell 9:1077-1087[CrossRef][Web of Science][Medline].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Rick, C., and Butler, L. (1956) Phytogenetics of the tomato. Adv. Genet. 8:267-382.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Riechmann, J.L., and Meyerowitz, E.M. (1997) MADS domain proteins in plant development. Biol. Chem. 378:1079-1101.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Rounsley, S.D., Ditta, G.S., and Yanofsky, M.F. (1995) Diverse roles for MADS box genes in Arabidopsis development. Plant Cell 7:1259-1269[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Scott, R., Hodge, R., Paul, W., and Draper, J. (1991) The molecular biology of anther differentiation. Plant Sci. 80:167-191[CrossRef].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Smyth, D.R., Bowman, J.L., and Meyerowitz, E.M. (1990) Early flower development in Arabidopsis.. Plant Cell 2:755-767[Abstract/Free Full Text].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Telfer, A., and Poethig, R.S. (1994) Leaf development in Arabidopsis.. In Meyerowitz E.M., Somerville C.R., eds. Arabidopsis. Cold Spring Harbor, NY, Cold Spring Harbor Laboratory Press. 379–401.pp.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Telfer, A., Bollman, K.M., and Poethig, R.S. (1997) Phase change and the regulation of trichome distribution in Arabidopsis thaliana.. Development 124:645-654[Abstract].
+                     
+                  
+                  
+                  
+                     
+                     
+                     Thomas, B. (1993) Internal and external controls on flowering. In The Molecular Biology of Flowering, B.R. Jordan, ed. Wallingford,
+                     UK, CAB International, pp. 1–19.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Tucker, M.L., Sexton, R., del Campillo, E., and Lewis, L.N. (1988) Bean abscission cellulase: Characterization of a cDNA clone and regulation of gene expression by ethylene and auxin.
+                     Plant Physiol. 88:1257-1262[Abstract/Free Full Text].
+                     
+                  
+                  
+                  
+                     
+                     
+                     van Doorn, W.G., and Stead, A.D. (1997) Abscission of flowers and floral parts. J. Exp. Bot. 48:821-837.
+                     
+                  
+                  
+                  
+                     
+                     
+                     Zhang, H., and Forde, B.G. (1998) An Arabidopsis MADS box gene that controls nutrient-induced changes in root architecture. Science 279:407-409[Abstract/Free Full Text].
+                     
+                  
+                  
+               
+      
+    
+  

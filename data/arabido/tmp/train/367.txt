@@ -1,0 +1,1280 @@
+
+  
+    
+      
+        Keywords:
+        
+          
+            AP2-type transcription factor;
+            DNA binding;
+            fatty acid synthesis;
+            microarray;
+            seed oil
+          
+        
+      
+      
+        
+          Summary
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          Although an APETALA2 (AP2)-type transcription factor, WRINKLED1 (WRI1), has been shown to be required for accumulation of triacylglycerols (TAGs) in Arabidopsis seeds, its direct target genes have not been established. Overexpression of WRI1 up-regulated a set of genes involved in fatty acid (FA) synthesis in plastids, including genes for a subunit of pyruvate kinase (Pl-PKβ1), acetyl-CoA carboxylase (BCCP2), acyl carrier protein (ACP1), and ketoacyl-acyl carrier protein synthase (KAS1), while expression of these genes is reduced in mutants with reduced WRI1 expression. Transient expression of LUC reporter genes with the proximal sequences upstream from the ATG codon of Pl-PKβ1, BCCP2, and KAS1 in protoplasts was activated by co-expression of WRI1, and recombinant WRI1 bound to these upstream sequences in vitro. The seven WRI1 binding sites shared a sequence [CnTnG](n)7[CG], where n is any nucleotide designated as the AW-box, and mutations in AW-boxes near the transcription start site and in the 5′-untranslated region of Pl-PKβ1 abolished activation by WRI1 in protoplasts and expression during seed maturation. Although expression of genes for the synthesis of TAGs and packaging into oil bodies in the endoplasmic reticulum in developing seeds required WRI1, their expression was not up-regulated by WRI1 overexpression. Thus, WRI1 promotes the flow of carbon to oil during seed maturation by directly activating genes involved in FA synthesis and controlling genes for assembly and storage of TAG.
+        
+      
+      
+        
+          Introduction
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          The major storage lipids in oil-accumulating seeds such as Arabidopsis thaliana are triacylglycerols (TAGs), esters of glycerol and fatty acids (FAs). During seed development, incoming sucrose is cleaved to hexoses by cell wall-bound invertase (cwINV) and transported into cells, or sucrose transported into the cell is cleaved into UDP-glucose and fructose by sucrose synthase (SUS) in the cytoplasm. De novo synthesis of FAs occurs in the plastid, which imports intermediates of sugar metabolism such as glucose 6-phosphate (Glu6P) and phosphoenolpyruvate (PEP) from the cytoplasm; the metabolic pathway for the synthesis of FAs in plants has been extensively studied (Ohlrogge and Browse, 1995; Rawsthorne, 2002; Nishida, 2005). The C16:0, C16:1 and C18:1 FAs synthesized in plastids (Nishida, 2005) are further elongated and/or desaturated in the endoplasmic reticulum (ER), where the assembly of TAGs occurs through stepwise acylation of a glycerol backbone (Ohlrogge and Browse, 1995). The final step of TAG assembly is catalyzed by acyl-CoA:diacylglycerol acyltransferase (TAG1/DGAT1; Routaboul et al., 1999; Zou et al., 1999), and TAGs are finally coated with oleosins to form oil bodies (Huang, 1996).
+        
+        
+          In Arabidopsis, developing seeds first accumulate starch, which is later degraded, and oil accumulation occurs with the accumulation of seed storage proteins during the late maturation phase (Baud et al., 2002; Ruuska et al., 2002; Hills, 2004). LEAFY COTYLEDON1 (LEC1) and LEC2, FUSCA3 (FUS3), and ABSCISIC ACID INSENSITIVE3 (ABI3), function as the master regulators of embryogenesis and seed maturation (Parcy et al., 1997; Lotan et al., 1998; To et al., 2006). Mutants of these LEC-type transcription factors show defective seed maturation with reduced accumulation of seed storage proteins and TAGs, while their ectopic expression in early vegetative seedlings causes the synthesis of seed storage compounds (Kagaya et al., 2005; Santos et al., 2005; Braybrook et al., 2006).
+        
+        
+          Seeds of the wrinkled1 (wri1) mutant show 80% reduction in TAGs compared with the wild type and accumulate sucrose (Focks and Benning, 1998). WRI1 is an APETALA2 (AP2)-type transcription factor with two AP2 DNA-binding domains (Cernac and Benning, 2004). The ACTIVATOR of SPOmin:LUC1 (ASML1) identified from an enhancer activation-tagged mutant that overexpresses a sugar-inducible luciferase (LUC) reporter gene was identical with WRI1 (Masaki et al., 2005). Expression of WRI1 occurs during seed development (Cernac and Benning, 2004; Masaki et al., 2005), and expression of genes involved in glycolysis and lipid synthesis in developing seeds is compromised in wri1 mutants (Ruuska et al., 2002). WRI1 functions downstream of LEC1 and LEC2, and ectopic expression of LEC1, LEC2, or WRI1 in vegetative tissues up-regulates the expression of genes involved in FA synthesis (Baud et al., 2007; Mu et al., 2008). To understand the role of WRI1 in the regulation of seed oil accumulation and in seed maturation and germination it is important to identify direct targets of WRI1 and its binding site sequences. Although DNA binding of one of the AP2-type transcription factors, AINEGMENTA (ANT; Elliott et al., 1996; Klucher et al., 1996), has been characterized (Nole-Wilson and Krizek, 2000; Krizek, 2003), direct target genes of ANT and other AP2-type transcription factors have not been identified so far.
+        
+        
+          In the present study we show that many genes involved in various steps of FA synthesis in plastids are the direct targets of WRI1 during seed maturation. The proximal upstream regions of these genes contain a conserved sequence, designated as the AW-box, to which WRI1 binds. Many WRI1 targets involved in FA synthesis are genes with TATA-less promoters, and many AW-boxes are located near the transcription start site (TSS) and in the 5′-untranslated region (5′-UTR) of these genes. The AW-boxes located at TSS and in the 5′-UTR of the Pl-Pkβ1 gene are found to be necessary for activation by WRI1 and expression during seed maturation.
+        
+      
+      
+        
+          Results
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          Overexpression and reduced expression of WRI1
+          
+            The asml1 mutant of A. thaliana derived from the sGsL transgenic line of the Col-0 wild type that expresses the Spomin:GUS-Spomin:LUC sugar-inducible dual reporter genes, is a gain-of-function mutant with an insertion of four copies of the 35S enhancer in the 152 bp upstream of the ATG codon of WRI1 (Figure 1a; Masaki et al., 2005). In addition to the amsl1 mutant, we used the sGsL line transformed with 35S:ASML1 (Masaki et al., 2005) as plants that overexpress WRI1. Compared with the sGsL line, 2-week-old seedlings of the asml1 and the 35S:ASML1 OX-7 line expressed on average 55-fold and 15-fold, respectively, higher levels of WRI1 mRNA (Figure 1b), as determined by quantitative real-time PCR (qRT-PCR). In the present study, the asml1 mutant and the 35S:ASML1 OX-7 line are referred to as Enh-WRI1 and 35S-WRI1, respectively.
+          
+          
+            
+              Figure 1.  Mutant and transgenic lines of WRI1. (a) The Enh-WRI1 line (asml1) containing the 35S enhancer in the upstream region of WRI1 and the 35S-WRI1 line OX-7 of sGsL have been described previously (Masaki et al., 2005). The wri1-10 mutant contains a fragment of T-DNA in the sixth intron of WRI1. (b) Levels of WRI1 mRNA in 2-week-old seedlings of sGsL, Enh-WRI1, and 35S-WRI1 were determined by qRT-PCR using primer set a shown in (a). Results represent the average and SD of data with three independent isolations of RNA. (c) Left: levels of WRI1 mRNA in Col-0 and wri1-10 siliques 3–5 days after flowering were determined by qRT-PCR using primer set a shown in (a). Results represent the average and SD of data with three independent isolations of RNA. Right: full-length WRI1 cDNAs were amplified by RT-PCR using primer set b shown in (a), and run on an agarose gel. (d) Seeds of Col-0 and wri1-10 observed under a scanning electron microscope. Bars indicate 100 μm. (e) Lipids isolated from equal number of sGsL and wri1-10 seeds were separated by TLC. Two independently isolated samples were analyzed and the arrowhead indicates the position of triacylglycerols.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+          
+            Among Arabidopsis lines with T-DNA insertions in various regions of WRI1, wri1-10 obtained from one of the GABI-Kat T-DNA insertion lines (GABI-Kat 109D06; Li et al., 2003) contained a fragment of T-DNA inserted within the 1.6 kb-long sixth intron of WRI1 (Figure 1a). The level of WRI1 mRNA in siliques of homozygous wri1-10 mutant 3–5 days after flowering (DAF) was about 10% of that in the sGsL line (Figure 1c). Real-time-PCR with primer sets b (Figure 1a) of RNA samples from wri1-10 resulted in amplification of cDNA that is identical in sequence with cDNA obtained from Col-0 (Figure 1c). It is suggested that insertion of truncated T-DNA causes inefficient splicing of the sixth intron in wri1-10. Similar to wri1-1 (Focks and Benning, 1998), seeds of homozygous wri1-10 mutant were wrinkled with an irregular shape (Figure 1d) and contained reduced TAGs compared with Col-0 seeds (Figure 1e).
+          
+        
+        
+          Transcripts up-regulated in seedlings that overexpress WRI1
+          
+            Previous microarray studies with 15% of the total Arabidopsis genes suggested that the wri1 mutant shows reduced expression of genes involved in glycolysis and lipid synthesis during seed development (Ruuska et al., 2002). We performed global expression analysis with RNAs isolated from 2-week-old seedlings of sGsL, Enh-WRI1, and 35S-WRI1 lines. Two independent RNA samples from each line were analysed with the Affymetrix Arabidopsis ATH1 oligo-array covering approximately 24 000 genes. We selected genes whose average mRNA levels in the Enh-WRI1 and 35S-WRI1 seedlings were both more than 1.5-fold compared with the average level in the sGsL seedlings, and eliminated genes whose expression levels were below the threshold level and genes that were not expressed in fruits according to the public database (AtGenExpress-Expression Atlas of Arabidopsis Development; Schmid et al., 2005).
+          
+          
+            The MapMan display (Thimm et al., 2004) indicated that the selected genes are enriched with genes required for FA synthesis in plastids (Figure S1a in Supporting Information). These genes code for proteins that function in various metabolic steps for FA synthesis (Figure S1b), such as the uptake of Glu6P (Glu6P/phosphate translocator, GPT2; Niewiadomski et al., 2005) and PEP (PEP/phosphate translocator, PPT/CUE1; Knappe et al., 2003) into plastids, the synthesis of acetyl-CoA, such as subunits of pyruvate (Pyr) kinase (Pl-PKα, Pl-PKβ1, and Pl-PKβ2; Andre et al., 2007) and Pyr dehydrogenase (PDHE1α, PDHE1β1, and PDHE1β2), and the synthesis of malonyl-CoA, such as acetyl-CoA carboxylase (ACCase; BCCP2, CAC2, and ACC2). They also included genes for acyl-carrier proteins (ACPs; ACP1 and ACP5), malonyl-CoA:ACP malonyltransferase (At2g30200), three classes of ketoacyl-ACP synthases (KAS; KAS1, KAS2, and KAS3), hydroxyacyl-ACP dehydrase (At2g22230 and At3g10160), enoyl-ACP reductase (ENR1), stearoyl-ACP desaturase (At3g02630 and At5g16240), and acyl-ACP thioesterase (FatA). Genes involved in the synthesis of lipoic acid, a cofactor of Pyr dehydrogenase, were also activated as reported (Baud et al., 2007). Thus, overexpression of WRI1 activates many genes involved in various steps of FA synthesis in plastids. On the other hand, expression of TGA1/DGAT1 for the assembly of TAGs in the ER (Routaboul et al., 1999; Zou et al., 1999) was not elevated by WRI1 overexpression. Similarly, expression of genes for seed-type oleosins and caleosins, except for OleS5 encoding a minor seed-type oleosin (Frandsen et al., 2001), was not enhanced by WRI1 overexpression.
+          
+        
+        
+          Verification of the microarray data
+          
+            The levels of representative mRNAs in the Enh-WRI1 and 35S-WRI1 seedlings were determined by qRT-PCR. In addition, we also examined each mRNA level in siliques containing developing seeds of wri1-10 and Col-0. As shown in Figure 2(a), the mRNA levels for Pl-PKβ1, ACP1, BCCP2, KAS1, KAS2, KAS3, and 30AR (for ketoacyl-ACP reductase; At1g24360) were all higher in the Enh-WRI1 and 35S-WRI1 seedlings compared with those in the sGsL seedlings. On the other hand, they were low in wri1-10 siliques compared with sGsL. These results suggest that expression of genes involved in FA synthesis in developing seeds requires WRI1, and overexpression of WRI1 in seedlings causes enhanced expression of these genes. By contrast, expression of SUS2, TAG1, and OleS3 was not elevated by WRI1 overexpression, despite the mRNAs for these genes being reduced in wri1-10 (Figure 2c). Baud et al. (2007) recently reported similar results for Pl-PKβ1, PDHE1α, BCCP2, ENR1, and SUS2.
+          
+          
+            
+              Figure 2.  Genes regulated by WRI1. (a) Total RNA isolated from 2-week-old seedlings of the sGsL (), Enh-WRI1 (), and 35S-WRI1 (), or from siliques of sGsL (), and wri1-10 () 3–5 days after flowering, was used to determine the levels of mRNAs for genes involved in FA synthesis in plastids by qRT-PCR. Results represent the average and SD of data with two independent isolations of RNA. (b) Top: proteins extracted from 2-week-old seedlings of sGsL, 35S-WRI1, Enh-WRI1, and wri1-10 were separated on SDS-PAGE and blotted with anti-biotin antibody. Bottom: intensity of the band of BCCP2 was quantified, and the averages and SD of two independent experiments are shown. (c) The levels of mRNAs for SUS2, TAG1, and OleS3. RNA isolation and quantification were the same as in (a). (d) Expression profiles of various genes during seed development. Data were taken from AtGenExpress, Expression Atlas of Arabidopsis Development: 1, mid globular (Development_76); 2, early heart (Development_077); 3, late heart (Development_078); 4, mid torpedo (Development_079); 5, late torpedo (Development_081); 6, walking stick (Development_082); 7, curled cotyledon (Development_083); 8, green cotyledon (Development_084).
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+          
+            We extracted proteins from 2-week-old seedlings, and the biotin-containing proteins were detected by immunoblotting with an anti-biotin antibody (Thelen and Ohlrogge, 2002). The amounts of the 25-kDa BCCP2 protein detected by the antibody in the 35-WRI1 and Enh-WRI1 seedlings were 10- and 45-fold higher than the sGsL seedlings, while it was significantly reduced in wri1-10 seedlings (Figure 2b).
+          
+          
+            WRI1 expression occurred most strongly during the late heart to late torpedo stages of seed development (Cernac and Benning, 2004). According to the available database (AtGenExpress-Expression Atlas of Arabidopsis Development; Schmid et al., 2005), expression patterns of mRNA for genes involved in FA synthesis, namely Pl-PKβ1, PDHE1α, BCCP2, ACP1, and KAS1, during seed development were similar to the expression pattern of WRI1 mRNA (Ruuska et al., 2002; Figure 2d). These mRNA levels declined in the late seed maturation stage. The peak of accumulation of FAE1 mRNA slightly lagged behind those of mRNAs involved in FA synthesis and retained a high level in the later stages. SUS2 mRNA showed a peak similar to the peak of FAE1 mRNA. Levels of mRNAs for TAG1 and OleS3, as well as At2S3 for seed storage protein, continued to increase in the later stages of seed maturation.
+          
+        
+        
+          Transactivation of genes involved in FA synthesis by WRI1 in protoplasts
+          
+            In transient expression of LUC reporters with the 1200-bp sequence upstream from the ATG codon of various genes in protoplasts derived from Arabidopsis T87 cells (Axelos et al., 1992), co-expression of WRI1 strongly transactivated LUC reporters with the upstream sequence from genes involved in FA synthesis (Figure 3a). In particular, co-expression of WRI1 showed on average 20- to 140-fold transactivation of Pl-PKβ1:LUC and BCCP2:LUC, and 5- to 10-fold transactivation of KAS1:LUC and ACP1:LUC reporters. Co-expression of WRI1 also showed 5- to 10-fold transactivation of LUC reporters with the upstream sequences from cwINV2 and SUS2, while the upstream sequences from SUC5, HXK1, TAG1, OleS3, At2S3, and WRI1 were not strongly transactivated by co-expression of WRI1.
+          
+          
+            
+              Figure 3.  Transactivation of LUC reporter genes by WRI1 in Arabidopsis protoplasts. (a) Protoplasts were co-transfected with the LUC reporter plasmid with the 1200-bp upstream regions of genes indicated, the 35S:WRI1 effector plasmid and the 35S:hRLUC internal control plasmid. As a control, an empty vector was used instead of the 35S:WRI1 effector. The LUC activity in each assay was normalized to the hRLUC activity, and the normalized LUC activities are expressed relative to values obtained with the empty vector. Results represent the means of three or four experiments, with the error bars representing SD. The red bar indicates average transactivation by WRI1 of more than three-fold. (b) The WRI1-dependent transactivation of the LUC reporter genes with the 300- or 404-bp truncated upstream regions of Pl-PKβ1, BCCP2, KAS1, and SUS2 were compared with those obtained with the 1200-bp upstream regions. Results represent means of relative activation by WRI1 in three or four experiments with the error bar representing SD. (c) The nucleotide sequence of the proximal upstream regions. The ATG codon is indicated in red letters, and the sequence of the 5′-UTR is indicated in blue letters. The transcription start site of SUS2 is unknown. The AW-box sequences are indicated by boxes.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+          
+            Similar to the 1200-bp sequence upstream from the ATG codon of Pl-PKβ1, KAS1, and BCCP2, the 300-bp upstream sequences of these genes were sufficient for transactivation by WRI1 (Figure 3b). Activation of the SUS2 promoter by WRI1 was also observed with the 404-bp upstream sequence. These results suggest that WRI1 acts on proximal upstream regions of Pl-PKβ1, KAS1, BCCP2, and SUS2.
+          
+          
+            Of the 300-bp proximal upstream regions of Pl-PKβ1, KAS1, and BCCP2, the 5′-UTR of the most dominant transcript covered 137, 102, and 123 bp, respectively, of these TATA-less genes, according to the transcription start site (TSS) peak analysis on the Plant Promoter Database (http://www.ppdb.gene.nagoya-u.ac.jp/; Yamamoto and Obokata, 2007; Figure 3c). Information about the TSS of SUS2 was not available. The 300-bp proximal upstream regions of Pl-PKβ1, KAS1, BCCP2, and SUS2 contained one or two conserved sequences in which [TnCnG], where n is any nucleotide and [CG] motifs were separated by 7 bp.
+          
+        
+        
+          WRI1 binds to the conserved AW-box sequences in the proximal upstream region of genes involved in FA synthesis
+          
+            Recombinant WRI1 fused with glutathione S-transferase (GST–WRI1) was purified from Escherichia coli and cleaved with thrombin to release WRI1 (48 kDa) from the GST tag (Figure 4a). The binding of WRI1 to 32P-labeled DNA fragments was examined by electrophoretic mobility shift assay (EMSA). Addition of WRI1 to 200- or 300-bp DNA fragments that cover upstream sequences of Pl-PKβ1, KAS1, BCCP2, and SUS2 resulted in the formation of shifted bands (Figure 4b). In the case of upstream fragments from Pl-PKβ1, KAS1, and BCCP2, two major shifted bands appeared with increasing amount of WRI1, suggesting that the WRI1 binds to two sites.
+          
+          
+            
+              Figure 4.  Binding of WRI1 to the proximal upstream regions of genes involved in FA synthesis. (a) Recombinant WRI1 produced in E. coli (arrowhead, lane 2) with size markers (lane 1). (b) EMSA of probes covering 200- or 300-bp sequences upstream from the ATG codon of Pl-PKβ1, KAS1, BCCP2, or SUS2 with increasing amounts of WRI1. Positions of free (▹) and the shifted bands () are indicated. (c) The EMSA of 40-bp probes covering various regions of Pl-PKβ1(−200/−1) with or without 0.8 μg WRI1. (d) Competition of WRI1 binding with the Pl-PKβ1 probe. Shown is the EMSA of the binding of 0.8 μg WRI1 with the Pl-PKβ1(−135/−96) probe in the presence of 100-, 200-, and 400-fold amounts of the unlabeled Pl-PKβ1(−135/−96) fragment (Pl-PK) or 40-bp fragment derived from the GUS coding sequence (GUS) as a competitor. (e) The EMSA of 24-bp sequences covering various 5′-upstream regions of Pl-PKβ1, KAS1, BCCP2, and SUS2 with increasing amounts of WRI1. (f) Sequences conserved among the WRI1-binding sites. The sequences conserved among the 24-bp probes used in (e) are indicated in gray.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+          
+            When a 200-bp fragment covering the sequence upstream from ATG of Pl-PKβl, referred to as Pl-PKβ1(−200/−1), was divided into six overlapping fragments of 40 bp each, WRI1 showed binding to only Pl-PKβ1(−165/−126) and Pl-PKβ1(−135/−96) (Figure 4c). The binding of WRI1 to 32P-labeled Pl-PKβ1(−135/−96) probe competed with the excess amount of unlabeled Pl-PKβ1(−135/−96), but not with the unrelated fragment from the GUS coding region (Figure 4d). WRI1 also showed binding to two non-overlapping 24-bp fragments Pl-PKβ1(−155/−132) and Pl-PKβ1(−124/−101) (Figure 4e) covering the site 2 and site 1 conserved [TnCnG](n)7[CG] sequences, respectively (Figure 3c). Similarly, WRI1 bound to two fragments from the upstream regions of KAS1, KAS1(−165/−142) and KAS1(−62/−39), and BCCP2, BCCP2(−140/−117) and BCCP2(−34/−11). Moreover, WRI1 bound to the SUS2(−261/−238) fragment. All of these 24-bp fragments covered the conserved [CnTnG](n)7[CG] sequence in either orientation (Figure 4f). This sequence was designated the AW (ASML1/WRI1)-box.
+          
+          
+            To examine the specificity of the binding sequence of WRI1 we prepared various mutant forms of the site 1 AW-box of Pl-PKβ1(−124/−101) with a series of 4-bp mutations (Figure 5a) and a single base substitution (Figure 5b). While any mutation in the conserved nucleotides of the AW-box, [C−120-T-G−116] and [C−108G−107] caused reduced WRI1 binding, mutations between or outside the two conserved motifs showed no effect on WRI1 binding. These results suggest that both of the conserved [CnTnG] and [CG] core motifs separated by seven nucleotides are important for WRI1 binding. Two AP2 domains of WRI1 probably bind to each of these two motifs uniquely (Krizek, 2003).
+          
+          
+            
+              Figure 5.  The binding site sequence specificity of WRI1. The EMSA of the binding of 0.8 μg WRI1 with Pl-PKβ1(−124/−101) probes containing 4-bp serial mutations (a) or single mutations (b) near the two conserved motifs. Positions of the free probes (◃) and the shifted bands (◂) are indicated. Mutations that affected binding of WRI1 are indicated in red, while mutations that did not affect WRI1 binding are indicated in blue.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+        
+        
+          AW-boxes at the transcription start site and in the 5′-UTR of Pl-PKβ1 are involved in activation by WRI1 and expression during seed maturation
+          
+            The sites 1 and 2 AW-boxes of Pl-PKβ1 are located in the 5′-UTR and TSS, respectively (Figure 3c). We introduced mutations in site 1 or site 2 AW-boxes, and in both sites in Pl-PKβ1(−200/−1) (m1, m2, and m1m2, respectively; Figure 6a). The binding of WRI1 with the m1 or m2 mutant showed only one faster-migrating shifted band (Figure 6b). The double mutation (m1m2) nearly abolished the binding of WRI1.
+          
+          
+            
+              Figure 6.  The role of AW-boxes in the expression of Pl-PKβ1 promoter. (a) The 5-bp mutations in the site 1 (m1) and site 2 (m2) AW-box in the Pl-PKβ1(−200/−1) fragment. (b) The EMSA of the Pl-PKβ1(−200/−1) probes containing m1, m2, or m1m2 mutation with increasing amounts of WRI1. Positions of free (▹) and the shifted bands () are indicated. (c) Transactivation of Pl-PKβ1(−200/−1):LUC with m1, m2, and m1m2 mutations by co-expression of WRI1 in protoplasts. The average activation (in folds) by WRI1 in two independent experiments is shown with the error bar representing SD. (d) Expression of Pl-PKβ1(−300/−1):GUS with m1, m2, and m1m2 mutations in developing seeds. T2 plants were used for the wild-type promoter and heterozygous T1 plants were used for plants transformed with the mutant promoter. Siliques were stained for GUS activity 5 days after flowering. The white bar represents 1 mm.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+          
+            Transactivation of the Pl-PKβ1(−200/−1):LUC reporter gene by WRI1 in protoplast was reduced by m1 or m2 mutation, and was abolished by m1m2 mutation (Figure 6c). We also examined the expression of the Pl-PKβ1 promoter during seed development. Transgenic plants with the Pl-PKβ1(−300/−1):GUS showed strong GUS expression in seeds of 5-DAF siliques (Figure 6d). We analyzed heterozygous T1 plants transformed with Pl-PKβ1(−300/−1):GUS carrying m1, m2, or m1m2 mutations in the promoter. Although m1 or m2 mutation did not abolish expression of the fusion gene in developing seeds, the double mutation abolished expression. These results indicate that both site 1 and site 2 AW-boxes function as cis-regulatory sequences.
+          
+        
+        
+          AW-boxes are conserved among genes involved in FA synthesis
+          
+            We examined the presence of an AW-box in the upstream regions of 46 genes involved in FA synthesis in plastids that are listed in the Arabidopsis Lipid Gene Database (http://lipids.plantbiology.msu.edu/?q=lipids/genesurvey/). We identified 28 AW-boxes in either strand of 1000-bp sequences upstream from the ATG codon of 19 genes. Except for two AW-boxes in ACP5, in which the TSS information was not available, locations of 26 AW boxes with respect to the most abundant TSS are shown in Figure 7(a). Out of 18 genes, 14 had TATA-less promoters (http://www.ppdb.gene.nagoya-u.ac.jp/; Yamamoto and Obokata, 2007). Similar to AW-boxes in Pl-PKβ1, BCCP2, and KAS1, which had been verified to bind WRI1, many AW-boxes were located within the 5′-UTR and in close vicinity to the TSS (Figure 7b).
+          
+          
+            
+              Figure 7.  AW-boxes in various genes involved in FA synthesis in plastids. (a) The AW-box sequences in the 5′-upstream regions of various genes. The numbers indicate the positions of the fifth nucleotide G in the AW-box, taking the first base of the most abundant transcription start site (TSS) as +1. Arrows indicate that the complementary sequences are presented. Binding of WRI1 to genes indicated in red was experimentally verified. (b) Positions of the AW-box relative to TSS, the TATA box, and the ATG codon are schematically shown. The AW-box is indicated by an arrowhead.
+              
+                Download figure to PowerPoint
+              
+            
+            
+              
+            
+          
+        
+      
+      
+        
+          Discussion
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          Genes for FA synthesis in plastids are direct targets of regulation by WRI1
+          
+            Genes involved in the de novo synthesis of FA in plastids formed the largest group of metabolic genes up-regulated by WRI1 overexpression. Proteins encoded by these genes participate in various steps of the uptake of glycolytic intermediates into plastids, conversion to acetyl-CoA and malonyl-CoA, and the synthesis of FAs from them. In addition, genes involved in the synthesis of lipoic acid, a cofactor of PDH, are also activated in both Enh-WRI1 and 35S-WRI1 plants. Similar results were reported by Baud et al. (2007). Consistent with the expression levels of WRI1 mRNA (Figure 1b), enhanced expression of genes involved in FA synthesis was more prominent in Enh-WRI1 compared with 35S-WRI1 (Figure 2a). On the other hand, mRNA levels of genes involved in FA synthesis were reduced in wri1-10.
+          
+          
+            Expression of the LUC reporter genes with the proximal upstream regions of Pl-PKβ1, BCCP2, ACP1, and KAS1 in protoplasts was transactivated by co-expression of WRI1 (Figure 3a), and recombinant WRI1 showed specific binding to the unique sequence (AW-box) within the upstream regions (Figure 4). Mutations in two AW-boxes in the upstream region of Pl-PKβ1 abolished the WRI1-binding in vitro, transactivation by WRI1 in protoplasts, and expression during seed development (Figure 6). Altogether, these results indicate that genes involved in FA synthesis in plastids are among the direct targets of WRI1 during seed development. Expression patterns of these genes involved in FA synthesis during seed development are quite similar to that of WRI1 (Figure 3d; Baud et al., 2007; Ruuska et al., 2002).
+          
+        
+        
+          WRI1 binds to the AW-box with two core motifs
+          
+            The WRI1 binding sites in the upstream regions of Pl-PKβ1, KAS1, BCCP2, and SUS2 contained the conserved AW-box sequence 5′-[CnTnG](n)7[CG]-3′ (Figure 4f), and mutational analysis of the site 1 AW-box of Pl-PKβ1 indicated that each of the five conserved nucleotides is critical for WRI1 binding (Figure 5c).
+          
+          
+            The DNA-binding activity of Arabidopsis ANT has been characterized previously. Repeated selection of random oligonucleotides that bind with a recombinant ANT fragment corresponding to two AP2 domains results in enrichment of oligonucleotides with a consensus sequence of 5′-gCAC(A/G)N(A/T)TcCC(a/g)ANG(c/t)-3′ (Nole-Wilson and Krizek, 2000). Although the AW-box sequences do not match to this sequence, there are some similarities between them. The ANT- and WRI1-binding site sequences are both longer than those for transcription factors with single AP2 domain. The 3′-half of the 16-bp ANT-binding sequence is similar to the DRE sequences (CCGAC), to which EREBP-like single AP2 domain factors binds, suggesting that two AP2 domains of ANT uniquely participate in DNA binding (Nole-Wilson and Krizek, 2000; Krizek, 2003). The opposite strand sequence of the ANT-binding consensus sequence, 5′-(g/a)CnT(t/c)GggA(A/T)n-(T/C)GTGc-3′, shows the [CnTnG] core of the AW-box in the 5′-half, while the sequence of the 3′-half is TG rather than CG in the AW-box.
+          
+          
+            The AP2-type transcription factors characterized previously act as important key regulators in meristem function and organ development. For example, AP2 is a class A floral homeotic gene (Bowman et al., 1989; Jofuku et al., 1994; Okamuro et al., 1997) and it is also involved in control of seed size (Ohto et al., 2005). ANT regulates ovule development and floral organ growth (Elliott et al., 1996; Mizukami and Fischer, 2000), and PLETHORA1 (PLT1) and PLT2 are required for stem cell specification and maintenance in the root meristem (Aida et al., 2004). The AP-2 type transcription factors from various plant species have been classified into three major lineages (Kim et al., 2006), and WRI1 and two other related factors [WRI1/ASML1-related Two-1 (WAT1; At1g16060) and -2 (WAT2; At1g79700)] of Arabidopsis are in the lineage different from the ANT lineage. Comparison of the consensus binding site sequences among AP2-type factors in different lineages is expected to elucidate the structure–function relationship of the double AP2 domain transcription factors and also to help identify their direct target genes.
+          
+        
+        
+          The AW-box in the 5′-UTR functions as a cis-element for expression during seed development
+          
+            One or two AW-box sequences were identified within the 1000-bp proximal sequence upstream of the ATG codon of 19 genes for FA synthesis in plastids (Figure 7). AW-boxes are also present in the proximal upstream regions of GPT2 (Niewiadomski et al., 2005), PPT/CUE1 (Knappe et al., 2003), and BIO2 for biotin synthesis (Arnal et al., 2006). Direct targets of WRI1 may also include genes with sequences that are slightly different from the AW-box and genes with AW-boxes in other locations. Similar to genes encoding subunits of photosynthetic apparatus in plastids (Nakamura et al., 2002), many genes involved in FA synthesis in plastids have TATA-less promoters.
+          
+          
+            Many AW-boxes are located near TSS and in the 5′-UTR of genes involved in FA synthesis, irrespective of the presence of the TATA-element (Figure 7). Mutational analysis has indicated that both site 1 and site 2 AW-boxes of Pl-Pkβ1 are functional as cis-elements for activation by WRI1 in protoplasts and for expression during seed development (Figure 6c,d). Both of the two AW-boxes in the upstream region of BCCP2 were also involved in transactivation by WRI1. It has been reported that the transcriptional activator AtPurα of Arabidopsis binds to the telo-box that is present in the 5′-UTR or near the TSS of many ribosomal protein genes, and it interacts with the TCP family transcription factor that binds to site II sequences located upstream of the telo-box (Trémousaygue et al., 2003).
+          
+        
+        
+          The role of WRI1 in expression of genes other than those involved in FA synthesis during seed development
+          
+            Expression of TAG1 and OleS3 for the synthesis and assembly into oil bodies of TAG in the ER is down-regulated in wri1-10 (Figure 2c). However, their expression in seedlings is not elevated by overexpression of WRI1 (Figure 2c), and co-expression of WRI1 in protoplast did not transactivate the TAG1:LUC and OleS3:LUC reporters (Figure 3a). The expression of TAG1 and OleS3 during seed development occurs after the peak of WRI1 expression, where WRI1 expression declines sharply (Figure 2d). The proximal upstream regions of TAG1 and genes for seed-type oleosins do not contain the typical AW-box sequence, except for OleS5 which contains one AW-box about 400 bp upstream of the ATG codon. Unlike other oleosin genes, expression of OleS5 was enhanced in both of Enh-WRI1 and the 35S-WRI1 seedlings (Figure S1b). It is suggested that expression of TAG1 and OleS3 during seed maturation requires other seed-specific factors that cooperate with WRI1 or that function downstream of WRI1.
+          
+          
+            Similar to TAG1 and OleS3, expression of SUS2 is down-regulated in wri1-10 but not up-regulated by WRI1 overexpression (Figure 2c; Baud et al., 2007). However, unlike that of TAG1 and OleS3, co-expression of WRI1 in protoplasts transactivated the SUS2:LUC reporter (Figure 3; Masaki et al., 2005) and the upstream region of SUS2 contains the AW-box (Figure 4). Although the expression pattern of SUS2 during seed development is different from those of WRI1 and genes involved in FA synthesis, it overlaps with them (Figure 2d). The expression pattern of FAE1 for fatty acyl elongation, probably in the ER, is similar to that of SUS2. Co-expression of WRI1 transactivates the FAE1:LUC reporter (Figure 3a), and the upstream region of FAE1 also contains the AW-box. These results suggest that although SUS2 and FAE1 are among the direct targets of WRI1, their expression is regulated differently from genes involved in FA synthesis.
+          
+          
+            Further analyses of the regulation of expression of WRI1 (Baud et al., 2007; Mu et al., 2008) and the targets of WRI1 during seed development are expected to shed light on the regulatory networks for the developmental control of seed maturation and oil accumulation.
+          
+        
+      
+      
+        
+          Experimental procedures
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          Plant materials and growth conditions
+          
+            Arabidopsis thaliana (L.) Heynh. (ecotype Col-0) or the sGsL line of Col-0 harboring one copy of the Spomin:GUS-Spomin:LUC dual reporter (Tsukagoshi et al., 2005) was used as the wild-type plant. The asml1 mutant of sGsL with an insertion of four copies of the 35S enhancer upstream of WRI1 and the OX-7 line of sGsL transformed with the 35S:WRI1 (previously described as 35S:ASML1; Masaki et al., 2005) were used as Enh-WRI1 and 35S-WRI1, respectively. The homozygous wri1-10 mutant with an insertion of a fragment of T-DNA in the sixth intron of WRI1 was obtained from the GABI-Kat T-DNA insertion line (GK109D06) by genotyping using the following PCR primers: T-DNA border, 5′-CCCATTTGGACGTGAATGTAGACAC-3′; genomic primer pair, 5′-GAGAGTTTTGACATCATGTCCCTTTAATTG-3′ and 5′-GAGATGTGAGCGTGTACAAAGACCATTT-3′.
+          
+          
+            Seeds were kept at 4°C for 4 days, sterilized in sterile water, and sown on 0.3% gellan gum plates containing Murashige–Skoog medium (pH 5.8), 100 mg L−1 myo-inositol, 10 mg L−1 thiamine–HCl, 1 mg L−1 nicotinic acid, 1 mg L−1 pyridoxine–HCl, and 1% sucrose. Plates were incubated in a growth chamber at 22°C under continuous fluorescent light at an intensity of 65 μmol m−2 sec−1.
+          
+        
+        
+          Preparation of RNA and qRT-PCR
+          
+            Total RNA was isolated from the seedlings or tissues using a RNeasy Plant Mini kit (Qiagen, http://www.qiagen.com/). For qRT-PCR, cDNA was synthesized from 2.5 μg total RNA, that had been treated with DNaseI, using Superscript III (Invitrogen, http://www.beta.invitrogen.com/). The qRT-PCR was performed with iQ SYBR Green Supermix and iCycler iQ system (Bio-Rad, http://www.bio-rad.com/), and the comparative threshold cycle method was used to determine relative mRNA levels with ACT2 mRNA as an internal reference. The optimal conditions for the annealing temperature and the number of cycles were selected for each mRNA. The primer sets used are listed in Table S1(a).
+          
+        
+        
+          Microarray analysis
+          
+            Total RNA used for microarray analysis was prepared from the aboveground tissues of 2-week-old seedlings of the sGsL, Enh-WRI1, and 35S-WRI1 lines using TRIzol reagent (Invitrogen), and subsequently purified using a RNeasy Plant Mini kit. The quality of the RNA samples was assessed with Agilent 2100 Bioanalyzer (Agilent Technologies, http://www.chem.agilent.com/), and two biological replicate samples were used for each genotype. Each RNA sample was processed to produce biotin-labeled cRNA and fragmented to an average strand length of 100 bases (range 35–200 bases) according to the manufacturer’s instructions (GeneChip Expression Analysis Technical Manual; Affymetrix, http://www.affymetrix.com/). After these cRNAs were hybridized to an Affymetrix GeneChip ATH1, chips were washed, stained with streptavidin–phycoerythrin, and scanned. GeneChip Operating Software 1.2 (Affymetrix) was used for basic data analysis to obtain signal intensity and detection calls, i.e. ‘present’ (P), ‘marginal’ (M), and ‘absent’ (A), and GeneSpring GX 7.3 (Agilent Technologies) was used for further data analysis including normalization. After values of <0.01 were set to 0.01, data from each chip were normalized to the 50th percentile of values from that chip. We used only a set of genes for which the detection call was P or M in at least two of the four samples in each experiment. The data files have been deposited in a public microarray database (http://www.ebi.ac.uk/microarray-as/ae/) under accession number E-MEXP-2053.
+          
+        
+        
+          Protein extraction and immunological detection
+          
+            Proteins were extracted from leaves of 2-week-old seedlings using the P-PER plant protein extraction kit (Pierce, http://www.piercenet.com/), and quantified by the dye-binding method (Bio-Rad protein assay kit; Bio-Rad) with bovine serum albumin as a standard. Proteins separated by SDS-PAGE were transferred to a membrane (Immobilon-P; Millipore, http://www.millipore.com/), and the biotin-containing polypeptides were detected by horseradish peroxidase-coupled antibody against anti-biotin IgG (Cell Signaling Technology, http://www.cellsignal.com/) and SuperSignal West Femto chemiluminescent substrate (Pierce). Signal intensities were quantified using LAS-3000 MINI (Fuji Film, http://www.fujifilm.com/).
+          
+        
+        
+          Lipid extraction and analysis
+          
+            Lipids were extracted from seeds or seedlings with chloroform:methanol (2:1), and dissolved in chloroform. An aliquot corresponding to five seeds was spotted on a TLC plate (Silica Gel 60 F254; Merck, http://www.merck.com/) and developed with hexan:diethyl ether: acetic acid (4:1:0.05, v/v/v). Glyceryl trilinoleate (Sigma, http://www.sigmaaldrich.com/) was used as a standard for TAG.
+          
+        
+        
+          Transient expression assay in protoplasts
+          
+            The 35S:WRI1 plasmid (35S-ASML1 in Masaki et al., 2005) was used as an effector plasmid and an empty vector without cDNA was used as a negative control. To construct various LUC reporter plasmids, the 1200-bp sequence upstream of the ATG codon of each gene was amplified by PCR using primer sets listed in Table S1(b), and the amplified DNA sequence was introduced into pUGW35 (Nakagawa et al., 2007). As an internal control, we constructed the 35S:hRLUC plasmid for the expression of hRluc. For this, the 35S promoter and nos terminator from pBI121 (Jefferson et al., 1987) were cloned into pUC119 to produce p35Snos empty vector, and the cDNA for hRluc from pGL4.70 (Promega, http://www.promega.com) was placed between the 35S promoter and nos terminator.
+          
+          
+            Protoplasts prepared from the Arabidopsis T87 suspension-cultured cells (Axelos et al., 1992) were transfected with plasmid DNA by a modified polyethylene glycol method (Kovtun et al., 2000). A suspension of protoplasts (150 μl; 105 protoplasts per ml) was co-transfected with 15 μg each of the LUC reporter and the 35S:WRI1 effector plasmid DNAs, and 5 μg of the 35S:hRLUC internal control plasmid. The protoplasts were incubated at 22°C for 20 h before collection and measurement of reporter activities. The LUC and hRLUC activities were measured using the Dual-Luciferase Reporter Assay system (Promega) and Luminoskan Ascent (Thermo Scientific, http://www.thermo-reading-room.com/index.htm). The LUC activity was normalized according to the hRLUC activity in each assay, and the relative ratio was determined by comparing this ratio with that obtained with the empty vector. The mean relative ratios were calculated from three to four independent experiments.
+          
+        
+        
+          Recombinant WRI1 and the electrophoretic mobility shift assay (EMSA)
+          
+            The recombinant GST–WRI1 fusion protein was expressed in E. coli BL21(DE3) using pGEX-4T-1 vector (GE Healthcare, http://www.gehealthcare.com/) and purified from cells according to the manufacturer’s instructions. The purified GST–WRI1 was treated with thrombin to release GST from WRI1.
+          
+          
+            The electrophoretic mobility shift assay (EMSA) was performed as described previously (Maeo et al., 2001) with slight modifications. The standard binding reaction (20 μl) contained 1 μg poly(dI-dC), 15 mm HEPES–KOH (pH 7.5), 7.5 mm KCl, 0.5 mm EDTA, 6% glycerol, 2 mm dithiothreitol, and 104 c.p.m. of DNA probe end-labeled with 32P (approximately 100 pg) and recombinant WRI1 (0.4 or 0.8 μg). The reaction mixture was incubated at 25°C for 30 min, and analyzed by polyacrylamide gel electrophoresis followed by autoradiography.
+          
+        
+      
+      
+        
+          Acknowledgements
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          The authors thank members of Nakamura Laboratory for their valuable discussions and Terumi Nishii for her technical assistance. This work was supported in part by a Grant-in-Aid for Scientific Research and the Global COE Program from the Japan Society for the Promotion of Science and a grant from Toyota Genesis Research Institute to K.N.
+        
+      
+      
+        
+          References
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          
+              Aida, M., Beis, D., Heidstra, R., Willemsen, V., Blilou, I., Galinha, C., Nussaume, L., Noh, Y.S., Amasino, R. and Scheres, B. (2004) The PLETHORA genes mediate patterning of the Arabidopsis root stem cell niche. Cell, 119, 109–120. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 170
+              
+            
+            
+          
+          
+              Andre, C., Froehlich, J.E., Moll, M.R. and Benning, C. (2007) A heteromeric plastidic pyruvate kinase complex involved in seed oil biosynthesis in Arabidopsis. Plant Cell, 19, 2006–2022. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 25
+              
+            
+            
+          
+          
+              Arnal, N., Alban, C., Quadrado, M., Grandjean, O. and Mireau, H. (2006) The Arabidopsis Bio2 protein requires mitochondrial targeting for activity. Plant Mol. Biol.  62, 471–479. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 10
+              
+            
+            
+          
+          
+              Axelos, M., Curie, C., Mazzolini, L., Bardet, C. and Lescure, B. (1992) A protocol for transient gene expression in Arabidopsis thaliana protoplasts isolated from cell suspension cultures. Plant Physiol. Biochem.  30, 123–128. 
+            
+              CAS,
+              
+                Web of Science® Times Cited: 201
+              
+            
+            
+          
+          
+              Baud, S., Boutin, J.-P., Miquel, M., Lepiniec, L. and Rochat, C. (2002) An integrated overview of seed development in Arabidopsis thaliana ecotype WS. Plant Physiol. Biochem.  40, 151–160. 
+            
+              CrossRef,
+              CAS,
+              
+                Web of Science® Times Cited: 84
+              
+            
+            
+          
+          
+              Baud, S., Mendoza, M.S., To, A., Harscoët, E., Lepiniec, L. and Dubreucq, B. (2007) WRINKLED1 specifies the regulatory action of LEAFY COTYLEDON2 towards fatty acid metabolism during seed maturation in Arabidopsis. Plant J.  50, 825–838. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(930K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Bowman, J.L., Smyth, D.R. and Meyerowitz, E.M. (1989) Genes directing flower development in Arabidopsis. Plant Cell, 1, 37–52. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 591
+              
+            
+            
+          
+          
+              Braybrook, S.A., Stone, S.L., Park, S., Bui, A.Q., Le, B.H., Fischer, R.L., Goldberg, R.B. and Harada, J.J. (2006) Genes directly regulated by LEAFY COTYLEDON2 provide insight into the control of embryo maturation and somatic embryogenesis. Proc. Natl Acad. Sci. USA  103, 3468–3473. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science® Times Cited: 53,
+              
+                ADS
+              
+            
+            
+          
+          
+              Cernac, A. and Benning, C. (2004) WRINKLED1 encodes an AP2/EREB domain protein involved in the control of storage compound biosynthesis in Arabidopsis. Plant J.  40, 575–585. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(1089K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Elliott, R.C., Betzner, A.S., Huttner, E., Oakes, M.P., Tucker, W.Q., Gerentes, D., Perez, P. and Smyth, D.R. (1996) AINTEGUMENTA, an APETALA2-like gene of Arabidopsis with pleiotropic roles in ovule development and floral organ growth. Plant Cell, 8, 155–168. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 257
+              
+            
+            
+          
+          
+              Focks, N. and Benning, C. (1998) wrinkled1: a novel, low-seed-oil mutant of Arabidopsis with a deficiency in the seed-specific regulation of carbohydrate metabolism. Plant Physiol.  118, 91–101. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 88
+              
+            
+            
+          
+          
+              Frandsen, G.I., Mundy, J. and Tzen, J.T. (2001) Oil bodies and their associated proteins, oleosin and caleosin. Physiol. Plant.  112, 301–307. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(5496K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Hills, M.J. (2004) Control of storage-product synthesis in seeds. Curr. Opin. Plant Boil.  7, 302–308. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 25
+              
+            
+            
+          
+          
+              Huang, A.H. (1996) Oleosins and oil bodies in seeds and other organs. Plant Physiol.  110, 1055–1061. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 152
+              
+            
+            
+          
+          
+              Jefferson, R.A., Kavangh, T.A. and Bevan, M.W. (1987) GUS fusions: β-glucuronidase as a sensitive and versatile gene fusion marker in higher plants. EMBO J.  6, 3901–3907. 
+            
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 4641
+              
+            
+            
+          
+          
+              Jofuku, K.D., Den Boer, B.G., Van Montagu, M. and Okamuro, J.K. (1994) Control of Arabidopsis flower and seed development by the homeotic gene APETALA2. Plant Cell, 6, 1211–1225. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 387
+              
+            
+            
+          
+          
+              Kagaya, Y., Okuda, R., Ban, A., Toyoshima, R., Tsutsumida, K., Usui, H., Yamamoto, A. and Hattori, T. (2005) Indirect ABA-dependent regulation of seed storage protein genes by FUSCA3 transcription factor in Arabidopsis. Plant Cell Physiol.  46, 300–311. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 21
+              
+            
+            
+          
+          
+              Kim, S., Soltis, P.S., Wall, K. and Soltis, D.E. (2006) Phylogeny and domain evolution in the APETALA2-like gene family. Mol. Biol. Evol.  23, 107–120. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 25
+              
+            
+            
+          
+          
+              Klucher, K.M., Chow, H., Reiser, L. and Fischer, R.L. (1996) The AINTEGUMENTA gene of Arabidopsis required for ovule and female gametophyte development is related to the floral homeotic gene APETALA2. Plant Cell, 8, 137–153. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 221
+              
+            
+            
+          
+          
+              Knappe, S., Löttgert, T., Schneider, A., Voll, L., Flügge, U.I. and Fischer, K. (2003) Characterization of two functional phosphoenolpyruvate/phosphate translocator (PPT) genes in Arabidopsis-AtPPT1 may be involved in the provision of signals for correct mesophyll development. Plant J.  36, 411–420. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(206K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Kovtun, Y., Chiu, W.L., Tena, G. and Sheen, J. (2000) Functional analysis of oxidative stress-activated mitogen-activated protein kinase cascade in plants. Proc. Natl Acad. Sci. USA  97, 2940–2945. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science® Times Cited: 486,
+              
+                ADS
+              
+            
+            
+          
+          
+              Krizek, B.A. (2003) AINTEGUMENTA utilizes a mode of DNA recognition distinct from that used by proteins containing a single AP2 domain. Nucleic Acids Res.  31, 1859–1868. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 18
+              
+            
+            
+          
+          
+              Li, Y., Rosso, M.G., Strizhov, N., Viehoever, P. and Weisshaar, B. (2003) GABI-Kat SimpleSearch: a flanking sequence tag (FST) database for the identification of T-DNA insertion mutants in Arabidopsis thaliana. Bioinformatics, 19, 1441–1442. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 32
+              
+            
+            
+          
+          
+              Lotan, T., Ohto, M., Yee, K.M., West, M.A., Lo, R., Kwong, R.W., Yamagishi, K., Fischer, R.L., Goldberg, R.B. and Harada, J.J. (1998) Arabidopsis LEAFY COTYLEDON1 is sufficient to induce embryo development in vegetative cells. Cell, 93, 1195–1205. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 235
+              
+            
+            
+          
+          
+              Maeo, K., Hayashi, S., Kojima-Suzuki, H., Morikami, A. and Nakamura, K. (2001) Role of conserved residues of the WRKY domain in the DNA-binding activity of tobacco WRKY family proteins. Biosci. Biotechnol. Biochem.  65, 2428–2436. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 31
+              
+            
+            
+          
+          
+              Masaki, T., Mitsui, N., Tsukagoshi, H., Nishii, T., Morikami, A. and Nakamura, K. (2005) ACTIVATOR of Spomin::LUC1/WRINKLED1 of Arabidopsis thaliana transactivates sugar-inducible promoters. Plant Cell Physiol.  46, 547–556. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 15
+              
+            
+            
+          
+          
+              Mizukami, Y. and Fischer, R.L. (2000) Plant organ size control: AINTEGUMENTA regulates growth and cell numbers during organogenesis. Proc. Natl Acad. Sci. USA  97, 942–947. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science® Times Cited: 209,
+              
+                ADS
+              
+            
+            
+          
+          
+              Mu, J., Tan, H., Zheng, Q.                 et al.              (2008) LEAFY COTYLEDON1 is a key regulator of fatty acid biosynthesis in Arabidopsis. Plant Physiol.  148, 1042–1054. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 9
+              
+            
+            
+          
+          
+              Nakagawa, T., Kurose, T., Hino, T., Tanaka, K., Kawamukai, M., Niwa, Y., Toyooka, K., Matsuoka, K., Jinbo, T. and Kimura, T. (2007) Development of series of gateway binary vectors, pGWBs, for realizing efficient construction of fusion genes for plant transformation. J. Biosci. Bioeng.  104, 34–41. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 85
+              
+            
+            
+          
+          
+              Nakamura, M., Tsunoda, T. and Obokata, J. (2002) Photosynthesis nuclear genes generally lack TATA-boxes: a tobacco photosystem I gene responds to light through an initiator. Plant J.  29, 1–10. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(337K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Niewiadomski, P., Knappe, S., Geimer, S., Fischer, K., Schulz, B., Unte, U.S., Rosso, M.G., Ache, P., Flügge, U.I. and Schneider, A. (2005) The Arabidopsis plastidic glucose 6-phosphate/phosphate translocator GPT1 is essential for pollen maturation and embryo sac development. Plant Cell, 17, 760–775. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 33
+              
+            
+            
+          
+          
+              Nishida, I. (2005) Plastid metabolic pathways for fatty acid metabolism. In Molecular Biology and Biotechnology of Plant Organelles (Daniell, H. and Chase, C.D., eds). New York, NY: Springer-Verlag, pp. 543–564. 
+            
+          
+          
+              Nole-Wilson, S. and Krizek, B.A. (2000) DNA binding properties of the Arabidopsis floral development protein AINTEGUMENTA. Nucleic Acids Res.  28, 4076–4082. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 32
+              
+            
+            
+          
+          
+              Ohlrogge, J. and Browse, J. (1995) Lipid biosynthesis. Plant Cell, 7, 957–970. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 397
+              
+            
+            
+          
+          
+              Ohto, M., Fischer, R.L., Goldberg, R.B., Nakamura, K. and Harada, J.H. (2005) Control of seed mass by APETALA2. Proc. Natl Acad. Sci. USA  102, 3123–3128. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science® Times Cited: 59,
+              
+                ADS
+              
+            
+            
+          
+          
+              Okamuro, J.K., Caster, B., Villarroel, R., Van Montagu, M. and Jofuku, K.D. (1997) The AP2 domain of APETALA2 defines a large new family of DNA binding proteins in Arabidopsis. Proc. Natl Acad. Sci. USA  94, 7076–7081. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              Web of Science® Times Cited: 186,
+              
+                ADS
+              
+            
+            
+          
+          
+              Parcy, F., Valon, C., Kohara, A., Misera, S. and Giraudat, J. (1997) The ABSCISIC ACID-INSENSITIVE3, FUSCA3, and LEAFY COTYLEDON1 loci act in concert to control multiple aspects of Arabidopsis seed development. Plant Cell, 9, 1265–1277. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 111
+              
+            
+            
+          
+          
+              Rawsthorne, S. (2002) Carbon flux and fatty acid synthesis in plants. Prog. Lipid Res.  41, 182–196. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 45
+              
+            
+            
+          
+          
+              Routaboul, J.M., Benning, C., Bechtold, N., Caboche, M. and Lepiniec, L. (1999) The TAG1 locus of Arabidopsis encodes for a diacylglycerol acyltransferase. Plant Physiol. Biochem.  37, 831–840. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 47
+              
+            
+            
+          
+          
+              Ruuska, S.A., Girke, T., Benning, C. and Ohlrogge, J.B. (2002) Contrapuntal networks of gene expression during Arabidopsis seed filling. Plant Cell, 14, 1191–1206. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 159
+              
+            
+            
+          
+          
+              Santos, M.M., Dubreucq, B., Miquel, M., Caboche, M. and Lepiniec, L. (2005) LEAFY COTYLEDON 2 activation is sufficient to trigger the accumulation of oil and seed specific mRNAs in Arabidopsis leaves. FEBS Lett.  579, 4666–4670. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 28
+              
+            
+            
+          
+          
+              Schmid, M., Davison, T.S., Henz, S.R., Pape, U.J., Demar, M., Vingron, M., Scholkopf, B., Weigel, D. and Lohmann, J.U. (2005) A gene expression map of Arabidopsis thaliana development. Nat. Genet.  37, 501–506. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 533
+              
+            
+            
+          
+          
+              Thelen, J.J. and Ohlrogge, J.B. (2002) Both antisense and sense expression of biotin carboxyl carrier protein isoform 2 inactivates the plastid acetyl-coenzyme A carboxylase in Arabidopsis thaliana. Plant J.  32, 419–431. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(1368K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Thimm, O., Bläsing, O., Gibon, Y., Nagel, A., Meyer, S., Krüger, P., Selbig, J., Müller, L.A., Rhee, S.Y. and Stitt, M. (2004) MAPMAN: a user-driven tool to display genomics data sets onto diagrams of metabolic pathways and other biological processes. Plant J.  37, 914–939. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(991K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              To, A., Valon, C., Savino, G., Guilleminot, J., Devic, M., Giraudat, J. and Parcy, F. (2006) A network of local and redundant gene regulation governs Arabidopsis seed maturation. Plant Cell, 18, 1642–1651. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 63
+              
+            
+            
+          
+          
+              Trémousaygue, D., Garnier, L., Bardet, C., Dabos, P., Hervé, C. and Lescure, B. (2003) Internal telomeric repeats and TCP domain protein-binding sites co-operate to regulate gene expression in Arabidopsis thaliana cycling cells. Plant J.  33, 957–966. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(321K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+          
+              Tsukagoshi, H., Saijo, T., Shibata, D., Morikami, A. and Nakamura, K. (2005) Analysis of a sugar response mutant of Arabidopsis thaliana identified a novel B3 domain protein that functions as an active transcriptional repressor. Plant Physiol.  138, 675–685. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 28
+              
+            
+            
+          
+          
+              Yamamoto, Y.Y. and Obokata, J. (2007) ppdb: a plant promoter database. Nucleic Acids Res.  36, D977–D981. 
+            
+              CrossRef,
+              PubMed,
+              CAS,
+              
+                Web of Science® Times Cited: 13
+              
+            
+            
+          
+          
+              Zou, J., Wei, Y., Jako, C., Kumar, A., Selvaraj, G. and Taylor, D.C. (1999) The Arabidopsis thaliana TAG1 mutant has a mutation in a diacylglycerol acyltransferase gene. Plant J.  19, 645–653. 
+            
+              
+                Direct Link:
+              
+              
+                
+                  Abstract
+                
+                
+                  Full Article (HTML)
+                
+                
+                  PDF(417K)
+                
+                
+                  References
+                
+              
+            
+            
+          
+        
+      
+      
+        
+          Supporting Information
+        
+        
+          
+            Top of page
+          
+          
+            Abstract
+          
+          
+            Introduction
+          
+          
+            Results
+          
+          
+            Discussion
+          
+          
+            Experimental procedures
+          
+          
+            Acknowledgements
+          
+          
+            References
+          
+          
+            Supporting Information
+          
+        
+        
+          Figure S1. Transcripts up-regulated in plants overexpressing WRI1. (a) The MapMan display of genes up-regulated in both the Enh-WRI1 and 35S-WRI1 seedlings compared to the sGsL line. Up-regulated genes are shown in red, and the cluster of genes involved in FA synthesis in plastids is circled. (b) Overexpression of WRI1 up-regulates genes involved in FA synthesis in plastids. Genes up-regulated in plants overexpressing WRI1 are shown in red, while genes indicated by grey are not affected.
+        
+        
+          Table S1. List of primers sets used for quantitative (q)RT-PCR (a) and the construction of LUC reporter genes (b).
+        
+        
+          Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting materials supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+        
+        
+          
+            
+              Filename
+              Format
+              Size
+              Description
+            
+          
+          
+            
+              
+                TPJ_3967_sm_Table S1.xls
+              
+              
+              24K
+              Supporting info item
+            
+            
+              
+                TPJ_3967_sm_Fig S1.tif
+              
+              
+              9709K
+              Supporting info item
+            
+          
+        
+        Please note: Wiley-Blackwell are not responsible for the content or functionality of any supporting materials supplied by the authors. Any queries (other than missing material) should be directed to the corresponding author for the article.
+      
+      
+ .overlined {
+   text-decoration: overline;
+ }
+ .struck {
+   text-decoration:line-through;
+ }
+ .underlined {
+   text-decoration:underline;
+ }
+ .doubleUnderlined {
+   text-decoration:underline;border-bottom:1px solid #000;
+ } 
+
+    
+  
